@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
-URL = 'https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589'
+# URL = 'https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589'
+URL = "https://tabs.ultimate-guitar.com/tab/noah-kahan/stick-season-chords-4271572"
 response = requests.get(URL)
 
 page = response.text
@@ -9,9 +10,11 @@ pagesoup = BeautifulSoup(page, "html.parser")
 
 script_tag = pagesoup.find_all('script', type='application/ld+json')
 
-
-
 print(script_tag)
+
+# script_tag =list(script_tag)
+
+# print(script_tag[1])
 
 # # Access the JSON data inside the script tag
 # if script_tag:
