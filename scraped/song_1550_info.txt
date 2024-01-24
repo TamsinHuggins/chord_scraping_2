@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/the-way-i-loved-you-chords-754779",
+    "name": "Taylor Swift - The Way I Loved You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2008-11-12T19:00:01-05:00",
+    "dateModified": "2020-12-14T06:19:33-05:00",
+    "commentCount": 31,
+    "musicalKey": "F"
+}

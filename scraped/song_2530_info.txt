@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/celine-dion/the-power-of-love-chords-1053983",
+    "name": "Celine Dion - The Power Of Love (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Celine Dion"
+    },
+    "datePublished": "2011-05-09T20:00:01-04:00",
+    "dateModified": "2023-08-11T18:42:43-04:00",
+    "commentCount": 3
+}

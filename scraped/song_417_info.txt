@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/my-tears-ricochet-chords-3261299",
+    "name": "Taylor Swift - My Tears Ricochet (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-07-24T00:25:32-04:00",
+    "dateModified": "2020-07-25T07:29:01-04:00",
+    "commentCount": 21,
+    "musicalKey": "Am"
+}

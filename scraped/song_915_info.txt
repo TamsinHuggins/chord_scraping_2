@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jason-mraz/lucky-chords-686977",
+    "name": "Jason Mraz - Lucky (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jason Mraz"
+    },
+    "datePublished": "2008-06-08T20:00:01-04:00",
+    "dateModified": "2023-05-26T18:14:33-04:00",
+    "commentCount": 8,
+    "musicalKey": "C"
+}

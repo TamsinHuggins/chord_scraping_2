@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fulminacci/plus-1-chords-5102200",
+    "name": "Fulminacci - Plus 1 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fulminacci"
+    },
+    "datePublished": "2024-01-12T18:27:15-05:00",
+    "dateModified": "2024-01-13T13:16:57-05:00",
+    "commentCount": 0
+}

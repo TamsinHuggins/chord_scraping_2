@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/things-we-said-today-chords-274991",
+    "name": "The Beatles - Things We Said Today (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2005-11-28T19:00:01-05:00",
+    "dateModified": "2016-06-24T10:20:33-04:00",
+    "commentCount": 31
+}

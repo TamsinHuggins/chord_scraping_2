@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gracie-abrams/i-know-it-wont-work-chords-4659257",
+    "name": "Gracie Abrams - I Know It Wont Work (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Gracie Abrams"
+    },
+    "datePublished": "2023-02-23T13:40:42-05:00",
+    "dateModified": "2023-03-13T22:59:47-04:00",
+    "commentCount": 5,
+    "musicalKey": "Ab"
+}

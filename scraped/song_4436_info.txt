@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alex-clare/too-close-chords-1081645",
+    "name": "Alex Clare - Too Close (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alex Clare"
+    },
+    "datePublished": "2011-08-07T20:00:01-04:00",
+    "dateModified": "2016-04-15T13:45:05-04:00",
+    "commentCount": 34
+}

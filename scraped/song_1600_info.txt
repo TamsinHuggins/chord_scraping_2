@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/boston/more-than-a-feeling-chords-25442",
+    "name": "Boston - More Than A Feeling (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Boston"
+    },
+    "datePublished": "2002-03-14T19:00:00-05:00",
+    "dateModified": "2018-06-06T22:04:46-04:00",
+    "commentCount": 49,
+    "musicalKey": "G"
+}

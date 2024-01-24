@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/god-speed-chords-2810072",
+    "name": "Zach Bryan - God Speed (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2019-08-30T19:11:05-04:00",
+    "dateModified": "2019-09-02T23:37:20-04:00",
+    "commentCount": 8
+}

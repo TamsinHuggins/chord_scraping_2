@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-cornell/like-a-stone-chords-1164073",
+    "name": "Chris Cornell - Like A Stone (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Cornell"
+    },
+    "datePublished": "2012-06-26T20:00:01-04:00",
+    "dateModified": "2023-09-13T05:15:30-04:00",
+    "commentCount": 82,
+    "musicalKey": "Am"
+}

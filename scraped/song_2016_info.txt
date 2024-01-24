@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gordon-lightfoot/the-wreck-of-the-edmund-fitzgerald-chords-1431247",
+    "name": "Gordon Lightfoot - The Wreck Of The Edmund Fitzgerald (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Gordon Lightfoot"
+    },
+    "datePublished": "2013-11-27T19:00:01-05:00",
+    "dateModified": "2023-05-06T14:55:43-04:00",
+    "commentCount": 12,
+    "musicalKey": "B"
+}

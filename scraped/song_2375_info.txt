@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gerry-rafferty/baker-street-chords-37198",
+    "name": "Gerry Rafferty - Baker Street (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gerry Rafferty"
+    },
+    "datePublished": "2002-10-10T20:00:00-04:00",
+    "dateModified": "2016-06-03T20:29:09-04:00",
+    "commentCount": 34
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wheatus/teenage-dirtbag-chords-927822",
+    "name": "Wheatus - Teenage Dirtbag (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Wheatus"
+    },
+    "datePublished": "2010-03-04T19:00:01-05:00",
+    "dateModified": "2020-06-19T20:45:32-04:00",
+    "commentCount": 44,
+    "musicalKey": "E"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/see-a-victory-chords-2790217",
+    "name": "Elevation Worship - See A Victory (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2019-08-09T14:12:46-04:00",
+    "dateModified": "2020-05-05T09:27:40-04:00",
+    "commentCount": 18,
+    "musicalKey": "Bb"
+}

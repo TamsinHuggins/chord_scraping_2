@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stevie-wonder/isnt-she-lovely-chords-876425",
+    "name": "Stevie Wonder - Isnt She Lovely (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Stevie Wonder"
+    },
+    "datePublished": "2009-09-24T20:00:01-04:00",
+    "dateModified": "2019-09-02T00:53:19-04:00",
+    "commentCount": 32,
+    "musicalKey": "C#m"
+}

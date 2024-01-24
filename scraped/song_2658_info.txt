@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rio-romeo/nothings-new-chords-4593440",
+    "name": "Rio Romeo - Nothings New (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rio Romeo"
+    },
+    "datePublished": "2023-01-07T13:52:52-05:00",
+    "dateModified": "2023-01-11T12:50:09-05:00",
+    "commentCount": 0,
+    "musicalKey": "B"
+}

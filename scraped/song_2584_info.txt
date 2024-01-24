@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alter-bridge/watch-over-you-chords-569357",
+    "name": "Alter Bridge - Watch Over You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alter Bridge"
+    },
+    "datePublished": "2007-08-26T20:00:01-04:00",
+    "dateModified": "2022-12-01T14:21:35-05:00",
+    "commentCount": 32
+}

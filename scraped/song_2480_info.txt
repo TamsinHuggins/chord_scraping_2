@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-weeknd/popular-chords-4802528",
+    "name": "The Weeknd - Popular (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Weeknd"
+    },
+    "datePublished": "2023-06-02T00:34:40-04:00",
+    "dateModified": "2023-06-02T04:34:41-04:00",
+    "commentCount": 2
+}

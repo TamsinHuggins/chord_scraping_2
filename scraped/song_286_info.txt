@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elvis-presley/unchained-melody-chords-602513",
+    "name": "Elvis Presley - Unchained Melody (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elvis Presley"
+    },
+    "datePublished": "2007-11-18T19:00:01-05:00",
+    "dateModified": "2024-01-03T12:34:27-05:00",
+    "commentCount": 13,
+    "musicalKey": "G"
+}

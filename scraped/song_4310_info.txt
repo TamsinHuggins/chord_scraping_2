@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-police/message-in-a-bottle-chords-1091383",
+    "name": "The Police - Message In A Bottle (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Police"
+    },
+    "datePublished": "2011-09-11T20:00:01-04:00",
+    "dateModified": "2023-11-03T21:53:31-04:00",
+    "commentCount": 9,
+    "musicalKey": "C#m"
+}

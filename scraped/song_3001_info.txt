@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/onerepublic/counting-stars-chords-1232588",
+    "name": "Onerepublic - Counting Stars (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "OneRepublic"
+    },
+    "datePublished": "2013-03-26T20:00:01-04:00",
+    "dateModified": "2018-09-18T10:09:31-04:00",
+    "commentCount": 13
+}

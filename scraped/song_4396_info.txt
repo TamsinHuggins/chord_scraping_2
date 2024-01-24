@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-fender/spit-of-you-chords-3894416",
+    "name": "Sam Fender - Spit Of You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Fender"
+    },
+    "datePublished": "2021-10-01T03:52:02-04:00",
+    "dateModified": "2021-10-01T11:52:20-04:00",
+    "commentCount": 4
+}

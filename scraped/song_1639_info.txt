@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/muse/starlight-chords-411547",
+    "name": "Muse - Starlight (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Muse"
+    },
+    "datePublished": "2006-09-10T20:00:01-04:00",
+    "dateModified": "2019-09-27T10:34:36-04:00",
+    "commentCount": 29,
+    "musicalKey": "B"
+}

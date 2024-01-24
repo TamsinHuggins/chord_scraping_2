@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/magic/rude-chords-1445813",
+    "name": "Magic! - Rude (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "MAGIC!"
+    },
+    "datePublished": "2013-12-09T19:00:01-05:00",
+    "dateModified": "2020-03-17T12:53:58-04:00",
+    "commentCount": 59
+}

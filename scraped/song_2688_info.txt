@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-script/for-the-first-time-chords-971122",
+    "name": "The Script - For The First Time (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Script"
+    },
+    "datePublished": "2010-07-28T20:00:01-04:00",
+    "dateModified": "2016-04-12T14:03:24-04:00",
+    "commentCount": 58
+}

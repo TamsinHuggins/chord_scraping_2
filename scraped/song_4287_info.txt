@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/black-sabbath/iron-man-chords-3261149",
+    "name": "Black Sabbath - Iron Man (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Black Sabbath"
+    },
+    "datePublished": "2020-07-23T21:21:35-04:00",
+    "dateModified": "2021-05-13T04:09:45-04:00",
+    "commentCount": 1,
+    "musicalKey": "E"
+}

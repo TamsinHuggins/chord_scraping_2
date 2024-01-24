@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brett-young/in-case-you-didnt-know-chords-1879550",
+    "name": "Brett Young - In Case You Didnt Know (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Brett Young"
+    },
+    "datePublished": "2016-10-02T07:14:03-04:00",
+    "dateModified": "2020-03-17T12:28:59-04:00",
+    "commentCount": 50,
+    "musicalKey": "G"
+}

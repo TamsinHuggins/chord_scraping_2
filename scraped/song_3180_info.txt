@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mungo-jerry/in-the-summertime-chords-352292",
+    "name": "Mungo Jerry - In The Summertime (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mungo Jerry"
+    },
+    "datePublished": "2006-04-09T20:00:01-04:00",
+    "dateModified": "2020-02-05T10:18:32-05:00",
+    "commentCount": 17
+}

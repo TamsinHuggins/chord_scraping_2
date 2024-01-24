@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-children/head-shoulders-knees-and-toes-chords-1673679",
+    "name": "Misc Children - Head Shoulders Knees And Toes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Children"
+    },
+    "datePublished": "2014-10-26T19:10:33-04:00",
+    "dateModified": "2020-12-09T11:04:07-05:00",
+    "commentCount": 0,
+    "musicalKey": "C"
+}

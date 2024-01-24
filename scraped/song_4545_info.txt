@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kanye-west/i-wonder-chords-728426",
+    "name": "Kanye West - I Wonder (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kanye West"
+    },
+    "datePublished": "2008-09-03T20:00:01-04:00",
+    "dateModified": "2008-09-04T00:00:01-04:00",
+    "commentCount": 2
+}

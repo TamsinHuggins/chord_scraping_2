@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/maine-chords-3126602",
+    "name": "Noah Kahan - Maine (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F# Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2020-05-02T14:22:31-04:00",
+    "dateModified": "2021-04-18T23:24:53-04:00",
+    "commentCount": 3,
+    "musicalKey": "F#"
+}

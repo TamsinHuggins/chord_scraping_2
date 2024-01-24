@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/deftones/sextape-chords-1085743",
+    "name": "Deftones - Sextape (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Deftones"
+    },
+    "datePublished": "2011-08-22T20:00:01-04:00",
+    "dateModified": "2016-09-01T11:45:40-04:00",
+    "commentCount": 9
+}

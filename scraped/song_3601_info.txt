@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/deyaz/home-chords-5067079",
+    "name": "Deyaz - Home (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Deyaz"
+    },
+    "datePublished": "2023-12-13T22:34:36-05:00",
+    "dateModified": "2023-12-16T08:02:50-05:00",
+    "commentCount": 0
+}

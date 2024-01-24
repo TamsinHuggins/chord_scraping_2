@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/the-view-between-villages-chords-4200841",
+    "name": "Noah Kahan - The View Between Villages (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2022-05-21T13:30:51-04:00",
+    "dateModified": "2022-06-10T19:26:32-04:00",
+    "commentCount": 4
+}

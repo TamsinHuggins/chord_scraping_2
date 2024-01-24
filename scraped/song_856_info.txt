@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blind-melon/no-rain-chords-57624",
+    "name": "Blind Melon - No Rain (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blind Melon"
+    },
+    "datePublished": "2003-08-04T20:00:00-04:00",
+    "dateModified": "2021-08-17T16:31:05-04:00",
+    "commentCount": 42,
+    "musicalKey": "E"
+}

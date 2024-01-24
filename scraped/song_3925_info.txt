@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-ezra/hold-my-girl-chords-2336495",
+    "name": "George Ezra - Hold My Girl (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "George Ezra"
+    },
+    "datePublished": "2018-03-10T10:32:19-05:00",
+    "dateModified": "2019-01-27T12:43:17-05:00",
+    "commentCount": 7,
+    "musicalKey": "Bb"
+}

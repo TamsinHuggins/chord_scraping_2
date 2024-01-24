@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-pogues/fairytale-of-new-york-chords-80094",
+    "name": "The Pogues - Fairytale Of New York (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Pogues"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2018-12-12T07:43:05-05:00",
+    "commentCount": 7,
+    "musicalKey": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/traitor-chords-3716291",
+    "name": "Olivia Rodrigo - Traitor (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2021-05-20T19:16:42-04:00",
+    "dateModified": "2021-11-28T16:07:45-05:00",
+    "commentCount": 60,
+    "musicalKey": "Eb"
+}

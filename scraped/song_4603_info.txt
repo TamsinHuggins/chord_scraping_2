@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/imagine-dragons/warriors-chords-1601229",
+    "name": "Imagine Dragons - Warriors (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Imagine Dragons"
+    },
+    "datePublished": "2014-09-18T00:02:03-04:00",
+    "dateModified": "2018-09-29T08:42:21-04:00",
+    "commentCount": 49,
+    "musicalKey": "Em"
+}

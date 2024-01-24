@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/sgt-peppers-lonely-hearts-club-band-chords-1741379",
+    "name": "The Beatles - Sgt Peppers Lonely Hearts Club Band (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2015-06-01T09:43:25-04:00",
+    "dateModified": "2020-03-19T23:06:43-04:00",
+    "commentCount": 12
+}

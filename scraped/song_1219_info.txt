@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4112905",
+    "name": "Rosalía (Rosalía Vila) - Hentai (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rosalía (Rosalía Vila)"
+    },
+    "datePublished": "2022-03-16T12:31:23-04:00",
+    "dateModified": "2022-04-11T14:11:04-04:00",
+    "commentCount": 5,
+    "musicalKey": "Dm"
+}

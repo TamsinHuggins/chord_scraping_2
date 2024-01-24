@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/keith-whitley/im-no-stranger-to-the-rain-chords-983286",
+    "name": "Keith Whitley - Im No Stranger To The Rain (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Keith Whitley"
+    },
+    "datePublished": "2010-08-30T20:00:01-04:00",
+    "dateModified": "2020-10-02T21:15:10-04:00",
+    "commentCount": 9
+}

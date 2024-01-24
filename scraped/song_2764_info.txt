@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rockheads/ranga-chords-3841802",
+    "name": "Rockheads - Ranga (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rockheads"
+    },
+    "datePublished": "2021-08-20T23:41:42-04:00",
+    "dateModified": "2021-11-18T02:46:08-05:00",
+    "commentCount": 0,
+    "musicalKey": "E"
+}

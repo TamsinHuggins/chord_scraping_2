@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/slaughter-beach-dog/acolyte-chords-2337363",
+    "name": "Slaughter Beach, Dog - Acolyte (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Slaughter Beach, Dog"
+    },
+    "datePublished": "2018-03-11T21:27:40-04:00",
+    "dateModified": "2018-03-16T22:34:16-04:00",
+    "commentCount": 4
+}

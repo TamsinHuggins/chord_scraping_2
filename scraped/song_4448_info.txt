@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/state-of-grace-chords-1188983",
+    "name": "Taylor Swift - State Of Grace (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2012-10-15T20:00:01-04:00",
+    "dateModified": "2023-06-30T21:00:15-04:00",
+    "commentCount": 29,
+    "musicalKey": "E"
+}

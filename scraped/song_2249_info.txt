@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nick-cave-the-bad-seeds/o-children-chords-804904",
+    "name": "Nick Cave & The Bad Seeds - O Children (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nick Cave &amp; The Bad Seeds"
+    },
+    "datePublished": "2009-03-22T20:00:01-04:00",
+    "dateModified": "2016-06-14T13:50:27-04:00",
+    "commentCount": 16
+}

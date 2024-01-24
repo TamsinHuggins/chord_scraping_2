@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bon-jovi/livin-on-a-prayer-chords-704751",
+    "name": "Bon Jovi - Livin On A Prayer (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bon Jovi"
+    },
+    "datePublished": "2008-07-15T20:00:01-04:00",
+    "dateModified": "2017-08-27T11:56:49-04:00",
+    "commentCount": 17
+}

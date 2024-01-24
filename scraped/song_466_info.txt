@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cigarettes-after-sex/k-chords-1917265",
+    "name": "Cigarettes After Sex - K (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Cigarettes After Sex"
+    },
+    "datePublished": "2016-12-23T13:21:15-05:00",
+    "dateModified": "2017-01-26T18:17:18-05:00",
+    "commentCount": 15
+}

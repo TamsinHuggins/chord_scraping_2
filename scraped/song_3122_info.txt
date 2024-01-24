@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cameron-whitcomb/shoot-me-dead-chords-4920361",
+    "name": "Cameron Whitcomb - Shoot Me Dead (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Cameron Whitcomb"
+    },
+    "datePublished": "2023-08-18T09:08:29-04:00",
+    "dateModified": "2024-01-12T15:46:34-05:00",
+    "commentCount": 0,
+    "musicalKey": "C"
+}

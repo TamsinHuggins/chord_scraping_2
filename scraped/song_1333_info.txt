@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/latin-mafia/patadas-de-ahogado-chords-5015038",
+    "name": "Latin Mafia - Patadas De Ahogado (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "LATIN MAFIA"
+    },
+    "datePublished": "2023-11-03T12:20:10-04:00",
+    "dateModified": "2023-11-04T09:59:09-04:00",
+    "commentCount": 0
+}

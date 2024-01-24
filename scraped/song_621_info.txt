@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bon-jovi/wanted-dead-or-alive-chords-276860",
+    "name": "Bon Jovi - Wanted Dead Or Alive (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bon Jovi"
+    },
+    "datePublished": "2005-12-05T19:00:01-05:00",
+    "dateModified": "2020-09-30T07:41:46-04:00",
+    "commentCount": 103,
+    "musicalKey": "D"
+}

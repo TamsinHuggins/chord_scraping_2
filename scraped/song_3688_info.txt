@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-who/wont-get-fooled-again-chords-1214308",
+    "name": "The Who - Wont Get Fooled Again (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Who"
+    },
+    "datePublished": "2013-02-04T19:00:01-05:00",
+    "dateModified": "2019-12-22T01:45:31-05:00",
+    "commentCount": 17
+}

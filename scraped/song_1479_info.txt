@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/tishomingo-chords-4199482",
+    "name": "Zach Bryan - Tishomingo (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2022-05-20T12:25:58-04:00",
+    "dateModified": "2022-05-20T19:49:23-04:00",
+    "commentCount": 1
+}

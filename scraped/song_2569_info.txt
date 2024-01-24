@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/ballad-of-a-homeschooled-girl-chords-4945492",
+    "name": "Olivia Rodrigo - Ballad Of A Homeschooled Girl (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2023-09-07T17:04:04-04:00",
+    "dateModified": "2023-09-07T22:17:53-04:00",
+    "commentCount": 6
+}

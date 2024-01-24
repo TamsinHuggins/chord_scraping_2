@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-benson/nothings-gonna-change-my-love-for-you-chords-1036011",
+    "name": "George Benson - Nothings Gonna Change My Love For You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "George Benson"
+    },
+    "datePublished": "2011-03-09T19:00:01-05:00",
+    "dateModified": "2023-09-01T14:41:37-04:00",
+    "commentCount": 1,
+    "musicalKey": "Db"
+}

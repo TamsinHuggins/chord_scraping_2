@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/imagine-dragons/radioactive-chords-1171909",
+    "name": "Imagine Dragons - Radioactive (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Imagine Dragons"
+    },
+    "datePublished": "2012-07-31T20:00:01-04:00",
+    "dateModified": "2019-05-23T00:36:40-04:00",
+    "commentCount": 337,
+    "musicalKey": "Bm"
+}

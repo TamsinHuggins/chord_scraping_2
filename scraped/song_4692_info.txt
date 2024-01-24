@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/manuel-lizarazo/el-malo-chords-4998166",
+    "name": "Manuel Lizarazo - El Malo (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Manuel Lizarazo"
+    },
+    "datePublished": "2023-10-21T11:58:38-04:00",
+    "dateModified": "2023-10-25T11:20:20-04:00",
+    "commentCount": 0
+}

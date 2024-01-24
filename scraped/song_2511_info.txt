@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/led-zeppelin/hey-hey-what-can-i-do-chords-1046440",
+    "name": "Led Zeppelin - Hey Hey What Can I Do (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Led Zeppelin"
+    },
+    "datePublished": "2011-04-11T20:00:01-04:00",
+    "dateModified": "2023-08-10T22:17:19-04:00",
+    "commentCount": 24
+}

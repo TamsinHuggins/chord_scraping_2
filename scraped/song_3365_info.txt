@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sufjan-stevens/casimir-pulaski-day-chords-916331",
+    "name": "Sufjan Stevens - Casimir Pulaski Day (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Sufjan Stevens"
+    },
+    "datePublished": "2010-01-28T19:00:01-05:00",
+    "dateModified": "2016-06-08T12:36:01-04:00",
+    "commentCount": 22
+}

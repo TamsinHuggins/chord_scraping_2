@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/john-denver/take-me-home-country-roads-chords-1101747",
-    "name": "John Denver - Take Me Home Country Roads (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/good-riddance-time-of-your-life-chords-12835",
+    "name": "Green Day - Good Riddance Time Of Your Life (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
     "composer": {
         "@type": "Person",
-        "name": "John Denver"
+        "name": "Green Day"
     },
-    "datePublished": "2011-10-19T20:00:01-04:00",
-    "dateModified": "2020-05-20T23:27:42-04:00",
-    "commentCount": 167,
-    "musicalKey": "A"
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-10-20T03:26:57-04:00",
+    "commentCount": 384,
+    "musicalKey": "G"
 }

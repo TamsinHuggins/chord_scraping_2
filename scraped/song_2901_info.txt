@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shakira/try-everything-chords-1818928",
+    "name": "Shakira - Try Everything (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Shakira"
+    },
+    "datePublished": "2016-03-22T05:13:01-04:00",
+    "dateModified": "2017-01-21T12:40:07-05:00",
+    "commentCount": 24
+}

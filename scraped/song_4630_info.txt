@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/the-dark-side-of-the-moon-chords-41868",
+    "name": "Pink Floyd - The Dark Side Of The Moon (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2002-12-24T19:00:00-05:00",
+    "dateModified": "2019-01-21T02:37:04-05:00",
+    "commentCount": 25
+}

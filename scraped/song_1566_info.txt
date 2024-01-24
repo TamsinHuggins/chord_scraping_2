@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stephen-dawes/teenage-dream-chords-4346942",
+    "name": "Stephen Dawes - Teenage Dream (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Stephen Dawes"
+    },
+    "datePublished": "2022-09-12T17:36:17-04:00",
+    "dateModified": "2022-10-16T23:44:43-04:00",
+    "commentCount": 1
+}

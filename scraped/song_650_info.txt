@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/mamma-mia-our-last-summer-chords-721079",
+    "name": "Misc Soundtrack - Mamma Mia - Our Last Summer (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2008-08-17T20:00:01-04:00",
+    "dateModified": "2017-04-20T11:23:02-04:00",
+    "commentCount": 13
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/randy-travis/deeper-than-the-holler-chords-1666430",
+    "name": "Randy Travis - Deeper Than The Holler (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Randy Travis"
+    },
+    "datePublished": "2014-09-26T09:18:15-04:00",
+    "dateModified": "2020-11-29T02:29:41-05:00",
+    "commentCount": 7
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kaifi-khalil/kahani-suno-20-chords-4374431",
+    "name": "Kaifi Khalil - Kahani Suno 20 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Kaifi Khalil"
+    },
+    "datePublished": "2022-10-05T17:18:33-04:00",
+    "dateModified": "2023-02-08T16:15:48-05:00",
+    "commentCount": 5,
+    "musicalKey": "G#m"
+}

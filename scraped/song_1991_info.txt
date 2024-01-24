@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/hurt-chords-431603",
+    "name": "Johnny Cash - Hurt (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2006-11-05T19:00:01-05:00",
+    "dateModified": "2018-10-10T13:18:47-04:00",
+    "commentCount": 155,
+    "musicalKey": "Am"
+}

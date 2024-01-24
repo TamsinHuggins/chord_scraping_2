@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-lumineers/where-the-skies-are-blue-chords-1834106",
+    "name": "The Lumineers - Where The Skies Are Blue (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Lumineers"
+    },
+    "datePublished": "2016-04-09T06:12:50-04:00",
+    "dateModified": "2016-04-11T19:07:11-04:00",
+    "commentCount": 19
+}

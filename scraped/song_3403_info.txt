@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gracie-abrams/feels-like-chords-3894947",
+    "name": "Gracie Abrams - Feels Like (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gracie Abrams"
+    },
+    "datePublished": "2021-10-01T12:54:10-04:00",
+    "dateModified": "2021-10-02T11:12:43-04:00",
+    "commentCount": 1,
+    "musicalKey": "F#m"
+}

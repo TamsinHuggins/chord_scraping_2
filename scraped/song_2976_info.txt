@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/the-princess-and-the-frog-almost-there-chords-1826944",
+    "name": "Misc Cartoons - The Princess And The Frog - Almost There (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2016-03-19T06:51:15-04:00",
+    "dateModified": "2023-04-08T11:42:58-04:00",
+    "commentCount": 6,
+    "musicalKey": "C"
+}

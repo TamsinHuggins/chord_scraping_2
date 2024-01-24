@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lewis-capaldi/a-cure-for-minds-unwell-chords-5087197",
+    "name": "Lewis Capaldi - A Cure For Minds Unwell (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lewis Capaldi"
+    },
+    "datePublished": "2023-12-31T11:45:33-05:00",
+    "dateModified": "2023-12-31T16:45:33-05:00",
+    "commentCount": 0
+}

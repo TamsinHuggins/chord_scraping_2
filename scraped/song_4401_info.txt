@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/fifth-of-may-chords-4328777",
+    "name": "Zach Bryan - Fifth Of May (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2022-08-28T17:15:46-04:00",
+    "dateModified": "2022-09-29T19:20:54-04:00",
+    "commentCount": 5
+}

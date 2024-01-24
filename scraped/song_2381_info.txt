@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/maddi-jane/price-tag-chords-1096124",
+    "name": "Maddi Jane - Price Tag (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Maddi Jane"
+    },
+    "datePublished": "2011-09-27T20:00:01-04:00",
+    "dateModified": "2016-07-26T11:57:37-04:00",
+    "commentCount": 3
+}

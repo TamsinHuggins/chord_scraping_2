@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-james-and-his-orchestra/its-been-a-long-long-time-chords-2677860",
+    "name": "Harry James And His Orchestra - Its Been A Long Long Time (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry James And His Orchestra"
+    },
+    "datePublished": "2019-04-27T15:05:39-04:00",
+    "dateModified": "2021-11-21T12:31:48-05:00",
+    "commentCount": 11,
+    "musicalKey": "C"
+}

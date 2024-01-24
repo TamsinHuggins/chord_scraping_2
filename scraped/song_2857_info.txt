@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pecos-the-rooftops/this-damn-song-chords-2856239",
+    "name": "Pecos & The Rooftops - This Damn Song (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pecos &amp; The Rooftops"
+    },
+    "datePublished": "2019-10-14T12:06:25-04:00",
+    "dateModified": "2021-04-28T12:53:19-04:00",
+    "commentCount": 19,
+    "musicalKey": "C"
+}

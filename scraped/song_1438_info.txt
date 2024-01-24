@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/style-chords-1674100",
+    "name": "Taylor Swift - Style (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2014-10-24T11:45:14-04:00",
+    "dateModified": "2023-10-28T15:52:25-04:00",
+    "commentCount": 41,
+    "musicalKey": "Bm"
+}

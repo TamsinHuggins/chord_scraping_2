@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ben-e-king/stand-by-me-chords-73005",
+    "name": "Ben E. King - Stand By Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ben E. King"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-08-03T20:32:52-04:00",
+    "commentCount": 58,
+    "musicalKey": "A"
+}

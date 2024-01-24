@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/talking-heads/take-me-to-the-river-chords-1185906",
+    "name": "Talking Heads - Take Me To The River (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Talking Heads"
+    },
+    "datePublished": "2012-10-01T20:00:01-04:00",
+    "dateModified": "2023-11-09T17:15:55-05:00",
+    "commentCount": 4
+}

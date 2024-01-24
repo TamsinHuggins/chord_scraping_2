@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/amy-winehouse/back-to-black-chords-1100497",
+    "name": "Amy Winehouse - Back To Black (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Amy Winehouse"
+    },
+    "datePublished": "2011-10-16T20:00:01-04:00",
+    "dateModified": "2019-05-18T21:23:20-04:00",
+    "commentCount": 7
+}

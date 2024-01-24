@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lady-gaga/bloody-mary-chords-1059817",
+    "name": "Lady Gaga - Bloody Mary (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lady Gaga"
+    },
+    "datePublished": "2011-05-24T20:00:01-04:00",
+    "dateModified": "2011-05-25T00:00:01-04:00",
+    "commentCount": 8
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4418573",
+    "name": "Reneé Rapp - Too Well (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Reneé Rapp"
+    },
+    "datePublished": "2022-11-10T10:29:51-05:00",
+    "dateModified": "2022-11-10T15:29:51-05:00",
+    "commentCount": 1,
+    "musicalKey": "Bb"
+}

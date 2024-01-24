@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/young-the-giant/mind-over-matter-chords-1455847",
+    "name": "Young The Giant - Mind Over Matter (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Young the Giant"
+    },
+    "datePublished": "2014-01-20T19:00:01-05:00",
+    "dateModified": "2016-06-23T11:45:45-04:00",
+    "commentCount": 9
+}

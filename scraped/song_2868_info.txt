@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/holy-holy-holy-lord-god-almighty-chords-131094",
+    "name": "Misc Praise Songs - Holy Holy Holy Lord God Almighty (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Praise Songs"
+    },
+    "datePublished": "2004-08-09T20:00:00-04:00",
+    "dateModified": "2022-04-21T09:19:43-04:00",
+    "commentCount": 21
+}

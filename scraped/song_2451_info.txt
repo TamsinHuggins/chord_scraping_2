@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-judds/grandpa-tell-me-bout-the-good-old-days-chords-45613",
+    "name": "The Judds - Grandpa Tell Me Bout The Good Old Days (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Judds"
+    },
+    "datePublished": "2003-02-13T19:00:00-05:00",
+    "dateModified": "2020-06-17T04:29:43-04:00",
+    "commentCount": 40
+}

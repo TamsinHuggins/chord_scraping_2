@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/metro-boomin/creepin-chords-4567355",
+    "name": "Metro Boomin - Creepin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Metro Boomin"
+    },
+    "datePublished": "2022-12-18T02:59:54-05:00",
+    "dateModified": "2022-12-20T11:04:33-05:00",
+    "commentCount": 3,
+    "musicalKey": "Am"
+}

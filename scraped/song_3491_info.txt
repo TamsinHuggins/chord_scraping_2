@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/on-the-turning-away-chords-716132",
+    "name": "Pink Floyd - On The Turning Away (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2008-08-13T20:00:01-04:00",
+    "dateModified": "2020-03-03T02:35:10-05:00",
+    "commentCount": 22
+}

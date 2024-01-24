@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/miley-cyrus/the-climb-chords-786698",
+    "name": "Miley Cyrus - The Climb (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Miley Cyrus"
+    },
+    "datePublished": "2009-02-02T19:00:01-05:00",
+    "dateModified": "2018-12-21T08:02:24-05:00",
+    "commentCount": 59
+}

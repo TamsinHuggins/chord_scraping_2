@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/annenmaykantereit/tommi-chords-2892584",
+    "name": "Annenmaykantereit - Tommi (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "AnnenMayKantereit"
+    },
+    "datePublished": "2019-11-13T18:08:38-05:00",
+    "dateModified": "2019-11-14T11:28:04-05:00",
+    "commentCount": 3,
+    "musicalKey": "A"
+}

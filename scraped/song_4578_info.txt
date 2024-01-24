@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-waite/missing-you-chords-690631",
+    "name": "John Waite - Missing You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F# Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "John Waite"
+    },
+    "datePublished": "2008-06-15T20:00:01-04:00",
+    "dateModified": "2022-05-31T14:37:27-04:00",
+    "commentCount": 20,
+    "musicalKey": "F#"
+}

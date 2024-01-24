@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alamid/your-love-chords-50313",
+    "name": "Alamid - Your Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alamid"
+    },
+    "datePublished": "2003-04-22T20:00:00-04:00",
+    "dateModified": "2019-11-12T11:09:36-05:00",
+    "commentCount": 10,
+    "musicalKey": "Em"
+}

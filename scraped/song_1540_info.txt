@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/avril-lavigne/complicated-chords-813037",
+    "name": "Avril Lavigne - Complicated (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Avril Lavigne"
+    },
+    "datePublished": "2009-04-13T20:00:01-04:00",
+    "dateModified": "2020-12-24T00:49:03-05:00",
+    "commentCount": 10
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tenacious-d/fuck-her-gently-chords-27415",
+    "name": "Tenacious D - Fuck Her Gently (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tenacious D"
+    },
+    "datePublished": "2002-04-12T20:00:00-04:00",
+    "dateModified": "2016-04-11T12:22:37-04:00",
+    "commentCount": 40
+}

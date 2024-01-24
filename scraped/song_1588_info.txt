@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blink-182/adams-song-chords-755261",
+    "name": "Blink-182 - Adams Song (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blink-182"
+    },
+    "datePublished": "2008-11-12T19:00:01-05:00",
+    "dateModified": "2019-09-20T10:19:51-04:00",
+    "commentCount": 56,
+    "musicalKey": "C"
+}

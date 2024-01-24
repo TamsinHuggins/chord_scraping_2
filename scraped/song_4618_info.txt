@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fiona-apple/get-gone-chords-1477986",
+    "name": "Fiona Apple - Get Gone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fiona Apple"
+    },
+    "datePublished": "2014-04-23T06:37:54-04:00",
+    "dateModified": "2019-11-30T13:56:32-05:00",
+    "commentCount": 0
+}

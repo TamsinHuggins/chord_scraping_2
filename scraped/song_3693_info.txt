@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/love-story-chords-748688",
+    "name": "Taylor Swift - Love Story (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2008-10-29T20:00:01-04:00",
+    "dateModified": "2021-03-31T20:41:55-04:00",
+    "commentCount": 57,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1148667",
+    "name": "Emeli Sandé - Read All About It Pt Iii (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Emeli Sandé"
+    },
+    "datePublished": "2012-04-22T20:00:01-04:00",
+    "dateModified": "2016-04-11T07:25:19-04:00",
+    "commentCount": 9
+}

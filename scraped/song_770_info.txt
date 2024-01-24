@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/castle-on-the-hill-chords-1955785",
+    "name": "Ed Sheeran - Castle On The Hill (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2017-03-01T09:19:23-05:00",
+    "dateModified": "2021-02-07T12:08:33-05:00",
+    "commentCount": 35,
+    "musicalKey": "G"
+}

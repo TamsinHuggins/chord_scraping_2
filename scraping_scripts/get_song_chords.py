@@ -34,5 +34,5 @@ def get_song_chords(URL, num):
         # If not, change to the 'scraped' directory
         os.chdir('scraped')
 
-    with open( f"song_{num}_chords_lyrics.txt", "w") as f:
+    with open( f"song_{num}_chords_lyrics.txt", "w", encoding='utf-8') as f:
         f.write(str(snipped_chords_lyrics))

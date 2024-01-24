@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/coco-un-poco-loco-chords-2275021",
+    "name": "Misc Cartoons - Coco - Un Poco Loco (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2018-01-07T00:51:10-05:00",
+    "dateModified": "2019-07-29T12:23:32-04:00",
+    "commentCount": 15,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-supremes/you-cant-hurry-love-chords-404643",
+    "name": "The Supremes - You Cant Hurry Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Supremes"
+    },
+    "datePublished": "2006-08-22T20:00:01-04:00",
+    "dateModified": "2016-06-15T09:13:20-04:00",
+    "commentCount": 7
+}

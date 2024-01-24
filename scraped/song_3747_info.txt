@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lewis-capaldi/before-you-go-chords-2912498",
+    "name": "Lewis Capaldi - Before You Go (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Lewis Capaldi"
+    },
+    "datePublished": "2019-12-02T13:31:48-05:00",
+    "dateModified": "2021-01-22T03:04:41-05:00",
+    "commentCount": 12,
+    "musicalKey": "Eb"
+}

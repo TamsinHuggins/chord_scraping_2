@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/just-like-a-woman-chords-1048012",
+    "name": "Bob Dylan - Just Like A Woman (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2011-04-17T20:00:01-04:00",
+    "dateModified": "2023-08-09T21:57:19-04:00",
+    "commentCount": 10,
+    "musicalKey": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/richy-mitch-the-coal-miners/evergreen-chords-4654205",
+    "name": "Richy Mitch & The Coal Miners - Evergreen (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Richy Mitch &amp; The Coal Miners"
+    },
+    "datePublished": "2023-02-19T21:08:07-05:00",
+    "dateModified": "2023-10-04T05:58:24-04:00",
+    "commentCount": 2,
+    "musicalKey": "Eb"
+}

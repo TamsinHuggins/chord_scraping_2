@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/baby-im-yours-chords-400937",
+    "name": "Arctic Monkeys - Baby Im Yours (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2006-08-13T20:00:01-04:00",
+    "dateModified": "2022-12-18T05:11:22-05:00",
+    "commentCount": 15
+}

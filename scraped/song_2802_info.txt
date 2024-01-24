@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lauren-daigle/you-say-chords-1975479",
+    "name": "Lauren Daigle - You Say (chords)",
+    "text": "Difficulty: beginner Tuning: D G C F A D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lauren Daigle"
+    },
+    "datePublished": "2017-04-07T07:46:31-04:00",
+    "dateModified": "2022-08-08T15:57:12-04:00",
+    "commentCount": 36
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mac-demarco/moonlight-on-the-river-chords-1958959",
+    "name": "Mac Demarco - Moonlight On The River (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Mac DeMarco"
+    },
+    "datePublished": "2017-03-06T16:54:00-05:00",
+    "dateModified": "2017-09-21T16:17:56-04:00",
+    "commentCount": 18
+}

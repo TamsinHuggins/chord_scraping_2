@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/glen-campbell/wichita-lineman-chords-1193052",
+    "name": "Glen Campbell - Wichita Lineman (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Glen Campbell"
+    },
+    "datePublished": "2012-11-05T19:00:01-05:00",
+    "dateModified": "2023-06-27T22:26:29-04:00",
+    "commentCount": 118,
+    "musicalKey": "F"
+}

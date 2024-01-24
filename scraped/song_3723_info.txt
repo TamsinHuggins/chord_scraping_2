@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/guns-n-roses/civil-war-chords-184002",
+    "name": "Guns N' Roses - Civil War (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Guns N&#039; Roses"
+    },
+    "datePublished": "2005-05-12T20:00:00-04:00",
+    "dateModified": "2021-10-04T19:52:52-04:00",
+    "commentCount": 44
+}

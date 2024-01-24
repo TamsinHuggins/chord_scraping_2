@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/myles-smith/solo-chords-5030257",
+    "name": "Myles Smith - Solo (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Myles Smith"
+    },
+    "datePublished": "2023-11-14T18:56:14-05:00",
+    "dateModified": "2023-12-10T17:13:15-05:00",
+    "commentCount": 1,
+    "musicalKey": "C"
+}

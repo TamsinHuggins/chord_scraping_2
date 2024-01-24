@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/the-importance-of-being-idle-chords-182968",
+    "name": "Oasis - The Importance Of Being Idle (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Oasis"
+    },
+    "datePublished": "2005-05-08T20:00:00-04:00",
+    "dateModified": "2017-06-24T20:49:34-04:00",
+    "commentCount": 22
+}

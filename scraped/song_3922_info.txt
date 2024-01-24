@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/vance-joy/saturday-sun-chords-2305283",
+    "name": "Vance Joy - Saturday Sun (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Vance Joy"
+    },
+    "datePublished": "2018-02-01T13:15:43-05:00",
+    "dateModified": "2019-12-19T09:38:25-05:00",
+    "commentCount": 20,
+    "musicalKey": "Ab"
+}

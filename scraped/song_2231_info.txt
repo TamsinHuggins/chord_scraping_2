@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jesus-image/yeshua-my-beloved-chords-2959988",
+    "name": "Jesus Image - Yeshua My Beloved (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Jesus Image"
+    },
+    "datePublished": "2020-01-15T10:06:02-05:00",
+    "dateModified": "2023-06-16T21:34:24-04:00",
+    "commentCount": 12
+}

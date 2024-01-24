@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/atif-aslam/gulabi-aankhen-chords-932315",
+    "name": "Atif Aslam - Gulabi Aankhen (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Atif Aslam"
+    },
+    "datePublished": "2010-03-18T20:00:01-04:00",
+    "dateModified": "2021-06-30T00:25:46-04:00",
+    "commentCount": 30,
+    "musicalKey": "C"
+}

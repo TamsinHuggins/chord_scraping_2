@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/charlie-brown-chords-1108563",
+    "name": "Coldplay - Charlie Brown (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2011-11-17T19:00:01-05:00",
+    "dateModified": "2016-05-12T08:12:22-04:00",
+    "commentCount": 19
+}

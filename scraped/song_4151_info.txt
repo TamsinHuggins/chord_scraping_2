@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/long-story-short-chords-3461831",
+    "name": "Taylor Swift - Long Story Short (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-12-11T01:10:00-05:00",
+    "dateModified": "2021-01-11T12:41:06-05:00",
+    "commentCount": 4,
+    "musicalKey": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-united/from-the-inside-out-chords-352755",
+    "name": "Hillsong United - From The Inside Out (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong United"
+    },
+    "datePublished": "2006-04-10T20:00:01-04:00",
+    "dateModified": "2020-01-03T21:28:34-05:00",
+    "commentCount": 24,
+    "musicalKey": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eslabon-armado/ella-baila-sola-chords-4735628",
+    "name": "Eslabon Armado - Ella Baila Sola (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Eslabon Armado"
+    },
+    "datePublished": "2023-04-20T16:19:05-04:00",
+    "dateModified": "2024-01-04T16:44:49-05:00",
+    "commentCount": 0,
+    "musicalKey": "D"
+}

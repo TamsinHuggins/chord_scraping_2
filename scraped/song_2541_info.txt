@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/the-lion-king-circle-of-life-chords-211642",
+    "name": "Misc Cartoons - The Lion King - Circle Of Life (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2005-09-11T20:00:00-04:00",
+    "dateModified": "2020-11-26T13:59:12-05:00",
+    "commentCount": 39,
+    "musicalKey": "Bb"
+}

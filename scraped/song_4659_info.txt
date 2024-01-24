@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/casting-crowns/scars-in-heaven-chords-3738632",
+    "name": "Casting Crowns - Scars In Heaven (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Casting Crowns"
+    },
+    "datePublished": "2021-06-04T16:59:05-04:00",
+    "dateModified": "2021-06-05T15:28:05-04:00",
+    "commentCount": 17
+}

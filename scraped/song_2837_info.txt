@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grateful-dead/uncle-johns-band-chords-1055464",
+    "name": "Grateful Dead - Uncle Johns Band (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Grateful Dead"
+    },
+    "datePublished": "2011-05-12T20:00:01-04:00",
+    "dateModified": "2023-08-29T21:09:55-04:00",
+    "commentCount": 19
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-hollies/long-cool-woman-in-a-black-dress-chords-848040",
+    "name": "The Hollies - Long Cool Woman In A Black Dress (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Hollies"
+    },
+    "datePublished": "2009-07-12T20:00:01-04:00",
+    "dateModified": "2020-06-03T03:37:09-04:00",
+    "commentCount": 16
+}

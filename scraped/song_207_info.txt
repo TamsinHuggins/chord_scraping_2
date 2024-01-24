@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/dial-drunk-chords-4778204",
+    "name": "Noah Kahan - Dial Drunk (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2023-05-17T09:29:36-04:00",
+    "dateModified": "2023-06-20T22:30:58-04:00",
+    "commentCount": 8,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paddy-reilly/the-rocky-road-to-dublin-chords-1478708",
+    "name": "Paddy Reilly - The Rocky Road To Dublin (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Paddy Reilly"
+    },
+    "datePublished": "2014-04-23T01:09:07-04:00",
+    "dateModified": "2020-03-13T12:46:51-04:00",
+    "commentCount": 9
+}

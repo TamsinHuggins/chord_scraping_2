@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/muse/uprising-chords-872240",
+    "name": "Muse - Uprising (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Muse"
+    },
+    "datePublished": "2009-09-13T20:00:01-04:00",
+    "dateModified": "2021-11-12T10:19:27-05:00",
+    "commentCount": 20
+}

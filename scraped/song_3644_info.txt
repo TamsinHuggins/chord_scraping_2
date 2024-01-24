@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neutral-milk-hotel/two-headed-boy-part-two-chords-514645",
+    "name": "Neutral Milk Hotel - Two-Headed Boy Part Two (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Neutral Milk Hotel"
+    },
+    "datePublished": "2007-05-08T20:00:01-04:00",
+    "dateModified": "2020-10-20T15:01:01-04:00",
+    "commentCount": 27
+}

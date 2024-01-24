@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/clairo/pretty-girl-chords-2114217",
+    "name": "Clairo - Pretty Girl (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Clairo"
+    },
+    "datePublished": "2017-08-21T09:36:13-04:00",
+    "dateModified": "2018-03-25T06:47:42-04:00",
+    "commentCount": 7,
+    "musicalKey": "C"
+}

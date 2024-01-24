@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billy-ray-cyrus/achy-breaky-heart-chords-65435",
+    "name": "Billy Ray Cyrus - Achy Breaky Heart (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billy Ray Cyrus"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-05-12T17:15:13-04:00",
+    "commentCount": 16,
+    "musicalKey": "A"
+}

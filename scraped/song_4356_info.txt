@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/itchyworms/di-na-muli-chords-2413785",
+    "name": "Itchyworms - Di Na Muli (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Itchyworms"
+    },
+    "datePublished": "2018-06-30T00:13:14-04:00",
+    "dateModified": "2021-05-28T05:59:05-04:00",
+    "commentCount": 18,
+    "musicalKey": "A"
+}

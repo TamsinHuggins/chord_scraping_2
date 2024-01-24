@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alice-cooper/poison-chords-1417955",
+    "name": "Alice Cooper - Poison (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alice Cooper"
+    },
+    "datePublished": "2013-09-10T20:00:01-04:00",
+    "dateModified": "2021-10-15T21:19:56-04:00",
+    "commentCount": 21,
+    "musicalKey": "Em"
+}

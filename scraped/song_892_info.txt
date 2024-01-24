@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eric-clapton/nobody-knows-you-when-youre-down-and-out-chords-114928",
+    "name": "Eric Clapton - Nobody Knows You When Youre Down And Out (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eric Clapton"
+    },
+    "datePublished": "2004-04-25T20:00:00-04:00",
+    "dateModified": "2022-02-11T10:59:53-05:00",
+    "commentCount": 49
+}

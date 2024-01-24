@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/katy-nichole/in-jesus-name-god-of-possible-chords-4049491",
+    "name": "Katy Nichole - In Jesus Name God Of Possible (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Katy Nichole"
+    },
+    "datePublished": "2022-01-28T16:36:02-05:00",
+    "dateModified": "2022-01-29T10:27:44-05:00",
+    "commentCount": 11
+}

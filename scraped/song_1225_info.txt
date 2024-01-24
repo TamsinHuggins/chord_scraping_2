@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/one-direction/what-makes-you-beautiful-chords-1083290",
+    "name": "One Direction - What Makes You Beautiful (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "One Direction"
+    },
+    "datePublished": "2011-08-10T20:00:01-04:00",
+    "dateModified": "2020-07-24T14:03:10-04:00",
+    "commentCount": 23,
+    "musicalKey": "E"
+}

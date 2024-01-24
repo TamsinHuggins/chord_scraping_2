@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/jamie-chords-4272415",
+    "name": "Zach Bryan - Jamie (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2022-07-15T07:31:29-04:00",
+    "dateModified": "2022-07-16T18:15:38-04:00",
+    "commentCount": 2
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lizzy-mcalpine/reckless-driving-chords-3558506",
+    "name": "Lizzy Mcalpine - Reckless Driving (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Lizzy McAlpine"
+    },
+    "datePublished": "2021-02-09T21:31:54-05:00",
+    "dateModified": "2021-02-10T02:31:54-05:00",
+    "commentCount": 2
+}

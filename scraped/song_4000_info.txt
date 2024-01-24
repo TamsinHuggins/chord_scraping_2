@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/panic-at-the-disco/i-write-sins-not-tragedies-chords-651586",
+    "name": "Panic! At The Disco - I Write Sins Not Tragedies (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Panic! At the Disco"
+    },
+    "datePublished": "2008-03-13T20:00:01-04:00",
+    "dateModified": "2018-04-09T06:01:01-04:00",
+    "commentCount": 9
+}

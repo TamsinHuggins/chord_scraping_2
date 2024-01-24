@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/robert-palmer/addicted-to-love-chords-269249",
+    "name": "Robert Palmer - Addicted To Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Robert Palmer"
+    },
+    "datePublished": "2005-11-06T19:00:01-05:00",
+    "dateModified": "2018-10-12T13:48:25-04:00",
+    "commentCount": 10
+}

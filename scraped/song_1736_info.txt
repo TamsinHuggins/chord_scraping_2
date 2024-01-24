@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/crazy-little-thing-called-love-chords-974560",
+    "name": "Queen - Crazy Little Thing Called Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2010-08-03T20:00:01-04:00",
+    "dateModified": "2018-11-09T08:30:05-05:00",
+    "commentCount": 44,
+    "musicalKey": "D"
+}

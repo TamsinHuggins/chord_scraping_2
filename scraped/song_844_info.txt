@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-w-smith/above-all-chords-153876",
+    "name": "Michael W. Smith - Above All (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael W. Smith"
+    },
+    "datePublished": "2004-12-26T19:00:00-05:00",
+    "dateModified": "2018-03-29T07:45:35-04:00",
+    "commentCount": 30,
+    "musicalKey": "Bb"
+}

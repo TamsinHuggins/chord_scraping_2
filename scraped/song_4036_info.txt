@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/crowder/come-as-you-are-chords-1707874",
+    "name": "Crowder - Come As You Are (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Crowder"
+    },
+    "datePublished": "2015-02-02T04:44:25-05:00",
+    "dateModified": "2016-09-21T12:08:48-04:00",
+    "commentCount": 23
+}

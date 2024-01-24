@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/imagine-dragons/believer-chords-1941459",
+    "name": "Imagine Dragons - Believer (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Imagine Dragons"
+    },
+    "datePublished": "2017-02-01T05:12:23-05:00",
+    "dateModified": "2020-03-17T18:57:28-04:00",
+    "commentCount": 22
+}

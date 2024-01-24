@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/i-will-chords-95973",
+    "name": "The Beatles - I Will (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2003-11-30T19:00:00-05:00",
+    "dateModified": "2020-07-04T20:18:44-04:00",
+    "commentCount": 29,
+    "musicalKey": "F"
+}

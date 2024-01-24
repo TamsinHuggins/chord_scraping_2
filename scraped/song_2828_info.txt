@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/do-i-wanna-know-chords-1398275",
+    "name": "Arctic Monkeys - Do I Wanna Know (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2013-06-23T20:00:01-04:00",
+    "dateModified": "2023-01-03T04:13:33-05:00",
+    "commentCount": 11
+}

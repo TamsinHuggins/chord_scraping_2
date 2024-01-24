@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adie/paraluman-chords-3674018",
+    "name": "Adie - Paraluman (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Adie"
+    },
+    "datePublished": "2021-04-22T15:02:46-04:00",
+    "dateModified": "2021-08-14T15:46:08-04:00",
+    "commentCount": 4,
+    "musicalKey": "F"
+}

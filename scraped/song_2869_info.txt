@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/montell-fish/hotel-chords-4320110",
+    "name": "Montell Fish - Hotel (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Cm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Montell Fish"
+    },
+    "datePublished": "2022-08-21T20:23:59-04:00",
+    "dateModified": "2022-08-22T10:52:13-04:00",
+    "commentCount": 0,
+    "musicalKey": "Cm"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/roger-miller/king-of-the-road-chords-1486455",
+    "name": "Roger Miller - King Of The Road (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Roger Miller"
+    },
+    "datePublished": "2014-05-26T03:35:12-04:00",
+    "dateModified": "2016-05-23T07:23:31-04:00",
+    "commentCount": 24
+}

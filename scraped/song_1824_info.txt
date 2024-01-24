@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-seekers/this-little-light-of-mine-chords-1520700",
+    "name": "The Seekers - This Little Light Of Mine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Seekers"
+    },
+    "datePublished": "2014-09-16T00:25:46-04:00",
+    "dateModified": "2019-01-31T00:20:57-05:00",
+    "commentCount": 12
+}

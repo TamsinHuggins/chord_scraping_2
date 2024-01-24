@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/charity-gayle/thank-you-jesus-for-the-blood-chords-3607538",
+    "name": "Charity Gayle - Thank You Jesus For The Blood (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Charity Gayle"
+    },
+    "datePublished": "2021-03-11T21:32:35-05:00",
+    "dateModified": "2021-04-04T16:59:01-04:00",
+    "commentCount": 5,
+    "musicalKey": "Bb"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mariah-carey/when-you-believe-chords-589585",
+    "name": "Mariah Carey - When You Believe (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mariah Carey"
+    },
+    "datePublished": "2007-10-16T20:00:01-04:00",
+    "dateModified": "2020-12-10T22:31:52-05:00",
+    "commentCount": 5
+}

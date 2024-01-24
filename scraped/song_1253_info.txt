@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/no-hard-feelings-maneater-chords-4860383",
+    "name": "Misc Soundtrack - No Hard Feelings - Maneater (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-07-09T12:19:56-04:00",
+    "dateModified": "2023-07-10T09:10:19-04:00",
+    "commentCount": 11
+}

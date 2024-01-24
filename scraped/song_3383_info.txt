@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/willis-us-florence-al/i-think-i-like-when-it-rains-chords-2408727",
+    "name": "Willis (Us, Florence, Al) - I Think I Like When It Rains (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "WILLIS (US, Florence, AL)"
+    },
+    "datePublished": "2018-06-22T18:53:09-04:00",
+    "dateModified": "2022-05-18T18:56:47-04:00",
+    "commentCount": 8,
+    "musicalKey": "A"
+}

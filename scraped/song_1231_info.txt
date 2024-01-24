@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alan-jackson/the-old-rugged-cross-chords-1741853",
+    "name": "Alan Jackson - The Old Rugged Cross (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alan Jackson"
+    },
+    "datePublished": "2015-06-02T05:35:51-04:00",
+    "dateModified": "2020-04-11T15:54:12-04:00",
+    "commentCount": 13,
+    "musicalKey": "G"
+}

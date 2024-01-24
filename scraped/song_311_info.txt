@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-smith/stay-with-me-chords-1473600",
+    "name": "Sam Smith - Stay With Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Smith"
+    },
+    "datePublished": "2014-03-31T20:00:01-04:00",
+    "dateModified": "2018-12-26T08:08:23-05:00",
+    "commentCount": 85,
+    "musicalKey": "Am"
+}

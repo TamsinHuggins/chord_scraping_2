@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-petty/runnin-down-a-dream-chords-1051760",
+    "name": "Tom Petty - Runnin Down A Dream (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Petty"
+    },
+    "datePublished": "2011-05-04T20:00:01-04:00",
+    "dateModified": "2023-05-14T20:06:39-04:00",
+    "commentCount": 46,
+    "musicalKey": "E"
+}

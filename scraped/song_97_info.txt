@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/new-west/those-eyes-chords-2734944",
+    "name": "New West - Those Eyes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "New West"
+    },
+    "datePublished": "2019-06-19T23:25:19-04:00",
+    "dateModified": "2019-06-20T09:53:11-04:00",
+    "commentCount": 7,
+    "musicalKey": "C#m"
+}

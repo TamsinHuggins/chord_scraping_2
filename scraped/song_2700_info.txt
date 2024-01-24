@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/cocaine-blues-chords-133919",
+    "name": "Johnny Cash - Cocaine Blues (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2004-08-24T20:00:00-04:00",
+    "dateModified": "2016-05-27T11:43:31-04:00",
+    "commentCount": 13
+}

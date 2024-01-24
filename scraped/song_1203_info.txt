@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cinematic-orchestra/to-build-a-home-chords-547121",
+    "name": "The Cinematic Orchestra - To Build A Home (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cinematic Orchestra"
+    },
+    "datePublished": "2007-07-10T20:00:01-04:00",
+    "dateModified": "2023-04-23T19:22:09-04:00",
+    "commentCount": 16,
+    "musicalKey": "D"
+}

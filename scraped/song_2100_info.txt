@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/your-needs-my-needs-chords-4812863",
+    "name": "Noah Kahan - Your Needs My Needs (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2023-06-09T01:38:46-04:00",
+    "dateModified": "2023-06-09T15:21:13-04:00",
+    "commentCount": 3,
+    "musicalKey": "G"
+}

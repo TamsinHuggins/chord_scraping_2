@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/car-seat-headrest/bodys-chords-1757054",
+    "name": "Car Seat Headrest - Bodys (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Car Seat Headrest"
+    },
+    "datePublished": "2015-08-08T19:18:04-04:00",
+    "dateModified": "2022-12-15T18:02:42-05:00",
+    "commentCount": 7
+}

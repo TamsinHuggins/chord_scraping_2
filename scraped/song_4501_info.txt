@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/u2/new-years-day-chords-87434",
+    "name": "U2 - New Years Day (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: G#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "U2"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2022-01-01T23:29:43-05:00",
+    "commentCount": 20,
+    "musicalKey": "G#m"
+}

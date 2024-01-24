@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kana-boon/silhouette-naruto-shippuden-opening-16-chords-1677286",
+    "name": "Kana-Boon - Silhouette - Naruto Shippuden Opening 16 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "KANA-BOON"
+    },
+    "datePublished": "2014-11-10T03:59:40-05:00",
+    "dateModified": "2022-05-24T21:25:29-04:00",
+    "commentCount": 10
+}

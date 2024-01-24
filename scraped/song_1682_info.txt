@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-christmas/feliz-navidad-chords-442344",
+    "name": "Misc Christmas - Feliz Navidad (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Christmas"
+    },
+    "datePublished": "2006-12-03T19:00:01-05:00",
+    "dateModified": "2020-03-14T12:36:34-04:00",
+    "commentCount": 86,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/avicii/waiting-for-love-chords-1739328",
+    "name": "Avicii - Waiting For Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Avicii"
+    },
+    "datePublished": "2015-05-23T03:07:43-04:00",
+    "dateModified": "2018-04-21T09:31:36-04:00",
+    "commentCount": 24,
+    "musicalKey": "F#m"
+}

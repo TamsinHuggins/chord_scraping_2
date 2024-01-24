@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/anuprastha/din-chords-2534094",
+    "name": "Anuprastha - Din (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Anuprastha"
+    },
+    "datePublished": "2018-12-03T07:14:36-05:00",
+    "dateModified": "2020-04-02T04:28:47-04:00",
+    "commentCount": 0,
+    "musicalKey": "D"
+}

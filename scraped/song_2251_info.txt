@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/leonard-cohen/chelsea-hotel-no-2-chords-548740",
+    "name": "Leonard Cohen - Chelsea Hotel No 2 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Leonard Cohen"
+    },
+    "datePublished": "2007-07-15T20:00:01-04:00",
+    "dateModified": "2019-11-20T10:52:12-05:00",
+    "commentCount": 17,
+    "musicalKey": "F"
+}

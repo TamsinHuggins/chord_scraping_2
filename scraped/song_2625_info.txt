@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dolly-parton/jolene-chords-165569",
+    "name": "Dolly Parton - Jolene (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dolly Parton"
+    },
+    "datePublished": "2005-02-17T19:00:00-05:00",
+    "dateModified": "2016-05-28T10:28:51-04:00",
+    "commentCount": 14
+}

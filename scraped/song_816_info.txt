@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lynyrd-skynyrd/sweet-home-alabama-chords-1053582",
+    "name": "Lynyrd Skynyrd - Sweet Home Alabama (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lynyrd Skynyrd"
+    },
+    "datePublished": "2011-05-15T20:00:01-04:00",
+    "dateModified": "2023-12-28T22:47:22-05:00",
+    "commentCount": 64,
+    "musicalKey": "D"
+}

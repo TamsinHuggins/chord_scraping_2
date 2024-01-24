@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jessie-murph/how-could-you-chords-4386152",
+    "name": "Jessie Murph - How Could You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Jessie Murph"
+    },
+    "datePublished": "2022-10-15T05:39:18-04:00",
+    "dateModified": "2023-05-11T16:40:43-04:00",
+    "commentCount": 1,
+    "musicalKey": "G#m"
+}

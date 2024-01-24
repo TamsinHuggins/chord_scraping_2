@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/marty-robbins/el-paso-chords-1239842",
+    "name": "Marty Robbins - El Paso (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Marty Robbins"
+    },
+    "datePublished": "2013-04-25T20:00:01-04:00",
+    "dateModified": "2018-10-31T16:16:05-04:00",
+    "commentCount": 23
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/kiss-me-chords-1183215",
+    "name": "Ed Sheeran - Kiss Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2012-09-19T20:00:01-04:00",
+    "dateModified": "2016-04-19T14:34:21-04:00",
+    "commentCount": 20,
+    "musicalKey": "D"
+}

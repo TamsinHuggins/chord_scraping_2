@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-waits/i-hope-that-i-dont-fall-in-love-with-you-chords-1057913",
+    "name": "Tom Waits - I Hope That I Dont Fall In Love With You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Waits"
+    },
+    "datePublished": "2011-05-18T20:00:01-04:00",
+    "dateModified": "2019-07-24T13:54:27-04:00",
+    "commentCount": 33
+}

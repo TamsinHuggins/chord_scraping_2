@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adele/hometown-glory-chords-724264",
+    "name": "Adele - Hometown Glory (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Adele"
+    },
+    "datePublished": "2008-08-24T20:00:01-04:00",
+    "dateModified": "2016-04-18T12:29:27-04:00",
+    "commentCount": 12
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-smith/too-good-at-goodbyes-chords-2142281",
+    "name": "Sam Smith - Too Good At Goodbyes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Smith"
+    },
+    "datePublished": "2017-09-08T00:04:18-04:00",
+    "dateModified": "2020-05-23T13:30:28-04:00",
+    "commentCount": 154,
+    "musicalKey": "Dm"
+}

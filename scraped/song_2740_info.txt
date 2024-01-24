@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zayn/i-dont-wanna-live-forever-chords-1908714",
+    "name": "Zayn - I Dont Wanna Live Forever (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zayn"
+    },
+    "datePublished": "2016-12-09T01:03:30-05:00",
+    "dateModified": "2022-07-11T14:37:09-04:00",
+    "commentCount": 17
+}

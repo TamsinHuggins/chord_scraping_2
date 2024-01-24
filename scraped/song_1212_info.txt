@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/don-henley/the-boys-of-summer-chords-1158736",
+    "name": "Don Henley - The Boys Of Summer (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Don Henley"
+    },
+    "datePublished": "2012-06-04T20:00:01-04:00",
+    "dateModified": "2018-10-19T15:39:19-04:00",
+    "commentCount": 29
+}

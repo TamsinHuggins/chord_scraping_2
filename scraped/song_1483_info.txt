@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/now-that-we-dont-talk-chords-5005582",
+    "name": "Taylor Swift - Now That We Dont Talk (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2023-10-27T00:16:58-04:00",
+    "dateModified": "2023-10-31T17:40:37-04:00",
+    "commentCount": 5,
+    "musicalKey": "C"
+}

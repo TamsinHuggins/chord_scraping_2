@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-williams/there-was-jesus-chords-2847242",
+    "name": "Zach Williams - There Was Jesus (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Williams"
+    },
+    "datePublished": "2019-10-04T23:22:44-04:00",
+    "dateModified": "2023-02-25T16:00:34-05:00",
+    "commentCount": 18,
+    "musicalKey": "Ab"
+}

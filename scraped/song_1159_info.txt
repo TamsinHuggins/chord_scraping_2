@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/norman-fucking-rockwell-chords-2803880",
+    "name": "Lana Del Rey - Norman Fucking Rockwell (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2019-08-24T03:10:57-04:00",
+    "dateModified": "2020-06-30T01:21:02-04:00",
+    "commentCount": 14
+}

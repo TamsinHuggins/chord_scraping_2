@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lianne-la-havas/say-a-little-prayer-chords-1840303",
+    "name": "Lianne La Havas - Say A Little Prayer (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lianne La Havas"
+    },
+    "datePublished": "2016-04-29T08:19:44-04:00",
+    "dateModified": "2023-01-20T06:34:00-05:00",
+    "commentCount": 4
+}

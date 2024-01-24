@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mumford-sons/hopeless-wanderer-chords-1073549",
+    "name": "Mumford & Sons - Hopeless Wanderer (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Mumford &amp; Sons"
+    },
+    "datePublished": "2011-07-14T20:00:01-04:00",
+    "dateModified": "2017-06-28T20:34:11-04:00",
+    "commentCount": 37
+}

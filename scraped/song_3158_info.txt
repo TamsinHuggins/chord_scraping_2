@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/one-direction/if-i-could-fly-chords-1782491",
+    "name": "One Direction - If I Could Fly (chords)",
+    "text": "Difficulty:  Tuning: D G C F A D Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "One Direction"
+    },
+    "datePublished": "2015-11-18T06:44:55-05:00",
+    "dateModified": "2020-08-25T09:44:35-04:00",
+    "commentCount": 33,
+    "musicalKey": "F"
+}

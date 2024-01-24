@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cult/she-sells-sanctuary-chords-999720",
+    "name": "The Cult - She Sells Sanctuary (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cult"
+    },
+    "datePublished": "2010-10-31T20:00:01-04:00",
+    "dateModified": "2016-07-15T12:56:05-04:00",
+    "commentCount": 10
+}

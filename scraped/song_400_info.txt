@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/somebody-to-love-chords-208584",
+    "name": "Queen - Somebody To Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2005-08-28T20:00:00-04:00",
+    "dateModified": "2021-03-31T11:08:55-04:00",
+    "commentCount": 41,
+    "musicalKey": "Ab"
+}

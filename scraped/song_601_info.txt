@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kanye-west/runaway-chords-987465",
+    "name": "Kanye West - Runaway (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Kanye West"
+    },
+    "datePublished": "2010-09-13T20:00:01-04:00",
+    "dateModified": "2016-06-07T09:46:30-04:00",
+    "commentCount": 11
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bethel-music/no-longer-slaves-chords-1718624",
+    "name": "Bethel Music - No Longer Slaves (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Bethel Music"
+    },
+    "datePublished": "2015-03-10T02:41:45-04:00",
+    "dateModified": "2023-10-05T18:53:24-04:00",
+    "commentCount": 16,
+    "musicalKey": "G"
+}

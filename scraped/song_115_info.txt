@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sixpence-none-the-richer/kiss-me-chords-2704",
+    "name": "Sixpence None The Richer - Kiss Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Sixpence None the Richer"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-07-13T12:08:25-04:00",
+    "commentCount": 25,
+    "musicalKey": "Eb"
+}

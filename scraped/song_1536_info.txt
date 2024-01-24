@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/leonard-cohen/famous-blue-raincoat-chords-64974",
+    "name": "Leonard Cohen - Famous Blue Raincoat (chords)",
+    "text": "Difficulty:  Tuning: D A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Leonard Cohen"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2019-11-20T10:50:39-05:00",
+    "commentCount": 8,
+    "musicalKey": "Am"
+}

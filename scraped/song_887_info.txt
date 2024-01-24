@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simple-minds/dont-you-forget-about-me-chords-1448722",
+    "name": "Simple Minds - Dont You Forget About Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Simple Minds"
+    },
+    "datePublished": "2013-12-23T19:00:01-05:00",
+    "dateModified": "2016-05-10T12:30:21-04:00",
+    "commentCount": 38
+}

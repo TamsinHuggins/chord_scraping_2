@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-computer-games/red-dead-redemption-2-cruel-cruel-world-chords-2523696",
+    "name": "Misc Computer Games - Red Dead Redemption 2 - Cruel Cruel World (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Computer Games"
+    },
+    "datePublished": "2018-11-21T18:05:54-05:00",
+    "dateModified": "2019-09-20T07:38:27-04:00",
+    "commentCount": 11
+}

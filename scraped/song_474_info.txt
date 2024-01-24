@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cure/boys-dont-cry-chords-956417",
+    "name": "The Cure - Boys Dont Cry (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cure"
+    },
+    "datePublished": "2010-06-06T20:00:01-04:00",
+    "dateModified": "2016-05-16T12:01:09-04:00",
+    "commentCount": 23
+}

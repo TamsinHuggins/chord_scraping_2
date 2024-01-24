@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laufey/dreamer-chords-4946893",
+    "name": "Laufey - Dreamer (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laufey"
+    },
+    "datePublished": "2023-09-08T15:28:09-04:00",
+    "dateModified": "2023-09-08T19:28:10-04:00",
+    "commentCount": 2
+}

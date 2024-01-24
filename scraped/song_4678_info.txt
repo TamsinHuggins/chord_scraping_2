@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/midnight-rain-chords-4393688",
+    "name": "Taylor Swift - Midnight Rain (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2022-10-21T01:47:42-04:00",
+    "dateModified": "2022-10-21T05:47:42-04:00",
+    "commentCount": 5,
+    "musicalKey": "C"
+}

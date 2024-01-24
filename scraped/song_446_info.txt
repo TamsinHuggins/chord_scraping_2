@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-stapleton/you-should-probably-leave-chords-1678318",
+    "name": "Chris Stapleton - You Should Probably Leave (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Stapleton"
+    },
+    "datePublished": "2014-11-11T04:32:59-05:00",
+    "dateModified": "2016-09-21T14:03:16-04:00",
+    "commentCount": 11
+}

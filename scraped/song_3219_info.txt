@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tommy-james-the-shondells/crimson-and-clover-chords-1044137",
+    "name": "Tommy James & The Shondells - Crimson And Clover (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Tommy James &amp; the Shondells"
+    },
+    "datePublished": "2011-04-06T20:00:01-04:00",
+    "dateModified": "2022-05-02T20:45:00-04:00",
+    "commentCount": 27
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/hello-goodbye-chords-1061734",
+    "name": "The Beatles - Hello Goodbye (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2011-05-30T20:00:01-04:00",
+    "dateModified": "2022-06-24T21:24:28-04:00",
+    "commentCount": 16
+}

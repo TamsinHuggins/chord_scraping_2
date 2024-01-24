@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/willie-nelson/angel-flying-too-close-to-the-ground-chords-77920",
+    "name": "Willie Nelson - Angel Flying Too Close To The Ground (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Willie Nelson"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-06-29T14:44:26-04:00",
+    "commentCount": 7,
+    "musicalKey": "A"
+}

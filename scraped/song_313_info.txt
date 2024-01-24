@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/avril-lavigne/complicated-chords-33252",
+    "name": "Avril Lavigne - Complicated (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Avril Lavigne"
+    },
+    "datePublished": "2002-07-10T20:00:00-04:00",
+    "dateModified": "2021-01-31T05:06:15-05:00",
+    "commentCount": 46,
+    "musicalKey": "Dm"
+}

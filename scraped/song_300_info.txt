@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ruth-b-/dandelions-chords-3096686",
+    "name": "Ruth B. - Dandelions (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bbm Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Ruth B."
+    },
+    "datePublished": "2020-04-17T16:53:48-04:00",
+    "dateModified": "2021-10-25T17:20:39-04:00",
+    "commentCount": 20,
+    "musicalKey": "Bbm"
+}

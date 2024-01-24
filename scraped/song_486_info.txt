@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/housefires/build-my-life-chords-1857672",
+    "name": "Housefires - Build My Life (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Housefires"
+    },
+    "datePublished": "2016-07-02T15:24:55-04:00",
+    "dateModified": "2020-03-11T23:34:25-04:00",
+    "commentCount": 48,
+    "musicalKey": "G"
+}

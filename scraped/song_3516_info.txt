@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cranberries/when-youre-gone-chords-143339",
+    "name": "The Cranberries - When Youre Gone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cranberries"
+    },
+    "datePublished": "2004-10-26T20:00:00-04:00",
+    "dateModified": "2021-02-13T07:15:06-05:00",
+    "commentCount": 6,
+    "musicalKey": "Eb"
+}

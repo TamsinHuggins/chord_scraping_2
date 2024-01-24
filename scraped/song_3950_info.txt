@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/tis-the-damn-season-chords-3462035",
+    "name": "Taylor Swift - Tis The Damn Season (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-12-11T05:19:58-05:00",
+    "dateModified": "2020-12-12T10:16:18-05:00",
+    "commentCount": 11,
+    "musicalKey": "F"
+}

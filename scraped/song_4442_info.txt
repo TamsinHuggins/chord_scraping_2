@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shinedown/second-chance-chords-806129",
+    "name": "Shinedown - Second Chance (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Shinedown"
+    },
+    "datePublished": "2009-03-25T20:00:01-04:00",
+    "dateModified": "2016-04-27T09:56:10-04:00",
+    "commentCount": 69
+}

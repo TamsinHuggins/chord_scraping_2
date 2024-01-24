@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-white-buffalo/oh-darlin-what-have-i-done-chords-1028542",
+    "name": "The White Buffalo - Oh Darlin What Have I Done (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The White Buffalo"
+    },
+    "datePublished": "2011-02-22T19:00:01-05:00",
+    "dateModified": "2018-10-08T11:48:40-04:00",
+    "commentCount": 16
+}

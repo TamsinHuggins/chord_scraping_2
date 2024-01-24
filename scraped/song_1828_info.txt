@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/vera-lynn/well-meet-again-chords-794757",
+    "name": "Vera Lynn - Well Meet Again (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Vera Lynn"
+    },
+    "datePublished": "2009-02-25T19:00:01-05:00",
+    "dateModified": "2020-05-25T05:49:44-04:00",
+    "commentCount": 9,
+    "musicalKey": "D"
+}

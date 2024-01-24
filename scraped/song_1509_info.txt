@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/b-j-thomas/raindrops-keep-fallin-on-my-head-chords-86880",
+    "name": "B.j. Thomas - Raindrops Keep Fallin On My Head (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "B.J. Thomas"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-05-31T15:53:36-04:00",
+    "commentCount": 43,
+    "musicalKey": "F"
+}

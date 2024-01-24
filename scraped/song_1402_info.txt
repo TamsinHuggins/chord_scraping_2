@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-moldy-peaches/anyone-else-but-you-chords-630353",
+    "name": "The Moldy Peaches - Anyone Else But You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Moldy Peaches"
+    },
+    "datePublished": "2008-01-23T19:00:01-05:00",
+    "dateModified": "2017-08-07T00:42:41-04:00",
+    "commentCount": 37
+}

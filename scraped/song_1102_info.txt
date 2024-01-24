@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/richard-marx/right-here-waiting-chords-93388",
+    "name": "Richard Marx - Right Here Waiting (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Richard Marx"
+    },
+    "datePublished": "2003-10-29T19:00:00-05:00",
+    "dateModified": "2018-08-10T08:03:39-04:00",
+    "commentCount": 20
+}

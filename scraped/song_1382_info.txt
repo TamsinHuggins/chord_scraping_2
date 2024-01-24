@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nina-simone/feeling-good-chords-779475",
+    "name": "Nina Simone - Feeling Good (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Nina Simone"
+    },
+    "datePublished": "2009-01-26T19:00:01-05:00",
+    "dateModified": "2019-06-07T04:15:40-04:00",
+    "commentCount": 26
+}

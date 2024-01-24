@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/adventure-time-im-just-your-problem-chords-1096759",
+    "name": "Misc Cartoons - Adventure Time - Im Just Your Problem (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2011-09-29T20:00:01-04:00",
+    "dateModified": "2017-05-15T16:27:29-04:00",
+    "commentCount": 21
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elvis-presley/are-you-lonesome-tonight-chords-605285",
+    "name": "Elvis Presley - Are You Lonesome Tonight (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elvis Presley"
+    },
+    "datePublished": "2007-11-25T19:00:01-05:00",
+    "dateModified": "2020-05-11T14:55:44-04:00",
+    "commentCount": 23,
+    "musicalKey": "C"
+}

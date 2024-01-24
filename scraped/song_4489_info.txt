@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/smells-like-teen-spirit-chords-1197271",
+    "name": "Nirvana - Smells Like Teen Spirit (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2012-11-25T09:42:35-05:00",
+    "dateModified": "2017-06-21T19:14:04-04:00",
+    "commentCount": 15
+}

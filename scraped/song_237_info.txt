@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/norwegian-wood-chords-1050930",
+    "name": "The Beatles - Norwegian Wood (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2011-04-25T20:00:01-04:00",
+    "dateModified": "2023-11-15T23:04:48-05:00",
+    "commentCount": 81,
+    "musicalKey": "E"
+}

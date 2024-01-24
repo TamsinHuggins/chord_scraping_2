@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jeff-buckley/lover-you-shouldve-come-over-chords-61379",
+    "name": "Jeff Buckley - Lover You Shouldve Come Over (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jeff Buckley"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-01-11T21:05:57-05:00",
+    "commentCount": 5
+}

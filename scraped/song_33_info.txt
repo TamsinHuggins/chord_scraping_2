@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/bruno-mars/when-i-was-your-man-chords-1198871",
-    "name": "Bruno Mars - When I Was Your Man (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/teddy-swims/lose-control-chords-4835888",
+    "name": "Teddy Swims - Lose Control (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: no capo",
     "composer": {
         "@type": "Person",
-        "name": "Bruno Mars"
+        "name": "Teddy Swims"
     },
-    "datePublished": "2012-12-03T19:00:01-05:00",
-    "dateModified": "2021-10-08T20:45:04-04:00",
-    "commentCount": 216,
-    "musicalKey": "C"
+    "datePublished": "2023-06-23T23:08:38-04:00",
+    "dateModified": "2023-06-27T08:30:06-04:00",
+    "commentCount": 6,
+    "musicalKey": "F#m"
 }

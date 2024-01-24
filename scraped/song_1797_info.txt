@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/mulan-reflection-chords-1205220",
+    "name": "Misc Cartoons - Mulan - Reflection (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2013-01-17T19:00:01-05:00",
+    "dateModified": "2020-09-22T23:10:47-04:00",
+    "commentCount": 17,
+    "musicalKey": "A"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/wild-horses-chords-860978",
+    "name": "The Rolling Stones - Wild Horses (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2009-08-18T20:00:01-04:00",
+    "dateModified": "2021-01-09T23:21:23-05:00",
+    "commentCount": 68
+}

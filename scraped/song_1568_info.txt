@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/barbie-dance-the-night-chords-4791401",
+    "name": "Misc Soundtrack - Barbie - Dance The Night (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-05-25T19:10:38-04:00",
+    "dateModified": "2023-07-25T10:11:01-04:00",
+    "commentCount": 1
+}

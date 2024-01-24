@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/dear-john-chords-999460",
+    "name": "Taylor Swift - Dear John (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2010-10-28T20:00:01-04:00",
+    "dateModified": "2023-07-08T17:46:59-04:00",
+    "commentCount": 14,
+    "musicalKey": "E"
+}

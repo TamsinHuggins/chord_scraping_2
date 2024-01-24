@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/peggy-lee/fever-chords-783603",
+    "name": "Peggy Lee - Fever (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Peggy Lee"
+    },
+    "datePublished": "2009-01-26T19:00:01-05:00",
+    "dateModified": "2019-08-16T11:37:32-04:00",
+    "commentCount": 24
+}

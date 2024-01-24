@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/system-of-a-down/chop-suey-chords-1745457",
+    "name": "System Of A Down - Chop Suey (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "System Of A Down"
+    },
+    "datePublished": "2015-06-17T00:19:55-04:00",
+    "dateModified": "2021-03-25T21:29:23-04:00",
+    "commentCount": 15
+}

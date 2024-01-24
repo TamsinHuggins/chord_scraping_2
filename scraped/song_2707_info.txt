@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jimi-hendrix/little-wing-chords-1027945",
+    "name": "Jimi Hendrix - Little Wing (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jimi Hendrix"
+    },
+    "datePublished": "2011-02-15T19:00:01-05:00",
+    "dateModified": "2021-04-30T23:13:11-04:00",
+    "commentCount": 25
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-mayer/xo-chords-1478111",
+    "name": "John Mayer - Xo (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "John Mayer"
+    },
+    "datePublished": "2014-04-23T08:21:22-04:00",
+    "dateModified": "2022-05-11T19:54:27-04:00",
+    "commentCount": 11,
+    "musicalKey": "D"
+}

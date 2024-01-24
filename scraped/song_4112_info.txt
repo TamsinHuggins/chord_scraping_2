@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/daniel-caesar/best-part-chords-2131113",
+    "name": "Daniel Caesar - Best Part (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Daniel Caesar"
+    },
+    "datePublished": "2017-08-29T07:53:01-04:00",
+    "dateModified": "2020-07-24T23:33:33-04:00",
+    "commentCount": 5,
+    "musicalKey": "D"
+}

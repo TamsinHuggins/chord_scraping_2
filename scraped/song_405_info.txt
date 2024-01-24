@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/orange-and-lemons/heaven-knows-this-angel-has-flown-chords-944771",
+    "name": "Orange And Lemons - Heaven Knows This Angel Has Flown (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Orange and Lemons"
+    },
+    "datePublished": "2010-04-29T20:00:01-04:00",
+    "dateModified": "2023-07-13T14:55:46-04:00",
+    "commentCount": 3,
+    "musicalKey": "E"
+}

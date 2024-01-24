@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beach-bunny/cloud-9-chords-2956883",
+    "name": "Beach Bunny - Cloud 9 (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Beach Bunny"
+    },
+    "datePublished": "2020-01-12T01:25:30-05:00",
+    "dateModified": "2021-04-16T04:57:40-04:00",
+    "commentCount": 22,
+    "musicalKey": "E"
+}

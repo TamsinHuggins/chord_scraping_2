@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/novo-amor/anchor-chords-1899481",
+    "name": "Novo Amor - Anchor (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Novo Amor"
+    },
+    "datePublished": "2016-10-29T13:24:41-04:00",
+    "dateModified": "2023-05-10T13:40:59-04:00",
+    "commentCount": 13
+}

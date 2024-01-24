@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lewis-capaldi/lost-on-you-chords-2149873",
+    "name": "Lewis Capaldi - Lost On You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Lewis Capaldi"
+    },
+    "datePublished": "2017-09-18T09:17:34-04:00",
+    "dateModified": "2021-05-30T19:18:12-04:00",
+    "commentCount": 4
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-arthur/cars-outside-chords-2860499",
+    "name": "James Arthur - Cars Outside (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "James Arthur"
+    },
+    "datePublished": "2019-10-18T19:00:55-04:00",
+    "dateModified": "2023-10-01T16:30:39-04:00",
+    "commentCount": 6,
+    "musicalKey": "A"
+}

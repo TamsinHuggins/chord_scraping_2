@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/call-it-what-you-want-chords-2224893",
+    "name": "Taylor Swift - Call It What You Want (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2017-11-03T04:09:47-04:00",
+    "dateModified": "2017-11-08T08:34:27-05:00",
+    "commentCount": 24,
+    "musicalKey": "G"
+}

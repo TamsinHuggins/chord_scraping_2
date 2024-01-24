@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/clinton-kane/i-guess-im-in-love-chords-3760250",
+    "name": "Clinton Kane - I Guess Im In Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Clinton Kane"
+    },
+    "datePublished": "2021-06-20T13:06:30-04:00",
+    "dateModified": "2022-04-13T02:34:36-04:00",
+    "commentCount": 15,
+    "musicalKey": "C"
+}

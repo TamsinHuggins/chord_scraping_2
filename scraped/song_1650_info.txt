@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/celine-dion/its-all-coming-back-to-me-now-chords-1001570",
+    "name": "Celine Dion - Its All Coming Back To Me Now (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Celine Dion"
+    },
+    "datePublished": "2010-11-04T20:00:01-04:00",
+    "dateModified": "2022-02-01T15:36:42-05:00",
+    "commentCount": 2,
+    "musicalKey": "C"
+}

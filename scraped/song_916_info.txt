@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-petty/free-fallin-chords-513018",
+    "name": "Tom Petty - Free Fallin (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Petty"
+    },
+    "datePublished": "2007-05-07T20:00:01-04:00",
+    "dateModified": "2021-03-28T08:21:19-04:00",
+    "commentCount": 109,
+    "musicalKey": "D"
+}

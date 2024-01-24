@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fats-domino/blueberry-hill-chords-1086974",
+    "name": "Fats Domino - Blueberry Hill (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fats Domino"
+    },
+    "datePublished": "2011-08-24T20:00:01-04:00",
+    "dateModified": "2023-07-01T15:53:35-04:00",
+    "commentCount": 12,
+    "musicalKey": "F"
+}

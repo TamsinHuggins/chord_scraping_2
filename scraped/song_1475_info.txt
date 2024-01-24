@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pnk/cover-me-in-sunshine-chords-3561113",
+    "name": "P!Nk - Cover Me In Sunshine (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "P!nk"
+    },
+    "datePublished": "2021-02-11T11:04:08-05:00",
+    "dateModified": "2021-08-31T16:10:51-04:00",
+    "commentCount": 12,
+    "musicalKey": "F"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/still-chords-179531",
+    "name": "Hillsong Worship - Still (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Worship"
+    },
+    "datePublished": "2005-04-19T20:00:00-04:00",
+    "dateModified": "2020-12-01T12:21:42-05:00",
+    "commentCount": 26,
+    "musicalKey": "C"
+}

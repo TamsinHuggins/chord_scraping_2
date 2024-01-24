@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/bridge-over-troubled-water-chords-1840686",
+    "name": "Simon & Garfunkel - Bridge Over Troubled Water (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Simon &amp; Garfunkel"
+    },
+    "datePublished": "2016-04-30T10:41:24-04:00",
+    "dateModified": "2017-02-17T09:08:23-05:00",
+    "commentCount": 8
+}

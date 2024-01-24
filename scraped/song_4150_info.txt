@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adrianne-lenker/not-a-lot-just-forever-chords-3402101",
+    "name": "Adrianne Lenker - Not A Lot Just Forever (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Adrianne Lenker"
+    },
+    "datePublished": "2020-11-01T09:13:56-05:00",
+    "dateModified": "2020-11-01T15:06:18-05:00",
+    "commentCount": 1
+}

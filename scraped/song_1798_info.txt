@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/cornerstone-chords-1149440",
+    "name": "Hillsong Worship - Cornerstone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Worship"
+    },
+    "datePublished": "2012-04-23T20:00:01-04:00",
+    "dateModified": "2020-09-05T09:31:06-04:00",
+    "commentCount": 29
+}

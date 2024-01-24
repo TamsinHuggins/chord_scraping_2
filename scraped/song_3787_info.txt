@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/white-horse-chords-748267",
+    "name": "Taylor Swift - White Horse (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2008-10-29T20:00:01-04:00",
+    "dateModified": "2021-04-11T18:08:51-04:00",
+    "commentCount": 79,
+    "musicalKey": "C"
+}

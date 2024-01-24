@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-ezra/blame-it-on-me-chords-1499230",
+    "name": "George Ezra - Blame It On Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "George Ezra"
+    },
+    "datePublished": "2014-07-07T03:53:56-04:00",
+    "dateModified": "2016-04-13T12:50:16-04:00",
+    "commentCount": 27
+}

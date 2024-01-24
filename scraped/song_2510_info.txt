@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/andante-andante-chords-1789870",
+    "name": "Abba - Andante Andante (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2015-12-08T03:29:37-05:00",
+    "dateModified": "2018-07-31T09:17:16-04:00",
+    "commentCount": 2
+}

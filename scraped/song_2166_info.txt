@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/2852051",
+    "name": "Les Cowboys Fringants - Sur Mon Épaule (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Les Cowboys Fringants"
+    },
+    "datePublished": "2019-10-09T22:22:13-04:00",
+    "dateModified": "2023-12-25T13:48:43-05:00",
+    "commentCount": 11,
+    "musicalKey": "G"
+}

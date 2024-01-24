@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/massive-attack/teardrop-chords-42259",
+    "name": "Massive Attack - Teardrop (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Massive Attack"
+    },
+    "datePublished": "2003-01-03T19:00:00-05:00",
+    "dateModified": "2016-06-03T20:39:29-04:00",
+    "commentCount": 15
+}

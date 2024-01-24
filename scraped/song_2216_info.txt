@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/edison-lighthouse/love-grows-where-my-rosemary-goes-chords-1506360",
+    "name": "Edison Lighthouse - Love Grows Where My Rosemary Goes (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Edison Lighthouse"
+    },
+    "datePublished": "2014-07-31T03:14:14-04:00",
+    "dateModified": "2022-03-19T23:10:57-04:00",
+    "commentCount": 12,
+    "musicalKey": "A"
+}

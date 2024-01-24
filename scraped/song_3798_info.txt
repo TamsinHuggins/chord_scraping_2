@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/colter-wall/motorcycle-chords-1997509",
+    "name": "Colter Wall - Motorcycle (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Colter Wall"
+    },
+    "datePublished": "2017-05-16T17:44:56-04:00",
+    "dateModified": "2021-12-11T20:25:18-05:00",
+    "commentCount": 9
+}

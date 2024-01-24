@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fur/walking-back-home-chords-3368312",
+    "name": "Fur - Walking Back Home (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "FUR"
+    },
+    "datePublished": "2020-10-08T10:59:46-04:00",
+    "dateModified": "2023-12-21T16:41:52-05:00",
+    "commentCount": 2,
+    "musicalKey": "G"
+}

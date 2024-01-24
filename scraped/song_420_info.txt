@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pearl-jam/last-kiss-chords-38269",
+    "name": "Pearl Jam - Last Kiss (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pearl Jam"
+    },
+    "datePublished": "2002-10-31T19:00:00-05:00",
+    "dateModified": "2020-03-19T12:34:19-04:00",
+    "commentCount": 52
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/wonderwall-chords-39144",
+    "name": "Oasis - Wonderwall (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Oasis"
+    },
+    "datePublished": "2002-11-13T19:00:00-05:00",
+    "dateModified": "2021-02-19T21:49:18-05:00",
+    "commentCount": 289,
+    "musicalKey": "F#m"
+}

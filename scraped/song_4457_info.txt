@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-strokes/you-only-live-once-chords-1234192",
+    "name": "The Strokes - You Only Live Once (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Strokes"
+    },
+    "datePublished": "2013-04-08T20:00:01-04:00",
+    "dateModified": "2017-07-15T23:52:03-04:00",
+    "commentCount": 13,
+    "musicalKey": "E"
+}

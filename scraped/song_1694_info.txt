@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/daniel-chords-1087235",
+    "name": "Elton John - Daniel (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2011-08-25T20:00:01-04:00",
+    "dateModified": "2023-11-30T22:33:30-05:00",
+    "commentCount": 22,
+    "musicalKey": "C"
+}

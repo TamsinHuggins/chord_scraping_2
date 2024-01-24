@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shawn-mendes/imagination-chords-1729609",
+    "name": "Shawn Mendes - Imagination (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Shawn Mendes"
+    },
+    "datePublished": "2015-04-15T04:13:12-04:00",
+    "dateModified": "2020-02-20T11:32:51-05:00",
+    "commentCount": 32,
+    "musicalKey": "Am"
+}

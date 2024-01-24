@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/jehovah-chords-4780844",
+    "name": "Elevation Worship - Jehovah (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2023-05-19T11:18:28-04:00",
+    "dateModified": "2023-05-20T10:20:39-04:00",
+    "commentCount": 1,
+    "musicalKey": "Db"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/young-and-beautiful-chords-1244052",
+    "name": "Lana Del Rey - Young And Beautiful (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2013-05-07T20:00:01-04:00",
+    "dateModified": "2019-02-07T09:30:12-05:00",
+    "commentCount": 32
+}

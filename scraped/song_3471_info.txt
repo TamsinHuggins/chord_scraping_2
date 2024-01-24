@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gorillaz/clint-eastwood-chords-1742648",
+    "name": "Gorillaz - Clint Eastwood (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gorillaz"
+    },
+    "datePublished": "2015-06-05T05:45:12-04:00",
+    "dateModified": "2019-05-23T20:12:59-04:00",
+    "commentCount": 7
+}

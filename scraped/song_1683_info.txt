@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/frozen-love-is-an-open-door-chords-1454545",
+    "name": "Misc Cartoons - Frozen - Love Is An Open Door (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2014-01-20T19:00:01-05:00",
+    "dateModified": "2018-07-27T10:08:33-04:00",
+    "commentCount": 15
+}

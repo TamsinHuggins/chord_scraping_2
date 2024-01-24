@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4146646",
+    "name": "Cafuné - Tek It (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Cafuné"
+    },
+    "datePublished": "2022-04-09T23:29:38-04:00",
+    "dateModified": "2022-04-13T08:30:12-04:00",
+    "commentCount": 12,
+    "musicalKey": "Ab"
+}

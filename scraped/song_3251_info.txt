@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rufus-chaka-khan/aint-nobody-chords-206938",
+    "name": "Rufus & Chaka Khan - Aint Nobody (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rufus &amp; Chaka Khan"
+    },
+    "datePublished": "2005-08-21T20:00:00-04:00",
+    "dateModified": "2019-05-27T13:02:19-04:00",
+    "commentCount": 12
+}

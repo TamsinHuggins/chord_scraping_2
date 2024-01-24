@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paris-paloma/labour-chords-4698185",
+    "name": "Paris Paloma - Labour (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Paris Paloma"
+    },
+    "datePublished": "2023-03-24T02:27:52-04:00",
+    "dateModified": "2023-04-29T00:49:25-04:00",
+    "commentCount": 3
+}

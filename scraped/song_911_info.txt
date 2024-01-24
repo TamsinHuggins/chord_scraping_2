@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kiss/i-was-made-for-lovin-you-chords-629417",
+    "name": "Kiss - I Was Made For Lovin You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "KISS"
+    },
+    "datePublished": "2008-01-21T19:00:01-05:00",
+    "dateModified": "2016-06-06T08:36:16-04:00",
+    "commentCount": 8
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/niki-nicole-zefanya/take-a-chance-with-me-chords-3192215",
+    "name": "Niki (Nicole Zefanya) - Take A Chance With Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "NIKI (Nicole Zefanya)"
+    },
+    "datePublished": "2020-06-09T13:20:38-04:00",
+    "dateModified": "2020-06-13T08:54:39-04:00",
+    "commentCount": 1,
+    "musicalKey": "G"
+}

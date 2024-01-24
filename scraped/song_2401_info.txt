@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chappell-roan/casual-chords-4404614",
+    "name": "Chappell Roan - Casual (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Chappell Roan"
+    },
+    "datePublished": "2022-10-29T21:21:15-04:00",
+    "dateModified": "2022-11-02T23:20:28-04:00",
+    "commentCount": 5,
+    "musicalKey": "Db"
+}

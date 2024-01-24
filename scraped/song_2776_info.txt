@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/natalie-jane/intrusive-thoughts-chords-5011618",
+    "name": "Natalie Jane - Intrusive Thoughts (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Natalie Jane"
+    },
+    "datePublished": "2023-10-31T15:20:43-04:00",
+    "dateModified": "2023-11-01T12:45:45-04:00",
+    "commentCount": 4,
+    "musicalKey": "Bm"
+}

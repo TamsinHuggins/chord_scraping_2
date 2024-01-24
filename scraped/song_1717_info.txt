@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/band-of-horses/the-funeral-chords-367742",
+    "name": "Band Of Horses - The Funeral (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Band of Horses"
+    },
+    "datePublished": "2006-05-21T20:00:01-04:00",
+    "dateModified": "2016-04-16T10:33:21-04:00",
+    "commentCount": 18
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/stick-season-chords-3505823",
+    "name": "Noah Kahan - Stick Season (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2021-01-09T00:03:46-05:00",
+    "dateModified": "2022-07-15T10:52:50-04:00",
+    "commentCount": 10,
+    "musicalKey": "A"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stone-sour/through-glass-chords-436681",
+    "name": "Stone Sour - Through Glass (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stone Sour"
+    },
+    "datePublished": "2006-11-19T19:00:01-05:00",
+    "dateModified": "2021-02-27T11:13:26-05:00",
+    "commentCount": 64,
+    "musicalKey": "B"
+}

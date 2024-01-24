@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sade/smooth-operator-chords-58277",
+    "name": "Sade - Smooth Operator (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sade"
+    },
+    "datePublished": "2003-08-13T20:00:00-04:00",
+    "dateModified": "2017-04-11T14:19:47-04:00",
+    "commentCount": 13
+}

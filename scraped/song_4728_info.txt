@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-janson/buy-me-a-boat-chords-1727518",
+    "name": "Chris Janson - Buy Me A Boat (chords)",
+    "text": "Difficulty:  Tuning: D A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Janson"
+    },
+    "datePublished": "2015-04-06T06:00:27-04:00",
+    "dateModified": "2020-09-21T08:07:12-04:00",
+    "commentCount": 23
+}

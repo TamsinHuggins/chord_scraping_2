@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/waylon-jennings/luckenbach-texas-chords-1087721",
+    "name": "Waylon Jennings - Luckenbach Texas (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Waylon Jennings"
+    },
+    "datePublished": "2011-08-31T20:00:01-04:00",
+    "dateModified": "2018-06-25T12:40:23-04:00",
+    "commentCount": 13
+}

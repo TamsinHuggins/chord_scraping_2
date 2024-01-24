@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/nude-chords-621740",
+    "name": "Radiohead - Nude (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Radiohead"
+    },
+    "datePublished": "2008-01-10T19:00:01-05:00",
+    "dateModified": "2020-02-27T13:36:32-05:00",
+    "commentCount": 20,
+    "musicalKey": "C#m"
+}

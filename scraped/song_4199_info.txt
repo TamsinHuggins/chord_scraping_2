@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/i-want-you-shes-so-heavy-chords-1966547",
+    "name": "The Beatles - I Want You Shes So Heavy (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2017-03-22T02:37:46-04:00",
+    "dateModified": "2019-01-05T23:37:46-05:00",
+    "commentCount": 9
+}

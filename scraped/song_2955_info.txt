@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ariana-grande/almost-is-never-enough-chords-1414329",
+    "name": "Ariana Grande - Almost Is Never Enough (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ariana Grande"
+    },
+    "datePublished": "2013-08-25T20:00:01-04:00",
+    "dateModified": "2016-04-07T15:51:54-04:00",
+    "commentCount": 18,
+    "musicalKey": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-chainsmokers/something-just-like-this-chords-1953009",
+    "name": "The Chainsmokers - Something Just Like This (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Chainsmokers"
+    },
+    "datePublished": "2017-02-23T03:08:55-05:00",
+    "dateModified": "2020-03-21T12:21:04-04:00",
+    "commentCount": 26,
+    "musicalKey": "G"
+}

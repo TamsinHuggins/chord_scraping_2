@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eraserheads/pare-ko-chords-58941",
+    "name": "Eraserheads - Pare Ko (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eraserheads"
+    },
+    "datePublished": "2003-08-24T20:00:00-04:00",
+    "dateModified": "2023-06-05T17:55:44-04:00",
+    "commentCount": 18,
+    "musicalKey": "G"
+}

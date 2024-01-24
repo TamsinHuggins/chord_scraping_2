@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-marshall-tucker-band/fire-on-the-mountain-chords-1417338",
+    "name": "The Marshall Tucker Band - Fire On The Mountain (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Marshall Tucker Band"
+    },
+    "datePublished": "2013-09-08T20:00:01-04:00",
+    "dateModified": "2022-09-14T12:33:05-04:00",
+    "commentCount": 20
+}

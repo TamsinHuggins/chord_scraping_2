@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-musicals/hamilton-youll-be-back-chords-1772610",
+    "name": "Misc Musicals - Hamilton - Youll Be Back (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Musicals"
+    },
+    "datePublished": "2015-10-09T04:11:59-04:00",
+    "dateModified": "2021-04-16T04:52:43-04:00",
+    "commentCount": 45,
+    "musicalKey": "G"
+}

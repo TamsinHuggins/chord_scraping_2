@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adele/dont-you-remember-chords-1046742",
+    "name": "Adele - Dont You Remember (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Adele"
+    },
+    "datePublished": "2011-04-14T20:00:01-04:00",
+    "dateModified": "2016-11-29T10:16:05-05:00",
+    "commentCount": 12
+}

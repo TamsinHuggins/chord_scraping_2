@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956613",
+    "name": "Ed Sheeran - Perfect (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2017-03-02T07:43:03-05:00",
+    "dateModified": "2020-01-17T05:08:31-05:00",
+    "commentCount": 40,
+    "musicalKey": "Ab"
+}

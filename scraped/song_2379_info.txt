@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/steven-universe-love-like-you-chords-1843524",
+    "name": "Misc Cartoons - Steven Universe - Love Like You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2016-05-10T04:59:41-04:00",
+    "dateModified": "2019-01-25T18:49:18-05:00",
+    "commentCount": 35
+}

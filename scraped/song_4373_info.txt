@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-crane-wives/curses-chords-2854094",
+    "name": "The Crane Wives - Curses (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Crane Wives"
+    },
+    "datePublished": "2019-10-12T04:21:19-04:00",
+    "dateModified": "2019-10-12T12:43:53-04:00",
+    "commentCount": 7
+}

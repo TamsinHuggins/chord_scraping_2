@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/sad-beautiful-tragic-chords-1189576",
+    "name": "Taylor Swift - Sad Beautiful Tragic (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2012-10-18T20:00:01-04:00",
+    "dateModified": "2016-06-14T07:56:28-04:00",
+    "commentCount": 41
+}

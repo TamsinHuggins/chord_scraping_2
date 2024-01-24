@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/creep-chords-705492",
+    "name": "Radiohead - Creep (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Radiohead"
+    },
+    "datePublished": "2008-07-17T20:00:01-04:00",
+    "dateModified": "2018-11-12T22:38:57-05:00",
+    "commentCount": 14
+}

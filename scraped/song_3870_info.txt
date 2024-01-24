@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zz-top/sharp-dressed-man-chords-1245754",
+    "name": "Zz Top - Sharp Dressed Man (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ZZ Top"
+    },
+    "datePublished": "2013-05-19T20:00:01-04:00",
+    "dateModified": "2016-06-03T08:59:30-04:00",
+    "commentCount": 9
+}

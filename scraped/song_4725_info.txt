@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsongs/eagles-wings-chords-144811",
+    "name": "Hillsongs - Eagles Wings (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsongs"
+    },
+    "datePublished": "2004-11-04T19:00:00-05:00",
+    "dateModified": "2016-06-15T10:39:15-04:00",
+    "commentCount": 13
+}

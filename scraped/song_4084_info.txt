@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/glen-campbell/southern-nights-chords-1791694",
+    "name": "Glen Campbell - Southern Nights (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Glen Campbell"
+    },
+    "datePublished": "2015-12-14T07:27:22-05:00",
+    "dateModified": "2020-11-28T09:43:05-05:00",
+    "commentCount": 10
+}

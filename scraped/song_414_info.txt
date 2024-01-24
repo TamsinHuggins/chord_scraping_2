@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eddie-vedder/society-chords-583331",
+    "name": "Eddie Vedder - Society (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eddie Vedder"
+    },
+    "datePublished": "2007-09-30T20:00:01-04:00",
+    "dateModified": "2022-08-15T14:40:47-04:00",
+    "commentCount": 40,
+    "musicalKey": "Bm"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jason-dhakal/para-sa-akin-chords-4694423",
+    "name": "Jason Dhakal - Para Sa Akin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Jason Dhakal"
+    },
+    "datePublished": "2023-03-21T04:26:28-04:00",
+    "dateModified": "2024-01-06T10:22:37-05:00",
+    "commentCount": 0,
+    "musicalKey": "Eb"
+}

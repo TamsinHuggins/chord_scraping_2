@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/anson-seabra/welcome-to-wonderland-chords-2464298",
+    "name": "Anson Seabra - Welcome To Wonderland (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Anson Seabra"
+    },
+    "datePublished": "2018-09-04T14:04:30-04:00",
+    "dateModified": "2021-10-21T03:21:47-04:00",
+    "commentCount": 17
+}

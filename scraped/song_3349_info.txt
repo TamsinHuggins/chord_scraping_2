@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stevie-wonder/dont-you-worry-bout-a-thing-chords-1217901",
+    "name": "Stevie Wonder - Dont You Worry Bout A Thing (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Gb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Stevie Wonder"
+    },
+    "datePublished": "2013-02-19T19:00:01-05:00",
+    "dateModified": "2023-06-21T06:50:49-04:00",
+    "commentCount": 15,
+    "musicalKey": "Gb"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/miles/neela-chords-2319571",
+    "name": "Miles - Neela (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Miles"
+    },
+    "datePublished": "2018-02-15T11:28:10-05:00",
+    "dateModified": "2018-02-19T07:33:09-05:00",
+    "commentCount": 9
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-smashing-pumpkins/today-chords-98353",
+    "name": "The Smashing Pumpkins - Today (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Smashing Pumpkins"
+    },
+    "datePublished": "2003-12-22T19:00:00-05:00",
+    "dateModified": "2020-11-25T12:19:38-05:00",
+    "commentCount": 9
+}

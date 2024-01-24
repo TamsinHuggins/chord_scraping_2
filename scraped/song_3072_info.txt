@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-everly-brothers/bye-bye-love-chords-188059",
+    "name": "The Everly Brothers - Bye Bye Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Everly Brothers"
+    },
+    "datePublished": "2005-05-30T20:00:00-04:00",
+    "dateModified": "2019-09-08T00:40:06-04:00",
+    "commentCount": 17
+}

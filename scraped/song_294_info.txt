@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/you-are-my-sunshine-chords-834069",
+    "name": "Johnny Cash - You Are My Sunshine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2009-06-07T20:00:01-04:00",
+    "dateModified": "2020-04-29T08:20:15-04:00",
+    "commentCount": 74,
+    "musicalKey": "A"
+}

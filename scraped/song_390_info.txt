@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/aurora/runaway-chords-1718333",
+    "name": "Aurora - Runaway (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "AURORA"
+    },
+    "datePublished": "2015-03-08T14:13:58-04:00",
+    "dateModified": "2021-05-08T00:00:04-04:00",
+    "commentCount": 41,
+    "musicalKey": "G#m"
+}

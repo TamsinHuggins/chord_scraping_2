@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kelly-clarkson/because-of-you-chords-1755416",
+    "name": "Kelly Clarkson - Because Of You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Kelly Clarkson"
+    },
+    "datePublished": "2015-07-31T05:56:24-04:00",
+    "dateModified": "2018-03-10T10:08:41-05:00",
+    "commentCount": 1
+}

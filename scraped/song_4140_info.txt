@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/camila-cabello/shameless-chords-2816084",
+    "name": "Camila Cabello - Shameless (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Camila Cabello"
+    },
+    "datePublished": "2019-09-05T09:40:57-04:00",
+    "dateModified": "2019-09-05T13:48:20-04:00",
+    "commentCount": 14
+}

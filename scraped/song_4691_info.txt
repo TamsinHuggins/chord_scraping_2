@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jessie-murph/wild-ones-chords-5004235",
+    "name": "Jessie Murph - Wild Ones (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jessie Murph"
+    },
+    "datePublished": "2023-10-25T22:14:22-04:00",
+    "dateModified": "2023-10-28T12:11:35-04:00",
+    "commentCount": 0,
+    "musicalKey": "C"
+}

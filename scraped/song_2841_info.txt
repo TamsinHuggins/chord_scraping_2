@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shania-twain/from-this-moment-on-chords-92851",
+    "name": "Shania Twain - From This Moment On (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Shania Twain"
+    },
+    "datePublished": "2003-10-23T20:00:00-04:00",
+    "dateModified": "2016-05-12T11:51:36-04:00",
+    "commentCount": 22
+}

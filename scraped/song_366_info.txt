@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/britney-spears/toxic-chords-618385",
+    "name": "Britney Spears - Toxic (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Britney Spears"
+    },
+    "datePublished": "2007-12-26T19:00:01-05:00",
+    "dateModified": "2022-03-01T00:32:07-05:00",
+    "commentCount": 41,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/blank-space-chords-1674053",
+    "name": "Taylor Swift - Blank Space (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2014-10-24T08:45:57-04:00",
+    "dateModified": "2017-08-24T14:48:44-04:00",
+    "commentCount": 78,
+    "musicalKey": "F"
+}

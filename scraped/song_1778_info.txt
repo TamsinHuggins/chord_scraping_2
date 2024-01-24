@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/daddy/chandrayan-pidu-chords-1143077",
+    "name": "Daddy - Chandrayan Pidu (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Daddy"
+    },
+    "datePublished": "2012-04-02T20:00:01-04:00",
+    "dateModified": "2021-07-01T16:17:19-04:00",
+    "commentCount": 1
+}

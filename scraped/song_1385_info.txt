@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-combs/when-it-rains-it-pours-chords-1935041",
+    "name": "Luke Combs - When It Rains It Pours (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Combs"
+    },
+    "datePublished": "2017-01-19T00:53:06-05:00",
+    "dateModified": "2019-11-07T13:09:24-05:00",
+    "commentCount": 26,
+    "musicalKey": "G"
+}

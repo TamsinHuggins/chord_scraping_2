@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/thomas-rhett/die-a-happy-man-chords-1760075",
+    "name": "Thomas Rhett - Die A Happy Man (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Thomas Rhett"
+    },
+    "datePublished": "2015-08-21T10:33:22-04:00",
+    "dateModified": "2023-07-04T15:40:18-04:00",
+    "commentCount": 36
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joni-mitchell/big-yellow-taxi-chords-660965",
+    "name": "Joni Mitchell - Big Yellow Taxi (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Joni Mitchell"
+    },
+    "datePublished": "2008-04-04T20:00:01-04:00",
+    "dateModified": "2021-07-07T10:10:22-04:00",
+    "commentCount": 33,
+    "musicalKey": "E"
+}

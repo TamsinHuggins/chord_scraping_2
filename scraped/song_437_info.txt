@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/christina-perri/jar-of-hearts-chords-963934",
+    "name": "Christina Perri - Jar Of Hearts (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Cm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Christina Perri"
+    },
+    "datePublished": "2010-06-30T20:00:01-04:00",
+    "dateModified": "2022-07-25T17:51:04-04:00",
+    "commentCount": 100,
+    "musicalKey": "Cm"
+}

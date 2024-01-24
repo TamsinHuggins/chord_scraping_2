@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-smiths/back-to-the-old-house-chords-3130016",
+    "name": "The Smiths - Back To The Old House (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Smiths"
+    },
+    "datePublished": "2020-05-04T07:49:37-04:00",
+    "dateModified": "2023-02-04T15:49:50-05:00",
+    "commentCount": 0,
+    "musicalKey": "D"
+}

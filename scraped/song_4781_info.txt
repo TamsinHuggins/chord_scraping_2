@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-strait/carrying-your-love-with-me-chords-827001",
+    "name": "George Strait - Carrying Your Love With Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "George Strait"
+    },
+    "datePublished": "2009-05-20T20:00:01-04:00",
+    "dateModified": "2021-11-10T15:44:51-05:00",
+    "commentCount": 7,
+    "musicalKey": "Bb"
+}

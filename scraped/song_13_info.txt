@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/mitski/my-love-mine-all-mine-chords-4953208",
-    "name": "Mitski - My Love Mine All Mine (chords)",
-    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/justin-bieber/love-yourself-chords-1780199",
+    "name": "Justin Bieber - Love Yourself (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 4",
     "composer": {
         "@type": "Person",
-        "name": "Mitski"
+        "name": "Justin Bieber"
     },
-    "datePublished": "2023-09-13T15:40:07-04:00",
-    "dateModified": "2023-10-25T15:00:38-04:00",
-    "commentCount": 40,
-    "musicalKey": "A"
+    "datePublished": "2015-11-09T10:03:12-05:00",
+    "dateModified": "2017-07-28T13:51:34-04:00",
+    "commentCount": 211,
+    "musicalKey": "E"
 }

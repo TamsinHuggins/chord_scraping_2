@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-smiths/i-know-its-over-chords-759282",
+    "name": "The Smiths - I Know Its Over (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Smiths"
+    },
+    "datePublished": "2008-11-23T19:00:01-05:00",
+    "dateModified": "2008-11-24T00:00:01-05:00",
+    "commentCount": 3
+}

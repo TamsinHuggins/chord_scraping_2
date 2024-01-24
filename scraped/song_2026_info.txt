@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/maverick-city-music/closer-chords-3435164",
+    "name": "Maverick City Music - Closer (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Maverick City Music"
+    },
+    "datePublished": "2020-11-23T03:54:52-05:00",
+    "dateModified": "2020-11-23T09:09:17-05:00",
+    "commentCount": 4,
+    "musicalKey": "G"
+}

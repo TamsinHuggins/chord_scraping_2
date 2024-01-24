@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-mellencamp/jack-and-diane-chords-208477",
+    "name": "John Mellencamp - Jack And Diane (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "John Mellencamp"
+    },
+    "datePublished": "2005-08-28T20:00:00-04:00",
+    "dateModified": "2020-05-02T13:07:12-04:00",
+    "commentCount": 27
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-chapin/cats-in-the-cradle-chords-407661",
+    "name": "Harry Chapin - Cats In The Cradle (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Chapin"
+    },
+    "datePublished": "2006-08-29T20:00:01-04:00",
+    "dateModified": "2018-03-03T00:14:07-05:00",
+    "commentCount": 27
+}

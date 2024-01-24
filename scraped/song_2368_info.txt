@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bring-me-the-horizon/drown-chords-1701996",
+    "name": "Bring Me The Horizon - Drown (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bring Me the Horizon"
+    },
+    "datePublished": "2015-01-20T03:31:22-05:00",
+    "dateModified": "2020-11-19T13:42:46-05:00",
+    "commentCount": 16,
+    "musicalKey": "A"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frank-sinatra/fly-me-to-the-moon-chords-327721",
+    "name": "Frank Sinatra - Fly Me To The Moon (chords)",
+    "text": "Difficulty: beginner Tuning: D G C F A D Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Frank Sinatra"
+    },
+    "datePublished": "2006-01-30T19:00:01-05:00",
+    "dateModified": "2020-03-08T21:28:35-04:00",
+    "commentCount": 26,
+    "musicalKey": "Bm"
+}

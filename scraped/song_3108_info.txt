@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bring-me-the-horizon/strangers-chords-4256284",
+    "name": "Bring Me The Horizon - Strangers (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Bring Me the Horizon"
+    },
+    "datePublished": "2022-07-03T05:56:39-04:00",
+    "dateModified": "2022-07-07T01:54:09-04:00",
+    "commentCount": 3
+}

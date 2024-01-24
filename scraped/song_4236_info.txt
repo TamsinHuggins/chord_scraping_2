@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/parokya-ni-edgar/buloy-chords-79833",
+    "name": "Parokya Ni Edgar - Buloy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Parokya ni Edgar"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2016-04-23T10:19:04-04:00",
+    "commentCount": 9
+}

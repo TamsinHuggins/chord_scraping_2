@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rachel-platten/fight-song-chords-1725296",
+    "name": "Rachel Platten - Fight Song (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rachel Platten"
+    },
+    "datePublished": "2015-03-29T14:18:36-04:00",
+    "dateModified": "2020-05-27T07:09:18-04:00",
+    "commentCount": 57,
+    "musicalKey": "G"
+}

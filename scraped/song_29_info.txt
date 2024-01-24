@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/john-denver/take-me-home-country-roads-chords-57606",
-    "name": "John Denver - Take Me Home Country Roads (chords)",
-    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/no-surprises-chords-183884",
+    "name": "Radiohead - No Surprises (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 3",
     "composer": {
         "@type": "Person",
-        "name": "John Denver"
+        "name": "Radiohead"
     },
-    "datePublished": "2003-08-04T20:00:00-04:00",
-    "dateModified": "2019-05-10T09:35:11-04:00",
-    "commentCount": 164,
-    "musicalKey": "A"
+    "datePublished": "2005-05-11T20:00:00-04:00",
+    "dateModified": "2020-02-27T13:23:02-05:00",
+    "commentCount": 102,
+    "musicalKey": "F"
 }

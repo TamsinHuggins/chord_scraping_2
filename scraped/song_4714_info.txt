@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-tragically-hip/wheat-kings-chords-86554",
+    "name": "The Tragically Hip - Wheat Kings (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Tragically Hip"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2018-10-04T13:07:52-04:00",
+    "commentCount": 26,
+    "musicalKey": "G"
+}

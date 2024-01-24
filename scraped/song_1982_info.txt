@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kenny-wayne-shepherd/blue-on-black-chords-57500",
+    "name": "Kenny Wayne Shepherd - Blue On Black (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kenny Wayne Shepherd"
+    },
+    "datePublished": "2003-08-05T20:00:00-04:00",
+    "dateModified": "2021-03-18T23:16:02-04:00",
+    "commentCount": 21
+}

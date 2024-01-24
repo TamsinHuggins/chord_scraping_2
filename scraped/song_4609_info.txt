@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/the-book-of-life-i-love-you-too-much-chords-1694978",
+    "name": "Misc Cartoons - The Book Of Life - I Love You Too Much (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2014-12-30T00:29:06-05:00",
+    "dateModified": "2020-02-03T10:05:49-05:00",
+    "commentCount": 11
+}

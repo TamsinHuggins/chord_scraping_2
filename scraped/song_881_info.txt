@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/snow-patrol/chasing-cars-chords-909697",
+    "name": "Snow Patrol - Chasing Cars (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Snow Patrol"
+    },
+    "datePublished": "2010-01-18T19:00:01-05:00",
+    "dateModified": "2019-11-26T11:58:55-05:00",
+    "commentCount": 24
+}

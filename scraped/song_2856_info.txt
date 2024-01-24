@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dan-shay/10000-hours-chords-2846348",
+    "name": "Dan + Shay - 10000 Hours (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Dan + Shay"
+    },
+    "datePublished": "2019-10-04T01:31:23-04:00",
+    "dateModified": "2019-11-20T10:28:03-05:00",
+    "commentCount": 14,
+    "musicalKey": "Bb"
+}

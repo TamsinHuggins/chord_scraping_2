@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bon-jovi/always-chords-194951",
+    "name": "Bon Jovi - Always (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bon Jovi"
+    },
+    "datePublished": "2005-07-01T20:00:00-04:00",
+    "dateModified": "2020-11-27T13:02:28-05:00",
+    "commentCount": 23,
+    "musicalKey": "E"
+}

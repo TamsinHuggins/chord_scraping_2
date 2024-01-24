@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lucy-rose/shiver-chords-1475838",
+    "name": "Lucy Rose - Shiver (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Lucy Rose"
+    },
+    "datePublished": "2014-04-15T05:30:27-04:00",
+    "dateModified": "2018-09-20T08:07:44-04:00",
+    "commentCount": 28
+}

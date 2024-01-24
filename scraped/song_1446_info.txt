@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/looking-glass/brandy-youre-a-fine-girl-chords-1185866",
+    "name": "Looking Glass - Brandy Youre A Fine Girl (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Looking Glass"
+    },
+    "datePublished": "2012-10-01T20:00:01-04:00",
+    "dateModified": "2021-08-04T21:05:39-04:00",
+    "commentCount": 33,
+    "musicalKey": "E"
+}

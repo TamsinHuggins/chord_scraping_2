@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/girl-crush-chords-2231133",
+    "name": "Harry Styles - Girl Crush (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2017-11-10T00:10:13-05:00",
+    "dateModified": "2020-04-16T21:20:19-04:00",
+    "commentCount": 6,
+    "musicalKey": "C"
+}

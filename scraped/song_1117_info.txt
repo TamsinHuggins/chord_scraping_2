@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kari-jobe/revelation-song-chords-976879",
+    "name": "Kari Jobe - Revelation Song (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kari Jobe"
+    },
+    "datePublished": "2010-08-09T20:00:01-04:00",
+    "dateModified": "2019-01-27T05:36:17-05:00",
+    "commentCount": 50
+}

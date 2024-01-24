@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-children/row-row-row-your-boat-chords-1716395",
+    "name": "Misc Children - Row Row Row Your Boat (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Children"
+    },
+    "datePublished": "2015-03-02T08:25:57-05:00",
+    "dateModified": "2020-12-09T11:03:13-05:00",
+    "commentCount": 11,
+    "musicalKey": "A"
+}

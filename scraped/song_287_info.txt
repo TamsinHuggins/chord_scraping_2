@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/paint-it-black-chords-606572",
+    "name": "The Rolling Stones - Paint It Black (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2007-11-27T19:00:01-05:00",
+    "dateModified": "2020-02-29T01:42:52-05:00",
+    "commentCount": 88,
+    "musicalKey": "Em"
+}

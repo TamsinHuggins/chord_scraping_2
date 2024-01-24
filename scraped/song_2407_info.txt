@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/maverick-city-music/yet-chords-4993672",
+    "name": "Maverick City Music - Yet (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Maverick City Music"
+    },
+    "datePublished": "2023-10-17T15:58:44-04:00",
+    "dateModified": "2023-10-19T11:41:45-04:00",
+    "commentCount": 0,
+    "musicalKey": "C"
+}

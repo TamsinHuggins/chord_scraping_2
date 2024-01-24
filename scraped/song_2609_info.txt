@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alanis-morissette/you-oughta-know-chords-352404",
+    "name": "Alanis Morissette - You Oughta Know (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alanis Morissette"
+    },
+    "datePublished": "2006-04-09T20:00:01-04:00",
+    "dateModified": "2020-12-26T02:55:12-05:00",
+    "commentCount": 17,
+    "musicalKey": "F#m"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-diamond/cracklin-rosie-chords-271710",
+    "name": "Neil Diamond - Cracklin Rosie (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Diamond"
+    },
+    "datePublished": "2005-11-15T19:00:01-05:00",
+    "dateModified": "2018-12-18T08:40:59-05:00",
+    "commentCount": 21,
+    "musicalKey": "Db"
+}

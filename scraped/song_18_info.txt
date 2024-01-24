@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/wish-you-were-here-chords-44555",
-    "name": "Pink Floyd - Wish You Were Here (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/karma-police-chords-103398",
+    "name": "Radiohead - Karma Police (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
     "composer": {
         "@type": "Person",
-        "name": "Pink Floyd"
+        "name": "Radiohead"
     },
-    "datePublished": "2003-01-28T19:00:00-05:00",
-    "dateModified": "2021-01-21T23:31:45-05:00",
-    "commentCount": 229,
-    "musicalKey": "Em"
+    "datePublished": "2004-02-02T19:00:00-05:00",
+    "dateModified": "2020-04-20T07:15:12-04:00",
+    "commentCount": 150,
+    "musicalKey": "Am"
 }

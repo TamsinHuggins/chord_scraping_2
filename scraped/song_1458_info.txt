@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/avicii/the-nights-chords-1688442",
+    "name": "Avicii - The Nights (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ebm Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Avicii"
+    },
+    "datePublished": "2014-12-12T02:54:54-05:00",
+    "dateModified": "2018-04-21T13:02:21-04:00",
+    "commentCount": 19,
+    "musicalKey": "Ebm"
+}

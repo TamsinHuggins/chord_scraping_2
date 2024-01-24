@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/champagne-problems-chords-3461783",
+    "name": "Taylor Swift - Champagne Problems (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-12-11T00:22:07-05:00",
+    "dateModified": "2021-01-24T07:19:05-05:00",
+    "commentCount": 27,
+    "musicalKey": "C"
+}

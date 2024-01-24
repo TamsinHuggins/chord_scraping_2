@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lady-a-lady-antebellum/need-you-now-chords-866111",
+    "name": "Lady A (Lady Antebellum) - Need You Now (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Lady A (Lady Antebellum)"
+    },
+    "datePublished": "2009-08-27T20:00:01-04:00",
+    "dateModified": "2021-01-20T15:02:03-05:00",
+    "commentCount": 48,
+    "musicalKey": "E"
+}

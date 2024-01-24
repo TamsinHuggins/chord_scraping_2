@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/crowded-house/weather-with-you-chords-94631",
+    "name": "Crowded House - Weather With You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Crowded House"
+    },
+    "datePublished": "2003-11-13T19:00:00-05:00",
+    "dateModified": "2019-09-23T09:57:04-04:00",
+    "commentCount": 15
+}

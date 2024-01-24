@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4871393",
+    "name": "Reneé Rapp - Talk Too Much (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Reneé Rapp"
+    },
+    "datePublished": "2023-07-13T12:42:57-04:00",
+    "dateModified": "2023-07-14T12:29:25-04:00",
+    "commentCount": 1,
+    "musicalKey": "D"
+}

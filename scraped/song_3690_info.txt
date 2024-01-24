@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-police/every-little-thing-she-does-is-magic-chords-1692334",
+    "name": "The Police - Every Little Thing She Does Is Magic (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Police"
+    },
+    "datePublished": "2014-12-20T12:40:52-05:00",
+    "dateModified": "2021-12-08T00:46:15-05:00",
+    "commentCount": 6,
+    "musicalKey": "A"
+}

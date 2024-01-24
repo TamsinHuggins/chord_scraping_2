@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/mama-you-been-on-my-mind-chords-949716",
+    "name": "Bob Dylan - Mama You Been On My Mind (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2010-05-16T20:00:01-04:00",
+    "dateModified": "2018-10-08T01:26:47-04:00",
+    "commentCount": 7
+}

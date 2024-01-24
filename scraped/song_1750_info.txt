@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jimmy-buffett/a-pirate-looks-at-forty-chords-966513",
+    "name": "Jimmy Buffett - A Pirate Looks At Forty (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jimmy Buffett"
+    },
+    "datePublished": "2010-07-12T20:00:01-04:00",
+    "dateModified": "2021-04-03T11:56:18-04:00",
+    "commentCount": 27,
+    "musicalKey": "G"
+}

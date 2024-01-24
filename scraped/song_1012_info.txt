@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-mamas-the-papas/dream-a-little-dream-of-me-chords-1131341",
+    "name": "The Mamas & The Papas - Dream A Little Dream Of Me (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Mamas &amp; The Papas"
+    },
+    "datePublished": "2012-02-16T01:15:30-05:00",
+    "dateModified": "2016-04-15T14:11:44-04:00",
+    "commentCount": 45
+}

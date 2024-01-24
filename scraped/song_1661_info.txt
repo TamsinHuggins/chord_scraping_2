@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phil-wickham/battle-belongs-chords-2953958",
+    "name": "Phil Wickham - Battle Belongs (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: Db Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phil Wickham"
+    },
+    "datePublished": "2020-01-09T03:00:23-05:00",
+    "dateModified": "2021-07-20T07:31:15-04:00",
+    "commentCount": 16,
+    "musicalKey": "Db"
+}

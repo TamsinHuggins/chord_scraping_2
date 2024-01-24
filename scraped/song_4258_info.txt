@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jo-dee-messina/heads-carolina-tails-california-chords-2107141",
+    "name": "Jo Dee Messina - Heads Carolina Tails California (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Jo Dee Messina"
+    },
+    "datePublished": "2017-08-14T04:35:31-04:00",
+    "dateModified": "2017-08-14T08:35:31-04:00",
+    "commentCount": 8
+}

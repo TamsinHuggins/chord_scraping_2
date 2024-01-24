@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/little-freak-chords-4198279",
+    "name": "Harry Styles - Little Freak (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2022-05-19T15:45:16-04:00",
+    "dateModified": "2022-06-21T13:36:29-04:00",
+    "commentCount": 7,
+    "musicalKey": "Eb"
+}

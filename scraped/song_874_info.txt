@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dougie-maclean/caledonia-chords-134344",
+    "name": "Dougie Maclean - Caledonia (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Dougie MacLean"
+    },
+    "datePublished": "2004-08-27T20:00:00-04:00",
+    "dateModified": "2021-01-23T11:16:29-05:00",
+    "commentCount": 18
+}

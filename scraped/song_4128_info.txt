@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shawn-mendes/in-my-blood-chords-2347625",
+    "name": "Shawn Mendes - In My Blood (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Shawn Mendes"
+    },
+    "datePublished": "2018-03-22T20:05:09-04:00",
+    "dateModified": "2020-03-18T10:24:02-04:00",
+    "commentCount": 17,
+    "musicalKey": "F"
+}

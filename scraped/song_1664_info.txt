@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/toy-story-2-when-she-loved-me-chords-1007461",
+    "name": "Misc Cartoons - Toy Story 2 - When She Loved Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2010-11-30T19:00:01-05:00",
+    "dateModified": "2020-03-18T14:42:56-04:00",
+    "commentCount": 20,
+    "musicalKey": "C"
+}

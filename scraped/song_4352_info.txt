@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jeremy-riddle/all-hail-king-jesus-chords-2188223",
+    "name": "Jeremy Riddle - All Hail King Jesus (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jeremy Riddle"
+    },
+    "datePublished": "2017-10-06T18:50:15-04:00",
+    "dateModified": "2017-11-19T14:12:01-05:00",
+    "commentCount": 8
+}

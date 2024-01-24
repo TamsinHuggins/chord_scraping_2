@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/celine-dion/pour-que-tu-maimes-encore-chords-372454",
+    "name": "Celine Dion - Pour Que Tu Maimes Encore (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Celine Dion"
+    },
+    "datePublished": "2006-06-01T20:00:01-04:00",
+    "dateModified": "2016-06-14T11:55:27-04:00",
+    "commentCount": 9
+}

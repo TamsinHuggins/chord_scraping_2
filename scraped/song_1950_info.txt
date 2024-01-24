@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/the-needle-and-the-damage-done-chords-1053971",
+    "name": "Neil Young - The Needle And The Damage Done (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2011-05-16T20:00:01-04:00",
+    "dateModified": "2023-08-11T21:34:02-04:00",
+    "commentCount": 30,
+    "musicalKey": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kanye-west/all-falls-down-chords-3631253",
+    "name": "Kanye West - All Falls Down (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ab Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kanye West"
+    },
+    "datePublished": "2021-03-26T20:28:57-04:00",
+    "dateModified": "2021-04-08T00:01:09-04:00",
+    "commentCount": 3,
+    "musicalKey": "Ab"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stevie-wonder/you-are-the-sunshine-of-my-life-chords-213175",
+    "name": "Stevie Wonder - You Are The Sunshine Of My Life (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stevie Wonder"
+    },
+    "datePublished": "2005-09-19T20:00:00-04:00",
+    "dateModified": "2020-02-26T17:32:30-05:00",
+    "commentCount": 14
+}

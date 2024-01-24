@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/mother-chords-544441",
+    "name": "Pink Floyd - Mother (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2007-07-05T20:00:01-04:00",
+    "dateModified": "2023-06-15T01:15:12-04:00",
+    "commentCount": 29
+}

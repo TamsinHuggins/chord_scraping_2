@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blink-182/i-miss-you-chords-330690",
+    "name": "Blink-182 - I Miss You (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blink-182"
+    },
+    "datePublished": "2006-02-07T19:00:01-05:00",
+    "dateModified": "2020-05-07T08:49:34-04:00",
+    "commentCount": 65,
+    "musicalKey": "B"
+}

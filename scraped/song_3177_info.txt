@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-michael/careless-whisper-chords-1857524",
+    "name": "George Michael - Careless Whisper (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "George Michael"
+    },
+    "datePublished": "2016-07-02T05:41:12-04:00",
+    "dateModified": "2017-10-08T07:27:45-04:00",
+    "commentCount": 3,
+    "musicalKey": "Dm"
+}

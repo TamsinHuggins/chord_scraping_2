@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joe-diffie/pickup-man-chords-639488",
+    "name": "Joe Diffie - Pickup Man (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Joe Diffie"
+    },
+    "datePublished": "2008-02-13T19:00:01-05:00",
+    "dateModified": "2020-04-08T17:56:20-04:00",
+    "commentCount": 6
+}

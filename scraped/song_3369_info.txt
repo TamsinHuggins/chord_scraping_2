@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tammy-wynette/stand-by-your-man-chords-871830",
+    "name": "Tammy Wynette - Stand By Your Man (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tammy Wynette"
+    },
+    "datePublished": "2009-09-10T20:00:01-04:00",
+    "dateModified": "2022-01-19T10:53:47-05:00",
+    "commentCount": 15
+}

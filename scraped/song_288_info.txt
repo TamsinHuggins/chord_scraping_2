@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/august-chords-3261347",
+    "name": "Taylor Swift - August (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-07-24T01:53:28-04:00",
+    "dateModified": "2020-08-08T08:07:37-04:00",
+    "commentCount": 47,
+    "musicalKey": "F"
+}

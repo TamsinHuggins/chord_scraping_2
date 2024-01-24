@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/selena-gomez/lose-you-to-love-me-chords-2865605",
+    "name": "Selena Gomez - Lose You To Love Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Selena Gomez"
+    },
+    "datePublished": "2019-10-23T03:13:11-04:00",
+    "dateModified": "2019-11-01T06:11:18-04:00",
+    "commentCount": 9,
+    "musicalKey": "E"
+}

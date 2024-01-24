@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hero/jetzt-weinst-du-chords-5083525",
+    "name": "He/Ro - Jetzt Weinst Du (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "HE/RO"
+    },
+    "datePublished": "2023-12-28T10:58:11-05:00",
+    "dateModified": "2023-12-29T10:09:27-05:00",
+    "commentCount": 0,
+    "musicalKey": "B"
+}

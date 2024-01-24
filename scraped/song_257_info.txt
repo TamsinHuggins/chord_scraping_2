@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/across-the-universe-chords-202167",
+    "name": "The Beatles - Across The Universe (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: Db Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2005-07-31T20:00:00-04:00",
+    "dateModified": "2021-05-22T11:23:58-04:00",
+    "commentCount": 95,
+    "musicalKey": "Db"
+}

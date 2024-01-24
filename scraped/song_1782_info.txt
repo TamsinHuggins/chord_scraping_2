@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-jackson/rock-with-you-chords-574520",
+    "name": "Michael Jackson - Rock With You (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Jackson"
+    },
+    "datePublished": "2007-09-06T20:00:01-04:00",
+    "dateModified": "2016-06-09T13:14:51-04:00",
+    "commentCount": 12
+}

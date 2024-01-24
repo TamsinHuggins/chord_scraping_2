@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sufjan-stevens/fourth-of-july-chords-1731258",
+    "name": "Sufjan Stevens - Fourth Of July (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Sufjan Stevens"
+    },
+    "datePublished": "2015-04-22T02:15:31-04:00",
+    "dateModified": "2017-08-31T23:44:50-04:00",
+    "commentCount": 7,
+    "musicalKey": "G"
+}

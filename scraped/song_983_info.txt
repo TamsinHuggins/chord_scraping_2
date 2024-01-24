@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/under-pressure-chords-340629",
+    "name": "Queen - Under Pressure (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2006-03-06T19:00:01-05:00",
+    "dateModified": "2022-05-25T19:18:26-04:00",
+    "commentCount": 31,
+    "musicalKey": "D"
+}

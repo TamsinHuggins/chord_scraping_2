@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shawn-mendes/fallin-all-in-you-chords-2391975",
+    "name": "Shawn Mendes - Fallin All In You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Shawn Mendes"
+    },
+    "datePublished": "2018-05-24T16:56:24-04:00",
+    "dateModified": "2020-03-04T02:11:40-05:00",
+    "commentCount": 5
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-bowie/the-man-who-sold-the-world-chords-1007478",
+    "name": "David Bowie - The Man Who Sold The World (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Bowie"
+    },
+    "datePublished": "2010-11-28T19:00:01-05:00",
+    "dateModified": "2018-06-20T03:10:58-04:00",
+    "commentCount": 31
+}

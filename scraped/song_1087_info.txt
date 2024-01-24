@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/i-wanna-be-yours-chords-1417191",
+    "name": "Arctic Monkeys - I Wanna Be Yours (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2013-09-09T20:00:01-04:00",
+    "dateModified": "2016-05-10T13:53:21-04:00",
+    "commentCount": 20
+}

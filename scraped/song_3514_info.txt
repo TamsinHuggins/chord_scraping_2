@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cat-stevens-yusuf-islam/moonshadow-chords-434269",
+    "name": "Cat Stevens (Yusuf Islam) - Moonshadow (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cat Stevens (Yusuf Islam)"
+    },
+    "datePublished": "2006-11-12T19:00:01-05:00",
+    "dateModified": "2016-11-16T12:23:49-05:00",
+    "commentCount": 11
+}

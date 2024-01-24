@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/whitney-houston/i-wanna-dance-with-somebody-who-loves-me-chords-585203",
+    "name": "Whitney Houston - I Wanna Dance With Somebody Who Loves Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Whitney Houston"
+    },
+    "datePublished": "2007-10-03T20:00:01-04:00",
+    "dateModified": "2018-09-21T11:43:51-04:00",
+    "commentCount": 23
+}

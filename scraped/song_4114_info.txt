@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/passion/glorious-day-chords-1949913",
+    "name": "Passion - Glorious Day (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Passion"
+    },
+    "datePublished": "2017-02-18T08:40:47-05:00",
+    "dateModified": "2020-01-06T12:57:22-05:00",
+    "commentCount": 12
+}

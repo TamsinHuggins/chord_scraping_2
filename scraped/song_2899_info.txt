@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rivermaya/kisapmata-chords-82388",
+    "name": "Rivermaya - Kisapmata (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rivermaya"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2017-07-27T13:40:41-04:00",
+    "commentCount": 19,
+    "musicalKey": "D"
+}

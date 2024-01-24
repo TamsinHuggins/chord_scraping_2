@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruno-mars/locked-out-of-heaven-chords-1188101",
+    "name": "Bruno Mars - Locked Out Of Heaven (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruno Mars"
+    },
+    "datePublished": "2012-10-11T20:00:01-04:00",
+    "dateModified": "2023-06-26T16:27:06-04:00",
+    "commentCount": 25,
+    "musicalKey": "Dm"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/love-of-my-life-chords-340088",
+    "name": "Queen - Love Of My Life (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2006-03-05T19:00:01-05:00",
+    "dateModified": "2018-11-22T20:45:15-05:00",
+    "commentCount": 90,
+    "musicalKey": "F"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-1975/somebody-else-chords-1787645",
+    "name": "The 1975 - Somebody Else (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The 1975"
+    },
+    "datePublished": "2015-12-03T06:40:18-05:00",
+    "dateModified": "2022-09-11T11:29:09-04:00",
+    "commentCount": 34,
+    "musicalKey": "C"
+}

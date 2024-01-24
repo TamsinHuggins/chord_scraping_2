@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/incubus/drive-chords-1396076",
+    "name": "Incubus - Drive (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Incubus"
+    },
+    "datePublished": "2013-06-13T20:00:01-04:00",
+    "dateModified": "2023-04-15T14:50:16-04:00",
+    "commentCount": 17,
+    "musicalKey": "Em"
+}

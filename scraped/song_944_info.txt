@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-strokes/someday-chords-142675",
+    "name": "The Strokes - Someday (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Strokes"
+    },
+    "datePublished": "2004-10-24T20:00:00-04:00",
+    "dateModified": "2020-10-23T14:54:49-04:00",
+    "commentCount": 39,
+    "musicalKey": "A"
+}

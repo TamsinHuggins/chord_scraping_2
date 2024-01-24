@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ralph-mctell/streets-of-london-chords-76373",
+    "name": "Ralph Mctell - Streets Of London (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Ralph McTell"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-03-13T13:27:44-04:00",
+    "commentCount": 48,
+    "musicalKey": "E"
+}

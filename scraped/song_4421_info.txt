@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-united/so-will-i-100-billion-x-chords-2034223",
+    "name": "Hillsong United - So Will I 100 Billion X (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong United"
+    },
+    "datePublished": "2017-06-08T20:23:16-04:00",
+    "dateModified": "2020-03-25T15:41:32-04:00",
+    "commentCount": 54,
+    "musicalKey": "A"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/steely-dan/do-it-again-chords-2466846",
+    "name": "Steely Dan - Do It Again (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Steely Dan"
+    },
+    "datePublished": "2018-09-07T20:07:06-04:00",
+    "dateModified": "2018-09-11T09:10:59-04:00",
+    "commentCount": 13,
+    "musicalKey": "Gm"
+}

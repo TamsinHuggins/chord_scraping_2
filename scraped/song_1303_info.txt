@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/you-cant-always-get-what-you-want-chords-1089344",
+    "name": "The Rolling Stones - You Cant Always Get What You Want (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2011-08-31T20:00:01-04:00",
+    "dateModified": "2023-08-11T20:55:08-04:00",
+    "commentCount": 28,
+    "musicalKey": "C"
+}

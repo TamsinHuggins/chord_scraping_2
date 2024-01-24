@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-killers/smile-like-you-mean-it-chords-157213",
+    "name": "The Killers - Smile Like You Mean It (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Killers"
+    },
+    "datePublished": "2005-01-11T19:00:00-05:00",
+    "dateModified": "2020-08-18T11:41:21-04:00",
+    "commentCount": 16,
+    "musicalKey": "G"
+}

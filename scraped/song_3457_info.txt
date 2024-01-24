@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/a-sky-full-of-stars-chords-1480619",
+    "name": "Coldplay - A Sky Full Of Stars (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2014-04-30T00:28:24-04:00",
+    "dateModified": "2018-09-17T13:52:00-04:00",
+    "commentCount": 22
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nickelback/rockstar-chords-272181",
+    "name": "Nickelback - Rockstar (chords)",
+    "text": "Difficulty: beginner Tuning: D A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nickelback"
+    },
+    "datePublished": "2005-11-17T19:00:01-05:00",
+    "dateModified": "2019-05-02T20:58:40-04:00",
+    "commentCount": 93
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-killers/read-my-mind-chords-805530",
+    "name": "The Killers - Read My Mind (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Killers"
+    },
+    "datePublished": "2009-03-23T20:00:01-04:00",
+    "dateModified": "2020-08-18T11:34:07-04:00",
+    "commentCount": 26,
+    "musicalKey": "Am"
+}

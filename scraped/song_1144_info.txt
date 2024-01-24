@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/one-direction/little-things-chords-1191790",
+    "name": "One Direction - Little Things (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "One Direction"
+    },
+    "datePublished": "2012-10-29T20:00:01-04:00",
+    "dateModified": "2019-01-09T12:42:08-05:00",
+    "commentCount": 60,
+    "musicalKey": "G"
+}

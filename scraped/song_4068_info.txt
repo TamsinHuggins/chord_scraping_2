@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fall-out-boy/thnks-fr-th-mmrs-chords-1085980",
+    "name": "Fall Out Boy - Thnks Fr Th Mmrs (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Fall Out Boy"
+    },
+    "datePublished": "2011-08-22T20:00:01-04:00",
+    "dateModified": "2023-02-11T21:50:20-05:00",
+    "commentCount": 32
+}

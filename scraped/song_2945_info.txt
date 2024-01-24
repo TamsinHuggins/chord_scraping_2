@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-animals/dont-let-me-be-misunderstood-chords-18691",
+    "name": "The Animals - Dont Let Me Be Misunderstood (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Animals"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2016-05-10T13:02:37-04:00",
+    "commentCount": 19
+}

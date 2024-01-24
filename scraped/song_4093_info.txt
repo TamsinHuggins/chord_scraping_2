@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/leon-bridges/river-chords-1751416",
+    "name": "Leon Bridges - River (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Leon Bridges"
+    },
+    "datePublished": "2015-07-15T06:07:25-04:00",
+    "dateModified": "2018-09-18T10:04:53-04:00",
+    "commentCount": 12
+}

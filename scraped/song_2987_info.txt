@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-computer-games/cyberpunk-2077-i-really-want-to-stay-at-your-house-chords-4006978",
+    "name": "Misc Computer Games - Cyberpunk 2077 - I Really Want To Stay At Your House (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Computer Games"
+    },
+    "datePublished": "2021-12-29T09:36:25-05:00",
+    "dateModified": "2022-10-05T15:38:28-04:00",
+    "commentCount": 6
+}

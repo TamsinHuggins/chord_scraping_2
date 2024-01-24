@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/journey/separate-ways-chords-831150",
+    "name": "Journey - Separate Ways (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Journey"
+    },
+    "datePublished": "2009-05-31T20:00:01-04:00",
+    "dateModified": "2018-09-29T12:53:30-04:00",
+    "commentCount": 11,
+    "musicalKey": "Em"
+}

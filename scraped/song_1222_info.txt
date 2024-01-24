@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fleetwood-mac/landslide-chords-1048613",
+    "name": "Fleetwood Mac - Landslide (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Fleetwood Mac"
+    },
+    "datePublished": "2011-04-18T20:00:01-04:00",
+    "dateModified": "2023-08-11T20:37:41-04:00",
+    "commentCount": 20,
+    "musicalKey": "Eb"
+}

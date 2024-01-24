@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brad-paisley/in-the-garden-chords-874177",
+    "name": "Brad Paisley - In The Garden (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Brad Paisley"
+    },
+    "datePublished": "2009-09-17T20:00:01-04:00",
+    "dateModified": "2009-09-18T00:00:01-04:00",
+    "commentCount": 5
+}

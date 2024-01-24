@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rare-occasions/notion-chords-3378434",
+    "name": "The Rare Occasions - Notion (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rare Occasions"
+    },
+    "datePublished": "2020-10-16T08:49:57-04:00",
+    "dateModified": "2022-01-29T16:11:34-05:00",
+    "commentCount": 13
+}

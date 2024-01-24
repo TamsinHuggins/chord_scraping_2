@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-oh-hellos/soldier-poet-king-chords-1802108",
+    "name": "The Oh Hellos - Soldier Poet King (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Oh Hellos"
+    },
+    "datePublished": "2016-01-11T05:17:08-05:00",
+    "dateModified": "2023-01-27T15:54:38-05:00",
+    "commentCount": 31,
+    "musicalKey": "Eb"
+}

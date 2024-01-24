@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/high-and-dry-chords-1067552",
+    "name": "Radiohead - High And Dry (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Radiohead"
+    },
+    "datePublished": "2011-06-21T20:00:01-04:00",
+    "dateModified": "2020-03-30T11:04:36-04:00",
+    "commentCount": 26
+}

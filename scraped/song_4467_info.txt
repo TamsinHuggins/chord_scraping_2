@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eric-clapton/somewhere-over-the-rainbow-chords-3461147",
+    "name": "Eric Clapton - Somewhere Over The Rainbow (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eric Clapton"
+    },
+    "datePublished": "2020-12-10T14:57:47-05:00",
+    "dateModified": "2022-07-04T00:47:37-04:00",
+    "commentCount": 7
+}

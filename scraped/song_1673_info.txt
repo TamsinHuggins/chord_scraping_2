@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-television/daisy-jones-and-the-six-the-river-chords-4670438",
+    "name": "Misc Television - Daisy Jones And The Six - The River (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Television"
+    },
+    "datePublished": "2023-03-03T09:31:06-05:00",
+    "dateModified": "2023-04-10T12:03:06-04:00",
+    "commentCount": 1,
+    "musicalKey": "Am"
+}

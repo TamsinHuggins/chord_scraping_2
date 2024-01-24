@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joni-mitchell/both-sides-now-chords-1140752",
+    "name": "Joni Mitchell - Both Sides Now (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Joni Mitchell"
+    },
+    "datePublished": "2012-03-26T20:00:01-04:00",
+    "dateModified": "2022-01-19T16:13:55-05:00",
+    "commentCount": 20,
+    "musicalKey": "G"
+}

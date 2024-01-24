@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/maroon-5/she-will-be-loved-chords-995857",
+    "name": "Maroon 5 - She Will Be Loved (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Cm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Maroon 5"
+    },
+    "datePublished": "2010-10-19T20:00:01-04:00",
+    "dateModified": "2021-10-06T20:05:43-04:00",
+    "commentCount": 36,
+    "musicalKey": "Cm"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-police/so-lonely-chords-364306",
+    "name": "The Police - So Lonely (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Police"
+    },
+    "datePublished": "2006-05-11T20:00:01-04:00",
+    "dateModified": "2020-10-12T08:07:09-04:00",
+    "commentCount": 21
+}

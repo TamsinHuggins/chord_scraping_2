@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/willie-nelson/blue-eyes-crying-in-the-rain-chords-349248",
+    "name": "Willie Nelson - Blue Eyes Crying In The Rain (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Willie Nelson"
+    },
+    "datePublished": "2006-04-02T20:00:01-04:00",
+    "dateModified": "2019-09-25T20:27:47-04:00",
+    "commentCount": 11
+}

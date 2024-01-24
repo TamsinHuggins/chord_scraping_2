@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lady-gaga/million-reasons-chords-1884102",
+    "name": "Lady Gaga - Million Reasons (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lady Gaga"
+    },
+    "datePublished": "2016-10-06T03:01:25-04:00",
+    "dateModified": "2019-06-20T06:39:08-04:00",
+    "commentCount": 53,
+    "musicalKey": "C"
+}

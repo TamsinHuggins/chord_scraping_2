@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nancy-sinatra/bang-bang-my-baby-shot-me-down-chords-733292",
+    "name": "Nancy Sinatra - Bang Bang My Baby Shot Me Down (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nancy Sinatra"
+    },
+    "datePublished": "2008-09-17T20:00:01-04:00",
+    "dateModified": "2018-09-27T21:46:11-04:00",
+    "commentCount": 26
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/162691",
+    "name": "Kent - Pärlor (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kent"
+    },
+    "datePublished": "2005-02-06T19:00:00-05:00",
+    "dateModified": "2016-06-15T12:34:42-04:00",
+    "commentCount": 6
+}

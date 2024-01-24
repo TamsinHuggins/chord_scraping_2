@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-outfield/your-love-chords-772505",
+    "name": "The Outfield - Your Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Outfield"
+    },
+    "datePublished": "2009-01-14T19:00:01-05:00",
+    "dateModified": "2023-11-22T01:56:48-05:00",
+    "commentCount": 21
+}

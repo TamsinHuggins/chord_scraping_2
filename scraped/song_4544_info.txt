@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-bowie/heroes-chords-150414",
+    "name": "David Bowie - Heroes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Bowie"
+    },
+    "datePublished": "2004-12-07T19:00:00-05:00",
+    "dateModified": "2020-12-08T12:45:35-05:00",
+    "commentCount": 10
+}

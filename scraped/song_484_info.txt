@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-worship-initiative/graves-into-gardens-chords-3291140",
+    "name": "The Worship Initiative - Graves Into Gardens (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "The Worship Initiative"
+    },
+    "datePublished": "2020-08-13T14:58:51-04:00",
+    "dateModified": "2020-12-17T00:24:44-05:00",
+    "commentCount": 22,
+    "musicalKey": "B"
+}

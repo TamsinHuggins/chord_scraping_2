@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/fat-bottomed-girls-chords-146240",
+    "name": "Queen - Fat Bottomed Girls (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2004-11-14T19:00:00-05:00",
+    "dateModified": "2020-09-01T13:40:35-04:00",
+    "commentCount": 63,
+    "musicalKey": "D"
+}

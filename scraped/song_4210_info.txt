@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sabin-rai/gurashko-fed-muni-chords-1486123",
+    "name": "Sabin Rai - Gurashko Fed Muni (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sabin Rai"
+    },
+    "datePublished": "2014-05-23T05:33:55-04:00",
+    "dateModified": "2014-05-23T09:33:55-04:00",
+    "commentCount": 0
+}

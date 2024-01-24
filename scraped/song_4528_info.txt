@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-dandy-warhols/bohemian-like-you-chords-39590",
+    "name": "The Dandy Warhols - Bohemian Like You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Dandy Warhols"
+    },
+    "datePublished": "2002-11-21T19:00:00-05:00",
+    "dateModified": "2020-09-17T17:37:18-04:00",
+    "commentCount": 17
+}

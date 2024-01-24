@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shelly/steeeam-chords-3610718",
+    "name": "Shelly - Steeeam (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Shelly"
+    },
+    "datePublished": "2021-03-13T18:00:36-05:00",
+    "dateModified": "2021-03-14T01:02:34-05:00",
+    "commentCount": 1
+}

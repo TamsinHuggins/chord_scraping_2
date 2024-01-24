@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/metric/black-sheep-chords-1086822",
+    "name": "Metric - Black Sheep (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Metric"
+    },
+    "datePublished": "2011-09-01T20:00:01-04:00",
+    "dateModified": "2019-12-10T00:53:59-05:00",
+    "commentCount": 14
+}

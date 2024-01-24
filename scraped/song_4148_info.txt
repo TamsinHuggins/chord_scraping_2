@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/exile-chords-3507953",
+    "name": "Taylor Swift - Exile (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2021-01-10T11:13:04-05:00",
+    "dateModified": "2021-01-30T16:42:39-05:00",
+    "commentCount": 0
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-brymer/worthy-of-it-all-chords-1858504",
+    "name": "David Brymer - Worthy Of It All (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "David Brymer"
+    },
+    "datePublished": "2016-07-07T01:41:25-04:00",
+    "dateModified": "2021-04-08T09:19:01-04:00",
+    "commentCount": 9
+}

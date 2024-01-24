@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laufey/letter-to-my-13-year-old-self-chords-4946914",
+    "name": "Laufey - Letter To My 13 Year Old Self (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laufey"
+    },
+    "datePublished": "2023-09-08T16:01:45-04:00",
+    "dateModified": "2023-09-08T20:01:45-04:00",
+    "commentCount": 0
+}

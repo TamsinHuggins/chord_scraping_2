@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kings-of-leon/use-somebody-chords-792141",
+    "name": "Kings Of Leon - Use Somebody (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kings of Leon"
+    },
+    "datePublished": "2009-02-16T19:00:01-05:00",
+    "dateModified": "2017-03-03T21:40:38-05:00",
+    "commentCount": 20
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/darlene-zschech/there-is-none-like-you-chords-406885",
+    "name": "Darlene Zschech - There Is None Like You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Darlene Zschech"
+    },
+    "datePublished": "2006-08-27T20:00:01-04:00",
+    "dateModified": "2020-11-12T01:25:39-05:00",
+    "commentCount": 5
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-script/the-man-who-cant-be-moved-chords-716149",
+    "name": "The Script - The Man Who Cant Be Moved (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Script"
+    },
+    "datePublished": "2008-08-14T20:00:01-04:00",
+    "dateModified": "2023-08-30T13:02:38-04:00",
+    "commentCount": 87,
+    "musicalKey": "G"
+}

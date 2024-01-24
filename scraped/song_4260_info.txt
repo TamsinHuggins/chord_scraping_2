@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blink-182/whats-my-age-again-chords-1173080",
+    "name": "Blink-182 - Whats My Age Again (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blink-182"
+    },
+    "datePublished": "2012-08-05T20:00:01-04:00",
+    "dateModified": "2016-06-06T13:42:36-04:00",
+    "commentCount": 4
+}

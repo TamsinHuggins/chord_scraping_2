@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/shivers-chords-3867803",
+    "name": "Ed Sheeran - Shivers (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2021-09-09T19:05:04-04:00",
+    "dateModified": "2021-09-19T19:31:13-04:00",
+    "commentCount": 10,
+    "musicalKey": "D"
+}

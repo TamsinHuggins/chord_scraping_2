@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/kyoto-chords-3077924",
+    "name": "Phoebe Bridgers - Kyoto (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phoebe Bridgers"
+    },
+    "datePublished": "2020-04-09T12:07:53-04:00",
+    "dateModified": "2020-04-09T16:56:01-04:00",
+    "commentCount": 6,
+    "musicalKey": "B"
+}

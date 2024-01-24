@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elvis-costello/she-chords-116625",
+    "name": "Elvis Costello - She (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elvis Costello"
+    },
+    "datePublished": "2004-05-07T20:00:00-04:00",
+    "dateModified": "2016-10-28T10:33:09-04:00",
+    "commentCount": 13
+}

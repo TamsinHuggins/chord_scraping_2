@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-smiths/there-is-a-light-that-never-goes-out-chords-84219",
+    "name": "The Smiths - There Is A Light That Never Goes Out (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "The Smiths"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-04-29T20:32:49-04:00",
+    "commentCount": 39,
+    "musicalKey": "B"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-lumineers/angela-chords-1831583",
+    "name": "The Lumineers - Angela (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "The Lumineers"
+    },
+    "datePublished": "2016-04-01T12:45:12-04:00",
+    "dateModified": "2022-03-05T10:37:45-05:00",
+    "commentCount": 53,
+    "musicalKey": "G"
+}

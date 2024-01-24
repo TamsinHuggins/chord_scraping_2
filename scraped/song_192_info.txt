@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4814012",
+    "name": "Reneé Rapp - Snow Angel (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Reneé Rapp"
+    },
+    "datePublished": "2023-06-09T10:22:01-04:00",
+    "dateModified": "2023-07-20T10:29:51-04:00",
+    "commentCount": 3
+}

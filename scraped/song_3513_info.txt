@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cigarettes-after-sex/sweet-chords-2040359",
+    "name": "Cigarettes After Sex - Sweet (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cigarettes After Sex"
+    },
+    "datePublished": "2017-06-16T08:12:36-04:00",
+    "dateModified": "2017-07-08T14:58:24-04:00",
+    "commentCount": 5
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/maverick-city-music/rest-on-us-chords-2967584",
+    "name": "Maverick City Music - Rest On Us (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Maverick City Music"
+    },
+    "datePublished": "2020-01-23T00:20:42-05:00",
+    "dateModified": "2023-05-14T17:50:16-04:00",
+    "commentCount": 12,
+    "musicalKey": "Bb"
+}

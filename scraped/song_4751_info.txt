@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-prine/hello-in-there-chords-875392",
+    "name": "John Prine - Hello In There (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "John Prine"
+    },
+    "datePublished": "2009-09-21T20:00:01-04:00",
+    "dateModified": "2020-08-24T20:27:30-04:00",
+    "commentCount": 38,
+    "musicalKey": "C"
+}

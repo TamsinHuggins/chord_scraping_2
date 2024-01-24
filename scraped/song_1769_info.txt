@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/franz-schubert/ave-maria-chords-783974",
+    "name": "Franz Schubert - Ave Maria (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Franz Schubert"
+    },
+    "datePublished": "2009-01-27T19:00:01-05:00",
+    "dateModified": "2018-03-30T14:44:47-04:00",
+    "commentCount": 18,
+    "musicalKey": "C"
+}

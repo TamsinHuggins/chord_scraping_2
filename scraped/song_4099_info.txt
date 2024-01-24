@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stevie-ray-vaughan-double-trouble/pride-and-joy-chords-1245692",
+    "name": "Stevie Ray Vaughan & Double Trouble - Pride And Joy (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stevie Ray Vaughan &amp; Double Trouble"
+    },
+    "datePublished": "2013-05-20T20:00:01-04:00",
+    "dateModified": "2020-03-16T21:10:30-04:00",
+    "commentCount": 22
+}

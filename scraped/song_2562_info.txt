@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sajjan-raj-vaidya/dhairya-chords-4395302",
+    "name": "Sajjan Raj Vaidya - Dhairya (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Sajjan Raj Vaidya"
+    },
+    "datePublished": "2022-10-22T10:08:54-04:00",
+    "dateModified": "2022-10-29T09:18:54-04:00",
+    "commentCount": 0
+}

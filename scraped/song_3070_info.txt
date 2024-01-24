@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/buddy-holly/thatll-be-the-day-chords-358890",
+    "name": "Buddy Holly - Thatll Be The Day (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Buddy Holly"
+    },
+    "datePublished": "2006-04-26T20:00:01-04:00",
+    "dateModified": "2023-03-05T21:39:08-05:00",
+    "commentCount": 63
+}

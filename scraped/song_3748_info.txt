@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/3009404",
+    "name": "Belén Aguilera - Mía (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Belén Aguilera"
+    },
+    "datePublished": "2020-02-28T11:44:22-05:00",
+    "dateModified": "2020-03-02T18:13:23-05:00",
+    "commentCount": 0
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/damien-rice/9-crimes-chords-433014",
+    "name": "Damien Rice - 9 Crimes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Damien Rice"
+    },
+    "datePublished": "2006-11-08T19:00:01-05:00",
+    "dateModified": "2018-01-24T07:14:24-05:00",
+    "commentCount": 25
+}

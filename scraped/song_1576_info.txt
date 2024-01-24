@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/hymn-for-the-weekend-chords-1787495",
+    "name": "Coldplay - Hymn For The Weekend (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Fm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2015-12-02T04:57:03-05:00",
+    "dateModified": "2022-05-09T18:23:45-04:00",
+    "commentCount": 20,
+    "musicalKey": "Fm"
+}

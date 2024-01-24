@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/morgan-wallen/last-night-chords-4626815",
+    "name": "Morgan Wallen - Last Night (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ebm Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Morgan Wallen"
+    },
+    "datePublished": "2023-01-31T09:55:56-05:00",
+    "dateModified": "2023-03-04T14:58:43-05:00",
+    "commentCount": 3,
+    "musicalKey": "Ebm"
+}

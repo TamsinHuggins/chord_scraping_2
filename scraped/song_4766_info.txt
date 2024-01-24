@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/bad-blood-chords-1674140",
+    "name": "Taylor Swift - Bad Blood (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2014-10-24T13:39:08-04:00",
+    "dateModified": "2017-11-14T10:13:56-05:00",
+    "commentCount": 16
+}

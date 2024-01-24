@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-marley/waiting-in-vain-chords-724931",
+    "name": "Bob Marley - Waiting In Vain (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ab Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Marley"
+    },
+    "datePublished": "2008-08-25T20:00:01-04:00",
+    "dateModified": "2018-12-10T08:45:07-05:00",
+    "commentCount": 20,
+    "musicalKey": "Ab"
+}

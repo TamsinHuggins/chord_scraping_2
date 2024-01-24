@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pearl-jam/black-chords-758251",
+    "name": "Pearl Jam - Black (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pearl Jam"
+    },
+    "datePublished": "2008-11-21T19:00:01-05:00",
+    "dateModified": "2019-10-05T09:47:49-04:00",
+    "commentCount": 24
+}

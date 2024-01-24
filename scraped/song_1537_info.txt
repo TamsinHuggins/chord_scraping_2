@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/paranoid-android-chords-940079",
+    "name": "Radiohead - Paranoid Android (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Radiohead"
+    },
+    "datePublished": "2010-04-13T20:00:01-04:00",
+    "dateModified": "2020-01-17T05:45:46-05:00",
+    "commentCount": 25
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tamino/indigo-night-chords-2504241",
+    "name": "Tamino - Indigo Night (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Tamino"
+    },
+    "datePublished": "2018-10-28T12:27:42-04:00",
+    "dateModified": "2020-07-04T09:09:43-04:00",
+    "commentCount": 6
+}

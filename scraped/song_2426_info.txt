@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sean-kingston/beautiful-girls-chords-1082477",
+    "name": "Sean Kingston - Beautiful Girls (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Sean Kingston"
+    },
+    "datePublished": "2011-08-10T20:00:01-04:00",
+    "dateModified": "2021-02-02T15:47:35-05:00",
+    "commentCount": 0,
+    "musicalKey": "A"
+}

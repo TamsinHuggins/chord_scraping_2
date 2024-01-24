@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/declan-mckenna/slipping-through-my-fingers-chords-4426862",
+    "name": "Declan Mckenna - Slipping Through My Fingers (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Declan McKenna"
+    },
+    "datePublished": "2022-11-16T15:59:07-05:00",
+    "dateModified": "2022-11-17T14:32:56-05:00",
+    "commentCount": 0
+}

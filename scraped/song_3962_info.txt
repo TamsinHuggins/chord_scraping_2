@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sanah/ostatnia-nadzieja-chords-4157251",
+    "name": "Sanah - Ostatnia Nadzieja (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "sanah"
+    },
+    "datePublished": "2022-04-17T16:40:17-04:00",
+    "dateModified": "2022-04-18T14:43:53-04:00",
+    "commentCount": 4
+}

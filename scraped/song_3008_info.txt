@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/miley-cyrus/when-i-look-at-you-chords-868641",
+    "name": "Miley Cyrus - When I Look At You (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Miley Cyrus"
+    },
+    "datePublished": "2009-09-02T20:00:01-04:00",
+    "dateModified": "2020-08-07T10:50:31-04:00",
+    "commentCount": 30,
+    "musicalKey": "Em"
+}

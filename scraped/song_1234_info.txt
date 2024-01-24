@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/natalie-imbruglia/torn-chords-989199",
+    "name": "Natalie Imbruglia - Torn (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Natalie Imbruglia"
+    },
+    "datePublished": "2010-09-20T20:00:01-04:00",
+    "dateModified": "2016-04-11T13:21:23-04:00",
+    "commentCount": 30
+}

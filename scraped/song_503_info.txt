@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4375667",
+    "name": "Måneskin - The Loneliest (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Måneskin"
+    },
+    "datePublished": "2022-10-06T19:21:48-04:00",
+    "dateModified": "2022-10-08T16:03:33-04:00",
+    "commentCount": 14,
+    "musicalKey": "D"
+}

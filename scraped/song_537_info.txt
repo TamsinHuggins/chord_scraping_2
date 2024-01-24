@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/scorpions/still-loving-you-chords-1088579",
+    "name": "Scorpions - Still Loving You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Scorpions"
+    },
+    "datePublished": "2011-08-29T20:00:01-04:00",
+    "dateModified": "2023-04-17T22:49:22-04:00",
+    "commentCount": 24
+}

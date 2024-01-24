@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/five-for-fighting/superman-its-not-easy-chords-13305",
+    "name": "Five For Fighting - Superman Its Not Easy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Five for Fighting"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2019-10-08T08:29:19-04:00",
+    "commentCount": 63,
+    "musicalKey": "C"
+}

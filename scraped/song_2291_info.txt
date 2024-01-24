@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chicago/25-or-6-to-4-chords-1242528",
+    "name": "Chicago - 25 Or 6 To 4 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chicago"
+    },
+    "datePublished": "2013-05-01T20:00:01-04:00",
+    "dateModified": "2013-05-02T00:00:01-04:00",
+    "commentCount": 23
+}

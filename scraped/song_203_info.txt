@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frank-sinatra/my-way-chords-1017398",
+    "name": "Frank Sinatra - My Way (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Frank Sinatra"
+    },
+    "datePublished": "2011-01-19T19:00:01-05:00",
+    "dateModified": "2020-03-04T23:18:39-05:00",
+    "commentCount": 45,
+    "musicalKey": "C"
+}

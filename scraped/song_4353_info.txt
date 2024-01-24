@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/patsy-cline/tennessee-waltz-chords-1062257",
+    "name": "Patsy Cline - Tennessee Waltz (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Patsy Cline"
+    },
+    "datePublished": "2011-05-31T20:00:01-04:00",
+    "dateModified": "2023-06-22T22:00:18-04:00",
+    "commentCount": 24
+}

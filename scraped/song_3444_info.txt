@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/arabella-chords-1475822",
+    "name": "Arctic Monkeys - Arabella (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2014-04-15T05:11:03-04:00",
+    "dateModified": "2022-09-07T21:21:25-04:00",
+    "commentCount": 18
+}

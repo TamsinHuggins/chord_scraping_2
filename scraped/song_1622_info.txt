@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/love-is-embarrassing-chords-4945537",
+    "name": "Olivia Rodrigo - Love Is Embarrassing (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2023-09-07T17:38:30-04:00",
+    "dateModified": "2023-09-09T02:49:32-04:00",
+    "commentCount": 7,
+    "musicalKey": "A"
+}

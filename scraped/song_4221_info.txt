@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-tomlin/indescribable-chords-158280",
+    "name": "Chris Tomlin - Indescribable (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Tomlin"
+    },
+    "datePublished": "2005-01-16T19:00:00-05:00",
+    "dateModified": "2016-04-18T15:58:59-04:00",
+    "commentCount": 33
+}

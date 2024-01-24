@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/missy-higgins/scar-chords-1066005",
+    "name": "Missy Higgins - Scar (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Missy Higgins"
+    },
+    "datePublished": "2011-06-14T20:00:01-04:00",
+    "dateModified": "2019-05-08T15:40:37-04:00",
+    "commentCount": 12
+}

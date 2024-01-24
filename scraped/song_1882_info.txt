@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-tomlin/our-god-chords-910102",
+    "name": "Chris Tomlin - Our God (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Tomlin"
+    },
+    "datePublished": "2010-01-07T19:00:01-05:00",
+    "dateModified": "2018-07-02T23:20:24-04:00",
+    "commentCount": 27
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cityalight/yet-not-i-but-through-christ-in-me-chords-2515311",
+    "name": "Cityalight - Yet Not I But Through Christ In Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "CityAlight"
+    },
+    "datePublished": "2018-11-11T10:27:39-05:00",
+    "dateModified": "2020-04-15T08:14:41-04:00",
+    "commentCount": 10,
+    "musicalKey": "C"
+}

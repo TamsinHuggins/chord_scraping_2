@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/foo-fighters/the-glass-chords-4802741",
+    "name": "Foo Fighters - The Glass (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Foo Fighters"
+    },
+    "datePublished": "2023-06-02T05:22:54-04:00",
+    "dateModified": "2023-06-02T09:28:44-04:00",
+    "commentCount": 1,
+    "musicalKey": "A"
+}

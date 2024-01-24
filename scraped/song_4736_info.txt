@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/she-chords-1007372",
+    "name": "Green Day - She (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2010-11-29T19:00:01-05:00",
+    "dateModified": "2021-08-15T13:23:09-04:00",
+    "commentCount": 2
+}

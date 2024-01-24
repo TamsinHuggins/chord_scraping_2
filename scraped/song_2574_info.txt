@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-combs/one-number-away-chords-1920751",
+    "name": "Luke Combs - One Number Away (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Combs"
+    },
+    "datePublished": "2016-12-30T07:54:02-05:00",
+    "dateModified": "2019-11-07T13:06:26-05:00",
+    "commentCount": 25,
+    "musicalKey": "F#m"
+}

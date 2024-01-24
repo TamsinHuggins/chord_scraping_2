@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/love/everybodys-gotta-live-chords-1160004",
+    "name": "Love - Everybodys Gotta Live (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Love"
+    },
+    "datePublished": "2012-06-07T20:00:01-04:00",
+    "dateModified": "2021-01-04T17:25:15-05:00",
+    "commentCount": 13
+}

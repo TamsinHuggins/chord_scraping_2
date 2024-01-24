@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-prine/sam-stone-chords-1052027",
+    "name": "John Prine - Sam Stone (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "John Prine"
+    },
+    "datePublished": "2011-04-28T20:00:01-04:00",
+    "dateModified": "2022-08-10T21:30:09-04:00",
+    "commentCount": 31,
+    "musicalKey": "D"
+}

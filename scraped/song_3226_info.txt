@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jpt-rockerz/basanta-chords-1798118",
+    "name": "Jpt Rockerz - Basanta (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "JPT rockerz"
+    },
+    "datePublished": "2015-12-29T06:46:05-05:00",
+    "dateModified": "2020-12-05T13:51:12-05:00",
+    "commentCount": 7
+}

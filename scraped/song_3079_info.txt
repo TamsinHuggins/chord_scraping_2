@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alan-jackson/the-older-i-get-chords-2221481",
+    "name": "Alan Jackson - The Older I Get (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alan Jackson"
+    },
+    "datePublished": "2017-10-30T17:08:05-04:00",
+    "dateModified": "2017-11-02T14:58:53-04:00",
+    "commentCount": 18
+}

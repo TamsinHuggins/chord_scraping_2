@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-denver/back-home-again-chords-1042970",
+    "name": "John Denver - Back Home Again (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Denver"
+    },
+    "datePublished": "2011-04-04T20:00:01-04:00",
+    "dateModified": "2023-08-10T18:04:59-04:00",
+    "commentCount": 23
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-chords-627220",
+    "name": "Eric Clapton - Tears In Heaven (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eric Clapton"
+    },
+    "datePublished": "2008-01-16T19:00:01-05:00",
+    "dateModified": "2020-03-25T12:31:33-04:00",
+    "commentCount": 53,
+    "musicalKey": "A"
+}

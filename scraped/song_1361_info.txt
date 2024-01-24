@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/the-lakes-chords-3280151",
+    "name": "Taylor Swift - The Lakes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-08-05T17:08:40-04:00",
+    "dateModified": "2020-08-18T19:42:16-04:00",
+    "commentCount": 20,
+    "musicalKey": "D"
+}

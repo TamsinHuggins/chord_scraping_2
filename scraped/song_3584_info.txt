@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bhashi/viramayak-chords-3835310",
+    "name": "Bhashi - Viramayak (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Bhashi"
+    },
+    "datePublished": "2021-08-16T03:33:22-04:00",
+    "dateModified": "2021-08-17T12:44:59-04:00",
+    "commentCount": 1,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-tomlin/shout-to-the-lord-chords-489575",
+    "name": "Chris Tomlin - Shout To The Lord (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Tomlin"
+    },
+    "datePublished": "2007-03-20T20:00:01-04:00",
+    "dateModified": "2022-04-10T15:55:45-04:00",
+    "commentCount": 31,
+    "musicalKey": "C"
+}

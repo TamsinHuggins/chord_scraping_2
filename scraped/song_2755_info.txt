@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/steve-lacy/infrunami-chords-3451145",
+    "name": "Steve Lacy - Infrunami (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Steve Lacy"
+    },
+    "datePublished": "2020-12-04T05:16:19-05:00",
+    "dateModified": "2020-12-04T11:07:02-05:00",
+    "commentCount": 3
+}

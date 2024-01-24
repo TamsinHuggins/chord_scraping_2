@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/third-eye-blind/jumper-chords-1406",
+    "name": "Third Eye Blind - Jumper (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Third Eye Blind"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2023-12-28T04:02:01-05:00",
+    "commentCount": 77
+}

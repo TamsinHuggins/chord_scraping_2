@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-mashups/maroon-5-memories-maroon-5-girls-like-you-lewis-capaldi-someone-you-love-chords-3853469",
+    "name": "Misc Mashups - Maroon 5 - Memories - Maroon 5 - Girls Like You - Lewis Capaldi - Someone You Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Mashups"
+    },
+    "datePublished": "2021-08-29T12:32:09-04:00",
+    "dateModified": "2021-09-01T17:01:35-04:00",
+    "commentCount": 2
+}

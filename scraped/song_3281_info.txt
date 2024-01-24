@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/fear-and-fridays-chords-4744724",
+    "name": "Zach Bryan - Fear And Fridays (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2023-04-27T16:28:18-04:00",
+    "dateModified": "2023-04-27T20:28:19-04:00",
+    "commentCount": 2
+}

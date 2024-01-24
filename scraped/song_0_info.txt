@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/stick-season-chords-4271572",
-    "name": "Noah Kahan - Stick Season (chords)",
-    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/boulevard-of-broken-dreams-chords-146744",
+    "name": "Green Day - Boulevard Of Broken Dreams (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Fm Capo: 1",
     "composer": {
         "@type": "Person",
-        "name": "Noah Kahan"
+        "name": "Green Day"
     },
-    "datePublished": "2022-07-14T13:51:10-04:00",
-    "dateModified": "2022-07-15T16:24:42-04:00",
-    "commentCount": 23,
-    "musicalKey": "A"
+    "datePublished": "2004-11-16T19:00:00-05:00",
+    "dateModified": "2022-02-12T07:28:02-05:00",
+    "commentCount": 275,
+    "musicalKey": "Fm"
 }

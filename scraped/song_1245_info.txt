@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/mariners-apartment-complex-chords-2470294",
+    "name": "Lana Del Rey - Mariners Apartment Complex (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2018-09-12T19:55:12-04:00",
+    "dateModified": "2019-09-12T22:19:55-04:00",
+    "commentCount": 16,
+    "musicalKey": "E"
+}

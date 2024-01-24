@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/sign-of-the-times-chords-1977189",
+    "name": "Harry Styles - Sign Of The Times (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2017-04-07T04:30:27-04:00",
+    "dateModified": "2017-07-14T12:14:06-04:00",
+    "commentCount": 83,
+    "musicalKey": "F"
+}

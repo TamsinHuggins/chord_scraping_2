@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-musicals/dear-evan-hansen-you-will-be-found-chords-1944941",
+    "name": "Misc Musicals - Dear Evan Hansen - You Will Be Found (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Abm Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Musicals"
+    },
+    "datePublished": "2017-02-08T11:46:10-05:00",
+    "dateModified": "2021-04-21T22:51:46-04:00",
+    "commentCount": 18,
+    "musicalKey": "Abm"
+}

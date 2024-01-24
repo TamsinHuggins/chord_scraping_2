@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/anna-nalick/breathe-2-am-chords-159089",
+    "name": "Anna Nalick - Breathe 2 Am (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Anna Nalick"
+    },
+    "datePublished": "2005-01-19T19:00:00-05:00",
+    "dateModified": "2018-09-22T12:41:50-04:00",
+    "commentCount": 28
+}

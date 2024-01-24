@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-musicals/dear-evan-hansen-waving-through-a-window-chords-1864736",
+    "name": "Misc Musicals - Dear Evan Hansen - Waving Through A Window (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Musicals"
+    },
+    "datePublished": "2016-08-04T02:20:16-04:00",
+    "dateModified": "2021-04-21T21:53:35-04:00",
+    "commentCount": 18
+}

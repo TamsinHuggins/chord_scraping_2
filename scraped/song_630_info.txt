@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/happiness-is-a-butterfly-chords-2803877",
+    "name": "Lana Del Rey - Happiness Is A Butterfly (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2019-08-24T03:06:09-04:00",
+    "dateModified": "2019-09-16T17:26:28-04:00",
+    "commentCount": 11,
+    "musicalKey": "D"
+}

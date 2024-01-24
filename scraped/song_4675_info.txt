@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paolo-nutini/writer-chords-4254208",
+    "name": "Paolo Nutini - Writer (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Paolo Nutini"
+    },
+    "datePublished": "2022-07-01T10:24:29-04:00",
+    "dateModified": "2023-07-25T11:37:27-04:00",
+    "commentCount": 1,
+    "musicalKey": "Ab"
+}

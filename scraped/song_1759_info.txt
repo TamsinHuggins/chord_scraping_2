@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/anne-marie/2002-chords-2372275",
+    "name": "Anne-Marie - 2002 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Anne-Marie"
+    },
+    "datePublished": "2018-04-20T21:19:00-04:00",
+    "dateModified": "2021-09-18T08:20:11-04:00",
+    "commentCount": 46,
+    "musicalKey": "E"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-young/gettin-you-home-chords-839015",
+    "name": "Chris Young - Gettin You Home (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Young"
+    },
+    "datePublished": "2009-06-22T20:00:01-04:00",
+    "dateModified": "2020-11-11T16:57:09-05:00",
+    "commentCount": 17
+}

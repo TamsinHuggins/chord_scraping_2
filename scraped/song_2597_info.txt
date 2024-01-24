@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elvis-presley/cant-help-falling-in-love-chords-1788089",
+    "name": "Elvis Presley - Cant Help Falling In Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Elvis Presley"
+    },
+    "datePublished": "2015-12-03T17:00:21-05:00",
+    "dateModified": "2020-04-10T00:59:35-04:00",
+    "commentCount": 27,
+    "musicalKey": "C"
+}

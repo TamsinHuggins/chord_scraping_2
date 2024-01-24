@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/happier-than-ever-chords-3812195",
+    "name": "Billie Eilish - Happier Than Ever (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2021-07-29T18:26:43-04:00",
+    "dateModified": "2021-08-02T03:07:02-04:00",
+    "commentCount": 12
+}

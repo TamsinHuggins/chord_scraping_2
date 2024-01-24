@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beabadoobee/glue-song-chords-4444931",
+    "name": "Beabadoobee - Glue Song (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "beabadoobee"
+    },
+    "datePublished": "2022-12-01T16:39:22-05:00",
+    "dateModified": "2023-12-07T22:32:01-05:00",
+    "commentCount": 8,
+    "musicalKey": "Db"
+}

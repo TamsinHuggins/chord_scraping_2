@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cat-power/sea-of-love-chords-52723",
+    "name": "Cat Power - Sea Of Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Cat Power"
+    },
+    "datePublished": "2003-06-01T20:00:00-04:00",
+    "dateModified": "2019-11-09T12:35:27-05:00",
+    "commentCount": 15
+}

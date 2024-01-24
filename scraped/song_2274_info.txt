@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/madonna/like-a-prayer-chords-430320",
+    "name": "Madonna - Like A Prayer (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Madonna"
+    },
+    "datePublished": "2006-11-02T19:00:01-05:00",
+    "dateModified": "2020-09-20T20:22:01-04:00",
+    "commentCount": 17
+}

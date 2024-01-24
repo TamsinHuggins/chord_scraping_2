@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/acdc/back-in-black-chords-18953",
+    "name": "Ac/Dc - Back In Black (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "AC/DC"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-11-24T14:12:23-05:00",
+    "commentCount": 69,
+    "musicalKey": "E"
+}

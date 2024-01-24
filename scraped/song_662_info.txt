@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cat-stevens-yusuf-islam/morning-has-broken-chords-84520",
+    "name": "Cat Stevens (Yusuf Islam) - Morning Has Broken (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cat Stevens (Yusuf Islam)"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-04-15T14:41:18-04:00",
+    "commentCount": 58
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-stapleton/fire-away-chords-1732787",
+    "name": "Chris Stapleton - Fire Away (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Stapleton"
+    },
+    "datePublished": "2015-05-06T01:37:06-04:00",
+    "dateModified": "2018-06-08T06:42:14-04:00",
+    "commentCount": 18
+}

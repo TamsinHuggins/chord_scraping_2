@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/seether/fine-again-chords-35763",
+    "name": "Seether - Fine Again (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Seether"
+    },
+    "datePublished": "2002-09-10T20:00:00-04:00",
+    "dateModified": "2022-03-17T00:14:16-04:00",
+    "commentCount": 20
+}

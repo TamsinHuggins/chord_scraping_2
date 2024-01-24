@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/high-school-musical-start-of-something-new-chords-401025",
+    "name": "Misc Soundtrack - High School Musical - Start Of Something New (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2006-08-13T20:00:01-04:00",
+    "dateModified": "2020-10-02T01:16:03-04:00",
+    "commentCount": 4
+}

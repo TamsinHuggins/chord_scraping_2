@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/male-fantasy-chords-3812129",
+    "name": "Billie Eilish - Male Fantasy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2021-07-29T17:31:53-04:00",
+    "dateModified": "2021-12-14T16:11:59-05:00",
+    "commentCount": 15,
+    "musicalKey": "D"
+}

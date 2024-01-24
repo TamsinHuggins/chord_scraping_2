@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bathiya-santhush/kiri-kodu-hithata-chords-3116666",
+    "name": "Bathiya & Santhush - Kiri Kodu Hithata (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bathiya &amp; Santhush"
+    },
+    "datePublished": "2020-04-27T12:41:30-04:00",
+    "dateModified": "2021-09-22T14:09:45-04:00",
+    "commentCount": 1,
+    "musicalKey": "G"
+}

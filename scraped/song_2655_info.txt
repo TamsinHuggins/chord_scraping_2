@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-computer-games/baldurs-gate-3-down-by-the-river-chords-4902784",
+    "name": "Misc Computer Games - Baldurs Gate 3 - Down By The River (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Computer Games"
+    },
+    "datePublished": "2023-08-04T17:48:34-04:00",
+    "dateModified": "2023-09-10T19:00:04-04:00",
+    "commentCount": 3
+}

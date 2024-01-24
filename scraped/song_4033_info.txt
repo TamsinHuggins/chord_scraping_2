@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1694561",
+    "name": "Misc Cartoons - Das Dschungelbuch - Probiers Mal Mit Gemütlichkeit (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2014-12-29T00:10:48-05:00",
+    "dateModified": "2016-06-29T08:39:41-04:00",
+    "commentCount": 5
+}

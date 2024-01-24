@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-fender/seventeen-going-under-chords-3785894",
+    "name": "Sam Fender - Seventeen Going Under (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C# Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Fender"
+    },
+    "datePublished": "2021-07-09T21:29:33-04:00",
+    "dateModified": "2021-07-10T13:32:27-04:00",
+    "commentCount": 11,
+    "musicalKey": "C#"
+}

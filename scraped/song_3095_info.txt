@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/essential-worship/la-bondad-de-dios-chords-3196160",
+    "name": "Essential Worship - La Bondad De Dios (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Essential Worship"
+    },
+    "datePublished": "2020-06-12T00:23:19-04:00",
+    "dateModified": "2022-06-30T04:35:23-04:00",
+    "commentCount": 2
+}

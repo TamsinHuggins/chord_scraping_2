@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/10cc/im-not-in-love-chords-1774226",
+    "name": "10Cc - Im Not In Love (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "10cc"
+    },
+    "datePublished": "2015-10-15T14:01:35-04:00",
+    "dateModified": "2021-08-16T09:51:15-04:00",
+    "commentCount": 14
+}

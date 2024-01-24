@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/keith-whitley/when-you-say-nothing-at-all-chords-495272",
+    "name": "Keith Whitley - When You Say Nothing At All (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Keith Whitley"
+    },
+    "datePublished": "2007-04-01T20:00:01-04:00",
+    "dateModified": "2021-12-16T13:58:44-05:00",
+    "commentCount": 14,
+    "musicalKey": "Eb"
+}

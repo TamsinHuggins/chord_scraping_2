@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/huey-lewis-the-news/the-power-of-love-chords-74096",
+    "name": "Huey Lewis & The News - The Power Of Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Huey Lewis &amp; The News"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2017-05-10T14:42:58-04:00",
+    "commentCount": 19
+}

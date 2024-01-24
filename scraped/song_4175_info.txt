@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-floersch/ghost-of-chicago-chords-4699109",
+    "name": "Noah Floersch - Ghost Of Chicago (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Floersch"
+    },
+    "datePublished": "2023-03-24T16:06:04-04:00",
+    "dateModified": "2023-03-25T10:59:19-04:00",
+    "commentCount": 4
+}

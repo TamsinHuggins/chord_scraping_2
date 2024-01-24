@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/benson-boone/in-the-stars-chords-4171666",
+    "name": "Benson Boone - In The Stars (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Benson Boone"
+    },
+    "datePublished": "2022-04-28T15:20:48-04:00",
+    "dateModified": "2023-09-01T11:44:57-04:00",
+    "commentCount": 24,
+    "musicalKey": "Bb"
+}

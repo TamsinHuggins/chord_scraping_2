@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/willie-nelson/on-the-road-again-chords-1084379",
+    "name": "Willie Nelson - On The Road Again (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Willie Nelson"
+    },
+    "datePublished": "2011-08-18T20:00:01-04:00",
+    "dateModified": "2020-07-21T12:39:01-04:00",
+    "commentCount": 29,
+    "musicalKey": "E"
+}

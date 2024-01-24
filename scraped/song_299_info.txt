@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-cornell/nothing-compares-2-u-chords-1770100",
+    "name": "Chris Cornell - Nothing Compares 2 U (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Cornell"
+    },
+    "datePublished": "2015-09-29T04:34:23-04:00",
+    "dateModified": "2022-11-27T18:01:05-05:00",
+    "commentCount": 50,
+    "musicalKey": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/led-zeppelin/tangerine-chords-1089369",
+    "name": "Led Zeppelin - Tangerine (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Led Zeppelin"
+    },
+    "datePublished": "2011-08-31T20:00:01-04:00",
+    "dateModified": "2023-12-22T18:44:57-05:00",
+    "commentCount": 9,
+    "musicalKey": "Am"
+}

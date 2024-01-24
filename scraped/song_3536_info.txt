@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/travis/why-does-it-always-rain-on-me-chords-917471",
+    "name": "Travis - Why Does It Always Rain On Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Travis"
+    },
+    "datePublished": "2010-02-03T19:00:01-05:00",
+    "dateModified": "2019-11-25T01:51:38-05:00",
+    "commentCount": 10,
+    "musicalKey": "E"
+}

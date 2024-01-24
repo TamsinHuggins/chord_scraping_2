@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-blunt/monsters-chords-2859974",
+    "name": "James Blunt - Monsters (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "James Blunt"
+    },
+    "datePublished": "2019-10-18T08:32:43-04:00",
+    "dateModified": "2023-06-19T12:19:43-04:00",
+    "commentCount": 2,
+    "musicalKey": "Eb"
+}

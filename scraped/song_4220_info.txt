@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/daniel-caesar/streetcar-chords-1992291",
+    "name": "Daniel Caesar - Streetcar (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Daniel Caesar"
+    },
+    "datePublished": "2017-05-06T15:30:19-04:00",
+    "dateModified": "2017-08-29T00:25:58-04:00",
+    "commentCount": 21
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/my-bloody-valentine/when-you-sleep-chords-1196904",
+    "name": "My Bloody Valentine - When You Sleep (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "My Bloody Valentine"
+    },
+    "datePublished": "2012-11-25T19:00:01-05:00",
+    "dateModified": "2023-11-15T23:57:47-05:00",
+    "commentCount": 3,
+    "musicalKey": "Ab"
+}

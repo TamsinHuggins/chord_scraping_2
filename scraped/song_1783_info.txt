@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gerry-the-pacemakers/youll-never-walk-alone-chords-210299",
+    "name": "Gerry & The Pacemakers - Youll Never Walk Alone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gerry &amp; The Pacemakers"
+    },
+    "datePublished": "2005-09-05T20:00:00-04:00",
+    "dateModified": "2022-02-06T19:14:44-05:00",
+    "commentCount": 30
+}

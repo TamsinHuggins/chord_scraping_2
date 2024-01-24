@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/nothing-but-the-blood-of-jesus-chords-877984",
+    "name": "Misc Praise Songs - Nothing But The Blood Of Jesus (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Praise Songs"
+    },
+    "datePublished": "2009-09-29T20:00:01-04:00",
+    "dateModified": "2023-02-23T02:15:10-05:00",
+    "commentCount": 14
+}

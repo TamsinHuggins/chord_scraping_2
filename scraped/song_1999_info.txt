@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/green-river-chords-610562",
+    "name": "Creedence Clearwater Revival - Green River (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Creedence Clearwater Revival"
+    },
+    "datePublished": "2007-12-06T19:00:01-05:00",
+    "dateModified": "2016-05-23T14:24:40-04:00",
+    "commentCount": 17
+}

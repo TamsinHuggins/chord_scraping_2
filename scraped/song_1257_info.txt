@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-lumineers/ophelia-chords-1812380",
+    "name": "The Lumineers - Ophelia (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Lumineers"
+    },
+    "datePublished": "2016-02-05T10:35:04-05:00",
+    "dateModified": "2018-11-30T19:37:32-05:00",
+    "commentCount": 42,
+    "musicalKey": "F"
+}

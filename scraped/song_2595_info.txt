@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lee-ann-womack/i-hope-you-dance-chords-199303",
+    "name": "Lee Ann Womack - I Hope You Dance (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Lee Ann Womack"
+    },
+    "datePublished": "2005-07-19T20:00:00-04:00",
+    "dateModified": "2022-10-04T21:09:32-04:00",
+    "commentCount": 27
+}

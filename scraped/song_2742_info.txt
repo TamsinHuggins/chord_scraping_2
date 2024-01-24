@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/deftones/be-quiet-and-drive-far-away-chords-65641",
+    "name": "Deftones - Be Quiet And Drive Far Away (chords)",
+    "text": "Difficulty:  Tuning: D A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Deftones"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2016-07-27T07:52:00-04:00",
+    "commentCount": 6
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-cooke/a-change-is-gonna-come-chords-212929",
+    "name": "Sam Cooke - A Change Is Gonna Come (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Cooke"
+    },
+    "datePublished": "2005-09-18T20:00:00-04:00",
+    "dateModified": "2018-03-19T12:12:38-04:00",
+    "commentCount": 27,
+    "musicalKey": "Bb"
+}

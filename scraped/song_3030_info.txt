@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/drain-you-chords-828622",
+    "name": "Nirvana - Drain You (chords)",
+    "text": "Difficulty: intermediate Tuning: D G C F A D Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2009-05-25T20:00:01-04:00",
+    "dateModified": "2020-02-02T21:35:44-05:00",
+    "commentCount": 16,
+    "musicalKey": "B"
+}

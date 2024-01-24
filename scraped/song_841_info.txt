@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/savior-complex-chords-3207032",
+    "name": "Phoebe Bridgers - Savior Complex (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Phoebe Bridgers"
+    },
+    "datePublished": "2020-06-18T14:02:50-04:00",
+    "dateModified": "2021-09-08T03:41:47-04:00",
+    "commentCount": 13,
+    "musicalKey": "D"
+}

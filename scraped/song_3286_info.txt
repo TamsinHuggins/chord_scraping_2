@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cordelia/little-life-chords-5052898",
+    "name": "Cordelia - Little Life (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Cordelia"
+    },
+    "datePublished": "2023-12-03T01:02:51-05:00",
+    "dateModified": "2023-12-03T07:58:56-05:00",
+    "commentCount": 0,
+    "musicalKey": "B"
+}

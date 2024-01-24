@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nf/happy-chords-4717172",
+    "name": "Nf - Happy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "NF"
+    },
+    "datePublished": "2023-04-07T01:01:37-04:00",
+    "dateModified": "2023-05-11T13:35:54-04:00",
+    "commentCount": 9,
+    "musicalKey": "G"
+}

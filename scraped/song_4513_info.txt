@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/solitary-man-chords-998141",
+    "name": "Johnny Cash - Solitary Man (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2010-10-25T20:00:01-04:00",
+    "dateModified": "2018-01-29T12:50:28-05:00",
+    "commentCount": 14
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eminem/lose-yourself-chords-1505623",
+    "name": "Eminem - Lose Yourself (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eminem"
+    },
+    "datePublished": "2014-07-28T05:48:36-04:00",
+    "dateModified": "2020-10-13T09:12:21-04:00",
+    "commentCount": 24,
+    "musicalKey": "Dm"
+}

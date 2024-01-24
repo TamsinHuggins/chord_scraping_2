@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kris-kristofferson/help-me-make-it-through-the-night-chords-1015647",
+    "name": "Kris Kristofferson - Help Me Make It Through The Night (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kris Kristofferson"
+    },
+    "datePublished": "2011-01-24T19:00:01-05:00",
+    "dateModified": "2022-01-25T23:36:00-05:00",
+    "commentCount": 24
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/crosby-stills-nash-young/our-house-chords-1051275",
+    "name": "Crosby, Stills, Nash & Young - Our House (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Crosby, Stills, Nash &amp; Young"
+    },
+    "datePublished": "2011-04-26T20:00:01-04:00",
+    "dateModified": "2023-01-21T15:34:29-05:00",
+    "commentCount": 17,
+    "musicalKey": "A"
+}

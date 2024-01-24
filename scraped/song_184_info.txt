@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/im-still-standing-chords-10737",
+    "name": "Elton John - Im Still Standing (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2023-12-14T00:55:37-05:00",
+    "commentCount": 31,
+    "musicalKey": "Bbm"
+}

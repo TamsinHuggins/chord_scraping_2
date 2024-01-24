@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/benben/leaves-chords-2054794",
+    "name": "Ben&Ben - Leaves (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gb Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Ben&amp;Ben"
+    },
+    "datePublished": "2017-06-21T08:42:41-04:00",
+    "dateModified": "2023-10-06T14:56:41-04:00",
+    "commentCount": 9,
+    "musicalKey": "Gb"
+}

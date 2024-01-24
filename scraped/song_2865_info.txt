@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-combs/the-kind-of-love-we-make-chords-3898688",
+    "name": "Luke Combs - The Kind Of Love We Make (chords)",
+    "text": "Difficulty:  Tuning: Db Ab Db Gb Bb Eb Key: Db Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Combs"
+    },
+    "datePublished": "2021-10-04T12:48:22-04:00",
+    "dateModified": "2022-12-01T17:19:12-05:00",
+    "commentCount": 5,
+    "musicalKey": "Db"
+}

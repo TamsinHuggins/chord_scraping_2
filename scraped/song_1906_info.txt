@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joan-baez/diamonds-and-rust-chords-1044414",
+    "name": "Joan Baez - Diamonds And Rust (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Joan Baez"
+    },
+    "datePublished": "2011-04-07T20:00:01-04:00",
+    "dateModified": "2022-09-15T18:27:14-04:00",
+    "commentCount": 17
+}

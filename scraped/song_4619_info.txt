@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bipul-chettri/syndicate-chords-1719500",
+    "name": "Bipul Chettri - Syndicate (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bipul Chettri"
+    },
+    "datePublished": "2015-03-12T05:00:50-04:00",
+    "dateModified": "2022-12-05T10:08:24-05:00",
+    "commentCount": 7
+}

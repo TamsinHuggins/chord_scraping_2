@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-worship-initiative/youve-already-won-chords-4583450",
+    "name": "The Worship Initiative - Youve Already Won (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Worship Initiative"
+    },
+    "datePublished": "2022-12-30T13:30:28-05:00",
+    "dateModified": "2023-01-02T11:52:15-05:00",
+    "commentCount": 2,
+    "musicalKey": "D"
+}

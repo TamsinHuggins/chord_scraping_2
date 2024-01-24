@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bread/the-guitar-man-chords-523681",
+    "name": "Bread - The Guitar Man (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bread"
+    },
+    "datePublished": "2007-05-27T20:00:01-04:00",
+    "dateModified": "2023-07-09T21:20:32-04:00",
+    "commentCount": 52
+}

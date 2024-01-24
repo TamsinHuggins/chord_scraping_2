@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bill-withers/use-me-chords-1985807",
+    "name": "Bill Withers - Use Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bill Withers"
+    },
+    "datePublished": "2017-04-25T09:13:23-04:00",
+    "dateModified": "2017-04-25T13:13:23-04:00",
+    "commentCount": 5
+}

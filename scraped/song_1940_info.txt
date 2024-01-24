@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pixies/where-is-my-mind-chords-277491",
+    "name": "Pixies - Where Is My Mind (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Pixies"
+    },
+    "datePublished": "2005-12-08T19:00:01-05:00",
+    "dateModified": "2020-06-04T07:20:42-04:00",
+    "commentCount": 24
+}

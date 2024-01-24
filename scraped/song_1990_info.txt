@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kaleo/all-the-pretty-girls-chords-1513523",
+    "name": "Kaleo - All The Pretty Girls (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Kaleo"
+    },
+    "datePublished": "2014-08-22T05:02:30-04:00",
+    "dateModified": "2018-11-10T00:27:22-05:00",
+    "commentCount": 26,
+    "musicalKey": "Bbm"
+}

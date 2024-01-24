@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sza/20-something-chords-2054023",
+    "name": "Sza - 20 Something (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "SZA"
+    },
+    "datePublished": "2017-06-19T04:28:39-04:00",
+    "dateModified": "2017-06-19T08:28:39-04:00",
+    "commentCount": 0,
+    "musicalKey": "B"
+}

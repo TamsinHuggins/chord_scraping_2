@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-television/high-school-musical-even-when-the-best-part-chords-3685211",
+    "name": "Misc Television - High School Musical - Even When - The Best Part (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Television"
+    },
+    "datePublished": "2021-04-30T00:16:16-04:00",
+    "dateModified": "2023-04-03T08:33:21-04:00",
+    "commentCount": 6,
+    "musicalKey": "C"
+}

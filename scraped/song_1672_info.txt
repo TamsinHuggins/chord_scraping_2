@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/boygenius/true-blue-chords-4609850",
+    "name": "Boygenius - True Blue (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "boygenius"
+    },
+    "datePublished": "2023-01-19T12:14:29-05:00",
+    "dateModified": "2023-01-19T17:14:30-05:00",
+    "commentCount": 9,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-kid-laroi/without-you-chords-3407780",
+    "name": "The Kid Laroi - Without You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Kid LAROI"
+    },
+    "datePublished": "2020-11-05T12:01:35-05:00",
+    "dateModified": "2020-11-11T12:12:31-05:00",
+    "commentCount": 31,
+    "musicalKey": "Am"
+}

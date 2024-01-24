@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wasia-project/ur-so-pretty-chords-4214239",
+    "name": "Wasia Project - Ur So Pretty (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Wasia Project"
+    },
+    "datePublished": "2022-05-31T11:22:45-04:00",
+    "dateModified": "2022-06-01T12:15:24-04:00",
+    "commentCount": 6
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nancy-sinatra-lee-hazlewood/summer-wine-chords-39828",
+    "name": "Nancy Sinatra & Lee Hazlewood - Summer Wine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nancy Sinatra &amp; Lee Hazlewood"
+    },
+    "datePublished": "2002-11-28T19:00:00-05:00",
+    "dateModified": "2018-10-07T20:56:53-04:00",
+    "commentCount": 18
+}

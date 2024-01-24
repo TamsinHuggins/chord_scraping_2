@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/poco/forever-chords-5116603",
+    "name": "Poco - Forever (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Poco"
+    },
+    "datePublished": "2024-01-23T09:52:18-05:00",
+    "dateModified": "2024-01-23T15:03:00-05:00",
+    "commentCount": 0,
+    "musicalKey": "A"
+}

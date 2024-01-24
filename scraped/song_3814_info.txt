@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-past-recedes-chords-172658",
+    "name": "John Frusciante - The Past Recedes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Frusciante"
+    },
+    "datePublished": "2005-03-20T19:00:00-05:00",
+    "dateModified": "2022-04-21T19:38:45-04:00",
+    "commentCount": 38,
+    "musicalKey": "G"
+}

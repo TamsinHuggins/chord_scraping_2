@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laufey/like-the-movies-chords-3689966",
+    "name": "Laufey - Like The Movies (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laufey"
+    },
+    "datePublished": "2021-05-02T22:49:16-04:00",
+    "dateModified": "2021-05-06T17:53:55-04:00",
+    "commentCount": 0
+}

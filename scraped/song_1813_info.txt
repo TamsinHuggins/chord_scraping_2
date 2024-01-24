@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/eyes-closed-chords-4678133",
+    "name": "Ed Sheeran - Eyes Closed (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2023-03-09T07:16:01-05:00",
+    "dateModified": "2023-03-27T14:54:48-04:00",
+    "commentCount": 7,
+    "musicalKey": "D"
+}

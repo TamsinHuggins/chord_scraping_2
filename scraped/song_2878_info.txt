@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/5107588",
+    "name": "Yamê - Bécane - A Colors Show (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Yamê"
+    },
+    "datePublished": "2024-01-16T14:52:02-05:00",
+    "dateModified": "2024-01-17T12:23:20-05:00",
+    "commentCount": 0,
+    "musicalKey": "Bb"
+}

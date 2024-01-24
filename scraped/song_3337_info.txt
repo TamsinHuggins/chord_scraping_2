@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-lennon/watching-the-wheels-chords-1099238",
+    "name": "John Lennon - Watching The Wheels (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Lennon"
+    },
+    "datePublished": "2011-10-10T20:00:01-04:00",
+    "dateModified": "2022-04-07T00:46:58-04:00",
+    "commentCount": 17
+}

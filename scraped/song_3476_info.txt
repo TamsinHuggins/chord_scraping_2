@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/no-doubt/dont-speak-chords-656990",
+    "name": "No Doubt - Dont Speak (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "No Doubt"
+    },
+    "datePublished": "2008-03-25T20:00:01-04:00",
+    "dateModified": "2019-10-20T02:30:15-04:00",
+    "commentCount": 28
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bonnie-tyler/total-eclipse-of-the-heart-chords-960748",
+    "name": "Bonnie Tyler - Total Eclipse Of The Heart (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A#m Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bonnie Tyler"
+    },
+    "datePublished": "2010-06-20T20:00:01-04:00",
+    "dateModified": "2022-05-29T20:43:03-04:00",
+    "commentCount": 46,
+    "musicalKey": "A#m"
+}

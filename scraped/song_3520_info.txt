@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billy-joel/and-so-it-goes-chords-736386",
+    "name": "Billy Joel - And So It Goes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billy Joel"
+    },
+    "datePublished": "2008-09-25T20:00:01-04:00",
+    "dateModified": "2017-02-14T18:04:07-05:00",
+    "commentCount": 5
+}

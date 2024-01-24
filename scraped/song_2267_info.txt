@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alex-turner/piledriver-waltz-chords-1037435",
+    "name": "Alex Turner - Piledriver Waltz (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Alex Turner"
+    },
+    "datePublished": "2011-03-15T20:00:01-04:00",
+    "dateModified": "2016-04-18T16:19:40-04:00",
+    "commentCount": 16
+}

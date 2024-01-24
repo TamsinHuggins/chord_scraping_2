@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/toto/africa-chords-1744555",
+    "name": "Toto - Africa (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Toto"
+    },
+    "datePublished": "2015-06-13T13:14:08-04:00",
+    "dateModified": "2022-02-18T18:25:47-05:00",
+    "commentCount": 46,
+    "musicalKey": "A"
+}

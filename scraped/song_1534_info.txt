@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/78737",
+    "name": "Sinéad O'connor - Nothing Compares 2 U (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sinéad O&#039;Connor"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-07-27T16:25:58-04:00",
+    "commentCount": 20,
+    "musicalKey": "F"
+}

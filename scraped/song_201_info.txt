@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/3448100",
+    "name": "Barbara Pravi - Voilà (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Barbara Pravi"
+    },
+    "datePublished": "2020-12-02T06:29:55-05:00",
+    "dateModified": "2021-07-26T20:44:26-04:00",
+    "commentCount": 0,
+    "musicalKey": "Dm"
+}

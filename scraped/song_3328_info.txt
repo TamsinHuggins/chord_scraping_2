@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/led-zeppelin/kashmir-chords-1822241",
+    "name": "Led Zeppelin - Kashmir (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Led Zeppelin"
+    },
+    "datePublished": "2016-03-06T16:40:30-05:00",
+    "dateModified": "2019-01-02T05:14:42-05:00",
+    "commentCount": 8
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/forest-blakk/fall-into-me-chords-3888971",
+    "name": "Forest Blakk - Fall Into Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Forest Blakk"
+    },
+    "datePublished": "2021-09-26T18:40:08-04:00",
+    "dateModified": "2021-09-30T07:10:45-04:00",
+    "commentCount": 2
+}

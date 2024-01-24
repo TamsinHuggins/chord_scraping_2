@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tv-girl/not-allowed-chords-2477976",
+    "name": "Tv Girl - Not Allowed (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "TV Girl"
+    },
+    "datePublished": "2018-09-23T06:45:59-04:00",
+    "dateModified": "2022-12-30T13:01:55-05:00",
+    "commentCount": 1,
+    "musicalKey": "Eb"
+}

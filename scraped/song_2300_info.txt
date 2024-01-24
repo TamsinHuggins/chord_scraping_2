@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lady-gaga/poker-face-chords-810048",
+    "name": "Lady Gaga - Poker Face (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Lady Gaga"
+    },
+    "datePublished": "2009-04-06T20:00:01-04:00",
+    "dateModified": "2021-05-28T20:05:55-04:00",
+    "commentCount": 28,
+    "musicalKey": "Bb"
+}

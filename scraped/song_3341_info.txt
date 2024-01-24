@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mando-diao/strovtag-i-hembygden-chords-1185288",
+    "name": "Mando Diao - Strovtag I Hembygden (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Mando Diao"
+    },
+    "datePublished": "2012-10-01T20:00:01-04:00",
+    "dateModified": "2016-09-06T10:54:55-04:00",
+    "commentCount": 4
+}

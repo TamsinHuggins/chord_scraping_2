@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/wet-sand-chords-356738",
+    "name": "Red Hot Chili Peppers - Wet Sand (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Red Hot Chili Peppers"
+    },
+    "datePublished": "2006-04-21T20:00:01-04:00",
+    "dateModified": "2019-02-14T04:50:51-05:00",
+    "commentCount": 39
+}

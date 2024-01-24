@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/sweet-nothing-chords-4393418",
+    "name": "Taylor Swift - Sweet Nothing (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2022-10-20T21:00:51-04:00",
+    "dateModified": "2022-10-21T08:48:37-04:00",
+    "commentCount": 6,
+    "musicalKey": "C"
+}

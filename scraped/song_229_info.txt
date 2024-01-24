@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/acdc/highway-to-hell-chords-139966",
+    "name": "Ac/Dc - Highway To Hell (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "AC/DC"
+    },
+    "datePublished": "2004-10-03T20:00:00-04:00",
+    "dateModified": "2018-06-14T09:19:04-04:00",
+    "commentCount": 41,
+    "musicalKey": "A"
+}

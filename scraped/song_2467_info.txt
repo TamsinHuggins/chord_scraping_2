@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/lava-lava-chords-1746393",
+    "name": "Misc Cartoons - Lava - Lava (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2015-06-20T16:28:41-04:00",
+    "dateModified": "2021-09-05T00:16:21-04:00",
+    "commentCount": 19
+}

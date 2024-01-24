@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mitski/bug-like-an-angel-chords-4890328",
+    "name": "Mitski - Bug Like An Angel (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mitski"
+    },
+    "datePublished": "2023-07-26T12:16:59-04:00",
+    "dateModified": "2023-07-31T15:40:17-04:00",
+    "commentCount": 6,
+    "musicalKey": "E"
+}

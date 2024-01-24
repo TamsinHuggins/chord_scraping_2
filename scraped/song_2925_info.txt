@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/stand-by-me-chords-46091",
+    "name": "Oasis - Stand By Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Oasis"
+    },
+    "datePublished": "2003-02-19T19:00:00-05:00",
+    "dateModified": "2020-05-03T20:42:58-04:00",
+    "commentCount": 14
+}

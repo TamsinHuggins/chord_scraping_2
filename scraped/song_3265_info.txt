@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lovejoy/sex-sells-chords-3700745",
+    "name": "Lovejoy - Sex Sells (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lovejoy"
+    },
+    "datePublished": "2021-05-10T06:34:59-04:00",
+    "dateModified": "2022-03-22T03:30:53-04:00",
+    "commentCount": 32,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brandi-carlile/the-story-chords-459404",
+    "name": "Brandi Carlile - The Story (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Brandi Carlile"
+    },
+    "datePublished": "2007-01-14T19:00:01-05:00",
+    "dateModified": "2018-09-03T10:57:53-04:00",
+    "commentCount": 29
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-harrison/if-not-for-you-chords-1047136",
+    "name": "George Harrison - If Not For You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "George Harrison"
+    },
+    "datePublished": "2011-04-14T20:00:01-04:00",
+    "dateModified": "2023-11-09T22:05:53-05:00",
+    "commentCount": 17
+}

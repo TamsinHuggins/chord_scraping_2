@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/wake-me-up-when-september-ends-chords-139949",
+    "name": "Green Day - Wake Me Up When September Ends (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2004-10-03T20:00:00-04:00",
+    "dateModified": "2020-04-20T19:21:13-04:00",
+    "commentCount": 40,
+    "musicalKey": "G"
+}

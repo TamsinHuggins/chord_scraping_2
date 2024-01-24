@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brandon-lake/praise-you-anywhere-chords-4814669",
+    "name": "Brandon Lake - Praise You Anywhere (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Brandon Lake"
+    },
+    "datePublished": "2023-06-09T20:18:50-04:00",
+    "dateModified": "2023-06-12T15:08:01-04:00",
+    "commentCount": 1,
+    "musicalKey": "B"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-crowderband/how-he-loves-chords-847349",
+    "name": "David Crowder*Band - How He Loves (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Crowder*Band"
+    },
+    "datePublished": "2009-07-12T20:00:01-04:00",
+    "dateModified": "2018-05-14T17:24:40-04:00",
+    "commentCount": 60,
+    "musicalKey": "C"
+}

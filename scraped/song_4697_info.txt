@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/vulfmon-evangeline/letting-things-go-chords-5093044",
+    "name": "Vulfmon & Evangeline - Letting Things Go (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Vulfmon &amp; Evangeline"
+    },
+    "datePublished": "2024-01-05T17:38:57-05:00",
+    "dateModified": "2024-01-09T17:30:42-05:00",
+    "commentCount": 2
+}

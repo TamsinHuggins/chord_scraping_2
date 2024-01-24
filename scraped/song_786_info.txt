@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/take-me-to-church-chords-1424967",
+    "name": "Hozier - Take Me To Church (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hozier"
+    },
+    "datePublished": "2013-10-14T20:00:01-04:00",
+    "dateModified": "2022-05-31T02:01:44-04:00",
+    "commentCount": 40,
+    "musicalKey": "Em"
+}

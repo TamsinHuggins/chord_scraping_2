@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-red-clay-strays/wondering-why-chords-4105807",
+    "name": "The Red Clay Strays - Wondering Why (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Red Clay Strays"
+    },
+    "datePublished": "2022-03-11T10:39:27-05:00",
+    "dateModified": "2023-12-19T21:28:25-05:00",
+    "commentCount": 12,
+    "musicalKey": "E"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linkin-park/leave-out-all-the-rest-chords-514652",
+    "name": "Linkin Park - Leave Out All The Rest (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Linkin Park"
+    },
+    "datePublished": "2007-05-08T20:00:01-04:00",
+    "dateModified": "2018-10-07T16:48:19-04:00",
+    "commentCount": 15
+}

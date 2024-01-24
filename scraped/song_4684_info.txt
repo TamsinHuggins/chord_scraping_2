@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4749743",
+    "name": "Thomas Stenström - Andas In Andas Ut (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Thomas Stenström"
+    },
+    "datePublished": "2023-05-01T06:14:54-04:00",
+    "dateModified": "2023-05-01T17:35:41-04:00",
+    "commentCount": 0
+}

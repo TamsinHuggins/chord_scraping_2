@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/supertramp/give-a-little-bit-chords-1087315",
+    "name": "Supertramp - Give A Little Bit (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Supertramp"
+    },
+    "datePublished": "2011-08-25T20:00:01-04:00",
+    "dateModified": "2022-10-09T18:05:16-04:00",
+    "commentCount": 37,
+    "musicalKey": "A"
+}

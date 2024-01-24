@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mgmt/electric-feel-chords-838341",
+    "name": "Mgmt - Electric Feel (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "MGMT"
+    },
+    "datePublished": "2009-06-17T20:00:01-04:00",
+    "dateModified": "2016-05-27T14:07:59-04:00",
+    "commentCount": 11
+}

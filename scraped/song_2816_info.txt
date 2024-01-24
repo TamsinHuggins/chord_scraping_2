@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sublime/badfish-chords-153576",
+    "name": "Sublime - Badfish (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sublime"
+    },
+    "datePublished": "2004-12-23T19:00:00-05:00",
+    "dateModified": "2016-04-25T14:27:07-04:00",
+    "commentCount": 18
+}

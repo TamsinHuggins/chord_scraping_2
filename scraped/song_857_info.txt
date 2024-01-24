@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/aashiqui-2-tum-hi-ho-chords-1244521",
+    "name": "Misc Soundtrack - Aashiqui 2 - Tum Hi Ho (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Fm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2013-05-06T20:00:01-04:00",
+    "dateModified": "2021-12-10T00:01:24-05:00",
+    "commentCount": 33,
+    "musicalKey": "Fm"
+}

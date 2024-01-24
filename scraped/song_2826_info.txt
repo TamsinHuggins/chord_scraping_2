@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pearl-jam/future-days-chords-1425198",
+    "name": "Pearl Jam - Future Days (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C# Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Pearl Jam"
+    },
+    "datePublished": "2013-10-16T20:00:01-04:00",
+    "dateModified": "2020-06-29T14:17:27-04:00",
+    "commentCount": 18,
+    "musicalKey": "C#"
+}

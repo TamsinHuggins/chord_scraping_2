@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/albatross/khase-ka-tara-chords-4728224",
+    "name": "Albatross - Khase Ka Tara (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Albatross"
+    },
+    "datePublished": "2023-04-15T07:45:11-04:00",
+    "dateModified": "2023-11-24T11:09:00-05:00",
+    "commentCount": 0
+}

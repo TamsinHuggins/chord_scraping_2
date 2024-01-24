@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-kiwanuka/love-and-hate-chords-1840965",
+    "name": "Michael Kiwanuka - Love And Hate (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Kiwanuka"
+    },
+    "datePublished": "2016-05-04T06:25:07-04:00",
+    "dateModified": "2016-05-04T10:25:20-04:00",
+    "commentCount": 20
+}

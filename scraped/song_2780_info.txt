@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-odell/another-love-chords-1834589",
+    "name": "Tom Odell - Another Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Odell"
+    },
+    "datePublished": "2016-04-11T06:34:50-04:00",
+    "dateModified": "2023-08-11T21:10:38-04:00",
+    "commentCount": 4
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/mercy-chords-3653774",
+    "name": "Elevation Worship - Mercy (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ab Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2021-04-09T14:07:56-04:00",
+    "dateModified": "2021-04-09T18:10:29-04:00",
+    "commentCount": 4,
+    "musicalKey": "Ab"
+}

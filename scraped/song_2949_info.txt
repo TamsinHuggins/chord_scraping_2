@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/audioslave/be-yourself-chords-608448",
+    "name": "Audioslave - Be Yourself (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Audioslave"
+    },
+    "datePublished": "2007-12-02T19:00:01-05:00",
+    "dateModified": "2007-12-03T00:00:01-05:00",
+    "commentCount": 4
+}

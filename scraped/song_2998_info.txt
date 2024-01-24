@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/two-door-cinema-club/what-you-know-chords-1055675",
+    "name": "Two Door Cinema Club - What You Know (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Two Door Cinema Club"
+    },
+    "datePublished": "2011-05-18T20:00:01-04:00",
+    "dateModified": "2016-05-31T14:09:01-04:00",
+    "commentCount": 12
+}

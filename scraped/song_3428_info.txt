@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-red-jumpsuit-apparatus/your-guardian-angel-chords-607451",
+    "name": "The Red Jumpsuit Apparatus - Your Guardian Angel (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Red Jumpsuit Apparatus"
+    },
+    "datePublished": "2007-11-29T19:00:01-05:00",
+    "dateModified": "2016-04-11T09:30:35-04:00",
+    "commentCount": 30
+}

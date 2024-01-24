@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/josh-turner/would-you-go-with-me-chords-846206",
+    "name": "Josh Turner - Would You Go With Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Josh Turner"
+    },
+    "datePublished": "2009-07-08T20:00:01-04:00",
+    "dateModified": "2009-07-09T00:00:01-04:00",
+    "commentCount": 12
+}

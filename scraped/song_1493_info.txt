@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/my-chemical-romance/i-dont-love-you-chords-442392",
+    "name": "My Chemical Romance - I Dont Love You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "My Chemical Romance"
+    },
+    "datePublished": "2006-12-03T19:00:01-05:00",
+    "dateModified": "2021-11-05T01:30:10-04:00",
+    "commentCount": 60,
+    "musicalKey": "C"
+}

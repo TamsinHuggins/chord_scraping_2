@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sasha-sloan/dancing-with-your-ghost-chords-2748744",
+    "name": "Sasha Sloan - Dancing With Your Ghost (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Sasha Sloan"
+    },
+    "datePublished": "2019-06-30T12:56:04-04:00",
+    "dateModified": "2019-07-01T06:39:24-04:00",
+    "commentCount": 17,
+    "musicalKey": "G#m"
+}

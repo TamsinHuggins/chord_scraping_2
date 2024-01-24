@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/caamp/vagabond-chords-2403189",
+    "name": "Caamp - Vagabond (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Caamp"
+    },
+    "datePublished": "2018-06-12T11:28:14-04:00",
+    "dateModified": "2018-06-15T08:59:39-04:00",
+    "commentCount": 8,
+    "musicalKey": "B"
+}

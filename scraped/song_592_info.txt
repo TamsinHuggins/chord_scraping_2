@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/justin-bieber/ghost-chords-3618965",
+    "name": "Justin Bieber - Ghost (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Justin Bieber"
+    },
+    "datePublished": "2021-03-19T00:41:12-04:00",
+    "dateModified": "2022-12-13T23:28:41-05:00",
+    "commentCount": 10,
+    "musicalKey": "Bm"
+}

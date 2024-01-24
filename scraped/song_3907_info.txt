@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alphaville/big-in-japan-chords-150656",
+    "name": "Alphaville - Big In Japan (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alphaville"
+    },
+    "datePublished": "2004-12-08T19:00:00-05:00",
+    "dateModified": "2018-10-09T12:50:21-04:00",
+    "commentCount": 8
+}

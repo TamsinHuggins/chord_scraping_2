@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tamia/officially-missing-you-chords-118222",
+    "name": "Tamia - Officially Missing You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tamia"
+    },
+    "datePublished": "2004-05-18T20:00:00-04:00",
+    "dateModified": "2016-04-14T11:44:34-04:00",
+    "commentCount": 5
+}

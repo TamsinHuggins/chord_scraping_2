@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-computer-games/the-last-of-us-part-ii-joels-song-future-days-chords-3207521",
+    "name": "Misc Computer Games - The Last Of Us Part Ii - Joels Song - Future Days (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Computer Games"
+    },
+    "datePublished": "2020-06-18T19:03:06-04:00",
+    "dateModified": "2020-06-20T07:29:40-04:00",
+    "commentCount": 20,
+    "musicalKey": "Eb"
+}

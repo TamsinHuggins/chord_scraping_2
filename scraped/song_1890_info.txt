@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/blowin-in-the-wind-chords-1086954",
+    "name": "Bob Dylan - Blowin In The Wind (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2011-08-24T20:00:01-04:00",
+    "dateModified": "2023-08-12T17:57:31-04:00",
+    "commentCount": 30,
+    "musicalKey": "D"
+}

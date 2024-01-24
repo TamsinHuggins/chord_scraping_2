@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cody-carnes/run-to-the-father-chords-2776012",
+    "name": "Cody Carnes - Run To The Father (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cody Carnes"
+    },
+    "datePublished": "2019-07-26T16:32:59-04:00",
+    "dateModified": "2020-06-03T09:01:49-04:00",
+    "commentCount": 9,
+    "musicalKey": "C"
+}

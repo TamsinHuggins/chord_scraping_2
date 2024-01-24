@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pamungkas/to-the-bone-chords-2834713",
+    "name": "Pamungkas - To The Bone (chords)",
+    "text": "Difficulty: beginner Tuning: D G C F A D Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pamungkas"
+    },
+    "datePublished": "2019-09-23T06:59:25-04:00",
+    "dateModified": "2021-03-21T08:17:59-04:00",
+    "commentCount": 4,
+    "musicalKey": "F"
+}

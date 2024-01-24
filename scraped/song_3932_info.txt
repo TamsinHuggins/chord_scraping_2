@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wallows/are-you-bored-yet-chords-2594667",
+    "name": "Wallows - Are You Bored Yet (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F# Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Wallows"
+    },
+    "datePublished": "2019-02-04T13:47:48-05:00",
+    "dateModified": "2020-06-29T14:19:43-04:00",
+    "commentCount": 17,
+    "musicalKey": "F#"
+}

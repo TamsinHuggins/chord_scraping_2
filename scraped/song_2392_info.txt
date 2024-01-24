@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-prine/i-remember-everything-chords-3196064",
+    "name": "John Prine - I Remember Everything (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "John Prine"
+    },
+    "datePublished": "2020-06-11T22:04:26-04:00",
+    "dateModified": "2020-06-12T22:02:45-04:00",
+    "commentCount": 22,
+    "musicalKey": "Bb"
+}

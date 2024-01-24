@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/indila/love-story-chords-1695050",
+    "name": "Indila - Love Story (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Indila"
+    },
+    "datePublished": "2015-01-03T05:08:03-05:00",
+    "dateModified": "2015-01-03T10:08:03-05:00",
+    "commentCount": 1
+}

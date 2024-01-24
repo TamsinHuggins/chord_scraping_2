@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grateful-dead/brokedown-palace-chords-1058519",
+    "name": "Grateful Dead - Brokedown Palace (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Grateful Dead"
+    },
+    "datePublished": "2011-05-23T20:00:01-04:00",
+    "dateModified": "2016-05-27T12:25:43-04:00",
+    "commentCount": 12
+}

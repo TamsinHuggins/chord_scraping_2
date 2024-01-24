@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-petty-and-the-heartbreakers/into-the-great-wide-open-chords-80492",
+    "name": "Tom Petty And The Heartbreakers - Into The Great Wide Open (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Petty and The Heartbreakers"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2022-10-05T02:39:50-04:00",
+    "commentCount": 24,
+    "musicalKey": "Em"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/skeeter-davis/the-end-of-the-world-chords-66784",
+    "name": "Skeeter Davis - The End Of The World (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Skeeter Davis"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-10-29T23:20:09-04:00",
+    "commentCount": 26
+}

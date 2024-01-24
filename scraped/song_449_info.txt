@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-denver/annies-song-chords-38904",
+    "name": "John Denver - Annies Song (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Denver"
+    },
+    "datePublished": "2002-11-09T19:00:00-05:00",
+    "dateModified": "2018-07-01T05:02:25-04:00",
+    "commentCount": 22
+}

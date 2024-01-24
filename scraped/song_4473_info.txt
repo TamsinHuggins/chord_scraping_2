@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/randy-travis/i-told-you-so-chords-790685",
+    "name": "Randy Travis - I Told You So (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Randy Travis"
+    },
+    "datePublished": "2009-02-12T19:00:01-05:00",
+    "dateModified": "2016-06-29T08:25:14-04:00",
+    "commentCount": 16
+}

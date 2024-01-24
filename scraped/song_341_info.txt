@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/survivor/eye-of-the-tiger-chords-1483686",
+    "name": "Survivor - Eye Of The Tiger (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Cm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Survivor"
+    },
+    "datePublished": "2014-05-17T05:42:51-04:00",
+    "dateModified": "2020-02-20T11:50:23-05:00",
+    "commentCount": 41,
+    "musicalKey": "Cm"
+}

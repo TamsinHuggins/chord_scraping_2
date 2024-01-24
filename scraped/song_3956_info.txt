@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/em-beihold/numb-little-bug-chords-4144969",
+    "name": "Em Beihold - Numb Little Bug (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Em Beihold"
+    },
+    "datePublished": "2022-04-08T17:13:16-04:00",
+    "dateModified": "2022-12-21T13:30:08-05:00",
+    "commentCount": 2,
+    "musicalKey": "F"
+}

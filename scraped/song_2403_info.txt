@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chappell-roan/red-wine-supernova-chords-4781672",
+    "name": "Chappell Roan - Red Wine Supernova (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chappell Roan"
+    },
+    "datePublished": "2023-05-20T01:45:24-04:00",
+    "dateModified": "2023-05-20T05:45:24-04:00",
+    "commentCount": 1
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/mastermind-chords-4393442",
+    "name": "Taylor Swift - Mastermind (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2022-10-20T21:47:17-04:00",
+    "dateModified": "2022-10-21T09:20:58-04:00",
+    "commentCount": 2,
+    "musicalKey": "E"
+}

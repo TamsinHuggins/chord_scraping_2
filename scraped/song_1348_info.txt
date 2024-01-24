@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/maroon-5/sunday-morning-chords-991692",
+    "name": "Maroon 5 - Sunday Morning (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Maroon 5"
+    },
+    "datePublished": "2010-09-30T20:00:01-04:00",
+    "dateModified": "2017-07-27T14:07:57-04:00",
+    "commentCount": 7,
+    "musicalKey": "Dm"
+}

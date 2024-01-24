@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/my-future-chords-3271511",
+    "name": "Billie Eilish - My Future (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2020-07-30T19:24:28-04:00",
+    "dateModified": "2021-06-26T08:20:05-04:00",
+    "commentCount": 65,
+    "musicalKey": "Eb"
+}

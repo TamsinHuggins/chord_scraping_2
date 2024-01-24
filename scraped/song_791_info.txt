@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/edward-sharpe-and-the-magnetic-zeros/home-chords-1102820",
+    "name": "Edward Sharpe And The Magnetic Zeros - Home (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Edward Sharpe and the Magnetic Zeros"
+    },
+    "datePublished": "2011-10-23T20:00:01-04:00",
+    "dateModified": "2022-07-01T10:41:41-04:00",
+    "commentCount": 13
+}

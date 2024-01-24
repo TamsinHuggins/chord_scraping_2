@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruno-mars/the-lazy-song-chords-1761018",
+    "name": "Bruno Mars - The Lazy Song (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruno Mars"
+    },
+    "datePublished": "2015-08-20T07:35:30-04:00",
+    "dateModified": "2020-03-28T13:48:27-04:00",
+    "commentCount": 15,
+    "musicalKey": "G"
+}

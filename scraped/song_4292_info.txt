@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ten-years-after/id-love-to-change-the-world-chords-1137762",
+    "name": "Ten Years After - Id Love To Change The World (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ten Years After"
+    },
+    "datePublished": "2012-03-13T12:25:47-04:00",
+    "dateModified": "2023-12-05T23:29:23-05:00",
+    "commentCount": 17,
+    "musicalKey": "Em"
+}

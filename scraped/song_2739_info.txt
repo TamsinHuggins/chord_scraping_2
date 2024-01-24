@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/foo-fighters/times-like-these-chords-1211863",
+    "name": "Foo Fighters - Times Like These (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Foo Fighters"
+    },
+    "datePublished": "2013-01-27T19:00:01-05:00",
+    "dateModified": "2020-04-28T16:19:19-04:00",
+    "commentCount": 12,
+    "musicalKey": "D"
+}

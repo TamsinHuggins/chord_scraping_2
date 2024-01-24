@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-taylor/something-in-the-way-she-moves-chords-848855",
+    "name": "James Taylor - Something In The Way She Moves (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "James Taylor"
+    },
+    "datePublished": "2009-07-14T20:00:01-04:00",
+    "dateModified": "2016-05-26T12:56:54-04:00",
+    "commentCount": 14
+}

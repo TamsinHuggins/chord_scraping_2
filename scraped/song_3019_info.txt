@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/toby-keith/i-love-this-bar-chords-1181790",
+    "name": "Toby Keith - I Love This Bar (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Toby Keith"
+    },
+    "datePublished": "2012-09-12T20:00:01-04:00",
+    "dateModified": "2016-08-15T08:26:35-04:00",
+    "commentCount": 11
+}

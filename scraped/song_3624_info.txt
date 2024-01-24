@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/doc-watson/sitting-on-top-of-the-world-chords-1852845",
+    "name": "Doc Watson - Sitting On Top Of The World (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Doc Watson"
+    },
+    "datePublished": "2016-06-10T06:38:03-04:00",
+    "dateModified": "2016-06-10T10:38:03-04:00",
+    "commentCount": 8
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/danny-vera/roller-coaster-chords-2638560",
+    "name": "Danny Vera - Roller Coaster (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Danny Vera"
+    },
+    "datePublished": "2019-03-20T13:58:10-04:00",
+    "dateModified": "2020-07-06T13:07:49-04:00",
+    "commentCount": 17,
+    "musicalKey": "A"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tlc/waterfalls-chords-1779324",
+    "name": "Tlc - Waterfalls (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "TLC"
+    },
+    "datePublished": "2015-11-08T21:08:46-05:00",
+    "dateModified": "2021-10-25T10:32:51-04:00",
+    "commentCount": 24
+}

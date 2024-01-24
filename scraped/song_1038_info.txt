@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fountains-of-wayne/stacys-mom-chords-58371",
+    "name": "Fountains Of Wayne - Stacys Mom (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fountains of Wayne"
+    },
+    "datePublished": "2003-08-17T20:00:00-04:00",
+    "dateModified": "2023-03-01T04:41:44-05:00",
+    "commentCount": 25,
+    "musicalKey": "E"
+}

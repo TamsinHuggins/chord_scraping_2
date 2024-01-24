@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-shallow-chords-2488086",
-    "name": "Misc Soundtrack - A Star Is Born - Shallow (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/basket-case-chords-955966",
+    "name": "Green Day - Basket Case (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 1",
     "composer": {
         "@type": "Person",
-        "name": "Misc Soundtrack"
+        "name": "Green Day"
     },
-    "datePublished": "2018-10-08T08:08:55-04:00",
-    "dateModified": "2023-09-30T12:14:52-04:00",
-    "commentCount": 107,
-    "musicalKey": "G"
+    "datePublished": "2010-06-07T20:00:01-04:00",
+    "dateModified": "2023-07-06T12:37:16-04:00",
+    "commentCount": 53,
+    "musicalKey": "Eb"
 }

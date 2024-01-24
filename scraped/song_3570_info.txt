@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/garden-song-chords-3008588",
+    "name": "Phoebe Bridgers - Garden Song (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phoebe Bridgers"
+    },
+    "datePublished": "2020-02-27T18:58:52-05:00",
+    "dateModified": "2020-02-28T12:27:22-05:00",
+    "commentCount": 5
+}

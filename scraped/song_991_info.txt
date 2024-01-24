@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/cinnamon-girl-chords-2799848",
+    "name": "Lana Del Rey - Cinnamon Girl (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2019-08-19T22:09:04-04:00",
+    "dateModified": "2022-02-03T00:09:54-05:00",
+    "commentCount": 0
+}

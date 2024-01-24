@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/supermarket-flowers-chords-1956603",
+    "name": "Ed Sheeran - Supermarket Flowers (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2017-03-02T07:18:43-05:00",
+    "dateModified": "2018-11-11T22:45:32-05:00",
+    "commentCount": 305,
+    "musicalKey": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tate-mcrae/greedy-chords-4954678",
+    "name": "Tate Mcrae - Greedy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tate McRae"
+    },
+    "datePublished": "2023-09-15T00:20:34-04:00",
+    "dateModified": "2023-09-15T04:20:34-04:00",
+    "commentCount": 2,
+    "musicalKey": "F#m"
+}

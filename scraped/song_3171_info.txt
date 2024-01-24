@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simple-plan/welcome-to-my-life-chords-137153",
+    "name": "Simple Plan - Welcome To My Life (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Simple Plan"
+    },
+    "datePublished": "2004-09-14T20:00:00-04:00",
+    "dateModified": "2018-09-08T11:07:10-04:00",
+    "commentCount": 85,
+    "musicalKey": "Db"
+}

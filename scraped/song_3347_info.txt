@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/journey/open-arms-chords-833532",
+    "name": "Journey - Open Arms (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Journey"
+    },
+    "datePublished": "2009-06-05T20:00:01-04:00",
+    "dateModified": "2016-06-14T13:42:32-04:00",
+    "commentCount": 6
+}

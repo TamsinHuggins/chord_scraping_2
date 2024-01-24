@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/andy-grammer/dont-give-up-on-me-chords-2643276",
+    "name": "Andy Grammer - Dont Give Up On Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Andy Grammer"
+    },
+    "datePublished": "2019-03-24T21:43:01-04:00",
+    "dateModified": "2019-06-14T12:15:10-04:00",
+    "commentCount": 30,
+    "musicalKey": "C"
+}

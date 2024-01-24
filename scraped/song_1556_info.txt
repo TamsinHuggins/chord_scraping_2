@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/justin-timberlake/true-colors-chords-1857997",
+    "name": "Justin Timberlake - True Colors (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Justin Timberlake"
+    },
+    "datePublished": "2016-07-05T08:19:28-04:00",
+    "dateModified": "2021-12-04T01:05:49-05:00",
+    "commentCount": 37,
+    "musicalKey": "Am"
+}

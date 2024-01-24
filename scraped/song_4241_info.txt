@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ben-howard/keep-your-head-up-chords-1180866",
+    "name": "Ben Howard - Keep Your Head Up (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ben Howard"
+    },
+    "datePublished": "2012-09-10T20:00:01-04:00",
+    "dateModified": "2018-07-28T21:22:15-04:00",
+    "commentCount": 21
+}

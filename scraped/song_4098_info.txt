@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beach-boys/dont-worry-baby-chords-1044484",
+    "name": "The Beach Boys - Dont Worry Baby (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beach Boys"
+    },
+    "datePublished": "2011-04-05T20:00:01-04:00",
+    "dateModified": "2023-12-26T18:55:03-05:00",
+    "commentCount": 11,
+    "musicalKey": "E"
+}

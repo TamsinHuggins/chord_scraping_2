@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/moana-how-far-ill-go-chords-1925871",
+    "name": "Misc Cartoons - Moana - How Far Ill Go (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2016-12-30T17:10:44-05:00",
+    "dateModified": "2023-03-03T13:10:41-05:00",
+    "commentCount": 30,
+    "musicalKey": "Eb"
+}

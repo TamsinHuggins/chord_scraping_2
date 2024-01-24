@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sierra-ferrell/years-chords-4299722",
+    "name": "Sierra Ferrell - Years (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Sierra Ferrell"
+    },
+    "datePublished": "2022-08-05T11:46:08-04:00",
+    "dateModified": "2022-08-21T07:05:31-04:00",
+    "commentCount": 6,
+    "musicalKey": "A"
+}

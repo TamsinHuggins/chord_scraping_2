@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dire-straits/why-worry-chords-831965",
+    "name": "Dire Straits - Why Worry (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dire Straits"
+    },
+    "datePublished": "2009-06-01T20:00:01-04:00",
+    "dateModified": "2023-06-13T22:09:03-04:00",
+    "commentCount": 1
+}

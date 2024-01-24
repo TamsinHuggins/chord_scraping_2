@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sza/open-arms-chords-4454957",
+    "name": "Sza - Open Arms (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "SZA"
+    },
+    "datePublished": "2022-12-09T14:11:30-05:00",
+    "dateModified": "2023-06-09T21:34:54-04:00",
+    "commentCount": 2,
+    "musicalKey": "A"
+}

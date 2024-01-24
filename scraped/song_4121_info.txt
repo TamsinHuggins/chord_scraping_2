@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/reputation-chords-2241303",
+    "name": "Taylor Swift - Reputation (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2017-11-23T16:56:55-05:00",
+    "dateModified": "2017-11-27T09:03:27-05:00",
+    "commentCount": 11
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/larry-fleet/where-i-find-god-chords-3142112",
+    "name": "Larry Fleet - Where I Find God (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Larry Fleet"
+    },
+    "datePublished": "2020-05-11T01:12:41-04:00",
+    "dateModified": "2020-06-21T21:26:32-04:00",
+    "commentCount": 16
+}

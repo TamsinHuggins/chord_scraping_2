@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/santana/oye-como-va-chords-1992691",
+    "name": "Santana - Oye Como Va (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Santana"
+    },
+    "datePublished": "2017-05-07T08:16:08-04:00",
+    "dateModified": "2021-05-12T17:27:48-04:00",
+    "commentCount": 5,
+    "musicalKey": "Am"
+}

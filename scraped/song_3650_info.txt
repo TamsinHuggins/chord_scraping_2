@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/when-i-come-around-chords-869949",
+    "name": "Green Day - When I Come Around (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2009-09-06T20:00:01-04:00",
+    "dateModified": "2018-10-12T21:53:54-04:00",
+    "commentCount": 18
+}

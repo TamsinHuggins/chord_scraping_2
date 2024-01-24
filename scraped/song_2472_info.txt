@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/lover-chords-2805578",
+    "name": "Taylor Swift - Lover (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2019-08-25T18:49:27-04:00",
+    "dateModified": "2019-08-25T22:49:27-04:00",
+    "commentCount": 3
+}

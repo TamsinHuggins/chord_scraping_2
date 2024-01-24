@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queens-of-the-stone-age/no-one-knows-chords-934234",
+    "name": "Queens Of The Stone Age - No One Knows (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Cm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Queens of the Stone Age"
+    },
+    "datePublished": "2010-03-25T20:00:01-04:00",
+    "dateModified": "2021-01-26T15:30:53-05:00",
+    "commentCount": 9,
+    "musicalKey": "Cm"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/the-grudge-chords-4945534",
+    "name": "Olivia Rodrigo - The Grudge (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2023-09-07T17:38:24-04:00",
+    "dateModified": "2023-09-08T03:07:34-04:00",
+    "commentCount": 0,
+    "musicalKey": "Bb"
+}

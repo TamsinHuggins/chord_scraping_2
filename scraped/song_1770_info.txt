@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sara-bareilles/love-song-chords-510158",
+    "name": "Sara Bareilles - Love Song (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sara Bareilles"
+    },
+    "datePublished": "2007-04-29T20:00:01-04:00",
+    "dateModified": "2018-09-25T13:42:27-04:00",
+    "commentCount": 23
+}

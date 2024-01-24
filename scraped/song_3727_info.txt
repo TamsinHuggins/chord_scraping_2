@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1779187",
+    "name": "The Minds Of 99 - Hurtige Hænder (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Minds Of 99"
+    },
+    "datePublished": "2015-11-07T22:56:17-05:00",
+    "dateModified": "2016-03-05T10:04:03-05:00",
+    "commentCount": 1
+}

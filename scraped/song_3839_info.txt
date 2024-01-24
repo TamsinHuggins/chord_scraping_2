@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/fearless-chords-847248",
+    "name": "Taylor Swift - Fearless (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2009-07-13T20:00:01-04:00",
+    "dateModified": "2016-05-20T10:00:47-04:00",
+    "commentCount": 26
+}

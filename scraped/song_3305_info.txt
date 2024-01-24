@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/powderfinger-chords-1746606",
+    "name": "Neil Young - Powderfinger (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2015-06-26T20:32:15-04:00",
+    "dateModified": "2018-09-10T15:04:37-04:00",
+    "commentCount": 13,
+    "musicalKey": "G"
+}

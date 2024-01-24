@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eagles/i-cant-tell-you-why-chords-1106641",
+    "name": "Eagles - I Cant Tell You Why (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eagles"
+    },
+    "datePublished": "2011-11-06T19:00:01-05:00",
+    "dateModified": "2023-08-10T22:06:44-04:00",
+    "commentCount": 8
+}

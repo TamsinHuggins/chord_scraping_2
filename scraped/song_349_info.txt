@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/guns-n-roses/november-rain-chords-177850",
+    "name": "Guns N' Roses - November Rain (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Guns N&#039; Roses"
+    },
+    "datePublished": "2005-04-11T20:00:00-04:00",
+    "dateModified": "2023-01-02T19:44:22-05:00",
+    "commentCount": 77,
+    "musicalKey": "F"
+}

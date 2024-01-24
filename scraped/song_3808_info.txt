@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/breaking-the-girl-chords-30114",
+    "name": "Red Hot Chili Peppers - Breaking The Girl (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Red Hot Chili Peppers"
+    },
+    "datePublished": "2002-05-15T20:00:00-04:00",
+    "dateModified": "2019-03-21T10:50:30-04:00",
+    "commentCount": 29
+}

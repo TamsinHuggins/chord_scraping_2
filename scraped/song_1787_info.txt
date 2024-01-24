@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kelly-clarkson/breakaway-chords-127844",
+    "name": "Kelly Clarkson - Breakaway (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kelly Clarkson"
+    },
+    "datePublished": "2004-07-20T20:00:00-04:00",
+    "dateModified": "2018-09-17T09:35:03-04:00",
+    "commentCount": 25,
+    "musicalKey": "C"
+}

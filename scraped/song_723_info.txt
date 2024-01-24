@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mitski/i-bet-on-losing-dogs-chords-1843931",
+    "name": "Mitski - I Bet On Losing Dogs (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mitski"
+    },
+    "datePublished": "2016-05-11T08:36:18-04:00",
+    "dateModified": "2021-04-06T16:33:03-04:00",
+    "commentCount": 13,
+    "musicalKey": "A"
+}

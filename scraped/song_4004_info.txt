@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/modest-mouse/float-on-chords-587814",
+    "name": "Modest Mouse - Float On (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F# Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Modest Mouse"
+    },
+    "datePublished": "2007-10-10T20:00:01-04:00",
+    "dateModified": "2019-09-27T10:12:42-04:00",
+    "commentCount": 43,
+    "musicalKey": "F#"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wilbur-soot/your-new-boyfriend-chords-3297218",
+    "name": "Wilbur Soot - Your New Boyfriend (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Wilbur Soot"
+    },
+    "datePublished": "2020-08-17T17:06:09-04:00",
+    "dateModified": "2021-02-08T19:56:05-05:00",
+    "commentCount": 152,
+    "musicalKey": "G"
+}

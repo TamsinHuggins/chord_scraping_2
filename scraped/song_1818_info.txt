@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/corvette-summer-chords-5110387",
+    "name": "Green Day - Corvette Summer (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2024-01-18T18:13:02-05:00",
+    "dateModified": "2024-01-19T12:26:25-05:00",
+    "commentCount": 0
+}

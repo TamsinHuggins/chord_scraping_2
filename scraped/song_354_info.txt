@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/clairo/bags-chords-2704080",
+    "name": "Clairo - Bags (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Clairo"
+    },
+    "datePublished": "2019-05-24T02:39:01-04:00",
+    "dateModified": "2021-06-23T12:29:48-04:00",
+    "commentCount": 21,
+    "musicalKey": "Db"
+}

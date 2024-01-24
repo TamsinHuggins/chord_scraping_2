@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chavela-vargas/la-llorona-chords-1657604",
+    "name": "Chavela Vargas - La Llorona (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chavela Vargas"
+    },
+    "datePublished": "2014-03-14T05:15:36-04:00",
+    "dateModified": "2017-02-25T10:43:38-05:00",
+    "commentCount": 2
+}

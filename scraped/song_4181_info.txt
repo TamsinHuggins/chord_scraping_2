@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/berq/rote-flaggen-chords-4871120",
+    "name": "Berq - Rote Flaggen (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Berq"
+    },
+    "datePublished": "2023-07-13T09:03:40-04:00",
+    "dateModified": "2023-07-13T14:15:55-04:00",
+    "commentCount": 1,
+    "musicalKey": "C#m"
+}

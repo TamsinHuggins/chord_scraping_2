@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/big-river-chords-1097373",
+    "name": "Johnny Cash - Big River (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2011-10-02T20:00:01-04:00",
+    "dateModified": "2016-06-28T14:40:51-04:00",
+    "commentCount": 6
+}

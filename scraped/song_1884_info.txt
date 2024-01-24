@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/let-down-chords-596727",
+    "name": "Radiohead - Let Down (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Radiohead"
+    },
+    "datePublished": "2007-11-06T19:00:01-05:00",
+    "dateModified": "2022-07-23T08:03:21-04:00",
+    "commentCount": 15
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mary-hopkin/those-were-the-days-chords-1054310",
+    "name": "Mary Hopkin - Those Were The Days (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Mary Hopkin"
+    },
+    "datePublished": "2011-05-16T20:00:01-04:00",
+    "dateModified": "2023-06-18T19:27:26-04:00",
+    "commentCount": 30
+}

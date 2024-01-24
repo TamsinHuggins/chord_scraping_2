@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frankie-valli/cant-take-my-eyes-off-you-chords-439357",
+    "name": "Frankie Valli - Cant Take My Eyes Off You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Frankie Valli"
+    },
+    "datePublished": "2006-11-24T19:00:01-05:00",
+    "dateModified": "2020-03-28T13:49:04-04:00",
+    "commentCount": 9,
+    "musicalKey": "C"
+}

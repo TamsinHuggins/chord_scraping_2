@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wyndreth-berginsdottir/i-am-my-mothers-savage-daughter-chords-3254285",
+    "name": "Wyndreth Berginsdottir - I Am My Mothers Savage Daughter (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Wyndreth Berginsdottir"
+    },
+    "datePublished": "2020-07-19T04:56:17-04:00",
+    "dateModified": "2020-07-20T10:39:52-04:00",
+    "commentCount": 5
+}

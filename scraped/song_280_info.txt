@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tyler-childers/jersey-giant-chords-2500998",
+    "name": "Tyler Childers - Jersey Giant (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tyler Childers"
+    },
+    "datePublished": "2018-10-24T08:16:56-04:00",
+    "dateModified": "2018-10-24T13:45:58-04:00",
+    "commentCount": 12,
+    "musicalKey": "G"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mitski/nobody-chords-2426713",
+    "name": "Mitski - Nobody (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mitski"
+    },
+    "datePublished": "2018-07-16T14:20:09-04:00",
+    "dateModified": "2018-08-02T12:14:19-04:00",
+    "commentCount": 6
+}

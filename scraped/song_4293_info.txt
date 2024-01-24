@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-morrison/i-wont-let-you-go-chords-1082154",
+    "name": "James Morrison - I Wont Let You Go (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "James Morrison"
+    },
+    "datePublished": "2011-08-07T20:00:01-04:00",
+    "dateModified": "2022-09-15T16:36:39-04:00",
+    "commentCount": 7
+}

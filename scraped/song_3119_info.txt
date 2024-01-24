@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/yoasobi/idol-chords-4747505",
+    "name": "Yoasobi - Idol (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "YOASOBI"
+    },
+    "datePublished": "2023-04-29T21:02:20-04:00",
+    "dateModified": "2023-04-30T05:05:03-04:00",
+    "commentCount": 5,
+    "musicalKey": "Bm"
+}

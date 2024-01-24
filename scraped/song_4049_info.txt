@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/aimee-mann/save-me-chords-124021",
+    "name": "Aimee Mann - Save Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Aimee Mann"
+    },
+    "datePublished": "2004-06-27T20:00:00-04:00",
+    "dateModified": "2023-03-25T08:38:32-04:00",
+    "commentCount": 30
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mumford-sons/little-lion-man-chords-872773",
+    "name": "Mumford & Sons - Little Lion Man (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Mumford &amp; Sons"
+    },
+    "datePublished": "2009-09-13T20:00:01-04:00",
+    "dateModified": "2021-02-13T18:41:58-05:00",
+    "commentCount": 91,
+    "musicalKey": "Dm"
+}

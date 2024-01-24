@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/no-complaints-chords-4812839",
+    "name": "Noah Kahan - No Complaints (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: Ab Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2023-06-09T01:20:52-04:00",
+    "dateModified": "2023-06-09T05:20:52-04:00",
+    "commentCount": 3,
+    "musicalKey": "Ab"
+}

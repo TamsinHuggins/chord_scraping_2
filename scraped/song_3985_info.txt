@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/like-real-people-do-chords-1731998",
+    "name": "Hozier - Like Real People Do (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hozier"
+    },
+    "datePublished": "2015-04-22T01:58:05-04:00",
+    "dateModified": "2018-10-02T14:47:36-04:00",
+    "commentCount": 16,
+    "musicalKey": "G"
+}

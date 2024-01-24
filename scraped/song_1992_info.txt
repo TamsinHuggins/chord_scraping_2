@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/money-money-money-chords-356689",
+    "name": "Abba - Money Money Money (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2006-04-20T20:00:01-04:00",
+    "dateModified": "2022-10-22T06:02:14-04:00",
+    "commentCount": 5,
+    "musicalKey": "Am"
+}

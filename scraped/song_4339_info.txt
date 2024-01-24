@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linda-ronstadt/when-will-i-be-loved-chords-1055865",
+    "name": "Linda Ronstadt - When Will I Be Loved (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Linda Ronstadt"
+    },
+    "datePublished": "2011-05-15T20:00:01-04:00",
+    "dateModified": "2023-10-19T21:00:20-04:00",
+    "commentCount": 5
+}

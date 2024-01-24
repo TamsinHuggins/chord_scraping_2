@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sticky-fingers/cyclone-chords-1670544",
+    "name": "Sticky Fingers - Cyclone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sticky Fingers"
+    },
+    "datePublished": "2014-10-12T08:30:30-04:00",
+    "dateModified": "2016-06-29T10:18:59-04:00",
+    "commentCount": 29
+}

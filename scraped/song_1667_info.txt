@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/christell/dubidubidu-chords-3636302",
+    "name": "Christell - Dubidubidu (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Christell"
+    },
+    "datePublished": "2021-03-29T20:10:25-04:00",
+    "dateModified": "2021-03-31T07:33:16-04:00",
+    "commentCount": 0
+}

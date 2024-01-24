@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/iggy-pop/the-passenger-chords-515997",
+    "name": "Iggy Pop - The Passenger (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Iggy Pop"
+    },
+    "datePublished": "2007-05-11T20:00:01-04:00",
+    "dateModified": "2019-03-07T10:18:37-05:00",
+    "commentCount": 36
+}

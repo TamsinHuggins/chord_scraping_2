@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grateful-dead/ripple-chords-462863",
+    "name": "Grateful Dead - Ripple (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Grateful Dead"
+    },
+    "datePublished": "2007-01-21T19:00:01-05:00",
+    "dateModified": "2016-05-27T14:17:34-04:00",
+    "commentCount": 30
+}

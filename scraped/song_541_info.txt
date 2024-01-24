@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/caamp/by-and-by-chords-2773876",
+    "name": "Caamp - By And By (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Caamp"
+    },
+    "datePublished": "2019-07-24T10:05:31-04:00",
+    "dateModified": "2020-06-04T10:13:41-04:00",
+    "commentCount": 16
+}

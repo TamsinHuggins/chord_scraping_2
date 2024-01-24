@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hall-oates/rich-girl-chords-1234917",
+    "name": "Hall & Oates - Rich Girl (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hall &amp; Oates"
+    },
+    "datePublished": "2013-04-03T20:00:01-04:00",
+    "dateModified": "2020-06-18T10:45:22-04:00",
+    "commentCount": 14
+}

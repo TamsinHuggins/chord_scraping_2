@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/out-of-the-woods-chords-1671076",
+    "name": "Taylor Swift - Out Of The Woods (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2014-10-13T19:51:50-04:00",
+    "dateModified": "2016-04-09T16:00:40-04:00",
+    "commentCount": 17
+}

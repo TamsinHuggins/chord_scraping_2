@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-petty-and-the-heartbreakers/learning-to-fly-chords-153377",
+    "name": "Tom Petty And The Heartbreakers - Learning To Fly (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Petty and The Heartbreakers"
+    },
+    "datePublished": "2004-12-22T19:00:00-05:00",
+    "dateModified": "2022-11-25T14:02:05-05:00",
+    "commentCount": 60,
+    "musicalKey": "C"
+}

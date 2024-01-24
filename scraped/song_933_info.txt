@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/vanessa-williams/colors-of-the-wind-chords-205250",
+    "name": "Vanessa Williams - Colors Of The Wind (chords)",
+    "text": "Difficulty:  Tuning: D G C F A D Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Vanessa Williams"
+    },
+    "datePublished": "2005-08-12T20:00:00-04:00",
+    "dateModified": "2021-03-22T14:07:51-04:00",
+    "commentCount": 25,
+    "musicalKey": "Bb"
+}

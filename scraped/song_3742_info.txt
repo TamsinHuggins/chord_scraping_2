@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-united/highlands-song-of-ascent-chords-2676393",
+    "name": "Hillsong United - Highlands Song Of Ascent (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong United"
+    },
+    "datePublished": "2019-04-26T10:12:31-04:00",
+    "dateModified": "2019-04-26T21:34:04-04:00",
+    "commentCount": 22,
+    "musicalKey": "G"
+}

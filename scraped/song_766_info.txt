@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alec-benjamin/let-me-down-slowly-chords-2403605",
+    "name": "Alec Benjamin - Let Me Down Slowly (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Alec Benjamin"
+    },
+    "datePublished": "2018-06-13T05:18:14-04:00",
+    "dateModified": "2021-09-09T11:07:49-04:00",
+    "commentCount": 37,
+    "musicalKey": "Am"
+}

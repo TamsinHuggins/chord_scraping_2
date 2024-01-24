@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/big-thief/shark-smile-chords-2065947",
+    "name": "Big Thief - Shark Smile (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Big Thief"
+    },
+    "datePublished": "2017-06-26T00:35:26-04:00",
+    "dateModified": "2020-10-20T12:37:12-04:00",
+    "commentCount": 10
+}

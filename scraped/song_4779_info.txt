@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nofx/linoleum-chords-873644",
+    "name": "Nofx - Linoleum (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "NOFX"
+    },
+    "datePublished": "2009-09-16T20:00:01-04:00",
+    "dateModified": "2018-05-24T13:28:13-04:00",
+    "commentCount": 16
+}

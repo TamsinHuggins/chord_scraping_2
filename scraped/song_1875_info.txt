@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/3725591",
+    "name": "Måneskin - I Wanna Be Your Slave (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Måneskin"
+    },
+    "datePublished": "2021-05-26T11:53:46-04:00",
+    "dateModified": "2021-05-28T07:09:57-04:00",
+    "commentCount": 5,
+    "musicalKey": "C#m"
+}

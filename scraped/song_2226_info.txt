@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/edith-whiskers/home-chords-3415679",
+    "name": "Edith Whiskers - Home (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Edith Whiskers"
+    },
+    "datePublished": "2020-11-10T14:16:05-05:00",
+    "dateModified": "2021-04-26T11:20:17-04:00",
+    "commentCount": 3,
+    "musicalKey": "D"
+}

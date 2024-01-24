@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-four-seasons/december-1963-oh-what-a-night-chords-1395990",
+    "name": "The Four Seasons - December 1963 Oh What A Night (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Four Seasons"
+    },
+    "datePublished": "2013-06-12T20:00:01-04:00",
+    "dateModified": "2018-10-30T05:15:25-04:00",
+    "commentCount": 14
+}

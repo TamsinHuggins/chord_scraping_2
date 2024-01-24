@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jon-bon-jovi/blaze-of-glory-chords-61145",
+    "name": "Jon Bon Jovi - Blaze Of Glory (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jon Bon Jovi"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-09-09T04:52:42-04:00",
+    "commentCount": 20
+}

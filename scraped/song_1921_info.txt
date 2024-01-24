@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-musicals/the-sound-of-music-my-favorite-things-chords-839565",
+    "name": "Misc Musicals - The Sound Of Music - My Favorite Things (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Musicals"
+    },
+    "datePublished": "2009-06-23T20:00:01-04:00",
+    "dateModified": "2023-06-26T02:18:36-04:00",
+    "commentCount": 15
+}

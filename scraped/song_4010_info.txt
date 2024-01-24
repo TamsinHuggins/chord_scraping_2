@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/adventure-of-a-lifetime-chords-1779286",
+    "name": "Coldplay - Adventure Of A Lifetime (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2015-11-05T22:13:56-05:00",
+    "dateModified": "2016-03-25T15:06:06-04:00",
+    "commentCount": 17
+}

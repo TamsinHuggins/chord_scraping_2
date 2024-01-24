@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dr-dre/still-dre-chords-2141029",
+    "name": "Dr. Dre - Still Dre (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bbm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dr. Dre"
+    },
+    "datePublished": "2017-09-07T03:48:09-04:00",
+    "dateModified": "2017-09-07T07:48:09-04:00",
+    "commentCount": 9,
+    "musicalKey": "Bbm"
+}

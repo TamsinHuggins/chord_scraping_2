@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mike-the-mechanics/the-living-years-chords-918789",
+    "name": "Mike + The Mechanics - The Living Years (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Mike + The Mechanics"
+    },
+    "datePublished": "2010-02-04T19:00:01-05:00",
+    "dateModified": "2021-11-25T11:35:59-05:00",
+    "commentCount": 9,
+    "musicalKey": "Ab"
+}

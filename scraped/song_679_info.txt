@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/the-1-chords-3261356",
+    "name": "Taylor Swift - The 1 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-07-24T02:03:26-04:00",
+    "dateModified": "2020-08-04T09:10:07-04:00",
+    "commentCount": 10,
+    "musicalKey": "F"
+}

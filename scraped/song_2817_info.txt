@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/a-hazy-shade-of-winter-chords-545711",
+    "name": "Simon & Garfunkel - A Hazy Shade Of Winter (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Simon &amp; Garfunkel"
+    },
+    "datePublished": "2007-07-09T20:00:01-04:00",
+    "dateModified": "2019-12-19T11:16:06-05:00",
+    "commentCount": 17,
+    "musicalKey": "Dm"
+}

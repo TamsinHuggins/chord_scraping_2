@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nat-king-cole/l-o-v-e-chords-832752",
+    "name": "Nat King Cole - L-O-V-E (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nat King Cole"
+    },
+    "datePublished": "2009-06-03T20:00:01-04:00",
+    "dateModified": "2022-09-06T19:09:25-04:00",
+    "commentCount": 8,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/steely-dan/dirty-work-chords-84133",
+    "name": "Steely Dan - Dirty Work (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Steely Dan"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-09-21T03:29:05-04:00",
+    "commentCount": 13,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/art-garfunkel/bright-eyes-chords-1043395",
+    "name": "Art Garfunkel - Bright Eyes (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Art Garfunkel"
+    },
+    "datePublished": "2011-04-03T20:00:01-04:00",
+    "dateModified": "2023-08-09T20:44:10-04:00",
+    "commentCount": 7
+}

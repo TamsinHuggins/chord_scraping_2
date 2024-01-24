@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rex-orange-county/television-so-far-so-good-chords-2100891",
+    "name": "Rex Orange County - Television So Far So Good (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rex Orange County"
+    },
+    "datePublished": "2017-08-07T05:10:13-04:00",
+    "dateModified": "2019-10-23T11:27:36-04:00",
+    "commentCount": 13,
+    "musicalKey": "F"
+}

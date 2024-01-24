@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/koe-wetzel/love-chords-1960063",
+    "name": "Koe Wetzel - Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Koe Wetzel"
+    },
+    "datePublished": "2017-03-13T03:16:30-04:00",
+    "dateModified": "2018-02-10T21:23:09-05:00",
+    "commentCount": 8
+}

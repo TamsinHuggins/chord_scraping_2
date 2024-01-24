@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-script/breakeven-chords-733647",
+    "name": "The Script - Breakeven (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Script"
+    },
+    "datePublished": "2008-09-17T20:00:01-04:00",
+    "dateModified": "2021-04-14T18:38:31-04:00",
+    "commentCount": 87,
+    "musicalKey": "Em"
+}

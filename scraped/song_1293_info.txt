@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-petty/you-dont-know-how-it-feels-chords-5643",
+    "name": "Tom Petty - You Dont Know How It Feels (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Petty"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2019-10-08T02:01:45-04:00",
+    "commentCount": 34,
+    "musicalKey": "E"
+}

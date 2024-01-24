@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alanis-morissette/ironic-chords-523246",
+    "name": "Alanis Morissette - Ironic (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alanis Morissette"
+    },
+    "datePublished": "2007-05-25T20:00:01-04:00",
+    "dateModified": "2022-07-14T19:54:30-04:00",
+    "commentCount": 33,
+    "musicalKey": "E"
+}

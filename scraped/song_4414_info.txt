@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/car-seat-headrest/sober-to-death-powderfinger-chords-4873808",
+    "name": "Car Seat Headrest - Sober To Death - Powderfinger (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Car Seat Headrest"
+    },
+    "datePublished": "2023-07-14T06:10:33-04:00",
+    "dateModified": "2023-07-14T20:51:23-04:00",
+    "commentCount": 1,
+    "musicalKey": "E"
+}

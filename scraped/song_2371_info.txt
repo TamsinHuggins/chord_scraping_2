@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/madonna/la-isla-bonita-chords-671519",
+    "name": "Madonna - La Isla Bonita (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Madonna"
+    },
+    "datePublished": "2008-04-30T20:00:01-04:00",
+    "dateModified": "2018-07-11T12:20:00-04:00",
+    "commentCount": 14,
+    "musicalKey": "C#m"
+}

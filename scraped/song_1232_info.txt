@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-doors/people-are-strange-chords-1873736",
+    "name": "The Doors - People Are Strange (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Doors"
+    },
+    "datePublished": "2016-09-09T08:56:47-04:00",
+    "dateModified": "2016-09-09T12:56:47-04:00",
+    "commentCount": 5
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/say-dont-go-chords-5005573",
+    "name": "Taylor Swift - Say Dont Go (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2023-10-27T00:12:10-04:00",
+    "dateModified": "2023-10-28T15:52:03-04:00",
+    "commentCount": 5,
+    "musicalKey": "E"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/exit-music-for-a-film-chords-117554",
+    "name": "Radiohead - Exit Music For A Film (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Radiohead"
+    },
+    "datePublished": "2004-05-13T20:00:00-04:00",
+    "dateModified": "2020-03-24T12:52:05-04:00",
+    "commentCount": 67,
+    "musicalKey": "Am"
+}

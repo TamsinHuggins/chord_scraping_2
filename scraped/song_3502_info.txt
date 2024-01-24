@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/u2/one-chords-1081745",
+    "name": "U2 - One (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "U2"
+    },
+    "datePublished": "2011-08-09T20:00:01-04:00",
+    "dateModified": "2019-05-10T09:36:08-04:00",
+    "commentCount": 22,
+    "musicalKey": "Am"
+}

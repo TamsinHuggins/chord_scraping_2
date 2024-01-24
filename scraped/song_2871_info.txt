@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rose-betts/irish-eyes-chords-4879844",
+    "name": "Rose Betts - Irish Eyes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C# Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Rose Betts"
+    },
+    "datePublished": "2023-07-18T12:00:25-04:00",
+    "dateModified": "2023-07-27T11:18:31-04:00",
+    "commentCount": 0,
+    "musicalKey": "C#"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/1989-chords-1674195",
+    "name": "Taylor Swift - 1989 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2014-10-24T18:16:45-04:00",
+    "dateModified": "2016-04-21T15:00:45-04:00",
+    "commentCount": 20
+}

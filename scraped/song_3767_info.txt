@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/snow-on-the-beach-chords-4393331",
+    "name": "Taylor Swift - Snow On The Beach (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2022-10-20T19:27:22-04:00",
+    "dateModified": "2022-10-25T16:16:46-04:00",
+    "commentCount": 11,
+    "musicalKey": "F#m"
+}

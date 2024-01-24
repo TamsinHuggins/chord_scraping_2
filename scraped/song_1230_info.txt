@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/jigsaw-falling-into-place-chords-1830746",
+    "name": "Radiohead - Jigsaw Falling Into Place (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Radiohead"
+    },
+    "datePublished": "2016-03-30T07:43:36-04:00",
+    "dateModified": "2018-09-01T10:36:01-04:00",
+    "commentCount": 10
+}

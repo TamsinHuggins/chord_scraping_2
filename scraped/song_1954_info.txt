@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/mamma-mia-chords-709013",
+    "name": "Abba - Mamma Mia (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2008-07-24T20:00:01-04:00",
+    "dateModified": "2020-10-11T18:30:11-04:00",
+    "commentCount": 16,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bonnie-raitt/i-cant-make-you-love-me-chords-611294",
+    "name": "Bonnie Raitt - I Cant Make You Love Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Bonnie Raitt"
+    },
+    "datePublished": "2007-12-09T19:00:01-05:00",
+    "dateModified": "2023-12-27T15:53:41-05:00",
+    "commentCount": 41
+}

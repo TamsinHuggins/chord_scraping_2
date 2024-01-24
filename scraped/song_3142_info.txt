@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/give-me-novacaine-chords-142039",
+    "name": "Green Day - Give Me Novacaine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2004-10-18T20:00:00-04:00",
+    "dateModified": "2021-11-14T19:28:09-05:00",
+    "commentCount": 36,
+    "musicalKey": "A"
+}

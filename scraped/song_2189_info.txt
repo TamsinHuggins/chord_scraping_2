@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alison-krauss/ill-fly-away-chords-3325778",
+    "name": "Alison Krauss - Ill Fly Away (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alison Krauss"
+    },
+    "datePublished": "2020-09-07T00:48:36-04:00",
+    "dateModified": "2022-10-20T16:03:26-04:00",
+    "commentCount": 3
+}

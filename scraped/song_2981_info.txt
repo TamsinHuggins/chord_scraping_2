@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/3867893",
+    "name": "Rita Payés - Algo Contigo (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Rita Payés"
+    },
+    "datePublished": "2021-09-09T23:18:13-04:00",
+    "dateModified": "2023-07-15T17:53:06-04:00",
+    "commentCount": 1,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-jackson/the-way-you-make-me-feel-chords-842560",
+    "name": "Michael Jackson - The Way You Make Me Feel (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Jackson"
+    },
+    "datePublished": "2009-06-28T20:00:01-04:00",
+    "dateModified": "2019-02-11T01:06:05-05:00",
+    "commentCount": 8,
+    "musicalKey": "E"
+}

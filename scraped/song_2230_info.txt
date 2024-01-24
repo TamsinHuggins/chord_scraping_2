@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-pogues/a-rainy-night-in-soho-chords-267114",
+    "name": "The Pogues - A Rainy Night In Soho (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Pogues"
+    },
+    "datePublished": "2005-10-28T20:00:01-04:00",
+    "dateModified": "2023-12-22T12:53:48-05:00",
+    "commentCount": 7,
+    "musicalKey": "C"
+}

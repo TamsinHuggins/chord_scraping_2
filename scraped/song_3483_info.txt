@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/shiver-chords-120881",
+    "name": "Coldplay - Shiver (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2004-06-06T20:00:00-04:00",
+    "dateModified": "2016-04-29T12:49:26-04:00",
+    "commentCount": 23
+}

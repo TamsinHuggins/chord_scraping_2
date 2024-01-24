@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/november-air-chords-3440396",
+    "name": "Zach Bryan - November Air (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2020-11-27T01:22:35-05:00",
+    "dateModified": "2020-11-27T22:10:43-05:00",
+    "commentCount": 8
+}

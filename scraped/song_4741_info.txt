@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ruth-b-/dandelions-chords-1994407",
+    "name": "Ruth B. - Dandelions (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ruth B."
+    },
+    "datePublished": "2017-05-12T03:44:35-04:00",
+    "dateModified": "2017-05-12T07:44:35-04:00",
+    "commentCount": 2
+}

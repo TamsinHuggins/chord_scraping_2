@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/xavi/la-diabla-chords-5076001",
+    "name": "Xavi - La Diabla (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Xavi"
+    },
+    "datePublished": "2023-12-21T07:29:27-05:00",
+    "dateModified": "2023-12-21T14:18:14-05:00",
+    "commentCount": 0,
+    "musicalKey": "Bm"
+}

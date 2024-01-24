@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/new-wine-chords-2251409",
+    "name": "Hillsong Worship - New Wine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Worship"
+    },
+    "datePublished": "2017-12-03T23:16:27-05:00",
+    "dateModified": "2018-04-05T07:10:31-04:00",
+    "commentCount": 15
+}

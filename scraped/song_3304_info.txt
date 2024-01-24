@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rhodes/blank-space-chords-1799002",
+    "name": "Rhodes - Blank Space (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rhodes"
+    },
+    "datePublished": "2015-12-29T06:59:11-05:00",
+    "dateModified": "2015-12-29T11:59:11-05:00",
+    "commentCount": 0
+}

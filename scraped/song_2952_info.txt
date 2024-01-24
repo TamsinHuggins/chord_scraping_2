@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/barry-manilow/copacabana-chords-1735214",
+    "name": "Barry Manilow - Copacabana (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Barry Manilow"
+    },
+    "datePublished": "2015-05-08T14:50:16-04:00",
+    "dateModified": "2015-05-08T18:50:16-04:00",
+    "commentCount": 7
+}

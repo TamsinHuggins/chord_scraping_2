@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grouplove/tongue-tied-chords-1115506",
+    "name": "Grouplove - Tongue Tied (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: 8",
+    "composer": {
+        "@type": "Person",
+        "name": "Grouplove"
+    },
+    "datePublished": "2011-12-13T19:00:01-05:00",
+    "dateModified": "2021-07-20T05:21:56-04:00",
+    "commentCount": 32,
+    "musicalKey": "Eb"
+}

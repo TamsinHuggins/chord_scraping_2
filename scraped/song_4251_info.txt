@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/warning-sign-chords-268630",
+    "name": "Coldplay - Warning Sign (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2005-11-02T19:00:01-05:00",
+    "dateModified": "2016-05-26T14:03:17-04:00",
+    "commentCount": 13
+}

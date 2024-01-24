@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/old-money-chords-1493288",
+    "name": "Lana Del Rey - Old Money (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2014-06-15T05:07:09-04:00",
+    "dateModified": "2016-06-08T12:40:09-04:00",
+    "commentCount": 13
+}

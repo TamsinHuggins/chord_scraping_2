@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/paradise-chords-1092837",
+    "name": "Coldplay - Paradise (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2011-09-13T20:00:01-04:00",
+    "dateModified": "2018-12-20T11:40:46-05:00",
+    "commentCount": 34,
+    "musicalKey": "Bb"
+}

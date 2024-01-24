@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/salvatore-chords-1767670",
+    "name": "Lana Del Rey - Salvatore (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2015-09-17T02:17:46-04:00",
+    "dateModified": "2016-07-06T10:14:43-04:00",
+    "commentCount": 5
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-jackson/earth-song-chords-847020",
+    "name": "Michael Jackson - Earth Song (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Jackson"
+    },
+    "datePublished": "2009-07-09T20:00:01-04:00",
+    "dateModified": "2019-04-10T09:21:26-04:00",
+    "commentCount": 18,
+    "musicalKey": "G#m"
+}

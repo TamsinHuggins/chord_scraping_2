@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/weezer/island-in-the-sun-chords-852868",
+    "name": "Weezer - Island In The Sun (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Weezer"
+    },
+    "datePublished": "2009-07-28T20:00:01-04:00",
+    "dateModified": "2022-02-24T16:29:38-05:00",
+    "commentCount": 34,
+    "musicalKey": "Em"
+}

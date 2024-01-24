@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/sweet-creature-chords-1990123",
+    "name": "Harry Styles - Sweet Creature (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2017-05-02T14:38:24-04:00",
+    "dateModified": "2017-07-21T13:32:23-04:00",
+    "commentCount": 41,
+    "musicalKey": "G"
+}

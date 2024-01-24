@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/morgan-wallen/everything-i-love-chords-4626866",
+    "name": "Morgan Wallen - Everything I Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Morgan Wallen"
+    },
+    "datePublished": "2023-01-31T10:23:00-05:00",
+    "dateModified": "2023-02-12T10:23:06-05:00",
+    "commentCount": 3
+}

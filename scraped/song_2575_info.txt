@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/katyusha-chords-1679062",
+    "name": "Misc Traditional - Katyusha (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2014-11-15T18:56:25-05:00",
+    "dateModified": "2016-03-05T09:59:49-05:00",
+    "commentCount": 10
+}

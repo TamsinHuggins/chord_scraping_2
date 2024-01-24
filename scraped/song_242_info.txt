@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-greatest-showman-a-million-dreams-chords-2267983",
+    "name": "Misc Soundtrack - The Greatest Showman - A Million Dreams (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2017-12-27T15:02:38-05:00",
+    "dateModified": "2021-11-26T22:03:22-05:00",
+    "commentCount": 119,
+    "musicalKey": "G"
+}

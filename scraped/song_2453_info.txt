@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/one-of-us-chords-355658",
+    "name": "Abba - One Of Us (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2006-04-18T20:00:01-04:00",
+    "dateModified": "2016-09-14T13:41:18-04:00",
+    "commentCount": 3
+}

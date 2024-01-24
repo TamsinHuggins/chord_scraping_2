@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/colter-wall/sleeping-on-the-blacktop-chords-4031470",
+    "name": "Colter Wall - Sleeping On The Blacktop (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Colter Wall"
+    },
+    "datePublished": "2022-01-16T05:24:02-05:00",
+    "dateModified": "2022-02-28T18:41:11-05:00",
+    "commentCount": 10,
+    "musicalKey": "Gm"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4-non-blondes/whats-up-chords-268676",
+    "name": "4 Non Blondes - Whats Up (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "4 Non Blondes"
+    },
+    "datePublished": "2005-11-03T19:00:01-05:00",
+    "dateModified": "2016-04-14T11:53:53-04:00",
+    "commentCount": 17
+}

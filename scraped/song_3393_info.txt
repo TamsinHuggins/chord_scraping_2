@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lizzy-mcalpine/apple-pie-chords-2945612",
+    "name": "Lizzy Mcalpine - Apple Pie (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lizzy McAlpine"
+    },
+    "datePublished": "2019-12-30T18:29:58-05:00",
+    "dateModified": "2020-01-09T09:59:19-05:00",
+    "commentCount": 2
+}

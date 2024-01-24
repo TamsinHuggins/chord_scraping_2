@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/yebba/october-sky-chords-3750485",
+    "name": "Yebba - October Sky (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "YEBBA"
+    },
+    "datePublished": "2021-06-13T09:43:50-04:00",
+    "dateModified": "2021-12-29T21:36:57-05:00",
+    "commentCount": 3,
+    "musicalKey": "Dm"
+}

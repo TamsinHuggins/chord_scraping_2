@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dixie-chicks/cowboy-take-me-away-chords-1036437",
+    "name": "Dixie Chicks - Cowboy Take Me Away (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Dixie Chicks"
+    },
+    "datePublished": "2011-03-09T19:00:01-05:00",
+    "dateModified": "2017-07-11T18:28:08-04:00",
+    "commentCount": 23
+}

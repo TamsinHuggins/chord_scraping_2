@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/1989-taylors-version-chords-5005597",
+    "name": "Taylor Swift - 1989 Taylors Version (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2023-10-27T00:44:20-04:00",
+    "dateModified": "2023-10-27T06:15:44-04:00",
+    "commentCount": 6
+}

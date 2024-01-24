@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-crew-cuts/sh-boom-chords-883419",
+    "name": "The Crew-Cuts - Sh-Boom (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Crew-Cuts"
+    },
+    "datePublished": "2009-10-14T20:00:01-04:00",
+    "dateModified": "2018-07-23T13:55:00-04:00",
+    "commentCount": 8
+}

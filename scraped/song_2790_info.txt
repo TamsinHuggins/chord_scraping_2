@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/855138",
+    "name": "Kyo - Dernière Danse (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Kyo"
+    },
+    "datePublished": "2009-08-03T20:00:01-04:00",
+    "dateModified": "2016-06-11T09:45:25-04:00",
+    "commentCount": 4
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sitti/para-sa-akin-chords-1410003",
+    "name": "Sitti - Para Sa Akin (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Sitti"
+    },
+    "datePublished": "2013-08-11T20:00:01-04:00",
+    "dateModified": "2021-10-21T16:53:02-04:00",
+    "commentCount": 4,
+    "musicalKey": "Eb"
+}

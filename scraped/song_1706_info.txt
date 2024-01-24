@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/bad-guy-chords-2647458",
+    "name": "Billie Eilish - Bad Guy (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2019-03-28T23:58:04-04:00",
+    "dateModified": "2019-06-03T00:19:51-04:00",
+    "commentCount": 43,
+    "musicalKey": "Gm"
+}

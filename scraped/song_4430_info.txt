@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/christy-moore/black-is-the-colour-chords-116482",
+    "name": "Christy Moore - Black Is The Colour (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Christy Moore"
+    },
+    "datePublished": "2004-05-05T20:00:00-04:00",
+    "dateModified": "2019-12-17T22:22:56-05:00",
+    "commentCount": 9
+}

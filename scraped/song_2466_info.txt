@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lrb/haste-dekho-gaite-dekho-chords-1766136",
+    "name": "Lrb - Haste Dekho Gaite Dekho (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "LRB"
+    },
+    "datePublished": "2015-09-18T02:22:04-04:00",
+    "dateModified": "2022-03-07T10:01:11-05:00",
+    "commentCount": 2
+}

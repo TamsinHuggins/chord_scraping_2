@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/seafret/atlantis-chords-1733648",
+    "name": "Seafret - Atlantis (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Seafret"
+    },
+    "datePublished": "2015-04-28T05:32:35-04:00",
+    "dateModified": "2022-07-08T16:16:09-04:00",
+    "commentCount": 12,
+    "musicalKey": "G#m"
+}

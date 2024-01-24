@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jet/look-what-youve-done-chords-202628",
+    "name": "Jet - Look What Youve Done (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jet"
+    },
+    "datePublished": "2004-12-31T19:00:00-05:00",
+    "dateModified": "2016-05-13T11:57:56-04:00",
+    "commentCount": 22
+}

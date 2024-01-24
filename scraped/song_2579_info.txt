@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nickelback/photograph-chords-209242",
+    "name": "Nickelback - Photograph (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Nickelback"
+    },
+    "datePublished": "2005-08-30T20:00:00-04:00",
+    "dateModified": "2018-12-04T11:21:58-05:00",
+    "commentCount": 74
+}

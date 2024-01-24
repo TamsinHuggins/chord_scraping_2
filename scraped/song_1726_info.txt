@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-w-smith/draw-me-close-chords-625428",
+    "name": "Michael W. Smith - Draw Me Close (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael W. Smith"
+    },
+    "datePublished": "2008-01-13T19:00:01-05:00",
+    "dateModified": "2016-08-31T13:07:08-04:00",
+    "commentCount": 16
+}

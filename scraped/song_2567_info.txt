@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/post-malone/enough-is-enough-chords-4892467",
+    "name": "Post Malone - Enough Is Enough (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Post Malone"
+    },
+    "datePublished": "2023-07-28T00:15:52-04:00",
+    "dateModified": "2023-07-28T05:07:15-04:00",
+    "commentCount": 2,
+    "musicalKey": "G"
+}

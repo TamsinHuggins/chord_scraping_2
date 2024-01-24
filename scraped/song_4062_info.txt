@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jeff-buckley/grace-chords-1191773",
+    "name": "Jeff Buckley - Grace (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jeff Buckley"
+    },
+    "datePublished": "2012-10-29T20:00:01-04:00",
+    "dateModified": "2016-06-22T07:46:40-04:00",
+    "commentCount": 2
+}

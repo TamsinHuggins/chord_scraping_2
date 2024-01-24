@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruce-springsteen/im-on-fire-chords-1047368",
+    "name": "Bruce Springsteen - Im On Fire (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruce Springsteen"
+    },
+    "datePublished": "2011-04-14T20:00:01-04:00",
+    "dateModified": "2023-10-13T20:47:46-04:00",
+    "commentCount": 49,
+    "musicalKey": "E"
+}

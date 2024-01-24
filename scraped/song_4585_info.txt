@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elizabeth-cotten/freight-train-chords-1045078",
+    "name": "Elizabeth Cotten - Freight Train (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elizabeth Cotten"
+    },
+    "datePublished": "2011-04-07T20:00:01-04:00",
+    "dateModified": "2022-01-05T23:24:40-05:00",
+    "commentCount": 5
+}

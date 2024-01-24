@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-norman/stumblin-in-chords-1756318",
+    "name": "Chris Norman - Stumblin In (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Norman"
+    },
+    "datePublished": "2015-08-06T04:27:30-04:00",
+    "dateModified": "2019-06-05T23:20:18-04:00",
+    "commentCount": 13,
+    "musicalKey": "G"
+}

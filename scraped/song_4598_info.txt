@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/tangled-something-that-i-want-chords-1037354",
+    "name": "Misc Cartoons - Tangled - Something That I Want (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 8",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2011-03-17T20:00:01-04:00",
+    "dateModified": "2017-04-25T22:38:42-04:00",
+    "commentCount": 8
+}

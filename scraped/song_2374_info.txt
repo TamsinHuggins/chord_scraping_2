@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tina-turner/whats-love-got-to-do-with-it-chords-1397769",
+    "name": "Tina Turner - Whats Love Got To Do With It (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Tina Turner"
+    },
+    "datePublished": "2013-06-19T20:00:01-04:00",
+    "dateModified": "2023-05-25T16:06:32-04:00",
+    "commentCount": 15,
+    "musicalKey": "G#m"
+}

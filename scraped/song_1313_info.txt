@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/franz-ferdinand/take-me-out-chords-176648",
+    "name": "Franz Ferdinand - Take Me Out (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Franz Ferdinand"
+    },
+    "datePublished": "2005-04-05T20:00:00-04:00",
+    "dateModified": "2019-05-30T21:15:29-04:00",
+    "commentCount": 39
+}

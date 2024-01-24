@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kid-rock/all-summer-long-chords-678910",
+    "name": "Kid Rock - All Summer Long (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kid Rock"
+    },
+    "datePublished": "2008-05-18T20:00:01-04:00",
+    "dateModified": "2022-12-13T16:07:59-05:00",
+    "commentCount": 39
+}

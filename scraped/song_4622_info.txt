@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/post-malone/i-fall-apart-chords-1911193",
+    "name": "Post Malone - I Fall Apart (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Post Malone"
+    },
+    "datePublished": "2016-12-17T07:27:53-05:00",
+    "dateModified": "2022-07-12T01:28:06-04:00",
+    "commentCount": 56,
+    "musicalKey": "Bm"
+}

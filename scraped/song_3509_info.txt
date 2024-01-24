@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/marvin-gaye/aint-no-mountain-high-enough-chords-687843",
+    "name": "Marvin Gaye - Aint No Mountain High Enough (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Marvin Gaye"
+    },
+    "datePublished": "2008-06-09T20:00:01-04:00",
+    "dateModified": "2018-03-20T11:17:20-04:00",
+    "commentCount": 18,
+    "musicalKey": "Bm"
+}

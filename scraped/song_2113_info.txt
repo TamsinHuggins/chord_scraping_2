@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruno-mars/versace-on-the-floor-chords-1901019",
+    "name": "Bruno Mars - Versace On The Floor (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruno Mars"
+    },
+    "datePublished": "2016-11-04T07:25:54-04:00",
+    "dateModified": "2020-03-18T10:03:51-04:00",
+    "commentCount": 26,
+    "musicalKey": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ysabelle-cuevas/i-like-you-so-much-youll-know-it-chords-2381791",
+    "name": "Ysabelle Cuevas - I Like You So Much Youll Know It (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Ysabelle Cuevas"
+    },
+    "datePublished": "2018-05-08T22:36:57-04:00",
+    "dateModified": "2020-04-02T13:05:25-04:00",
+    "commentCount": 8,
+    "musicalKey": "D"
+}

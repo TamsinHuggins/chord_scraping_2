@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beach-bunny/sports-chords-2676075",
+    "name": "Beach Bunny - Sports (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Beach Bunny"
+    },
+    "datePublished": "2019-04-26T01:09:44-04:00",
+    "dateModified": "2023-05-08T00:37:48-04:00",
+    "commentCount": 21
+}

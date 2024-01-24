@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/garth-brooks/the-thunder-rolls-chords-1005164",
+    "name": "Garth Brooks - The Thunder Rolls (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Garth Brooks"
+    },
+    "datePublished": "2010-11-21T19:00:01-05:00",
+    "dateModified": "2016-06-15T12:49:25-04:00",
+    "commentCount": 34
+}

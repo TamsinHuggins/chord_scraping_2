@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/steve-lacy/dark-red-chords-1986265",
+    "name": "Steve Lacy - Dark Red (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Steve Lacy"
+    },
+    "datePublished": "2017-04-25T09:19:21-04:00",
+    "dateModified": "2017-09-11T20:25:45-04:00",
+    "commentCount": 6
+}

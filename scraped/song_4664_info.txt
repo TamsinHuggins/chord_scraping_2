@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4167763",
+    "name": "Mireille Mathieu - Bravo Tu As Gagné (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mireille Mathieu"
+    },
+    "datePublished": "2022-04-25T13:24:18-04:00",
+    "dateModified": "2023-03-20T20:45:29-04:00",
+    "commentCount": 0,
+    "musicalKey": "D"
+}

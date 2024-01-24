@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/enrique-iglesias/hero-chords-372548",
+    "name": "Enrique Iglesias - Hero (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Enrique Iglesias"
+    },
+    "datePublished": "2006-06-01T20:00:01-04:00",
+    "dateModified": "2020-04-11T17:27:21-04:00",
+    "commentCount": 39,
+    "musicalKey": "G"
+}

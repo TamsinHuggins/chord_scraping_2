@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blue-jeans/kodom-chords-2513208",
+    "name": "Blue Jeans - Kodom (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blue Jeans"
+    },
+    "datePublished": "2018-11-09T03:32:23-05:00",
+    "dateModified": "2018-11-12T09:57:24-05:00",
+    "commentCount": 3,
+    "musicalKey": "G"
+}

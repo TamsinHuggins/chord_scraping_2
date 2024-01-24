@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-marley/no-woman-no-cry-chords-45479",
+    "name": "Bob Marley - No Woman No Cry (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Marley"
+    },
+    "datePublished": "2003-02-11T19:00:00-05:00",
+    "dateModified": "2020-04-11T16:47:18-04:00",
+    "commentCount": 55,
+    "musicalKey": "C"
+}

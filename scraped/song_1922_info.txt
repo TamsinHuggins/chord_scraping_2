@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/crash-adams/give-me-a-kiss-chords-4311698",
+    "name": "Crash Adams - Give Me A Kiss (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Crash Adams"
+    },
+    "datePublished": "2022-08-15T12:20:00-04:00",
+    "dateModified": "2022-09-13T14:57:58-04:00",
+    "commentCount": 3,
+    "musicalKey": "D"
+}

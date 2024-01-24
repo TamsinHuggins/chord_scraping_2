@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lynyrd-skynyrd/free-bird-chords-127116",
+    "name": "Lynyrd Skynyrd - Free Bird (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lynyrd Skynyrd"
+    },
+    "datePublished": "2004-07-15T20:00:00-04:00",
+    "dateModified": "2020-10-15T11:16:48-04:00",
+    "commentCount": 56
+}

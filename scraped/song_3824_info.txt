@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fleet-foxes/blue-ridge-mountains-chords-1042364",
+    "name": "Fleet Foxes - Blue Ridge Mountains (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Fleet Foxes"
+    },
+    "datePublished": "2011-03-30T20:00:01-04:00",
+    "dateModified": "2016-06-07T13:28:50-04:00",
+    "commentCount": 5
+}

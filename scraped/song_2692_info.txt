@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-band/long-black-veil-chords-1048981",
+    "name": "The Band - Long Black Veil (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Band"
+    },
+    "datePublished": "2011-04-21T20:00:01-04:00",
+    "dateModified": "2023-05-17T21:52:17-04:00",
+    "commentCount": 8
+}

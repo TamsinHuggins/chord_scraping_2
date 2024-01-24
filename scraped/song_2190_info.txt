@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/riccardo-cocciante/le-coup-de-soleil-chords-1993495",
+    "name": "Riccardo Cocciante - Le Coup De Soleil (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Riccardo Cocciante"
+    },
+    "datePublished": "2017-05-11T07:46:54-04:00",
+    "dateModified": "2020-06-10T14:52:54-04:00",
+    "commentCount": 5
+}

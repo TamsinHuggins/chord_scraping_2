@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/briston-maroney/freakin-out-on-the-interstate-chords-2418925",
+    "name": "Briston Maroney - Freakin Out On The Interstate (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Briston Maroney"
+    },
+    "datePublished": "2018-07-07T00:16:55-04:00",
+    "dateModified": "2018-12-30T09:07:16-05:00",
+    "commentCount": 13
+}

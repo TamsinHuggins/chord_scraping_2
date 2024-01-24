@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/celine-dion/beauty-and-the-beast-chords-2166121",
+    "name": "Celine Dion - Beauty And The Beast (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Celine Dion"
+    },
+    "datePublished": "2017-09-26T23:51:56-04:00",
+    "dateModified": "2020-05-04T17:23:20-04:00",
+    "commentCount": 3
+}

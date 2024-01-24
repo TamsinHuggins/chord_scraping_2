@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1111935",
+    "name": "Francis Cabrel - Je Laime À Mourir (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Francis Cabrel"
+    },
+    "datePublished": "2011-11-28T19:00:01-05:00",
+    "dateModified": "2021-08-07T14:22:24-04:00",
+    "commentCount": 9
+}

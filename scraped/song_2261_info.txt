@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stone-sour/wicked-game-chords-1211951",
+    "name": "Stone Sour - Wicked Game (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A#m Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Stone Sour"
+    },
+    "datePublished": "2013-01-28T19:00:01-05:00",
+    "dateModified": "2022-08-02T14:23:39-04:00",
+    "commentCount": 25,
+    "musicalKey": "A#m"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pointer-sisters/im-so-excited-chords-956261",
+    "name": "Pointer Sisters - Im So Excited (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pointer Sisters"
+    },
+    "datePublished": "2010-06-08T20:00:01-04:00",
+    "dateModified": "2021-06-08T08:54:14-04:00",
+    "commentCount": 2
+}

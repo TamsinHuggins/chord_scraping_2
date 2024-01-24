@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/matt-redman/the-heart-of-worship-chords-129829",
+    "name": "Matt Redman - The Heart Of Worship (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Matt Redman"
+    },
+    "datePublished": "2004-08-01T20:00:00-04:00",
+    "dateModified": "2019-08-13T11:09:03-04:00",
+    "commentCount": 36,
+    "musicalKey": "Eb"
+}

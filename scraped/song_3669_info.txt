@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dean-martin/everybody-loves-somebody-chords-1044774",
+    "name": "Dean Martin - Everybody Loves Somebody (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Dean Martin"
+    },
+    "datePublished": "2011-04-07T20:00:01-04:00",
+    "dateModified": "2022-11-12T23:33:09-05:00",
+    "commentCount": 13
+}

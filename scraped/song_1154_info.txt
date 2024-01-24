@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/peter-paul-and-mary/500-miles-chords-1045017",
+    "name": "Peter, Paul And Mary - 500 Miles (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Peter, Paul and Mary"
+    },
+    "datePublished": "2011-04-12T20:00:01-04:00",
+    "dateModified": "2022-11-02T23:09:01-04:00",
+    "commentCount": 11
+}

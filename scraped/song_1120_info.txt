@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/acdc/you-shook-me-all-night-long-chords-621851",
+    "name": "Ac/Dc - You Shook Me All Night Long (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "AC/DC"
+    },
+    "datePublished": "2008-01-04T19:00:01-05:00",
+    "dateModified": "2020-07-21T12:15:12-04:00",
+    "commentCount": 28,
+    "musicalKey": "G"
+}

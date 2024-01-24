@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/simple-twist-of-fate-chords-806584",
+    "name": "Bob Dylan - Simple Twist Of Fate (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2009-03-26T20:00:01-04:00",
+    "dateModified": "2021-09-24T07:18:19-04:00",
+    "commentCount": 41
+}

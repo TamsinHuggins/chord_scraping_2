@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/2639025",
+    "name": "Ángela Aguilar - La Llorona (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ángela Aguilar"
+    },
+    "datePublished": "2019-03-20T22:14:57-04:00",
+    "dateModified": "2020-01-05T09:08:47-05:00",
+    "commentCount": 2
+}

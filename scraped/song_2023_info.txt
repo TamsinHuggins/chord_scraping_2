@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rex-orange-county/pluto-projector-chords-2864111",
+    "name": "Rex Orange County - Pluto Projector (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rex Orange County"
+    },
+    "datePublished": "2019-10-22T00:25:56-04:00",
+    "dateModified": "2020-01-24T01:19:48-05:00",
+    "commentCount": 20,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/gravity-falls-theme-chords-1842976",
+    "name": "Misc Cartoons - Gravity Falls Theme (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2016-05-10T08:49:18-04:00",
+    "dateModified": "2016-05-10T12:49:18-04:00",
+    "commentCount": 3
+}

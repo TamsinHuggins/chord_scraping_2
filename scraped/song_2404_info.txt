@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/i-can-see-you-chords-4857317",
+    "name": "Taylor Swift - I Can See You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ebm Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2023-07-07T00:43:25-04:00",
+    "dateModified": "2023-07-10T14:36:40-04:00",
+    "commentCount": 12,
+    "musicalKey": "Ebm"
+}

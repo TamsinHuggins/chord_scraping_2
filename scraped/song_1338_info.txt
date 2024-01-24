@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-lumineers/ophelia-chords-1818565",
+    "name": "The Lumineers - Ophelia (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "The Lumineers"
+    },
+    "datePublished": "2016-02-25T06:58:20-05:00",
+    "dateModified": "2016-06-17T09:16:29-04:00",
+    "commentCount": 16
+}

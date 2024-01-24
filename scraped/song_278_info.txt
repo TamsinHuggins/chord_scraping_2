@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/half-the-world-away-chords-46064",
+    "name": "Oasis - Half The World Away (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Oasis"
+    },
+    "datePublished": "2003-02-19T19:00:00-05:00",
+    "dateModified": "2022-09-18T17:02:55-04:00",
+    "commentCount": 96,
+    "musicalKey": "C"
+}

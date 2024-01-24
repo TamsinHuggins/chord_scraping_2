@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/aliocha-schneider/ensemble-chords-4865606",
+    "name": "Aliocha Schneider - Ensemble (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Aliocha Schneider"
+    },
+    "datePublished": "2023-07-11T05:22:25-04:00",
+    "dateModified": "2023-07-12T15:07:20-04:00",
+    "commentCount": 0
+}

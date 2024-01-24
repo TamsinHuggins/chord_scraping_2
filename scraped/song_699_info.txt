@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/colter-wall/the-devil-wears-a-suit-and-tie-chords-1979887",
+    "name": "Colter Wall - The Devil Wears A Suit And Tie (chords)",
+    "text": "Difficulty: beginner Tuning: D G C F A D Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Colter Wall"
+    },
+    "datePublished": "2017-04-13T03:43:59-04:00",
+    "dateModified": "2022-01-26T22:49:42-05:00",
+    "commentCount": 20
+}

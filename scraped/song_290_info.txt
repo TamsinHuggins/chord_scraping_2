@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gloria-gaynor/i-will-survive-chords-991389",
+    "name": "Gloria Gaynor - I Will Survive (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gloria Gaynor"
+    },
+    "datePublished": "2010-09-29T20:00:01-04:00",
+    "dateModified": "2022-11-18T15:24:20-05:00",
+    "commentCount": 23
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frank-sinatra/the-way-you-look-tonight-chords-742402",
+    "name": "Frank Sinatra - The Way You Look Tonight (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Frank Sinatra"
+    },
+    "datePublished": "2008-10-12T20:00:01-04:00",
+    "dateModified": "2019-12-06T09:05:07-05:00",
+    "commentCount": 18,
+    "musicalKey": "Eb"
+}

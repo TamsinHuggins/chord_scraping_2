@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/carole-king/so-far-away-chords-1187865",
+    "name": "Carole King - So Far Away (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Carole King"
+    },
+    "datePublished": "2012-10-10T20:00:01-04:00",
+    "dateModified": "2023-10-03T21:53:22-04:00",
+    "commentCount": 57,
+    "musicalKey": "D"
+}

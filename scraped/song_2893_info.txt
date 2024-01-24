@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-flynn/detectorists-chords-1673307",
+    "name": "Johnny Flynn - Detectorists (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Flynn"
+    },
+    "datePublished": "2014-10-22T04:33:42-04:00",
+    "dateModified": "2018-12-10T09:39:28-05:00",
+    "commentCount": 13,
+    "musicalKey": "E"
+}

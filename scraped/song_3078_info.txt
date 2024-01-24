@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hank-williams-jr-/a-country-boy-can-survive-chords-1187317",
+    "name": "Hank Williams Jr. - A Country Boy Can Survive (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hank Williams Jr."
+    },
+    "datePublished": "2012-10-09T20:00:01-04:00",
+    "dateModified": "2017-11-03T19:23:14-04:00",
+    "commentCount": 26
+}

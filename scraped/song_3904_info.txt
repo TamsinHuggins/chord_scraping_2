@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kenny-rogers/lucille-chords-82133",
+    "name": "Kenny Rogers - Lucille (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Kenny Rogers"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-03-26T10:54:32-04:00",
+    "commentCount": 11,
+    "musicalKey": "Bb"
+}

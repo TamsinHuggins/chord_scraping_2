@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hall-oates/maneater-chords-1210300",
+    "name": "Hall & Oates - Maneater (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Hall &amp; Oates"
+    },
+    "datePublished": "2013-01-22T19:00:01-05:00",
+    "dateModified": "2018-12-03T06:39:11-05:00",
+    "commentCount": 26
+}

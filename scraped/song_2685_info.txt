@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/buena-vista-social-club/chan-chan-chords-110162",
+    "name": "Buena Vista Social Club - Chan Chan (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Buena Vista Social Club"
+    },
+    "datePublished": "2004-03-24T19:00:00-05:00",
+    "dateModified": "2016-05-13T12:18:15-04:00",
+    "commentCount": 17
+}

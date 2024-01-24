@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cage-the-elephant/trouble-chords-1784054",
+    "name": "Cage The Elephant - Trouble (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cage the Elephant"
+    },
+    "datePublished": "2015-11-25T13:09:11-05:00",
+    "dateModified": "2017-06-29T05:54:42-04:00",
+    "commentCount": 28,
+    "musicalKey": "C"
+}

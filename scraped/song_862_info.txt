@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-smiths/heaven-knows-im-miserable-now-chords-1086408",
+    "name": "The Smiths - Heaven Knows Im Miserable Now (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Smiths"
+    },
+    "datePublished": "2011-09-06T20:00:01-04:00",
+    "dateModified": "2019-04-30T23:49:24-04:00",
+    "commentCount": 10
+}

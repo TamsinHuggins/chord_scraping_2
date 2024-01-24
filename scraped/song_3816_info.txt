@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-dead-south/in-hell-ill-be-in-good-company-chords-1952761",
+    "name": "The Dead South - In Hell Ill Be In Good Company (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Dead South"
+    },
+    "datePublished": "2017-02-25T05:45:58-05:00",
+    "dateModified": "2017-02-25T10:45:56-05:00",
+    "commentCount": 25
+}

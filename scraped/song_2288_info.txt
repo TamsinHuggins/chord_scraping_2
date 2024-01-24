@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billy-idol/eyes-without-a-face-chords-755532",
+    "name": "Billy Idol - Eyes Without A Face (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billy Idol"
+    },
+    "datePublished": "2008-11-13T19:00:01-05:00",
+    "dateModified": "2020-03-27T17:40:22-04:00",
+    "commentCount": 16
+}

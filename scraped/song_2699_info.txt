@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/the-winner-takes-it-all-chords-211929",
+    "name": "Abba - The Winner Takes It All (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2005-09-12T20:00:00-04:00",
+    "dateModified": "2016-09-13T08:11:47-04:00",
+    "commentCount": 3
+}

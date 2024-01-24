@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/would-that-i-chords-2622474",
+    "name": "Hozier - Would That I (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Hozier"
+    },
+    "datePublished": "2019-03-03T22:06:01-05:00",
+    "dateModified": "2023-04-05T23:27:20-04:00",
+    "commentCount": 3,
+    "musicalKey": "D"
+}

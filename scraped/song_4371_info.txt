@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/i-love-you-chords-2648316",
+    "name": "Billie Eilish - I Love You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2019-03-29T18:29:22-04:00",
+    "dateModified": "2019-03-30T17:39:15-04:00",
+    "commentCount": 3
+}

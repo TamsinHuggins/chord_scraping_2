@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/halsey/colors-chords-1720916",
+    "name": "Halsey - Colors (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Halsey"
+    },
+    "datePublished": "2015-03-16T00:30:09-04:00",
+    "dateModified": "2018-03-19T12:20:48-04:00",
+    "commentCount": 25,
+    "musicalKey": "Bbm"
+}

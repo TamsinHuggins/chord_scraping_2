@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elijah-woods/247-365-chords-4897141",
+    "name": "Elijah Woods - 247 365 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Gb Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Elijah Woods"
+    },
+    "datePublished": "2023-07-31T13:16:04-04:00",
+    "dateModified": "2023-08-01T12:48:23-04:00",
+    "commentCount": 3,
+    "musicalKey": "Gb"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/amy-winehouse/you-know-im-no-good-chords-552561",
+    "name": "Amy Winehouse - You Know Im No Good (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Amy Winehouse"
+    },
+    "datePublished": "2007-07-22T20:00:01-04:00",
+    "dateModified": "2018-04-19T07:01:38-04:00",
+    "commentCount": 29
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dolly-parton/i-will-always-love-you-chords-1734502",
+    "name": "Dolly Parton - I Will Always Love You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Dolly Parton"
+    },
+    "datePublished": "2015-05-05T19:22:45-04:00",
+    "dateModified": "2016-11-29T08:24:02-05:00",
+    "commentCount": 19
+}

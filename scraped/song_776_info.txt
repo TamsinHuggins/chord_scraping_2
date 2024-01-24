@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/meghan-trainor/like-im-gonna-lose-you-chords-1715372",
+    "name": "Meghan Trainor - Like Im Gonna Lose You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Meghan Trainor"
+    },
+    "datePublished": "2015-02-25T08:41:46-05:00",
+    "dateModified": "2021-03-17T19:24:29-04:00",
+    "commentCount": 71,
+    "musicalKey": "C"
+}

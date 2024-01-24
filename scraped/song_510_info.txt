@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dean-lewis/be-alright-chords-2412689",
+    "name": "Dean Lewis - Be Alright (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Dean Lewis"
+    },
+    "datePublished": "2018-06-28T12:15:02-04:00",
+    "dateModified": "2023-04-08T21:29:06-04:00",
+    "commentCount": 57,
+    "musicalKey": "G#m"
+}

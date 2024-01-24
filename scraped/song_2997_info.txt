@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/hazbin-hotel-hell-is-forever-chords-5111980",
+    "name": "Misc Cartoons - Hazbin Hotel - Hell Is Forever (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2024-01-20T05:56:13-05:00",
+    "dateModified": "2024-01-21T15:13:58-05:00",
+    "commentCount": 0
+}

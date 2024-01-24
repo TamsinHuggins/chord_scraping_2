@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lovejoy/taunt-chords-3700430",
+    "name": "Lovejoy - Taunt (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lovejoy"
+    },
+    "datePublished": "2021-05-09T22:22:30-04:00",
+    "dateModified": "2021-05-13T16:47:39-04:00",
+    "commentCount": 51,
+    "musicalKey": "G"
+}

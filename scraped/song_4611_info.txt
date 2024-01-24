@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1624023",
+    "name": "Rocío Dúrcal - La Gata Bajo La Lluvia (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rocío Dúrcal"
+    },
+    "datePublished": "2014-03-13T21:04:43-04:00",
+    "dateModified": "2014-03-14T01:04:43-04:00",
+    "commentCount": 1
+}

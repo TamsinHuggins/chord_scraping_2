@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/big-red-machine/renegade-chords-3775901",
+    "name": "Big Red Machine - Renegade (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Big Red Machine"
+    },
+    "datePublished": "2021-07-02T01:12:14-04:00",
+    "dateModified": "2021-07-06T03:14:14-04:00",
+    "commentCount": 13,
+    "musicalKey": "C"
+}

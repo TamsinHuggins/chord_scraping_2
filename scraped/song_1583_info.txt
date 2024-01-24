@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rivermaya/214-chords-47363",
+    "name": "Rivermaya - 214 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rivermaya"
+    },
+    "datePublished": "2003-03-11T19:00:00-05:00",
+    "dateModified": "2019-01-31T13:30:16-05:00",
+    "commentCount": 12,
+    "musicalKey": "G"
+}

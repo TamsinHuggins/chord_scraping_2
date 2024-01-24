@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beach-boys/wouldnt-it-be-nice-chords-1056229",
+    "name": "The Beach Boys - Wouldnt It Be Nice (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beach Boys"
+    },
+    "datePublished": "2011-05-18T20:00:01-04:00",
+    "dateModified": "2023-08-10T18:59:59-04:00",
+    "commentCount": 4
+}

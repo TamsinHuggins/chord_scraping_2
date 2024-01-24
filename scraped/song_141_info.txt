@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-hunger-games-the-ballad-of-songbirds-and-snakes-nothing-you-can-take-from-me-chords-5034157",
+    "name": "Misc Soundtrack - The Hunger Games The Ballad Of Songbirds And Snakes - Nothing You Can Take From Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bbm Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-11-18T08:06:58-05:00",
+    "dateModified": "2024-01-14T14:45:47-05:00",
+    "commentCount": 4,
+    "musicalKey": "Bbm"
+}

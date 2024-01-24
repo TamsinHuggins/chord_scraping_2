@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/jackie-and-wilson-chords-1666203",
+    "name": "Hozier - Jackie And Wilson (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Hozier"
+    },
+    "datePublished": "2014-09-26T05:10:54-04:00",
+    "dateModified": "2020-05-18T20:39:01-04:00",
+    "commentCount": 16
+}

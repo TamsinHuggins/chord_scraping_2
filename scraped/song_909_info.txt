@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/glen-campbell/gentle-on-my-mind-chords-1720947",
+    "name": "Glen Campbell - Gentle On My Mind (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Glen Campbell"
+    },
+    "datePublished": "2015-03-16T09:12:43-04:00",
+    "dateModified": "2021-10-13T12:40:23-04:00",
+    "commentCount": 33,
+    "musicalKey": "Eb"
+}

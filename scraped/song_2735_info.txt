@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tears-for-fears/everybody-wants-to-rule-the-world-chords-1236196",
+    "name": "Tears For Fears - Everybody Wants To Rule The World (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tears for Fears"
+    },
+    "datePublished": "2013-04-04T20:00:01-04:00",
+    "dateModified": "2017-05-07T07:11:25-04:00",
+    "commentCount": 13
+}

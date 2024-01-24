@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-mayer/daughters-chords-89934",
+    "name": "John Mayer - Daughters (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Mayer"
+    },
+    "datePublished": "2009-04-27T11:10:48-04:00",
+    "dateModified": "2020-06-20T08:11:30-04:00",
+    "commentCount": 35,
+    "musicalKey": "Bm"
+}

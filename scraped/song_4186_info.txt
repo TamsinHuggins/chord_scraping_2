@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tate-mcrae/run-for-the-hills-chords-5059972",
+    "name": "Tate Mcrae - Run For The Hills (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Fm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tate McRae"
+    },
+    "datePublished": "2023-12-08T11:53:57-05:00",
+    "dateModified": "2023-12-08T20:00:59-05:00",
+    "commentCount": 3,
+    "musicalKey": "Fm"
+}

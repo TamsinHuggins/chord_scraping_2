@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/the-super-mario-bros-movie-peaches-chords-4718675",
+    "name": "Misc Cartoons - The Super Mario Bros Movie - Peaches (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2023-04-08T01:56:31-04:00",
+    "dateModified": "2023-04-21T14:25:50-04:00",
+    "commentCount": 12,
+    "musicalKey": "Bbm"
+}

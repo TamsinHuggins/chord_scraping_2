@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-penguins/earth-angel-chords-80422",
+    "name": "The Penguins - Earth Angel (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 8",
+    "composer": {
+        "@type": "Person",
+        "name": "The Penguins"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-04-27T19:19:08-04:00",
+    "commentCount": 36
+}

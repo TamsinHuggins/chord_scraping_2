@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nepathya/aagani-bhari-chords-4263631",
+    "name": "Nepathya - Aagani Bhari (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nepathya"
+    },
+    "datePublished": "2022-07-08T20:46:56-04:00",
+    "dateModified": "2022-07-12T09:30:04-04:00",
+    "commentCount": 0,
+    "musicalKey": "C"
+}

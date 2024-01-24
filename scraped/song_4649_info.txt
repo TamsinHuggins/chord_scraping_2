@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bts/dynamite-chords-3301964",
+    "name": "Bts - Dynamite (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "BTS"
+    },
+    "datePublished": "2020-08-21T04:11:04-04:00",
+    "dateModified": "2020-08-25T12:55:40-04:00",
+    "commentCount": 20,
+    "musicalKey": "C#m"
+}

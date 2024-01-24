@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bryan-adams/summer-of-69-chords-843137",
+    "name": "Bryan Adams - Summer Of 69 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bryan Adams"
+    },
+    "datePublished": "2009-07-01T20:00:01-04:00",
+    "dateModified": "2021-03-15T02:07:58-04:00",
+    "commentCount": 44,
+    "musicalKey": "D"
+}

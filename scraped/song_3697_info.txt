@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jefferson-airplane/somebody-to-love-chords-1874825",
+    "name": "Jefferson Airplane - Somebody To Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Jefferson Airplane"
+    },
+    "datePublished": "2016-09-14T08:13:29-04:00",
+    "dateModified": "2023-09-15T22:51:36-04:00",
+    "commentCount": 9,
+    "musicalKey": "A"
+}

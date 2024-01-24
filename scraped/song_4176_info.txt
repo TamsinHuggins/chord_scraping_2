@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/post-malone/chemical-chords-4729673",
+    "name": "Post Malone - Chemical (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Post Malone"
+    },
+    "datePublished": "2023-04-16T07:18:43-04:00",
+    "dateModified": "2023-04-16T13:40:02-04:00",
+    "commentCount": 3,
+    "musicalKey": "D"
+}

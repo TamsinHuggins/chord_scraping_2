@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/paper-rings-chords-2802836",
+    "name": "Taylor Swift - Paper Rings (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2019-08-23T00:52:48-04:00",
+    "dateModified": "2021-06-08T18:29:42-04:00",
+    "commentCount": 16,
+    "musicalKey": "D"
+}

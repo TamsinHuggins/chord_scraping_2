@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/system-of-a-down/aerials-chords-2132765",
+    "name": "System Of A Down - Aerials (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "System Of A Down"
+    },
+    "datePublished": "2017-08-31T05:50:40-04:00",
+    "dateModified": "2021-10-17T13:46:06-04:00",
+    "commentCount": 12,
+    "musicalKey": "Am"
+}

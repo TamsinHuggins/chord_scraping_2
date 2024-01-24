@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/norah-jones/dont-know-why-chords-43060",
+    "name": "Norah Jones - Dont Know Why (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Norah Jones"
+    },
+    "datePublished": "2003-01-09T19:00:00-05:00",
+    "dateModified": "2016-04-27T12:20:34-04:00",
+    "commentCount": 15
+}

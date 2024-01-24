@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adele/rolling-in-the-deep-chords-1007655",
+    "name": "Adele - Rolling In The Deep (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Adele"
+    },
+    "datePublished": "2010-11-28T19:00:01-05:00",
+    "dateModified": "2020-09-20T20:29:55-04:00",
+    "commentCount": 67
+}

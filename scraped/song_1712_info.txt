@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/east-side-of-sorrow-chords-4697537",
+    "name": "Zach Bryan - East Side Of Sorrow (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2023-03-23T17:00:00-04:00",
+    "dateModified": "2023-03-24T13:20:12-04:00",
+    "commentCount": 3
+}

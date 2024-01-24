@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mark-ronson/nothing-breaks-like-a-heart-chords-2531568",
+    "name": "Mark Ronson - Nothing Breaks Like A Heart (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Mark Ronson"
+    },
+    "datePublished": "2018-11-30T15:30:35-05:00",
+    "dateModified": "2019-05-06T06:14:17-04:00",
+    "commentCount": 11,
+    "musicalKey": "Gm"
+}

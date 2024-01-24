@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/moriarty/jimmy-chords-790948",
+    "name": "Moriarty - Jimmy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Moriarty"
+    },
+    "datePublished": "2009-02-15T19:00:01-05:00",
+    "dateModified": "2018-09-26T14:34:17-04:00",
+    "commentCount": 5,
+    "musicalKey": "Bbm"
+}

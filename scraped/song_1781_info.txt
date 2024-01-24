@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jamiroquai/virtual-insanity-chords-1840398",
+    "name": "Jamiroquai - Virtual Insanity (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Key: Ebm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jamiroquai"
+    },
+    "datePublished": "2016-05-06T19:59:24-04:00",
+    "dateModified": "2023-03-19T15:50:12-04:00",
+    "commentCount": 30,
+    "musicalKey": "Ebm"
+}

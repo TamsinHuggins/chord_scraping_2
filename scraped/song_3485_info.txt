@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/hey-bulldog-chords-700757",
+    "name": "The Beatles - Hey Bulldog (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2008-07-07T20:00:01-04:00",
+    "dateModified": "2016-07-07T10:48:51-04:00",
+    "commentCount": 10
+}

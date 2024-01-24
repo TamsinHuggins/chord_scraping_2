@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-computer-games/the-last-of-us-part-ii-take-on-me-chords-3213254",
+    "name": "Misc Computer Games - The Last Of Us Part Ii - Take On Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Computer Games"
+    },
+    "datePublished": "2020-06-21T22:14:53-04:00",
+    "dateModified": "2023-03-17T18:36:38-04:00",
+    "commentCount": 28,
+    "musicalKey": "E"
+}

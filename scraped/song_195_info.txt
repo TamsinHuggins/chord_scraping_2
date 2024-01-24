@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/toy-story-youve-got-a-friend-in-me-chords-107274",
+    "name": "Misc Cartoons - Toy Story - Youve Got A Friend In Me (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2004-03-02T19:00:00-05:00",
+    "dateModified": "2022-01-16T15:10:40-05:00",
+    "commentCount": 73,
+    "musicalKey": "Eb"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1044467",
+    "name": "Blue Öyster Cult - Dont Fear The Reaper (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blue Öyster Cult"
+    },
+    "datePublished": "2011-04-06T20:00:01-04:00",
+    "dateModified": "2022-07-15T18:56:36-04:00",
+    "commentCount": 27
+}

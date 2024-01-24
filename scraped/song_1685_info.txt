@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alice-in-chains/rooster-chords-863637",
+    "name": "Alice In Chains - Rooster (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Alice in Chains"
+    },
+    "datePublished": "2009-08-21T20:00:01-04:00",
+    "dateModified": "2023-01-09T01:40:22-05:00",
+    "commentCount": 21
+}

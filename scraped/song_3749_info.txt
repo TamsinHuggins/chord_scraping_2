@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/rio-bravo-my-rifle-my-pony-and-me-chords-951643",
+    "name": "Misc Soundtrack - Rio Bravo - My Rifle My Pony And Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2010-05-23T20:00:01-04:00",
+    "dateModified": "2020-05-06T21:33:25-04:00",
+    "commentCount": 9
+}

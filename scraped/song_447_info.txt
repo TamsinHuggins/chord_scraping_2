@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elvis-presley/love-me-tender-chords-91422",
+    "name": "Elvis Presley - Love Me Tender (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elvis Presley"
+    },
+    "datePublished": "2003-10-09T20:00:00-04:00",
+    "dateModified": "2016-04-09T12:32:33-04:00",
+    "commentCount": 24
+}

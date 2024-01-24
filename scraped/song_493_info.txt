@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/bohemian-rhapsody-chords-40606",
+    "name": "Queen - Bohemian Rhapsody (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2002-12-09T19:00:00-05:00",
+    "dateModified": "2022-01-22T12:09:39-05:00",
+    "commentCount": 85,
+    "musicalKey": "Bb"
+}

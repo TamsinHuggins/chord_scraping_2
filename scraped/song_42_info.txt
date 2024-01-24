@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-marley/three-little-birds-chords-166605",
+    "name": "Bob Marley - Three Little Birds (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Marley"
+    },
+    "datePublished": "2005-02-20T19:00:00-05:00",
+    "dateModified": "2019-03-30T16:20:14-04:00",
+    "commentCount": 97,
+    "musicalKey": "A"
+}

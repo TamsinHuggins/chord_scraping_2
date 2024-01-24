@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tracy-chapman/talkin-bout-a-revolution-chords-876284",
+    "name": "Tracy Chapman - Talkin Bout A Revolution (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tracy Chapman"
+    },
+    "datePublished": "2009-09-24T20:00:01-04:00",
+    "dateModified": "2017-07-17T03:07:28-04:00",
+    "commentCount": 3,
+    "musicalKey": "G"
+}

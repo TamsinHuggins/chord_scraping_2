@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elliott-smith/say-yes-chords-930394",
+    "name": "Elliott Smith - Say Yes (chords)",
+    "text": "Difficulty: beginner Tuning: D G C F A D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elliott Smith"
+    },
+    "datePublished": "2010-03-14T20:00:01-04:00",
+    "dateModified": "2022-11-08T18:34:47-05:00",
+    "commentCount": 26
+}

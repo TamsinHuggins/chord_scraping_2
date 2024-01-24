@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/doris-day/que-sera-sera-chords-561938",
+    "name": "Doris Day - Que Sera Sera (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Doris Day"
+    },
+    "datePublished": "2007-08-10T20:00:01-04:00",
+    "dateModified": "2016-06-03T12:54:39-04:00",
+    "commentCount": 5
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/the-bonnie-banks-o-loch-lomond-chords-1042061",
+    "name": "Misc Traditional - The Bonnie Banks O Loch Lomond (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2011-03-29T20:00:01-04:00",
+    "dateModified": "2018-02-12T02:53:06-05:00",
+    "commentCount": 4
+}

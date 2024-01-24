@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linkin-park/one-more-light-chords-1997545",
+    "name": "Linkin Park - One More Light (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Linkin Park"
+    },
+    "datePublished": "2017-05-17T03:33:44-04:00",
+    "dateModified": "2017-07-21T13:23:28-04:00",
+    "commentCount": 57,
+    "musicalKey": "Em"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/imagine-dragons/whatever-it-takes-chords-1993695",
+    "name": "Imagine Dragons - Whatever It Takes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Imagine Dragons"
+    },
+    "datePublished": "2017-05-09T02:28:28-04:00",
+    "dateModified": "2022-05-09T20:28:06-04:00",
+    "commentCount": 37,
+    "musicalKey": "Bbm"
+}

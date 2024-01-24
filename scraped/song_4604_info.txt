@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kacey-musgraves/butterflies-chords-2162531",
+    "name": "Kacey Musgraves - Butterflies (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Kacey Musgraves"
+    },
+    "datePublished": "2017-09-24T18:48:34-04:00",
+    "dateModified": "2017-09-24T22:48:34-04:00",
+    "commentCount": 19
+}

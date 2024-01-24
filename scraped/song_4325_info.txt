@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/merle-travis/dark-as-a-dungeon-chords-1984715",
+    "name": "Merle Travis - Dark As A Dungeon (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Merle Travis"
+    },
+    "datePublished": "2017-04-28T07:49:24-04:00",
+    "dateModified": "2017-05-01T20:47:05-04:00",
+    "commentCount": 2
+}

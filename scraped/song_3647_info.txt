@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lady-gaga/born-this-way-chords-1028954",
+    "name": "Lady Gaga - Born This Way (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lady Gaga"
+    },
+    "datePublished": "2011-02-15T19:00:01-05:00",
+    "dateModified": "2019-01-29T12:50:57-05:00",
+    "commentCount": 4
+}

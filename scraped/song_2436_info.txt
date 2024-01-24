@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eagles/hotel-california-chords-1447299",
+    "name": "Eagles - Hotel California (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Eagles"
+    },
+    "datePublished": "2013-12-11T03:40:32-05:00",
+    "dateModified": "2021-11-28T17:55:08-05:00",
+    "commentCount": 25
+}

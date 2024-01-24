@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/leonard-cohen/hallelujah-chords-64977",
+    "name": "Leonard Cohen - Hallelujah (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Leonard Cohen"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2018-05-30T12:46:39-04:00",
+    "commentCount": 54,
+    "musicalKey": "C"
+}

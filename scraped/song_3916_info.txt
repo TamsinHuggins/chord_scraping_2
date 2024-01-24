@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/avicii/without-you-chords-2105975",
+    "name": "Avicii - Without You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Avicii"
+    },
+    "datePublished": "2017-08-10T20:07:53-04:00",
+    "dateModified": "2020-03-30T00:29:03-04:00",
+    "commentCount": 41,
+    "musicalKey": "D"
+}

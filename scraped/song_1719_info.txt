@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blue-swede/hooked-on-a-feeling-chords-753575",
+    "name": "Blue Swede - Hooked On A Feeling (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Blue Swede"
+    },
+    "datePublished": "2008-11-10T19:00:01-05:00",
+    "dateModified": "2020-01-09T04:07:07-05:00",
+    "commentCount": 20,
+    "musicalKey": "G"
+}

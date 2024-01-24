@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wolfgang-ambros/schifoan-chords-599834",
+    "name": "Wolfgang Ambros - Schifoan (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Wolfgang Ambros"
+    },
+    "datePublished": "2007-11-14T19:00:01-05:00",
+    "dateModified": "2016-08-06T12:09:28-04:00",
+    "commentCount": 0
+}

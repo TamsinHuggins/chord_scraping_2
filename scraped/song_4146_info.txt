@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/colter-wall/fraulein-chords-3024230",
+    "name": "Colter Wall - Fraulein (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Colter Wall"
+    },
+    "datePublished": "2020-03-12T12:15:54-04:00",
+    "dateModified": "2023-06-03T07:26:48-04:00",
+    "commentCount": 3,
+    "musicalKey": "G"
+}

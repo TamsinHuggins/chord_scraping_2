@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/banners/someone-to-you-chords-2090327",
+    "name": "Banners - Someone To You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Banners"
+    },
+    "datePublished": "2017-07-25T03:33:03-04:00",
+    "dateModified": "2020-03-21T14:33:45-04:00",
+    "commentCount": 20
+}

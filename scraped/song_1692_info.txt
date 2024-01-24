@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gregory-alan-isakov/amsterdam-chords-1406469",
+    "name": "Gregory Alan Isakov - Amsterdam (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Gregory Alan Isakov"
+    },
+    "datePublished": "2013-07-24T20:00:01-04:00",
+    "dateModified": "2021-04-12T23:01:18-04:00",
+    "commentCount": 24
+}

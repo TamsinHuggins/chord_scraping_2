@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alvvays/archie-marry-me-chords-1505360",
+    "name": "Alvvays - Archie Marry Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Alvvays"
+    },
+    "datePublished": "2014-07-29T04:44:28-04:00",
+    "dateModified": "2016-06-08T12:43:23-04:00",
+    "commentCount": 21,
+    "musicalKey": "G"
+}

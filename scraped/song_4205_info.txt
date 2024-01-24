@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/sing-chords-1475295",
+    "name": "Ed Sheeran - Sing (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2014-04-08T20:00:01-04:00",
+    "dateModified": "2021-05-25T14:55:12-04:00",
+    "commentCount": 52,
+    "musicalKey": "G#m"
+}

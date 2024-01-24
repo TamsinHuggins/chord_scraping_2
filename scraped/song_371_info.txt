@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/birdy/people-help-the-people-chords-1117486",
+    "name": "Birdy - People Help The People (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Gb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Birdy"
+    },
+    "datePublished": "2011-12-21T19:00:01-05:00",
+    "dateModified": "2018-09-18T09:36:45-04:00",
+    "commentCount": 12,
+    "musicalKey": "Gb"
+}

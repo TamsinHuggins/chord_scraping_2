@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/i-heard-it-through-the-grapevine-chords-755727",
+    "name": "Creedence Clearwater Revival - I Heard It Through The Grapevine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Creedence Clearwater Revival"
+    },
+    "datePublished": "2008-11-13T19:00:01-05:00",
+    "dateModified": "2018-12-12T23:19:24-05:00",
+    "commentCount": 11
+}

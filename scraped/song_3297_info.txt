@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-rzeznik/im-still-here-chords-39870",
+    "name": "John Rzeznik - Im Still Here (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "John Rzeznik"
+    },
+    "datePublished": "2002-11-28T19:00:00-05:00",
+    "dateModified": "2019-09-18T23:12:32-04:00",
+    "commentCount": 19
+}

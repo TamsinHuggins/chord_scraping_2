@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/keith-whitley/im-over-you-chords-686561",
+    "name": "Keith Whitley - Im Over You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Keith Whitley"
+    },
+    "datePublished": "2008-06-06T20:00:01-04:00",
+    "dateModified": "2022-12-06T21:59:12-05:00",
+    "commentCount": 12
+}

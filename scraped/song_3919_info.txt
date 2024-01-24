@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brandi-carlile/the-joke-chords-2234669",
+    "name": "Brandi Carlile - The Joke (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Brandi Carlile"
+    },
+    "datePublished": "2017-11-14T22:39:11-05:00",
+    "dateModified": "2017-12-17T23:12:37-05:00",
+    "commentCount": 17,
+    "musicalKey": "D"
+}

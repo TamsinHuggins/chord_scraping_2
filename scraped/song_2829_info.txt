@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-blunt/1973-chords-580570",
+    "name": "James Blunt - 1973 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "James Blunt"
+    },
+    "datePublished": "2007-09-23T20:00:01-04:00",
+    "dateModified": "2022-04-04T11:08:08-04:00",
+    "commentCount": 28
+}

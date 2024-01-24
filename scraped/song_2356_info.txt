@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ricky-nelson/hello-mary-lou-chords-778018",
+    "name": "Ricky Nelson - Hello Mary Lou (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Ricky Nelson"
+    },
+    "datePublished": "2009-01-15T19:00:01-05:00",
+    "dateModified": "2020-10-05T13:57:01-04:00",
+    "commentCount": 22,
+    "musicalKey": "A"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/no-body-no-crime-chords-3461903",
+    "name": "Taylor Swift - No Body No Crime (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-12-11T02:09:06-05:00",
+    "dateModified": "2020-12-26T01:54:27-05:00",
+    "commentCount": 40,
+    "musicalKey": "Gm"
+}

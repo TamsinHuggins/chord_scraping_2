@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cage-the-elephant/aint-no-rest-for-the-wicked-chords-826093",
+    "name": "Cage The Elephant - Aint No Rest For The Wicked (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cage the Elephant"
+    },
+    "datePublished": "2009-05-17T20:00:01-04:00",
+    "dateModified": "2018-02-24T08:16:23-05:00",
+    "commentCount": 24
+}

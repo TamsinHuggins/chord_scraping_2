@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/electric-light-orchestra/telephone-line-chords-139872",
+    "name": "Electric Light Orchestra - Telephone Line (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Electric Light Orchestra"
+    },
+    "datePublished": "2004-10-03T20:00:00-04:00",
+    "dateModified": "2022-11-18T15:30:22-05:00",
+    "commentCount": 30
+}

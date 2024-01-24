@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tate-mcrae/you-broke-me-first-chords-3141224",
+    "name": "Tate Mcrae - You Broke Me First (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Tate McRae"
+    },
+    "datePublished": "2020-05-10T12:40:13-04:00",
+    "dateModified": "2021-02-04T14:51:46-05:00",
+    "commentCount": 12,
+    "musicalKey": "C#m"
+}

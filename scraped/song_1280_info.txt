@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-reid/simply-the-best-chords-3130430",
+    "name": "Noah Reid - Simply The Best (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Reid"
+    },
+    "datePublished": "2020-05-04T10:36:18-04:00",
+    "dateModified": "2023-05-26T17:25:15-04:00",
+    "commentCount": 4,
+    "musicalKey": "B"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/fix-you-chords-1863305",
+    "name": "Coldplay - Fix You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2016-07-27T08:13:15-04:00",
+    "dateModified": "2022-05-18T14:39:48-04:00",
+    "commentCount": 47,
+    "musicalKey": "Eb"
+}

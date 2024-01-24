@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tyler-the-creator/see-you-again-chords-2089243",
+    "name": "Tyler, The Creator - See You Again (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Key: Gb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tyler, The Creator"
+    },
+    "datePublished": "2017-07-22T07:20:57-04:00",
+    "dateModified": "2017-07-25T03:33:43-04:00",
+    "commentCount": 18,
+    "musicalKey": "Gb"
+}

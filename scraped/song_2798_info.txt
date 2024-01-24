@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-fray/over-my-head-cable-car-chords-279519",
+    "name": "The Fray - Over My Head Cable Car (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Fray"
+    },
+    "datePublished": "2005-12-16T19:00:01-05:00",
+    "dateModified": "2021-03-26T22:41:28-04:00",
+    "commentCount": 104,
+    "musicalKey": "Db"
+}

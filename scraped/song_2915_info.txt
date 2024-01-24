@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/metallica/one-chords-98225",
+    "name": "Metallica - One (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Metallica"
+    },
+    "datePublished": "2003-12-21T19:00:00-05:00",
+    "dateModified": "2016-05-06T12:51:22-04:00",
+    "commentCount": 16,
+    "musicalKey": "Bm"
+}

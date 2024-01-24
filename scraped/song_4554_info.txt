@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/vance-joy/riptide-chords-1490170",
+    "name": "Vance Joy - Riptide (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Vance Joy"
+    },
+    "datePublished": "2014-06-06T03:04:58-04:00",
+    "dateModified": "2016-12-30T07:36:23-05:00",
+    "commentCount": 6
+}

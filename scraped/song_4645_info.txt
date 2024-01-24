@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ariana-grande/stuck-with-u-chords-3136835",
+    "name": "Ariana Grande - Stuck With U (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Ariana Grande"
+    },
+    "datePublished": "2020-05-08T00:08:12-04:00",
+    "dateModified": "2021-01-03T22:11:10-05:00",
+    "commentCount": 11,
+    "musicalKey": "Ab"
+}

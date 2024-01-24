@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-smiths/this-charming-man-chords-1059871",
+    "name": "The Smiths - This Charming Man (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Smiths"
+    },
+    "datePublished": "2011-05-25T20:00:01-04:00",
+    "dateModified": "2019-11-29T19:37:08-05:00",
+    "commentCount": 20
+}

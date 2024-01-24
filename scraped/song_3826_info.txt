@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-wolfe-tones/come-out-ye-black-and-tans-chords-2300877",
+    "name": "The Wolfe Tones - Come Out Ye Black And Tans (chords)",
+    "text": "Difficulty: beginner Tuning: D G C F A D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Wolfe Tones"
+    },
+    "datePublished": "2018-01-28T09:56:20-05:00",
+    "dateModified": "2023-01-08T21:23:21-05:00",
+    "commentCount": 11
+}

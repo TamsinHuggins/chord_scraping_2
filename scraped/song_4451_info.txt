@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/miguel/sure-thing-chords-1071065",
+    "name": "Miguel - Sure Thing (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Miguel"
+    },
+    "datePublished": "2011-06-30T20:00:01-04:00",
+    "dateModified": "2016-06-04T11:20:13-04:00",
+    "commentCount": 3,
+    "musicalKey": "D"
+}

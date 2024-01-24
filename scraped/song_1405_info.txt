@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/avril-lavigne/sk8er-boi-chords-752868",
+    "name": "Avril Lavigne - Sk8Er Boi (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Avril Lavigne"
+    },
+    "datePublished": "2008-11-07T19:00:01-05:00",
+    "dateModified": "2018-07-15T01:45:40-04:00",
+    "commentCount": 14
+}

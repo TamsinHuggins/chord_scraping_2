@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-1975/be-my-mistake-chords-2530935",
+    "name": "The 1975 - Be My Mistake (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The 1975"
+    },
+    "datePublished": "2018-11-29T21:14:52-05:00",
+    "dateModified": "2018-12-08T10:44:27-05:00",
+    "commentCount": 17,
+    "musicalKey": "Db"
+}

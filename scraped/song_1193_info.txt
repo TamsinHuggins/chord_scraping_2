@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/jireh-chords-3691598",
+    "name": "Elevation Worship - Jireh (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2021-05-04T03:46:35-04:00",
+    "dateModified": "2021-06-03T22:57:49-04:00",
+    "commentCount": 4,
+    "musicalKey": "D"
+}

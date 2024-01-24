@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tim-timebomb/sitting-on-the-dock-of-the-bay-chords-2010009",
+    "name": "Tim Timebomb - Sitting On The Dock Of The Bay (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tim Timebomb"
+    },
+    "datePublished": "2017-05-29T17:06:34-04:00",
+    "dateModified": "2023-09-18T13:56:51-04:00",
+    "commentCount": 25
+}

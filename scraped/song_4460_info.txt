@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/guns-n-roses/used-to-love-her-chords-614464",
+    "name": "Guns N' Roses - Used To Love Her (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Guns N&#039; Roses"
+    },
+    "datePublished": "2007-12-16T19:00:01-05:00",
+    "dateModified": "2018-04-07T20:08:27-04:00",
+    "commentCount": 24
+}

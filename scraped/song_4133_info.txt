@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/vacations/telephones-chords-2496933",
+    "name": "Vacations - Telephones (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "VACATIONS"
+    },
+    "datePublished": "2018-10-19T11:24:38-04:00",
+    "dateModified": "2018-12-06T08:48:52-05:00",
+    "commentCount": 2
+}

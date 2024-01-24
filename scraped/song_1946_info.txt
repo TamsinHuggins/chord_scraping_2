@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/good-old-fashioned-lover-boy-chords-213413",
+    "name": "Queen - Good Old Fashioned Lover Boy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2005-09-20T20:00:00-04:00",
+    "dateModified": "2016-07-02T13:06:11-04:00",
+    "commentCount": 14
+}

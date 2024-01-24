@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/peter-maffay/ich-wollte-nie-erwachsen-sein-chords-2404051",
+    "name": "Peter Maffay - Ich Wollte Nie Erwachsen Sein (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Peter Maffay"
+    },
+    "datePublished": "2018-06-14T02:57:31-04:00",
+    "dateModified": "2018-06-14T20:31:14-04:00",
+    "commentCount": 1,
+    "musicalKey": "D"
+}

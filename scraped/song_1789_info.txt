@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/boney-m-/rivers-of-babylon-chords-1458631",
+    "name": "Boney M. - Rivers Of Babylon (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Boney M."
+    },
+    "datePublished": "2014-02-02T19:00:01-05:00",
+    "dateModified": "2016-12-19T09:06:02-05:00",
+    "commentCount": 0
+}

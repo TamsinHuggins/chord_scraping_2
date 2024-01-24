@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tyler-childers/feathered-indians-chords-1781024",
+    "name": "Tyler Childers - Feathered Indians (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Tyler Childers"
+    },
+    "datePublished": "2015-11-13T08:17:07-05:00",
+    "dateModified": "2023-03-28T16:14:47-04:00",
+    "commentCount": 27,
+    "musicalKey": "G"
+}

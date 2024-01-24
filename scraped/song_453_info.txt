@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/one-direction/story-of-my-life-chords-1427462",
+    "name": "One Direction - Story Of My Life (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "One Direction"
+    },
+    "datePublished": "2013-10-27T20:00:01-04:00",
+    "dateModified": "2022-06-07T13:09:24-04:00",
+    "commentCount": 26,
+    "musicalKey": "Eb"
+}

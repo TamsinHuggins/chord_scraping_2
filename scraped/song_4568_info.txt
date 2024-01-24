@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hall-oates/you-make-my-dreams-chords-973669",
+    "name": "Hall & Oates - You Make My Dreams (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Hall &amp; Oates"
+    },
+    "datePublished": "2010-08-01T20:00:01-04:00",
+    "dateModified": "2016-06-22T06:54:38-04:00",
+    "commentCount": 8
+}

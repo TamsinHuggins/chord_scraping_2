@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lukas-graham/7-years-chords-1746537",
+    "name": "Lukas Graham - 7 Years (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lukas Graham"
+    },
+    "datePublished": "2015-06-22T06:30:54-04:00",
+    "dateModified": "2023-07-20T22:07:57-04:00",
+    "commentCount": 16
+}

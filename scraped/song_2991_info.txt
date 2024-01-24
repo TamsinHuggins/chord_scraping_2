@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/boat-chords-4735331",
+    "name": "Ed Sheeran - Boat (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2023-04-20T12:22:51-04:00",
+    "dateModified": "2023-04-21T08:52:14-04:00",
+    "commentCount": 3
+}

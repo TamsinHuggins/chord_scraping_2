@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/justin-bieber/love-yourself-chords-1780295",
+    "name": "Justin Bieber - Love Yourself (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Justin Bieber"
+    },
+    "datePublished": "2015-11-11T23:43:29-05:00",
+    "dateModified": "2016-12-30T08:18:46-05:00",
+    "commentCount": 12
+}

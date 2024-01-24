@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/8-chords-2647248",
+    "name": "Billie Eilish - 8 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 8",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2019-03-28T18:40:32-04:00",
+    "dateModified": "2019-08-28T23:49:39-04:00",
+    "commentCount": 21,
+    "musicalKey": "Eb"
+}

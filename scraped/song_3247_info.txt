@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/summer-walker/session-32-chords-2538927",
+    "name": "Summer Walker - Session 32 (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Summer Walker"
+    },
+    "datePublished": "2018-12-08T16:32:28-05:00",
+    "dateModified": "2018-12-11T11:34:24-05:00",
+    "commentCount": 3
+}

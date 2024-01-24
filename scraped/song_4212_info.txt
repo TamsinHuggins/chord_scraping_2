@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/willie-nelson/aint-it-funny-how-time-slips-away-chords-933098",
+    "name": "Willie Nelson - Aint It Funny How Time Slips Away (chords)",
+    "text": "Difficulty: beginner Tuning: D A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Willie Nelson"
+    },
+    "datePublished": "2010-03-23T20:00:01-04:00",
+    "dateModified": "2016-07-09T07:44:49-04:00",
+    "commentCount": 12
+}

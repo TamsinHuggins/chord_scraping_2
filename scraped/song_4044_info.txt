@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ikimono-gakari/blue-bird-chords-1479289",
+    "name": "Ikimono-Gakari - Blue Bird (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Ikimono-Gakari"
+    },
+    "datePublished": "2014-04-25T01:04:10-04:00",
+    "dateModified": "2020-12-01T12:16:04-05:00",
+    "commentCount": 7
+}

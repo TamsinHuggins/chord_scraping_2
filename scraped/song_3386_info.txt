@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-united/another-in-the-fire-chords-2597319",
+    "name": "Hillsong United - Another In The Fire (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong United"
+    },
+    "datePublished": "2019-02-06T19:28:06-05:00",
+    "dateModified": "2019-02-11T14:06:33-05:00",
+    "commentCount": 23
+}

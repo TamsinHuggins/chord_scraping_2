@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/serge-gainsbourg/la-javanaise-chords-1130236",
+    "name": "Serge Gainsbourg - La Javanaise (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Serge Gainsbourg"
+    },
+    "datePublished": "2012-02-12T19:00:01-05:00",
+    "dateModified": "2018-08-31T12:20:42-04:00",
+    "commentCount": 6
+}

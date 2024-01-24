@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wilco/jesus-etc-chords-581246",
+    "name": "Wilco - Jesus Etc (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Wilco"
+    },
+    "datePublished": "2007-09-25T20:00:01-04:00",
+    "dateModified": "2020-04-01T00:18:06-04:00",
+    "commentCount": 46
+}

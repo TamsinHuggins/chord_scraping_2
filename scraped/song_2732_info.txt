@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rod-stewart/maggie-may-chords-354424",
+    "name": "Rod Stewart - Maggie May (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rod Stewart"
+    },
+    "datePublished": "2006-04-16T20:00:01-04:00",
+    "dateModified": "2020-04-21T21:46:15-04:00",
+    "commentCount": 83
+}

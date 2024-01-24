@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruno-major/nothing-chords-2823791",
+    "name": "Bruno Major - Nothing (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruno Major"
+    },
+    "datePublished": "2019-09-12T17:57:23-04:00",
+    "dateModified": "2019-09-13T10:13:36-04:00",
+    "commentCount": 20,
+    "musicalKey": "D"
+}

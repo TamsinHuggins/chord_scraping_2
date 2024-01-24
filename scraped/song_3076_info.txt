@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/modern-english/i-melt-with-you-chords-566021",
+    "name": "Modern English - I Melt With You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Modern English"
+    },
+    "datePublished": "2007-08-19T20:00:01-04:00",
+    "dateModified": "2019-03-20T00:36:22-04:00",
+    "commentCount": 10
+}

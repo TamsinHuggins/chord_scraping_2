@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tyler-childers/follow-you-to-virgie-chords-2215039",
+    "name": "Tyler Childers - Follow You To Virgie (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Tyler Childers"
+    },
+    "datePublished": "2017-10-23T18:22:27-04:00",
+    "dateModified": "2021-03-11T05:51:21-05:00",
+    "commentCount": 26,
+    "musicalKey": "Gm"
+}

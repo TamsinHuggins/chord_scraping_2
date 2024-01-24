@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eminem/stan-chords-865776",
+    "name": "Eminem - Stan (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Eminem"
+    },
+    "datePublished": "2009-08-26T20:00:01-04:00",
+    "dateModified": "2019-07-13T01:07:07-04:00",
+    "commentCount": 24,
+    "musicalKey": "Em"
+}

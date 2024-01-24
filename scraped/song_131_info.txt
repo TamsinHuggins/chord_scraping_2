@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-fray/how-to-save-a-life-chords-258804",
+    "name": "The Fray - How To Save A Life (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Fray"
+    },
+    "datePublished": "2005-09-26T04:11:03-04:00",
+    "dateModified": "2020-08-28T11:08:00-04:00",
+    "commentCount": 154,
+    "musicalKey": "G"
+}

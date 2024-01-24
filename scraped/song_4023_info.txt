@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mayonnaise/jopay-chords-727017",
+    "name": "Mayonnaise - Jopay (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mayonnaise"
+    },
+    "datePublished": "2008-08-31T20:00:01-04:00",
+    "dateModified": "2022-03-25T17:32:06-04:00",
+    "commentCount": 4,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/i-bet-you-think-about-me-chords-3946160",
+    "name": "Taylor Swift - I Bet You Think About Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2021-11-12T03:28:01-05:00",
+    "dateModified": "2022-05-18T15:39:00-04:00",
+    "commentCount": 14,
+    "musicalKey": "C"
+}

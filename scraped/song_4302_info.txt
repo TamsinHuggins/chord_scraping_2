@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bobby-vinton/blue-velvet-chords-692438",
+    "name": "Bobby Vinton - Blue Velvet (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bobby Vinton"
+    },
+    "datePublished": "2008-06-19T20:00:01-04:00",
+    "dateModified": "2020-12-02T00:32:35-05:00",
+    "commentCount": 16
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rivermaya/hinahanap-hanap-kita-chords-82390",
+    "name": "Rivermaya - Hinahanap-Hanap Kita (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rivermaya"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-06-16T12:18:41-04:00",
+    "commentCount": 13,
+    "musicalKey": "G"
+}

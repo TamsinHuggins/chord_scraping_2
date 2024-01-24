@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/matt-maltese/as-the-world-caves-in-chords-2090271",
+    "name": "Matt Maltese - As The World Caves In (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Matt Maltese"
+    },
+    "datePublished": "2017-07-24T05:53:05-04:00",
+    "dateModified": "2021-08-31T22:30:14-04:00",
+    "commentCount": 22,
+    "musicalKey": "Bb"
+}

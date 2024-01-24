@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mariah-carey/we-belong-together-chords-884422",
+    "name": "Mariah Carey - We Belong Together (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mariah Carey"
+    },
+    "datePublished": "2009-10-19T20:00:01-04:00",
+    "dateModified": "2021-03-22T12:30:09-04:00",
+    "commentCount": 5
+}

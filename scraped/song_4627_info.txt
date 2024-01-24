@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/videoclub-france/amour-plastique-chords-2474418",
+    "name": "Videoclub (France) - Amour Plastique (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "VIDEOCLUB (France)"
+    },
+    "datePublished": "2018-09-18T14:40:48-04:00",
+    "dateModified": "2018-10-17T06:38:12-04:00",
+    "commentCount": 7,
+    "musicalKey": "Em"
+}

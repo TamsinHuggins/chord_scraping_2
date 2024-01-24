@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/i-knew-you-were-trouble-chords-1187569",
+    "name": "Taylor Swift - I Knew You Were Trouble (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F# Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2012-10-08T20:00:01-04:00",
+    "dateModified": "2022-06-06T02:10:57-04:00",
+    "commentCount": 155,
+    "musicalKey": "F#"
+}

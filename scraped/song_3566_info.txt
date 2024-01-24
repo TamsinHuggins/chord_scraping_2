@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kevin-kaarl/colapso-chords-2908355",
+    "name": "Kevin Kaarl - Colapso (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kevin Kaarl"
+    },
+    "datePublished": "2019-11-28T14:53:12-05:00",
+    "dateModified": "2022-03-08T05:53:01-05:00",
+    "commentCount": 1
+}

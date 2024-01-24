@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ragnbone-man/human-chords-1866371",
+    "name": "Rag'n'bone Man - Human (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rag&#039;n&#039;Bone Man"
+    },
+    "datePublished": "2016-08-11T06:29:47-04:00",
+    "dateModified": "2016-09-26T20:26:48-04:00",
+    "commentCount": 43
+}

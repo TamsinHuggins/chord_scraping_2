@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/metallica/master-of-puppets-chords-98211",
+    "name": "Metallica - Master Of Puppets (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Metallica"
+    },
+    "datePublished": "2003-12-21T19:00:00-05:00",
+    "dateModified": "2022-07-05T15:44:06-04:00",
+    "commentCount": 23,
+    "musicalKey": "Em"
+}

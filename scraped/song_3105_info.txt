@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/anjan-dutt/2441139-bela-bose-chords-1721919",
+    "name": "Anjan Dutt - 2441139 Bela Bose (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Anjan Dutt"
+    },
+    "datePublished": "2015-03-19T03:42:19-04:00",
+    "dateModified": "2017-07-28T07:38:48-04:00",
+    "commentCount": 15
+}

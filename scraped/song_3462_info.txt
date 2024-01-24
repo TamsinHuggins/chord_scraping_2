@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nick-drake/pink-moon-chords-1773206",
+    "name": "Nick Drake - Pink Moon (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nick Drake"
+    },
+    "datePublished": "2015-10-11T08:05:44-04:00",
+    "dateModified": "2017-01-26T12:27:31-05:00",
+    "commentCount": 5,
+    "musicalKey": "D"
+}

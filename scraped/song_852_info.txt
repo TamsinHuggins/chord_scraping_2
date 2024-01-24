@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/d4vd/romantic-homicide-chords-4306325",
+    "name": "D4Vd - Romantic Homicide (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F# Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "d4vd"
+    },
+    "datePublished": "2022-08-10T23:30:14-04:00",
+    "dateModified": "2022-08-11T11:17:43-04:00",
+    "commentCount": 3,
+    "musicalKey": "F#"
+}

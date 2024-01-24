@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/up-married-life-chords-3834293",
+    "name": "Misc Cartoons - Up - Married Life (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2021-08-15T11:16:57-04:00",
+    "dateModified": "2021-08-19T08:27:40-04:00",
+    "commentCount": 0
+}

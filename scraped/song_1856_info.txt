@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michel-fugain/une-belle-histoire-chords-391387",
+    "name": "Michel Fugain - Une Belle Histoire (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michel Fugain"
+    },
+    "datePublished": "2006-07-20T20:00:01-04:00",
+    "dateModified": "2023-05-14T21:14:56-04:00",
+    "commentCount": 8
+}

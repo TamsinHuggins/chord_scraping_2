@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/tokyo-ghoul-unravel-chords-1727285",
+    "name": "Misc Cartoons - Tokyo Ghoul - Unravel (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2015-04-08T06:11:34-04:00",
+    "dateModified": "2021-09-20T17:46:03-04:00",
+    "commentCount": 29
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/avicii/wake-me-up-chords-1408921",
+    "name": "Avicii - Wake Me Up (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Avicii"
+    },
+    "datePublished": "2013-08-04T20:00:01-04:00",
+    "dateModified": "2016-06-15T15:23:41-04:00",
+    "commentCount": 37,
+    "musicalKey": "Bm"
+}

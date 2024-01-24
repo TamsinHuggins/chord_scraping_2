@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gnash/i-hate-u-i-love-u-chords-1771665",
+    "name": "Gnash - I Hate U I Love U (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "gnash"
+    },
+    "datePublished": "2015-10-12T02:12:16-04:00",
+    "dateModified": "2022-11-09T21:04:25-05:00",
+    "commentCount": 21,
+    "musicalKey": "F#m"
+}

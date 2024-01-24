@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4920082",
+    "name": "Reneé Rapp - Gemini Moon (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Reneé Rapp"
+    },
+    "datePublished": "2023-08-18T03:09:02-04:00",
+    "dateModified": "2023-08-18T07:09:03-04:00",
+    "commentCount": 0
+}

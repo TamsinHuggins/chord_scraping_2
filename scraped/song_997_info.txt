@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/5104732",
+    "name": "Reneé Rapp - Tummy Hurts (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Reneé Rapp"
+    },
+    "datePublished": "2024-01-14T15:23:23-05:00",
+    "dateModified": "2024-01-17T10:49:52-05:00",
+    "commentCount": 0
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eddie-vedder/tonight-you-belong-to-me-chords-1215653",
+    "name": "Eddie Vedder - Tonight You Belong To Me (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Eddie Vedder"
+    },
+    "datePublished": "2013-02-13T19:00:01-05:00",
+    "dateModified": "2020-03-25T02:21:13-04:00",
+    "commentCount": 12,
+    "musicalKey": "D"
+}

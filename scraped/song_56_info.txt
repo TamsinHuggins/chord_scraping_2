@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eagles/take-it-easy-chords-14322",
+    "name": "Eagles - Take It Easy (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eagles"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2022-06-02T09:26:45-04:00",
+    "commentCount": 171,
+    "musicalKey": "G"
+}

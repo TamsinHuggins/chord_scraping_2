@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/snap-out-of-it-chords-1417579",
+    "name": "Arctic Monkeys - Snap Out Of It (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2013-09-09T20:00:01-04:00",
+    "dateModified": "2016-04-28T10:22:56-04:00",
+    "commentCount": 15
+}

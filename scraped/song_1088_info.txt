@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/660327",
+    "name": "Michael Bublé - Sway (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Bublé"
+    },
+    "datePublished": "2008-04-02T20:00:01-04:00",
+    "dateModified": "2016-05-12T11:35:23-04:00",
+    "commentCount": 14
+}

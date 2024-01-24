@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-seger-the-silver-bullet-band/shame-on-the-moon-chords-927266",
+    "name": "Bob Seger & The Silver Bullet Band - Shame On The Moon (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Seger &amp; The Silver Bullet Band"
+    },
+    "datePublished": "2010-03-02T19:00:01-05:00",
+    "dateModified": "2022-01-29T08:59:29-05:00",
+    "commentCount": 26,
+    "musicalKey": "G"
+}

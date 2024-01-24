@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/fine-line-chords-2928440",
+    "name": "Harry Styles - Fine Line (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2019-12-14T11:49:09-05:00",
+    "dateModified": "2022-02-08T23:05:32-05:00",
+    "commentCount": 21,
+    "musicalKey": "D"
+}

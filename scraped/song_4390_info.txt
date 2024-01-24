@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/vance-joy/missing-piece-chords-3715106",
+    "name": "Vance Joy - Missing Piece (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Vance Joy"
+    },
+    "datePublished": "2021-05-20T00:23:40-04:00",
+    "dateModified": "2021-07-08T20:28:04-04:00",
+    "commentCount": 15,
+    "musicalKey": "C"
+}

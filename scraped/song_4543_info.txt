@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruce-hornsby/the-way-it-is-chords-727958",
+    "name": "Bruce Hornsby - The Way It Is (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruce Hornsby"
+    },
+    "datePublished": "2008-09-02T20:00:01-04:00",
+    "dateModified": "2020-09-07T01:29:41-04:00",
+    "commentCount": 10
+}

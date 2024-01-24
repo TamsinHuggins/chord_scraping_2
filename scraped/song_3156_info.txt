@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/no-buses-chords-365552",
+    "name": "Arctic Monkeys - No Buses (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2006-05-14T20:00:01-04:00",
+    "dateModified": "2020-08-25T01:19:04-04:00",
+    "commentCount": 42
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/troye-sivan/angel-baby-chords-3867905",
+    "name": "Troye Sivan - Angel Baby (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Troye Sivan"
+    },
+    "datePublished": "2021-09-09T23:34:30-04:00",
+    "dateModified": "2022-04-09T15:39:04-04:00",
+    "commentCount": 9,
+    "musicalKey": "B"
+}

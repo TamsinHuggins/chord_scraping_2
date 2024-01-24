@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/evanescence/bring-me-to-life-chords-1704496",
+    "name": "Evanescence - Bring Me To Life (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Evanescence"
+    },
+    "datePublished": "2015-02-05T01:38:14-05:00",
+    "dateModified": "2022-06-05T20:27:33-04:00",
+    "commentCount": 26,
+    "musicalKey": "Em"
+}

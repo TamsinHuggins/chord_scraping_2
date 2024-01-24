@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jeremy-zucker/comethru-chords-2466622",
+    "name": "Jeremy Zucker - Comethru (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jeremy Zucker"
+    },
+    "datePublished": "2018-09-07T13:24:51-04:00",
+    "dateModified": "2019-01-22T20:00:09-05:00",
+    "commentCount": 16,
+    "musicalKey": "C"
+}

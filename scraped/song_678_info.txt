@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/watermelon-sugar-chords-2895911",
+    "name": "Harry Styles - Watermelon Sugar (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2019-11-17T00:50:11-05:00",
+    "dateModified": "2023-09-08T21:11:54-04:00",
+    "commentCount": 47,
+    "musicalKey": "C"
+}

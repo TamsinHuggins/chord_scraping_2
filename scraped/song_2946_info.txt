@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-lovin-spoonful/daydream-chords-1044362",
+    "name": "The Lovin' Spoonful - Daydream (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Lovin&#039; Spoonful"
+    },
+    "datePublished": "2011-04-11T20:00:01-04:00",
+    "dateModified": "2023-02-28T22:20:34-05:00",
+    "commentCount": 21,
+    "musicalKey": "C"
+}

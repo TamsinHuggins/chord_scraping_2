@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/supersonic-chords-701590",
+    "name": "Oasis - Supersonic (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Oasis"
+    },
+    "datePublished": "2008-07-08T20:00:01-04:00",
+    "dateModified": "2019-06-10T12:03:07-04:00",
+    "commentCount": 12
+}

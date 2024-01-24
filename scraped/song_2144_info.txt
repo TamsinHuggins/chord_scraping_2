@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/justin-timberlake/mirrors-chords-1395671",
+    "name": "Justin Timberlake - Mirrors (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Justin Timberlake"
+    },
+    "datePublished": "2013-06-13T20:00:01-04:00",
+    "dateModified": "2017-09-20T00:00:25-04:00",
+    "commentCount": 3
+}

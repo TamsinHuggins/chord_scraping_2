@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/animal-satranga-chords-5005909",
+    "name": "Misc Soundtrack - Animal - Satranga (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-10-27T07:36:24-04:00",
+    "dateModified": "2023-11-08T15:28:16-05:00",
+    "commentCount": 1,
+    "musicalKey": "C"
+}

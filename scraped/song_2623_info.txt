@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beach-boys/sloop-john-b-chords-1052995",
+    "name": "The Beach Boys - Sloop John B (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beach Boys"
+    },
+    "datePublished": "2011-05-03T20:00:01-04:00",
+    "dateModified": "2023-05-11T16:41:37-04:00",
+    "commentCount": 35,
+    "musicalKey": "Ab"
+}

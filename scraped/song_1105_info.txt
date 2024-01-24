@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/adventure-time-come-along-with-me-chords-2465172",
+    "name": "Misc Cartoons - Adventure Time - Come Along With Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2018-09-05T17:10:48-04:00",
+    "dateModified": "2018-09-08T02:10:10-04:00",
+    "commentCount": 24,
+    "musicalKey": "D"
+}

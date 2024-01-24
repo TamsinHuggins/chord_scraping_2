@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ashe/moral-of-the-story-chords-2617956",
+    "name": "Ashe - Moral Of The Story (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Ashe"
+    },
+    "datePublished": "2019-02-27T12:50:29-05:00",
+    "dateModified": "2020-11-17T02:20:43-05:00",
+    "commentCount": 10,
+    "musicalKey": "Bb"
+}

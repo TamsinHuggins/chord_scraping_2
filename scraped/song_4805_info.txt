@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/something-in-the-way-chords-929709",
+    "name": "Nirvana - Something In The Way (chords)",
+    "text": "Difficulty: intermediate Tuning: Db Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2010-03-15T20:00:01-04:00",
+    "dateModified": "2016-10-07T09:49:54-04:00",
+    "commentCount": 28
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joni-mitchell/a-case-of-you-chords-957219",
+    "name": "Joni Mitchell - A Case Of You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Joni Mitchell"
+    },
+    "datePublished": "2010-06-10T20:00:01-04:00",
+    "dateModified": "2020-05-17T21:36:36-04:00",
+    "commentCount": 20
+}

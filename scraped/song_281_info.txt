@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/love-story-you-belong-with-me-chords-2599371",
+    "name": "Taylor Swift - Love Story - You Belong With Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2019-02-08T22:34:35-05:00",
+    "dateModified": "2022-04-19T01:20:11-04:00",
+    "commentCount": 7,
+    "musicalKey": "D"
+}

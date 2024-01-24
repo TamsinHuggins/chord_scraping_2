@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/mrs-robinson-chords-83959",
+    "name": "Simon & Garfunkel - Mrs Robinson (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Simon &amp; Garfunkel"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2022-04-30T10:21:44-04:00",
+    "commentCount": 27,
+    "musicalKey": "A"
+}

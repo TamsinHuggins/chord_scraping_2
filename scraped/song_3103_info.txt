@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/better-man-chords-3946460",
+    "name": "Taylor Swift - Better Man (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2021-11-12T08:47:09-05:00",
+    "dateModified": "2021-11-12T15:27:48-05:00",
+    "commentCount": 5
+}

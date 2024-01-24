@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/sarahs-place-chords-4962736",
+    "name": "Zach Bryan - Sarahs Place (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2023-09-22T00:31:07-04:00",
+    "dateModified": "2023-09-22T04:31:07-04:00",
+    "commentCount": 1
+}

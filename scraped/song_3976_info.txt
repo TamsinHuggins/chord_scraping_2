@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/calcutta/2minuti-chords-4996996",
+    "name": "Calcutta - 2Minuti (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Calcutta"
+    },
+    "datePublished": "2023-10-20T11:15:56-04:00",
+    "dateModified": "2023-10-23T09:59:18-04:00",
+    "commentCount": 1
+}

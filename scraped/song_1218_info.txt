@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laufey/i-wish-you-love-chords-3744272",
+    "name": "Laufey - I Wish You Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laufey"
+    },
+    "datePublished": "2021-06-08T20:17:50-04:00",
+    "dateModified": "2021-06-09T00:37:58-04:00",
+    "commentCount": 3
+}

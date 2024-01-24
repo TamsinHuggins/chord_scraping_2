@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/myles-smith/my-home-chords-4989910",
+    "name": "Myles Smith - My Home (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Myles Smith"
+    },
+    "datePublished": "2023-10-14T15:59:27-04:00",
+    "dateModified": "2023-10-15T11:44:22-04:00",
+    "commentCount": 0
+}

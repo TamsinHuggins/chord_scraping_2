@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/whitesnake/here-i-go-again-chords-352355",
+    "name": "Whitesnake - Here I Go Again (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Whitesnake"
+    },
+    "datePublished": "2006-04-09T20:00:01-04:00",
+    "dateModified": "2020-07-21T12:30:53-04:00",
+    "commentCount": 34,
+    "musicalKey": "G"
+}

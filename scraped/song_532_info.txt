@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/miley-cyrus/used-to-be-young-chords-4928923",
+    "name": "Miley Cyrus - Used To Be Young (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Miley Cyrus"
+    },
+    "datePublished": "2023-08-25T00:43:03-04:00",
+    "dateModified": "2023-08-30T15:57:32-04:00",
+    "commentCount": 6,
+    "musicalKey": "E"
+}

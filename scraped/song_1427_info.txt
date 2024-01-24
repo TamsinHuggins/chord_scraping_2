@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mark-ambor/good-to-be-chords-4994074",
+    "name": "Mark Ambor - Good To Be (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Mark Ambor"
+    },
+    "datePublished": "2023-10-18T02:48:12-04:00",
+    "dateModified": "2023-10-18T12:22:30-04:00",
+    "commentCount": 1
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/worthy-chords-2480737",
+    "name": "Elevation Worship - Worthy (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2018-09-29T05:54:04-04:00",
+    "dateModified": "2018-09-29T17:01:16-04:00",
+    "commentCount": 6,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/wonka-oompa-loompa-chords-5061562",
+    "name": "Misc Soundtrack - Wonka - Oompa Loompa (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-12-09T19:35:17-05:00",
+    "dateModified": "2023-12-10T00:35:17-05:00",
+    "commentCount": 0
+}

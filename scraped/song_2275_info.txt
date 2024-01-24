@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pearl-jam/better-man-chords-1504090",
+    "name": "Pearl Jam - Better Man (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pearl Jam"
+    },
+    "datePublished": "2014-07-23T10:10:24-04:00",
+    "dateModified": "2017-08-12T23:21:24-04:00",
+    "commentCount": 14
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-weeknd/save-your-tears-chords-3035397",
+    "name": "The Weeknd - Save Your Tears (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Weeknd"
+    },
+    "datePublished": "2020-03-20T04:58:37-04:00",
+    "dateModified": "2023-12-20T23:38:42-05:00",
+    "commentCount": 30,
+    "musicalKey": "C"
+}

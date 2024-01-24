@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-band/the-night-they-drove-old-dixie-down-chords-61589",
+    "name": "The Band - The Night They Drove Old Dixie Down (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Band"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-08-15T11:35:48-04:00",
+    "commentCount": 45,
+    "musicalKey": "C"
+}

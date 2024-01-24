@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/artcell/oniket-prantor-chords-3240518",
+    "name": "Artcell - Oniket Prantor (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Artcell"
+    },
+    "datePublished": "2020-07-09T11:02:06-04:00",
+    "dateModified": "2020-07-09T15:41:36-04:00",
+    "commentCount": 2
+}

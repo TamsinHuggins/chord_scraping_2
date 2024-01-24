@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/maverick-city-music/communion-chords-2898101",
+    "name": "Maverick City Music - Communion (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Maverick City Music"
+    },
+    "datePublished": "2019-11-19T00:08:45-05:00",
+    "dateModified": "2020-06-28T15:12:28-04:00",
+    "commentCount": 7,
+    "musicalKey": "C"
+}

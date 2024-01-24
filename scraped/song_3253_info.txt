@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/letting-someone-go-chords-2837447",
+    "name": "Zach Bryan - Letting Someone Go (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2019-09-25T19:43:26-04:00",
+    "dateModified": "2020-11-19T00:03:37-05:00",
+    "commentCount": 2
+}

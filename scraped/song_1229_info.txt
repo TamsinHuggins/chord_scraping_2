@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cavetown/this-is-home-chords-2277539",
+    "name": "Cavetown - This Is Home (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "cavetown"
+    },
+    "datePublished": "2018-01-09T09:36:53-05:00",
+    "dateModified": "2020-03-27T10:57:17-04:00",
+    "commentCount": 58,
+    "musicalKey": "C"
+}

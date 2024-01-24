@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/emilee-flood/i-love-you-baby-cant-take-my-eyes-off-of-you-chords-3001109",
+    "name": "Emilee Flood - I Love You Baby Cant Take My Eyes Off Of You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Emilee Flood"
+    },
+    "datePublished": "2020-02-21T21:11:19-05:00",
+    "dateModified": "2020-02-22T10:18:02-05:00",
+    "commentCount": 12
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-strait/cowboy-rides-away-chords-1109597",
+    "name": "George Strait - Cowboy Rides Away (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "George Strait"
+    },
+    "datePublished": "2011-11-21T19:00:01-05:00",
+    "dateModified": "2018-03-13T02:47:12-04:00",
+    "commentCount": 11
+}

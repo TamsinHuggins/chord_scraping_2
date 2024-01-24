@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paul-simon/still-crazy-after-all-these-years-chords-823975",
+    "name": "Paul Simon - Still Crazy After All These Years (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Paul Simon"
+    },
+    "datePublished": "2009-05-13T20:00:01-04:00",
+    "dateModified": "2021-04-06T12:27:57-04:00",
+    "commentCount": 6
+}

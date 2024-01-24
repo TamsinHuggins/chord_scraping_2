@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/colter-wall/cowpoke-chords-3132386",
+    "name": "Colter Wall - Cowpoke (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Colter Wall"
+    },
+    "datePublished": "2020-05-05T12:48:55-04:00",
+    "dateModified": "2020-05-06T10:08:27-04:00",
+    "commentCount": 7
+}

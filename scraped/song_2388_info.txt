@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ben-platt/grow-as-we-go-chords-2626533",
+    "name": "Ben Platt - Grow As We Go (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 8",
+    "composer": {
+        "@type": "Person",
+        "name": "Ben Platt"
+    },
+    "datePublished": "2019-03-07T22:05:57-05:00",
+    "dateModified": "2021-11-20T23:27:00-05:00",
+    "commentCount": 11
+}

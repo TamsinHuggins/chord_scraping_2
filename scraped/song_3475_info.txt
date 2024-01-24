@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elvis-presley/dont-be-cruel-chords-982180",
+    "name": "Elvis Presley - Dont Be Cruel (chords)",
+    "text": "Difficulty: beginner Tuning: D A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elvis Presley"
+    },
+    "datePublished": "2010-08-26T20:00:01-04:00",
+    "dateModified": "2020-04-17T12:07:36-04:00",
+    "commentCount": 7
+}

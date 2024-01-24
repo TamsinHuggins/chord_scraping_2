@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/justin-bieber/anyone-chords-3494039",
+    "name": "Justin Bieber - Anyone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Justin Bieber"
+    },
+    "datePublished": "2020-12-31T23:57:22-05:00",
+    "dateModified": "2021-01-01T09:38:05-05:00",
+    "commentCount": 12,
+    "musicalKey": "D"
+}

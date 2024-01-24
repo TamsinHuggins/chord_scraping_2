@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/aashiqui-2-chahun-main-ya-naa-chords-1735075",
+    "name": "Misc Soundtrack - Aashiqui 2 - Chahun Main Ya Naa (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2015-05-08T06:57:37-04:00",
+    "dateModified": "2022-05-28T09:35:30-04:00",
+    "commentCount": 8
+}

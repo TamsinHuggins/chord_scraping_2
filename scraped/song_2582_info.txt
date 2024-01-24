@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tyler-childers/coal-chords-1787866",
+    "name": "Tyler Childers - Coal (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Tyler Childers"
+    },
+    "datePublished": "2015-12-11T07:59:25-05:00",
+    "dateModified": "2021-02-16T05:30:40-05:00",
+    "commentCount": 14
+}

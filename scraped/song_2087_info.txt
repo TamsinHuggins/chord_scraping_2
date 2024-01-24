@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/jesus-of-suburbia-chords-647546",
+    "name": "Green Day - Jesus Of Suburbia (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2008-03-03T19:00:01-05:00",
+    "dateModified": "2020-08-05T09:35:33-04:00",
+    "commentCount": 48
+}

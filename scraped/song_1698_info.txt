@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stevie-wonder/i-wish-chords-213344",
+    "name": "Stevie Wonder - I Wish (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stevie Wonder"
+    },
+    "datePublished": "2005-09-20T20:00:00-04:00",
+    "dateModified": "2016-05-25T15:53:07-04:00",
+    "commentCount": 6
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kenny-chesney/american-kids-chords-1495918",
+    "name": "Kenny Chesney - American Kids (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kenny Chesney"
+    },
+    "datePublished": "2014-06-24T05:11:02-04:00",
+    "dateModified": "2019-03-03T17:29:45-05:00",
+    "commentCount": 30
+}

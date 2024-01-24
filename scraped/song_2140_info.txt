@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cat-stevens-yusuf-islam/wild-world-chords-1092225",
+    "name": "Cat Stevens (Yusuf Islam) - Wild World (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cat Stevens (Yusuf Islam)"
+    },
+    "datePublished": "2011-09-11T20:00:01-04:00",
+    "dateModified": "2023-05-01T22:14:17-04:00",
+    "commentCount": 49,
+    "musicalKey": "Am"
+}

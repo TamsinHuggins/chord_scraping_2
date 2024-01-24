@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-smashing-pumpkins/cherub-rock-chords-1665889",
+    "name": "The Smashing Pumpkins - Cherub Rock (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Smashing Pumpkins"
+    },
+    "datePublished": "2014-09-24T04:42:06-04:00",
+    "dateModified": "2016-07-23T09:03:33-04:00",
+    "commentCount": 8
+}

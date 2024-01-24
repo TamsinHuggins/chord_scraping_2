@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-fender/will-we-talk-chords-2751459",
+    "name": "Sam Fender - Will We Talk (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Fender"
+    },
+    "datePublished": "2019-07-02T15:11:14-04:00",
+    "dateModified": "2019-07-02T21:25:18-04:00",
+    "commentCount": 6
+}

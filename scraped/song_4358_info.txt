@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-wizard-of-oz-somewhere-over-the-rainbow-chords-776043",
+    "name": "Misc Soundtrack - The Wizard Of Oz - Somewhere Over The Rainbow (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2009-01-12T19:00:01-05:00",
+    "dateModified": "2020-11-24T08:58:17-05:00",
+    "commentCount": 1,
+    "musicalKey": "Ab"
+}

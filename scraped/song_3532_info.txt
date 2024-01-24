@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/juice-newton/angel-of-the-morning-chords-814948",
+    "name": "Juice Newton - Angel Of The Morning (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Juice Newton"
+    },
+    "datePublished": "2009-04-20T20:00:01-04:00",
+    "dateModified": "2021-08-08T09:24:44-04:00",
+    "commentCount": 8
+}

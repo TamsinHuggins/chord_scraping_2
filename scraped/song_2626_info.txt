@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jet/are-you-gonna-be-my-girl-chords-1058317",
+    "name": "Jet - Are You Gonna Be My Girl (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jet"
+    },
+    "datePublished": "2011-05-24T20:00:01-04:00",
+    "dateModified": "2021-12-28T13:51:55-05:00",
+    "commentCount": 11,
+    "musicalKey": "A"
+}

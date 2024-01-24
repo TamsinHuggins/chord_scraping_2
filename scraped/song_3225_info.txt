@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/crosby-stills-nash-young/teach-your-children-chords-1053633",
+    "name": "Crosby, Stills, Nash & Young - Teach Your Children (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Crosby, Stills, Nash &amp; Young"
+    },
+    "datePublished": "2011-05-10T20:00:01-04:00",
+    "dateModified": "2023-01-21T15:33:39-05:00",
+    "commentCount": 20,
+    "musicalKey": "D"
+}

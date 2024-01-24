@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fastball/the-way-chords-178119",
+    "name": "Fastball - The Way (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Fastball"
+    },
+    "datePublished": "2005-04-12T20:00:00-04:00",
+    "dateModified": "2016-05-20T08:41:05-04:00",
+    "commentCount": 28
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/margot-the-nuclear-so-and-sos/broadripple-is-burning-chords-758561",
+    "name": "Margot & The Nuclear So And So's - Broadripple Is Burning (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Margot &amp; the Nuclear So and So&#039;s"
+    },
+    "datePublished": "2008-11-21T19:00:01-05:00",
+    "dateModified": "2018-08-23T23:00:19-04:00",
+    "commentCount": 24
+}

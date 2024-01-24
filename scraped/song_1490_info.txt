@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/lego-house-chords-1093774",
+    "name": "Ed Sheeran - Lego House (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2011-09-19T20:00:01-04:00",
+    "dateModified": "2018-12-06T09:13:54-05:00",
+    "commentCount": 63,
+    "musicalKey": "B"
+}

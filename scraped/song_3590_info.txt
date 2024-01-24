@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/celestial-chords-4366814",
+    "name": "Ed Sheeran - Celestial (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2022-09-29T09:23:45-04:00",
+    "dateModified": "2022-10-02T00:15:51-04:00",
+    "commentCount": 7
+}

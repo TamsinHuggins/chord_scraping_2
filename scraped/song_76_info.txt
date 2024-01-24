@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruno-mars/talking-to-the-moon-chords-971346",
+    "name": "Bruno Mars - Talking To The Moon (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruno Mars"
+    },
+    "datePublished": "2010-07-25T20:00:01-04:00",
+    "dateModified": "2021-08-21T15:40:40-04:00",
+    "commentCount": 53,
+    "musicalKey": "C"
+}

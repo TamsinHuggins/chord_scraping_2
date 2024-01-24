@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/bored-chords-1983417",
+    "name": "Billie Eilish - Bored (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2017-04-19T07:15:52-04:00",
+    "dateModified": "2021-09-29T16:13:20-04:00",
+    "commentCount": 9,
+    "musicalKey": "G"
+}

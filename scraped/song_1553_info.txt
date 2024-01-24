@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/electric-light-orchestra/mr-blue-sky-chords-14048",
+    "name": "Electric Light Orchestra - Mr Blue Sky (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Electric Light Orchestra"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-12-05T00:19:33-05:00",
+    "commentCount": 18
+}

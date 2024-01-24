@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/can-you-feel-the-love-tonight-chords-519520",
+    "name": "Elton John - Can You Feel The Love Tonight (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2007-05-18T20:00:01-04:00",
+    "dateModified": "2021-07-29T10:33:22-04:00",
+    "commentCount": 30,
+    "musicalKey": "Bb"
+}

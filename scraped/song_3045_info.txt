@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-michael/freedom-90-chords-1910779",
+    "name": "George Michael - Freedom 90 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "George Michael"
+    },
+    "datePublished": "2016-12-16T03:57:25-05:00",
+    "dateModified": "2023-11-19T13:07:31-05:00",
+    "commentCount": 13
+}

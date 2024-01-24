@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/keshi/limbo-chords-4129204",
+    "name": "Keshi - Limbo (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ab Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "keshi"
+    },
+    "datePublished": "2022-03-28T04:01:04-04:00",
+    "dateModified": "2022-03-28T20:19:18-04:00",
+    "commentCount": 2,
+    "musicalKey": "Ab"
+}

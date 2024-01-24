@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nena/99-luftballons-chords-640896",
+    "name": "Nena - 99 Luftballons (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Nena"
+    },
+    "datePublished": "2008-02-18T19:00:01-05:00",
+    "dateModified": "2019-09-18T08:06:19-04:00",
+    "commentCount": 26,
+    "musicalKey": "E"
+}

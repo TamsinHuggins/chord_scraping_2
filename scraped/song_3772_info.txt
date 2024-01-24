@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/top-gun-danger-zone-chords-1777942",
+    "name": "Misc Soundtrack - Top Gun - Danger Zone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2015-10-31T14:33:20-04:00",
+    "dateModified": "2023-02-02T14:14:00-05:00",
+    "commentCount": 10
+}

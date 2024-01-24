@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-head-and-the-heart/rivers-and-roads-chords-1026669",
+    "name": "The Head And The Heart - Rivers And Roads (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Head and the Heart"
+    },
+    "datePublished": "2011-02-07T19:00:01-05:00",
+    "dateModified": "2018-04-10T00:27:11-04:00",
+    "commentCount": 42
+}

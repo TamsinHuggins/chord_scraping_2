@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lost-frequencies/reality-chords-1743130",
+    "name": "Lost Frequencies - Reality (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Lost Frequencies"
+    },
+    "datePublished": "2015-06-13T09:49:58-04:00",
+    "dateModified": "2016-09-23T07:25:16-04:00",
+    "commentCount": 26
+}

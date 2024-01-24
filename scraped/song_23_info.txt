@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/cage-the-elephant/cigarette-daydreams-chords-1423735",
-    "name": "Cage The Elephant - Cigarette Daydreams (chords)",
-    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/guns-n-roses/sweet-child-o-mine-chords-176076",
+    "name": "Guns N' Roses - Sweet Child O Mine (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: D Capo: no capo",
     "composer": {
         "@type": "Person",
-        "name": "Cage the Elephant"
+        "name": "Guns N&#039; Roses"
     },
-    "datePublished": "2013-10-08T20:00:01-04:00",
-    "dateModified": "2023-08-02T15:22:21-04:00",
-    "commentCount": 100,
+    "datePublished": "2005-04-03T20:00:00-04:00",
+    "dateModified": "2019-02-01T11:58:00-05:00",
+    "commentCount": 142,
     "musicalKey": "D"
 }

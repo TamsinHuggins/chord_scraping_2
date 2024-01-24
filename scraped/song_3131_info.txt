@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/keith-urban/blue-aint-your-color-chords-1843998",
+    "name": "Keith Urban - Blue Aint Your Color (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Keith Urban"
+    },
+    "datePublished": "2016-05-16T05:20:53-04:00",
+    "dateModified": "2016-05-16T09:20:53-04:00",
+    "commentCount": 55
+}

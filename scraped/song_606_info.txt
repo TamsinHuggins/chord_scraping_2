@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jimmy-buffett/margaritaville-chords-344491",
+    "name": "Jimmy Buffett - Margaritaville (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jimmy Buffett"
+    },
+    "datePublished": "2006-03-19T19:00:01-05:00",
+    "dateModified": "2023-09-03T15:04:57-04:00",
+    "commentCount": 85,
+    "musicalKey": "D"
+}

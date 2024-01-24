@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/daniel-caesar/always-chords-4723220",
+    "name": "Daniel Caesar - Always (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Daniel Caesar"
+    },
+    "datePublished": "2023-04-11T07:18:09-04:00",
+    "dateModified": "2023-04-11T11:29:48-04:00",
+    "commentCount": 0,
+    "musicalKey": "A"
+}

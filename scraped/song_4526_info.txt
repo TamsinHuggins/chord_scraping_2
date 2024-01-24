@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zz-top/jesus-just-left-chicago-chords-908273",
+    "name": "Zz Top - Jesus Just Left Chicago (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ZZ Top"
+    },
+    "datePublished": "2010-01-20T19:00:01-05:00",
+    "dateModified": "2018-06-07T03:27:48-04:00",
+    "commentCount": 5
+}

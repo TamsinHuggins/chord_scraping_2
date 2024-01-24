@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/anna-kendrick/cups-chords-1236051",
+    "name": "Anna Kendrick - Cups (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Anna Kendrick"
+    },
+    "datePublished": "2013-04-07T20:00:01-04:00",
+    "dateModified": "2021-11-23T18:31:54-05:00",
+    "commentCount": 26
+}

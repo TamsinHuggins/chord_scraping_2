@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ariana-grande/yes-and-chords-5101198",
+    "name": "Ariana Grande - Yes And (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Ariana Grande"
+    },
+    "datePublished": "2024-01-12T00:08:39-05:00",
+    "dateModified": "2024-01-12T05:23:58-05:00",
+    "commentCount": 0
+}

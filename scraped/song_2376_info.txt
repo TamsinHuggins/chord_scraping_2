@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-mcclintock/big-rock-candy-mountain-chords-974999",
+    "name": "Harry Mcclintock - Big Rock Candy Mountain (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry McClintock"
+    },
+    "datePublished": "2010-08-04T20:00:01-04:00",
+    "dateModified": "2022-10-24T09:31:51-04:00",
+    "commentCount": 11
+}

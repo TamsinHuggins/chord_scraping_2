@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/sunday-morning-coming-down-chords-1176331",
+    "name": "Johnny Cash - Sunday Morning Coming Down (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2012-08-21T20:00:01-04:00",
+    "dateModified": "2022-09-25T21:23:35-04:00",
+    "commentCount": 27
+}

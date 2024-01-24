@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/guns-n-roses/paradise-city-chords-180175",
+    "name": "Guns N' Roses - Paradise City (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Guns N&#039; Roses"
+    },
+    "datePublished": "2005-04-24T20:00:00-04:00",
+    "dateModified": "2019-05-26T06:43:42-04:00",
+    "commentCount": 13
+}

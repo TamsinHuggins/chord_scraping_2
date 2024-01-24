@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/avril-lavigne/when-youre-gone-chords-476244",
+    "name": "Avril Lavigne - When Youre Gone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Avril Lavigne"
+    },
+    "datePublished": "2007-02-19T19:00:01-05:00",
+    "dateModified": "2020-10-08T05:29:02-04:00",
+    "commentCount": 44
+}

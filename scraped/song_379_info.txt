@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/photograph-chords-1495700",
+    "name": "Ed Sheeran - Photograph (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2014-06-22T22:48:20-04:00",
+    "dateModified": "2018-08-06T08:10:22-04:00",
+    "commentCount": 83,
+    "musicalKey": "C"
+}

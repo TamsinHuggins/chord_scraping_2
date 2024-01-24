@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/lavender-haze-chords-4393568",
+    "name": "Taylor Swift - Lavender Haze (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2022-10-21T00:11:34-04:00",
+    "dateModified": "2022-10-23T15:38:16-04:00",
+    "commentCount": 3,
+    "musicalKey": "Eb"
+}

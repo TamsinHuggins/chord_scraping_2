@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rey-valera/maging-sino-ka-man-chords-1869324",
+    "name": "Rey Valera - Maging Sino Ka Man (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rey Valera"
+    },
+    "datePublished": "2016-08-22T14:53:58-04:00",
+    "dateModified": "2023-10-04T15:09:01-04:00",
+    "commentCount": 2,
+    "musicalKey": "D"
+}

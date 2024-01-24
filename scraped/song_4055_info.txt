@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tally-hall/hidden-in-the-sand-chords-2656509",
+    "name": "Tally Hall - Hidden In The Sand (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Tally Hall"
+    },
+    "datePublished": "2019-04-06T19:47:05-04:00",
+    "dateModified": "2020-04-10T15:25:53-04:00",
+    "commentCount": 10
+}

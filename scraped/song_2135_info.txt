@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/duran-duran/ordinary-world-chords-1489087",
+    "name": "Duran Duran - Ordinary World (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Duran Duran"
+    },
+    "datePublished": "2014-05-31T12:00:05-04:00",
+    "dateModified": "2022-12-13T14:16:42-05:00",
+    "commentCount": 17
+}

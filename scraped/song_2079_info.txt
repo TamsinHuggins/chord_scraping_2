@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/peter-gabriel/solsbury-hill-chords-857692",
+    "name": "Peter Gabriel - Solsbury Hill (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Peter Gabriel"
+    },
+    "datePublished": "2009-08-06T20:00:01-04:00",
+    "dateModified": "2016-06-17T08:07:15-04:00",
+    "commentCount": 15
+}

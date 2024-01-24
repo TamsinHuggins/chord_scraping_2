@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/howie-day/collide-chords-1043566",
+    "name": "Howie Day - Collide (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Howie Day"
+    },
+    "datePublished": "2011-04-04T20:00:01-04:00",
+    "dateModified": "2018-03-17T04:24:04-04:00",
+    "commentCount": 26
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paloma-faith/only-love-can-hurt-like-this-chords-1473216",
+    "name": "Paloma Faith - Only Love Can Hurt Like This (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Paloma Faith"
+    },
+    "datePublished": "2014-03-30T20:00:01-04:00",
+    "dateModified": "2022-06-21T15:57:44-04:00",
+    "commentCount": 7,
+    "musicalKey": "Bb"
+}

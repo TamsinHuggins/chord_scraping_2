@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/some-might-say-chords-272127",
+    "name": "Oasis - Some Might Say (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Oasis"
+    },
+    "datePublished": "2005-11-17T19:00:01-05:00",
+    "dateModified": "2021-11-14T19:43:50-05:00",
+    "commentCount": 28
+}

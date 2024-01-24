@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/community-music/make-room-chords-2710269",
+    "name": "Community Music - Make Room (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Community Music"
+    },
+    "datePublished": "2019-05-30T11:41:23-04:00",
+    "dateModified": "2019-05-31T08:44:03-04:00",
+    "commentCount": 17
+}

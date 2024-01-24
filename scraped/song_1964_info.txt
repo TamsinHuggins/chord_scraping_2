@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/suki-waterhouse/good-looking-chords-2942078",
+    "name": "Suki Waterhouse - Good Looking (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Suki Waterhouse"
+    },
+    "datePublished": "2019-12-27T10:44:45-05:00",
+    "dateModified": "2019-12-28T08:24:44-05:00",
+    "commentCount": 2
+}

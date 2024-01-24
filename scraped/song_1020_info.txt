@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lizzy-mcalpine/doomsday-chords-3927503",
+    "name": "Lizzy Mcalpine - Doomsday (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C# Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Lizzy McAlpine"
+    },
+    "datePublished": "2021-10-27T23:10:33-04:00",
+    "dateModified": "2023-04-01T23:29:04-04:00",
+    "commentCount": 7,
+    "musicalKey": "C#"
+}

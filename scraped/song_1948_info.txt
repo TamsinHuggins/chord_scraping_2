@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billy-joel/uptown-girl-chords-62042",
+    "name": "Billy Joel - Uptown Girl (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Billy Joel"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-03-24T14:20:54-04:00",
+    "commentCount": 43,
+    "musicalKey": "E"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/of-monsters-and-men/little-talks-chords-1046763",
+    "name": "Of Monsters And Men - Little Talks (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Of Monsters and Men"
+    },
+    "datePublished": "2011-04-12T20:00:01-04:00",
+    "dateModified": "2020-12-26T13:20:07-05:00",
+    "commentCount": 136,
+    "musicalKey": "Bbm"
+}

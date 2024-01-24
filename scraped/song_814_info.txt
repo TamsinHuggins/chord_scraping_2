@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/i-want-to-break-free-chords-100919",
+    "name": "Queen - I Want To Break Free (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2004-01-14T19:00:00-05:00",
+    "dateModified": "2022-06-16T10:29:02-04:00",
+    "commentCount": 25,
+    "musicalKey": "E"
+}

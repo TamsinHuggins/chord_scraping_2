@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/good-kid/mimis-delivery-service-chords-4689500",
+    "name": "Good Kid - Mimis Delivery Service (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Good Kid"
+    },
+    "datePublished": "2023-03-17T16:09:14-04:00",
+    "dateModified": "2023-03-18T01:54:11-04:00",
+    "commentCount": 2
+}

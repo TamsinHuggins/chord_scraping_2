@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/led-zeppelin/ramble-on-chords-1838238",
+    "name": "Led Zeppelin - Ramble On (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Led Zeppelin"
+    },
+    "datePublished": "2016-04-26T09:34:51-04:00",
+    "dateModified": "2016-04-26T13:34:51-04:00",
+    "commentCount": 5
+}

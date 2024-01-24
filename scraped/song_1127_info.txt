@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stevie-wonder/i-just-called-to-say-i-love-you-chords-883120",
+    "name": "Stevie Wonder - I Just Called To Say I Love You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Stevie Wonder"
+    },
+    "datePublished": "2009-10-15T20:00:01-04:00",
+    "dateModified": "2020-03-05T21:48:01-05:00",
+    "commentCount": 44,
+    "musicalKey": "Db"
+}

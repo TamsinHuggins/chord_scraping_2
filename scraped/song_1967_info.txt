@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lizzy-mcalpine/ceilings-chords-3582662",
+    "name": "Lizzy Mcalpine - Ceilings (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Lizzy McAlpine"
+    },
+    "datePublished": "2021-02-24T13:24:03-05:00",
+    "dateModified": "2023-01-16T16:19:52-05:00",
+    "commentCount": 1,
+    "musicalKey": "A"
+}

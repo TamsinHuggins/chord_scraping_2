@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/from-eden-chords-1478284",
+    "name": "Hozier - From Eden (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hozier"
+    },
+    "datePublished": "2014-04-22T03:58:22-04:00",
+    "dateModified": "2016-04-13T16:21:05-04:00",
+    "commentCount": 21
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/tolerate-it-chords-3461879",
+    "name": "Taylor Swift - Tolerate It (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-12-11T01:43:07-05:00",
+    "dateModified": "2023-09-12T07:28:37-04:00",
+    "commentCount": 18,
+    "musicalKey": "A"
+}

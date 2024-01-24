@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sublime/santeria-chords-947433",
+    "name": "Sublime - Santeria (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Sublime"
+    },
+    "datePublished": "2010-05-11T20:00:01-04:00",
+    "dateModified": "2021-06-06T00:05:52-04:00",
+    "commentCount": 37,
+    "musicalKey": "E"
+}

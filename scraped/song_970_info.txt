@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-strait/amarillo-by-morning-chords-642882",
+    "name": "George Strait - Amarillo By Morning (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "George Strait"
+    },
+    "datePublished": "2008-02-21T19:00:01-05:00",
+    "dateModified": "2022-07-07T02:09:17-04:00",
+    "commentCount": 39,
+    "musicalKey": "D"
+}

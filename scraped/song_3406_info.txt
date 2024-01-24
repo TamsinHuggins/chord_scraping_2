@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-ezra/green-green-grass-chords-4162999",
+    "name": "George Ezra - Green Green Grass (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "George Ezra"
+    },
+    "datePublished": "2022-04-22T00:42:22-04:00",
+    "dateModified": "2022-04-22T04:42:47-04:00",
+    "commentCount": 10,
+    "musicalKey": "Ab"
+}

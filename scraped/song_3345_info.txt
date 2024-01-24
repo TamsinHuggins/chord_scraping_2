@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-w-smith/awesome-god-chords-952667",
+    "name": "Michael W. Smith - Awesome God (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael W. Smith"
+    },
+    "datePublished": "2010-05-24T20:00:01-04:00",
+    "dateModified": "2021-10-19T01:21:13-04:00",
+    "commentCount": 9
+}

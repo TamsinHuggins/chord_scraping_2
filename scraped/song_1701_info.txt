@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shania-twain/man-i-feel-like-a-woman-chords-1839726",
+    "name": "Shania Twain - Man I Feel Like A Woman (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Shania Twain"
+    },
+    "datePublished": "2016-04-29T08:15:25-04:00",
+    "dateModified": "2016-04-29T12:15:25-04:00",
+    "commentCount": 10
+}

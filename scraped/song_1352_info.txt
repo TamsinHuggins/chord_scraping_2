@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/the-sound-of-silence-chords-863732",
+    "name": "Simon & Garfunkel - The Sound Of Silence (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ebm Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Simon &amp; Garfunkel"
+    },
+    "datePublished": "2009-08-25T20:00:01-04:00",
+    "dateModified": "2018-03-19T13:24:38-04:00",
+    "commentCount": 36,
+    "musicalKey": "Ebm"
+}

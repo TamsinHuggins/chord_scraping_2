@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/dead-flowers-chords-29889",
+    "name": "The Rolling Stones - Dead Flowers (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2002-05-12T20:00:00-04:00",
+    "dateModified": "2018-10-13T11:38:46-04:00",
+    "commentCount": 28
+}

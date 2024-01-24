@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gnarls-barkley/crazy-chords-351079",
+    "name": "Gnarls Barkley - Crazy (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Cm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gnarls Barkley"
+    },
+    "datePublished": "2006-04-06T20:00:01-04:00",
+    "dateModified": "2018-09-21T11:08:48-04:00",
+    "commentCount": 14,
+    "musicalKey": "Cm"
+}

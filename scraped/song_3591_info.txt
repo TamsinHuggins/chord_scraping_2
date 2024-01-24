@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/benson-boone/before-you-chords-4402556",
+    "name": "Benson Boone - Before You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Benson Boone"
+    },
+    "datePublished": "2022-10-28T05:12:09-04:00",
+    "dateModified": "2022-10-28T09:12:09-04:00",
+    "commentCount": 2,
+    "musicalKey": "B"
+}

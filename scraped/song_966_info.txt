@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/willie-nelson/pancho-and-lefty-chords-1230796",
+    "name": "Willie Nelson - Pancho And Lefty (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Willie Nelson"
+    },
+    "datePublished": "2013-03-19T20:00:01-04:00",
+    "dateModified": "2022-04-18T20:12:25-04:00",
+    "commentCount": 57,
+    "musicalKey": "D"
+}

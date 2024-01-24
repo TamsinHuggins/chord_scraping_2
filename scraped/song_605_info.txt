@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/foo-fighters/learn-to-fly-chords-1105893",
+    "name": "Foo Fighters - Learn To Fly (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Foo Fighters"
+    },
+    "datePublished": "2011-11-03T20:00:01-04:00",
+    "dateModified": "2018-03-22T15:42:05-04:00",
+    "commentCount": 44,
+    "musicalKey": "B"
+}

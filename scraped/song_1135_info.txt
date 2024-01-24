@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phil-wickham/this-is-amazing-grace-chords-1418413",
+    "name": "Phil Wickham - This Is Amazing Grace (chords)",
+    "text": "Difficulty: beginner Tuning: D G C F A D Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phil Wickham"
+    },
+    "datePublished": "2013-09-19T20:00:01-04:00",
+    "dateModified": "2021-02-11T06:59:30-05:00",
+    "commentCount": 73,
+    "musicalKey": "Bb"
+}

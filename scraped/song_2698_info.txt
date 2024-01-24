@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/honey-honey-chords-52948",
+    "name": "Abba - Honey Honey (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2003-06-02T20:00:00-04:00",
+    "dateModified": "2022-02-05T00:32:51-05:00",
+    "commentCount": 15
+}

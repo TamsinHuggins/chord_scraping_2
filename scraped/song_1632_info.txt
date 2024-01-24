@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/counting-crows/a-long-december-chords-606345",
+    "name": "Counting Crows - A Long December (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Counting Crows"
+    },
+    "datePublished": "2007-11-26T19:00:01-05:00",
+    "dateModified": "2019-12-22T16:58:43-05:00",
+    "commentCount": 31,
+    "musicalKey": "F"
+}

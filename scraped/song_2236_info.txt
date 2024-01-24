@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/dont-go-away-chords-39880",
+    "name": "Oasis - Dont Go Away (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Oasis"
+    },
+    "datePublished": "2002-11-28T19:00:00-05:00",
+    "dateModified": "2018-09-20T12:18:01-04:00",
+    "commentCount": 8,
+    "musicalKey": "C"
+}

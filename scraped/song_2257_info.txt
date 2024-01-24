@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rex-orange-county/best-friend-chords-1954795",
+    "name": "Rex Orange County - Best Friend (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gb Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Rex Orange County"
+    },
+    "datePublished": "2017-02-28T05:14:09-05:00",
+    "dateModified": "2020-01-14T00:01:54-05:00",
+    "commentCount": 26,
+    "musicalKey": "Gb"
+}

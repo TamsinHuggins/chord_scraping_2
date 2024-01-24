@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/warfaze/purnota-chords-3798458",
+    "name": "Warfaze - Purnota (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Warfaze"
+    },
+    "datePublished": "2021-07-19T04:22:46-04:00",
+    "dateModified": "2021-08-08T17:42:02-04:00",
+    "commentCount": 0,
+    "musicalKey": "C"
+}

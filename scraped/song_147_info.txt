@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/journey/dont-stop-believin-chords-2063241",
+    "name": "Journey - Dont Stop Believin (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Journey"
+    },
+    "datePublished": "2017-06-24T07:22:38-04:00",
+    "dateModified": "2018-03-23T13:16:54-04:00",
+    "commentCount": 12,
+    "musicalKey": "E"
+}

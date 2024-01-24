@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fifty-fifty/cupid-twin-version-chords-4667768",
+    "name": "Fifty Fifty - Cupid - Twin Version (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Fifty Fifty"
+    },
+    "datePublished": "2023-03-01T11:24:22-05:00",
+    "dateModified": "2023-06-08T11:04:30-04:00",
+    "commentCount": 9,
+    "musicalKey": "D"
+}

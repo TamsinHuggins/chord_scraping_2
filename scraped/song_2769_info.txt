@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-1975/all-i-need-to-hear-chords-4355294",
+    "name": "The 1975 - All I Need To Hear (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "The 1975"
+    },
+    "datePublished": "2022-09-19T11:28:22-04:00",
+    "dateModified": "2022-09-25T23:44:56-04:00",
+    "commentCount": 4
+}

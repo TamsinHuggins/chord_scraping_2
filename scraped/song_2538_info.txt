@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/janis-joplin/piece-of-my-heart-chords-3152375",
+    "name": "Janis Joplin - Piece Of My Heart (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Janis Joplin"
+    },
+    "datePublished": "2020-05-16T19:34:40-04:00",
+    "dateModified": "2021-02-19T21:20:35-05:00",
+    "commentCount": 4
+}

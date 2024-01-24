@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cavetown/devil-town-chords-1967477",
+    "name": "Cavetown - Devil Town (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "cavetown"
+    },
+    "datePublished": "2017-03-23T03:51:35-04:00",
+    "dateModified": "2020-03-20T12:47:58-04:00",
+    "commentCount": 59
+}

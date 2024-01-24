@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alicia-keys/no-one-chords-596334",
+    "name": "Alicia Keys - No One (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Alicia Keys"
+    },
+    "datePublished": "2007-11-01T20:00:01-04:00",
+    "dateModified": "2019-01-17T12:06:39-05:00",
+    "commentCount": 14,
+    "musicalKey": "E"
+}

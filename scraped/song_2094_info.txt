@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/pirates-of-the-caribbean-hes-a-pirate-chords-540464",
+    "name": "Misc Soundtrack - Pirates Of The Caribbean - Hes A Pirate (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2007-06-27T20:00:01-04:00",
+    "dateModified": "2019-10-25T01:42:30-04:00",
+    "commentCount": 19
+}

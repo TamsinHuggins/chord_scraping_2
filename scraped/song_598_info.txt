@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beach-boys/god-only-knows-chords-1050794",
+    "name": "The Beach Boys - God Only Knows (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beach Boys"
+    },
+    "datePublished": "2011-05-03T20:00:01-04:00",
+    "dateModified": "2019-03-13T07:45:53-04:00",
+    "commentCount": 55,
+    "musicalKey": "A"
+}

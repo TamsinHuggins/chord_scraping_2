@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alt-j/breezeblocks-chords-1169023",
+    "name": "Alt-J - Breezeblocks (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "alt-J"
+    },
+    "datePublished": "2012-07-17T20:00:01-04:00",
+    "dateModified": "2018-06-18T08:54:06-04:00",
+    "commentCount": 53,
+    "musicalKey": "C"
+}

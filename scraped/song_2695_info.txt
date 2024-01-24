@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elvis-presley/heartbreak-hotel-chords-1045577",
+    "name": "Elvis Presley - Heartbreak Hotel (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elvis Presley"
+    },
+    "datePublished": "2011-04-10T20:00:01-04:00",
+    "dateModified": "2022-06-23T21:14:51-04:00",
+    "commentCount": 12
+}

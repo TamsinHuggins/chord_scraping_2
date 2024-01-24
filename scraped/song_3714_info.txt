@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nickelback/how-you-remind-me-chords-1447325",
+    "name": "Nickelback - How You Remind Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Cm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Nickelback"
+    },
+    "datePublished": "2013-12-18T19:00:01-05:00",
+    "dateModified": "2020-02-20T11:54:36-05:00",
+    "commentCount": 17,
+    "musicalKey": "Cm"
+}

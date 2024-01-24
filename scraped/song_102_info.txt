@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lynyrd-skynyrd/simple-man-chords-1496841",
+    "name": "Lynyrd Skynyrd - Simple Man (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lynyrd Skynyrd"
+    },
+    "datePublished": "2014-06-30T02:20:55-04:00",
+    "dateModified": "2020-04-11T17:27:48-04:00",
+    "commentCount": 17,
+    "musicalKey": "C"
+}

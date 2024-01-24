@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sabin-rai/timi-nai-hau-chords-2887367",
+    "name": "Sabin Rai - Timi Nai Hau (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sabin Rai"
+    },
+    "datePublished": "2019-11-08T22:00:30-05:00",
+    "dateModified": "2019-11-09T12:33:43-05:00",
+    "commentCount": 2,
+    "musicalKey": "G"
+}

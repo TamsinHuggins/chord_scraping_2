@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-legend/ordinary-people-chords-494857",
+    "name": "John Legend - Ordinary People (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Legend"
+    },
+    "datePublished": "2007-03-30T20:00:01-04:00",
+    "dateModified": "2016-04-15T10:37:42-04:00",
+    "commentCount": 11
+}

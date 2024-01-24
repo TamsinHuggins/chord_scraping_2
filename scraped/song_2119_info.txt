@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/third-eye-blind/semi-charmed-life-chords-1011668",
+    "name": "Third Eye Blind - Semi-Charmed Life (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Third Eye Blind"
+    },
+    "datePublished": "2010-12-13T19:00:01-05:00",
+    "dateModified": "2021-10-04T19:46:17-04:00",
+    "commentCount": 18,
+    "musicalKey": "G"
+}

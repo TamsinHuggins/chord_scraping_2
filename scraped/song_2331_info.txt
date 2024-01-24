@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/toneejay/711-chords-4970062",
+    "name": "Toneejay - 711 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Toneejay"
+    },
+    "datePublished": "2023-09-27T22:31:58-04:00",
+    "dateModified": "2023-12-27T13:21:50-05:00",
+    "commentCount": 1,
+    "musicalKey": "E"
+}

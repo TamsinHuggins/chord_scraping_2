@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tj-monterde/palagi-chords-4884863",
+    "name": "Tj Monterde - Palagi (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F# Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "TJ Monterde"
+    },
+    "datePublished": "2023-07-22T13:55:04-04:00",
+    "dateModified": "2023-11-22T15:12:52-05:00",
+    "commentCount": 2,
+    "musicalKey": "F#"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/xavier-rudd/follow-the-sun-chords-1728544",
+    "name": "Xavier Rudd - Follow The Sun (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Xavier Rudd"
+    },
+    "datePublished": "2015-04-09T10:17:18-04:00",
+    "dateModified": "2021-04-29T18:44:07-04:00",
+    "commentCount": 24
+}

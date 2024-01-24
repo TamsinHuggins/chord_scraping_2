@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/maroon-chords-4393574",
+    "name": "Taylor Swift - Maroon (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2022-10-21T00:20:02-04:00",
+    "dateModified": "2022-10-23T15:37:58-04:00",
+    "commentCount": 5,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/hope-ur-ok-chords-3716378",
+    "name": "Olivia Rodrigo - Hope Ur Ok (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2021-05-20T20:48:47-04:00",
+    "dateModified": "2021-05-28T15:57:31-04:00",
+    "commentCount": 11,
+    "musicalKey": "C"
+}

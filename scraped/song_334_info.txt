@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adele/hello-chords-1775924",
+    "name": "Adele - Hello (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Fm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Adele"
+    },
+    "datePublished": "2015-10-22T23:59:12-04:00",
+    "dateModified": "2022-06-26T19:54:49-04:00",
+    "commentCount": 54,
+    "musicalKey": "Fm"
+}

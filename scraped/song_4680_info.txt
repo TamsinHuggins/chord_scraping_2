@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/all-things-end-chords-4688630",
+    "name": "Hozier - All Things End (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hozier"
+    },
+    "datePublished": "2023-03-17T00:43:37-04:00",
+    "dateModified": "2023-03-17T14:47:35-04:00",
+    "commentCount": 5
+}

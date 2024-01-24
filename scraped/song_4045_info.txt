@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/desecration-smile-chords-363645",
+    "name": "Red Hot Chili Peppers - Desecration Smile (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Red Hot Chili Peppers"
+    },
+    "datePublished": "2006-05-09T20:00:01-04:00",
+    "dateModified": "2018-11-28T11:26:26-05:00",
+    "commentCount": 56
+}

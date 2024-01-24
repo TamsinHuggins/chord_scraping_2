@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/last-night-on-earth-chords-822539",
+    "name": "Green Day - Last Night On Earth (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2009-05-10T20:00:01-04:00",
+    "dateModified": "2016-06-10T11:46:09-04:00",
+    "commentCount": 11
+}

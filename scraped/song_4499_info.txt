@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-script/hall-of-fame-chords-1500157",
+    "name": "The Script - Hall Of Fame (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Script"
+    },
+    "datePublished": "2014-07-09T05:18:18-04:00",
+    "dateModified": "2020-07-02T18:26:15-04:00",
+    "commentCount": 5
+}

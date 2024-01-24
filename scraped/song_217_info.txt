@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/lovely-chords-2371539",
+    "name": "Billie Eilish - Lovely (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2018-04-19T14:06:11-04:00",
+    "dateModified": "2022-02-03T22:22:21-05:00",
+    "commentCount": 91,
+    "musicalKey": "C"
+}

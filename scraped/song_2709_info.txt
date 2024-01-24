@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nat-king-cole/smile-chords-1714875",
+    "name": "Nat King Cole - Smile (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Nat King Cole"
+    },
+    "datePublished": "2015-02-23T10:26:20-05:00",
+    "dateModified": "2020-11-15T17:31:33-05:00",
+    "commentCount": 16,
+    "musicalKey": "Eb"
+}

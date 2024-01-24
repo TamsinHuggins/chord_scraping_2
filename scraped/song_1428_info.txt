@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-arthur/say-you-wont-let-go-chords-1871951",
+    "name": "James Arthur - Say You Wont Let Go (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "James Arthur"
+    },
+    "datePublished": "2016-09-02T17:48:15-04:00",
+    "dateModified": "2023-03-10T03:06:44-05:00",
+    "commentCount": 26
+}

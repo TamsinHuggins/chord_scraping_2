@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/miley-cyrus/flowers-chords-4600913",
+    "name": "Miley Cyrus - Flowers (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Miley Cyrus"
+    },
+    "datePublished": "2023-01-12T19:35:40-05:00",
+    "dateModified": "2023-06-19T04:07:29-04:00",
+    "commentCount": 34,
+    "musicalKey": "Am"
+}

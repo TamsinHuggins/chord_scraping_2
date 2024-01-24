@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/justin-bieber/lonely-chords-3378008",
+    "name": "Justin Bieber - Lonely (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Justin Bieber"
+    },
+    "datePublished": "2020-10-15T23:50:40-04:00",
+    "dateModified": "2022-05-08T10:41:07-04:00",
+    "commentCount": 12,
+    "musicalKey": "Bm"
+}

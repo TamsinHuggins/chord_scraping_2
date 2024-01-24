@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/the-a-team-chords-989712",
+    "name": "Ed Sheeran - The A Team (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2010-09-20T20:00:01-04:00",
+    "dateModified": "2022-11-05T11:24:01-04:00",
+    "commentCount": 146,
+    "musicalKey": "A"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/collin-raye/love-me-chords-914874",
+    "name": "Collin Raye - Love Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Collin Raye"
+    },
+    "datePublished": "2010-02-01T19:00:01-05:00",
+    "dateModified": "2016-06-21T08:12:15-04:00",
+    "commentCount": 6
+}

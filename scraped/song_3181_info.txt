@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/goodbye-yellow-brick-road-chords-1498172",
+    "name": "Elton John - Goodbye Yellow Brick Road (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2014-07-01T03:35:14-04:00",
+    "dateModified": "2016-07-25T11:43:34-04:00",
+    "commentCount": 15
+}

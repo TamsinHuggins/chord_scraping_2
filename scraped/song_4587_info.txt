@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simply-red/holding-back-the-years-chords-707233",
+    "name": "Simply Red - Holding Back The Years (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Simply Red"
+    },
+    "datePublished": "2008-07-22T20:00:01-04:00",
+    "dateModified": "2020-07-27T08:56:50-04:00",
+    "commentCount": 37
+}

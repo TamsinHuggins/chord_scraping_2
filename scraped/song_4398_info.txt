@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/reality-club/anything-you-want-chords-4180357",
+    "name": "Reality Club - Anything You Want (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Reality Club"
+    },
+    "datePublished": "2022-05-05T15:25:56-04:00",
+    "dateModified": "2022-10-07T15:50:24-04:00",
+    "commentCount": 1,
+    "musicalKey": "F"
+}

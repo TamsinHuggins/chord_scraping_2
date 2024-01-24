@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/i-have-a-dream-chords-1087621",
+    "name": "Abba - I Have A Dream (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2011-08-28T20:00:01-04:00",
+    "dateModified": "2023-08-25T20:03:05-04:00",
+    "commentCount": 12
+}

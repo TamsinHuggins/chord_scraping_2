@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/florence-the-machine/shake-it-out-chords-1105535",
+    "name": "Florence + The Machine - Shake It Out (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Florence + The Machine"
+    },
+    "datePublished": "2011-11-02T20:00:01-04:00",
+    "dateModified": "2020-10-31T02:35:47-04:00",
+    "commentCount": 14
+}

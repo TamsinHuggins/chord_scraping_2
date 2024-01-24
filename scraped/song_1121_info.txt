@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/u2/with-or-without-you-chords-1071977",
+    "name": "U2 - With Or Without You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "U2"
+    },
+    "datePublished": "2011-07-03T20:00:01-04:00",
+    "dateModified": "2020-04-19T21:15:57-04:00",
+    "commentCount": 73
+}

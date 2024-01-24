@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-righteous-brothers/youve-lost-that-loving-feeling-chords-1056542",
+    "name": "The Righteous Brothers - Youve Lost That Loving Feeling (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C# Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Righteous Brothers"
+    },
+    "datePublished": "2011-05-17T20:00:01-04:00",
+    "dateModified": "2023-12-03T19:37:16-05:00",
+    "commentCount": 17,
+    "musicalKey": "C#"
+}

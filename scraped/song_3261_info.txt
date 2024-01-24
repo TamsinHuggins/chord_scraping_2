@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/moontasir-rakib/ghum-chords-3320438",
+    "name": "Moontasir Rakib - Ghum (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Moontasir Rakib"
+    },
+    "datePublished": "2020-09-03T03:08:46-04:00",
+    "dateModified": "2020-09-05T08:19:24-04:00",
+    "commentCount": 1
+}

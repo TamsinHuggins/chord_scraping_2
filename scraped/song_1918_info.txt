@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chayce-beckham/23-chords-3706472",
+    "name": "Chayce Beckham - 23 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Chayce Beckham"
+    },
+    "datePublished": "2021-05-14T07:18:31-04:00",
+    "dateModified": "2023-12-21T11:14:32-05:00",
+    "commentCount": 4
+}

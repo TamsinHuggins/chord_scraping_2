@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-waterboys/the-whole-of-the-moon-chords-679125",
+    "name": "The Waterboys - The Whole Of The Moon (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Waterboys"
+    },
+    "datePublished": "2008-05-19T20:00:01-04:00",
+    "dateModified": "2023-04-04T11:36:31-04:00",
+    "commentCount": 5
+}

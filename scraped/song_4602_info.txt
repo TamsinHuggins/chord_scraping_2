@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/frozen-do-you-want-to-build-a-snowman-chords-1452414",
+    "name": "Misc Cartoons - Frozen - Do You Want To Build A Snowman (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2014-01-13T19:00:01-05:00",
+    "dateModified": "2014-01-04T11:08:40-05:00",
+    "commentCount": 7
+}

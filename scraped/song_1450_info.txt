@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phil-collins/another-day-in-paradise-chords-320628",
+    "name": "Phil Collins - Another Day In Paradise (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Phil Collins"
+    },
+    "datePublished": "2006-01-09T19:00:01-05:00",
+    "dateModified": "2021-02-18T16:30:38-05:00",
+    "commentCount": 24
+}

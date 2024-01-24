@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/elvis-presley/cant-help-falling-in-love-chords-1086983",
-    "name": "Elvis Presley - Cant Help Falling In Love (chords)",
-    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: 2",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/knockin-on-heavens-door-chords-66559",
+    "name": "Bob Dylan - Knockin On Heavens Door (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
     "composer": {
         "@type": "Person",
-        "name": "Elvis Presley"
+        "name": "Bob Dylan"
     },
-    "datePublished": "2011-08-24T20:00:01-04:00",
-    "dateModified": "2022-09-27T04:09:00-04:00",
-    "commentCount": 473,
-    "musicalKey": "D"
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-02-13T21:11:57-05:00",
+    "commentCount": 122,
+    "musicalKey": "G"
 }

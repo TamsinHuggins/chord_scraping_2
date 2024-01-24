@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-flaming-lips/yoshimi-battles-the-pink-robots-part-1-chords-50106",
+    "name": "The Flaming Lips - Yoshimi Battles The Pink Robots Part 1 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Flaming Lips"
+    },
+    "datePublished": "2003-04-21T20:00:00-04:00",
+    "dateModified": "2018-07-18T12:31:28-04:00",
+    "commentCount": 42
+}

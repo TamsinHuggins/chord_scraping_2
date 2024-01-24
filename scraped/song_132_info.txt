@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alice-in-chains/nutshell-chords-127561",
+    "name": "Alice In Chains - Nutshell (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alice in Chains"
+    },
+    "datePublished": "2004-07-18T20:00:00-04:00",
+    "dateModified": "2019-11-26T12:03:56-05:00",
+    "commentCount": 38,
+    "musicalKey": "Em"
+}

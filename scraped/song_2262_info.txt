@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mazzy-star/halah-chords-604985",
+    "name": "Mazzy Star - Halah (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mazzy Star"
+    },
+    "datePublished": "2007-11-25T19:00:01-05:00",
+    "dateModified": "2016-07-12T07:30:50-04:00",
+    "commentCount": 3
+}

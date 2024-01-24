@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/bigger-than-the-whole-sky-chords-4393778",
+    "name": "Taylor Swift - Bigger Than The Whole Sky (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F# Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2022-10-21T03:31:24-04:00",
+    "dateModified": "2022-10-21T09:09:35-04:00",
+    "commentCount": 6,
+    "musicalKey": "F#"
+}

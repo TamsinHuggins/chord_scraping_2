@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/avril-lavigne/im-with-you-chords-92308",
+    "name": "Avril Lavigne - Im With You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Avril Lavigne"
+    },
+    "datePublished": "2003-10-22T20:00:00-04:00",
+    "dateModified": "2022-01-05T00:31:30-05:00",
+    "commentCount": 21
+}

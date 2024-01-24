@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1690369",
+    "name": "Annenmaykantereit - Barfuﬂ Am Klavier (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "AnnenMayKantereit"
+    },
+    "datePublished": "2014-12-19T03:38:19-05:00",
+    "dateModified": "2016-04-11T15:57:38-04:00",
+    "commentCount": 5
+}

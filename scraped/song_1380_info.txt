@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/del-shannon/runaway-chords-961346",
+    "name": "Del Shannon - Runaway (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Del Shannon"
+    },
+    "datePublished": "2010-06-23T20:00:01-04:00",
+    "dateModified": "2016-06-14T17:08:57-04:00",
+    "commentCount": 47
+}

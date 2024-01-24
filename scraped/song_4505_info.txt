@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/let-there-be-love-chords-269867",
+    "name": "Oasis - Let There Be Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Oasis"
+    },
+    "datePublished": "2005-11-07T19:00:01-05:00",
+    "dateModified": "2022-09-09T22:51:56-04:00",
+    "commentCount": 41
+}

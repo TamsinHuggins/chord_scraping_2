@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phil-wickham/reason-i-sing-chords-4106200",
+    "name": "Phil Wickham - Reason I Sing (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phil Wickham"
+    },
+    "datePublished": "2022-03-11T15:46:37-05:00",
+    "dateModified": "2022-03-13T16:35:10-04:00",
+    "commentCount": 4
+}

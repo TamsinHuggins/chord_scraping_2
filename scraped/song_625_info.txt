@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dire-straits/romeo-and-juliet-chords-1166247",
+    "name": "Dire Straits - Romeo And Juliet (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Dire Straits"
+    },
+    "datePublished": "2012-07-05T20:00:01-04:00",
+    "dateModified": "2020-07-02T02:23:16-04:00",
+    "commentCount": 31,
+    "musicalKey": "F"
+}

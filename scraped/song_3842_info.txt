@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/townes-van-zandt/fare-thee-well-miss-carousel-chords-1154305",
+    "name": "Townes Van Zandt - Fare Thee Well Miss Carousel (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Townes Van Zandt"
+    },
+    "datePublished": "2012-05-14T20:00:01-04:00",
+    "dateModified": "2021-09-07T10:32:25-04:00",
+    "commentCount": 11
+}

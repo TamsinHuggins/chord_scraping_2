@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joy-division/love-will-tear-us-apart-chords-72612",
+    "name": "Joy Division - Love Will Tear Us Apart (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Joy Division"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-11-07T10:25:17-05:00",
+    "commentCount": 39,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zac-brown-band/toes-chords-746376",
+    "name": "Zac Brown Band - Toes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Zac Brown Band"
+    },
+    "datePublished": "2008-10-23T20:00:01-04:00",
+    "dateModified": "2020-03-26T09:28:10-04:00",
+    "commentCount": 40
+}

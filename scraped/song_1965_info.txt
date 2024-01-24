@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/glue-myself-shut-chords-3201836",
+    "name": "Noah Kahan - Glue Myself Shut (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2020-06-15T14:37:08-04:00",
+    "dateModified": "2021-11-15T19:38:08-05:00",
+    "commentCount": 5
+}

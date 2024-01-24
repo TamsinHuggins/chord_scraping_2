@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-sembello/maniac-chords-660938",
+    "name": "Michael Sembello - Maniac (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Sembello"
+    },
+    "datePublished": "2008-04-04T20:00:01-04:00",
+    "dateModified": "2016-06-16T16:38:32-04:00",
+    "commentCount": 8
+}

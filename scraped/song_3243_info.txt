@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/alphabet-song-chords-2321207",
+    "name": "Misc Traditional - Alphabet Song (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2018-02-17T20:31:12-05:00",
+    "dateModified": "2019-08-09T08:25:37-04:00",
+    "commentCount": 6
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/papa-roach/leave-a-light-on-chords-4146148",
+    "name": "Papa Roach - Leave A Light On (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Papa Roach"
+    },
+    "datePublished": "2022-04-09T14:37:06-04:00",
+    "dateModified": "2022-06-14T14:01:22-04:00",
+    "commentCount": 5,
+    "musicalKey": "Bm"
+}

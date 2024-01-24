@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/carpenters/close-to-you-chords-1044073",
+    "name": "Carpenters - Close To You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Carpenters"
+    },
+    "datePublished": "2011-04-06T20:00:01-04:00",
+    "dateModified": "2023-07-30T17:32:36-04:00",
+    "commentCount": 23,
+    "musicalKey": "C"
+}

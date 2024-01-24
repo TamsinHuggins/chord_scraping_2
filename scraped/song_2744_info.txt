@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/car-seat-headrest/twin-fantasy-mirror-to-mirror-chords-2374581",
+    "name": "Car Seat Headrest - Twin Fantasy Mirror To Mirror (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Car Seat Headrest"
+    },
+    "datePublished": "2018-04-24T21:46:36-04:00",
+    "dateModified": "2018-04-25T11:35:08-04:00",
+    "commentCount": 24
+}

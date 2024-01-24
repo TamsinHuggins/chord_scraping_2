@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/electric-light-orchestra/mr-blue-sky-chords-1046596",
+    "name": "Electric Light Orchestra - Mr Blue Sky (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Electric Light Orchestra"
+    },
+    "datePublished": "2011-04-14T20:00:01-04:00",
+    "dateModified": "2019-04-10T09:26:23-04:00",
+    "commentCount": 37,
+    "musicalKey": "F"
+}

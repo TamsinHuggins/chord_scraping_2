@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-lee/lookin-for-love-chords-934776",
+    "name": "Johnny Lee - Lookin For Love (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Lee"
+    },
+    "datePublished": "2010-03-28T20:00:01-04:00",
+    "dateModified": "2018-04-28T21:19:18-04:00",
+    "commentCount": 10
+}

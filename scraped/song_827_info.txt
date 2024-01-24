@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/1-step-forward-3-steps-back-chords-3716321",
+    "name": "Olivia Rodrigo - 1 Step Forward 3 Steps Back (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2021-05-20T19:45:11-04:00",
+    "dateModified": "2022-05-15T23:10:40-04:00",
+    "commentCount": 30,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hoobastank/the-reason-chords-852965",
+    "name": "Hoobastank - The Reason (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hoobastank"
+    },
+    "datePublished": "2009-07-27T20:00:01-04:00",
+    "dateModified": "2018-05-07T22:51:30-04:00",
+    "commentCount": 12
+}

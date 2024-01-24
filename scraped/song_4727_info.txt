@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brooks-dunn/brand-new-man-chords-2140061",
+    "name": "Brooks & Dunn - Brand New Man (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Brooks &amp; Dunn"
+    },
+    "datePublished": "2017-09-06T05:46:39-04:00",
+    "dateModified": "2018-04-01T07:05:15-04:00",
+    "commentCount": 18,
+    "musicalKey": "G"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/amy-winehouse/tears-dry-on-their-own-chords-538079",
+    "name": "Amy Winehouse - Tears Dry On Their Own (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Amy Winehouse"
+    },
+    "datePublished": "2007-06-22T20:00:01-04:00",
+    "dateModified": "2017-05-07T07:08:50-04:00",
+    "commentCount": 15
+}

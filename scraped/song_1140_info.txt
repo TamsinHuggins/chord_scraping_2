@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/amy-winehouse/valerie-chords-840933",
+    "name": "Amy Winehouse - Valerie (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Amy Winehouse"
+    },
+    "datePublished": "2009-06-24T20:00:01-04:00",
+    "dateModified": "2019-08-12T00:55:47-04:00",
+    "commentCount": 15,
+    "musicalKey": "Eb"
+}

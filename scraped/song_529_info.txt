@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/chemtrails-over-the-country-club-chords-3509777",
+    "name": "Lana Del Rey - Chemtrails Over The Country Club (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2021-01-11T14:13:56-05:00",
+    "dateModified": "2021-02-08T20:11:25-05:00",
+    "commentCount": 16,
+    "musicalKey": "G"
+}

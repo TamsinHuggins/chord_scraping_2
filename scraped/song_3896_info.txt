@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-clash/london-calling-chords-1458941",
+    "name": "The Clash - London Calling (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Clash"
+    },
+    "datePublished": "2014-01-26T19:00:01-05:00",
+    "dateModified": "2020-04-15T14:07:50-04:00",
+    "commentCount": 30,
+    "musicalKey": "Em"
+}

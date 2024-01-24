@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/whiskey-myers/stone-chords-1869189",
+    "name": "Whiskey Myers - Stone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Whiskey Myers"
+    },
+    "datePublished": "2016-08-22T09:07:41-04:00",
+    "dateModified": "2020-12-27T20:52:19-05:00",
+    "commentCount": 26
+}

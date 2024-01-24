@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/coco-remember-me-lullaby-chords-2238213",
+    "name": "Misc Cartoons - Coco - Remember Me Lullaby (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2017-11-19T21:03:13-05:00",
+    "dateModified": "2019-03-29T04:36:56-04:00",
+    "commentCount": 40,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/a-hard-days-night-chords-1890043",
+    "name": "The Beatles - A Hard Days Night (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2016-10-14T05:11:44-04:00",
+    "dateModified": "2016-10-14T09:11:44-04:00",
+    "commentCount": 7
+}

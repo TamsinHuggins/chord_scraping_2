@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pinegrove/need-2-chords-2308323",
+    "name": "Pinegrove - Need 2 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pinegrove"
+    },
+    "datePublished": "2018-02-04T14:15:25-05:00",
+    "dateModified": "2023-06-18T18:02:19-04:00",
+    "commentCount": 9,
+    "musicalKey": "E"
+}

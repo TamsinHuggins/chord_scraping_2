@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bronski-beat/smalltown-boy-chords-1418529",
+    "name": "Bronski Beat - Smalltown Boy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Bronski Beat"
+    },
+    "datePublished": "2013-09-18T20:00:01-04:00",
+    "dateModified": "2020-06-27T04:09:07-04:00",
+    "commentCount": 9
+}

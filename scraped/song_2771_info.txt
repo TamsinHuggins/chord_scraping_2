@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/midnights-chords-4887437",
+    "name": "Taylor Swift - Midnights (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2023-07-24T10:15:01-04:00",
+    "dateModified": "2023-07-24T14:15:01-04:00",
+    "commentCount": 1
+}

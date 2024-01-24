@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abdul-jabbar/ore-nil-doriya-chords-1725144",
+    "name": "Abdul Jabbar - Ore Nil Doriya (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Abdul Jabbar"
+    },
+    "datePublished": "2015-03-29T14:16:54-04:00",
+    "dateModified": "2015-03-29T18:16:54-04:00",
+    "commentCount": 5
+}

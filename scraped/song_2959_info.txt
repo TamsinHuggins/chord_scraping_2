@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jessie-j/flashlight-chords-1731803",
+    "name": "Jessie J - Flashlight (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Jessie J"
+    },
+    "datePublished": "2015-04-22T02:07:22-04:00",
+    "dateModified": "2017-07-21T14:30:17-04:00",
+    "commentCount": 58,
+    "musicalKey": "C"
+}

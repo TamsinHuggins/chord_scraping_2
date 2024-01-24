@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kacey-musgraves/slow-burn-chords-2355631",
+    "name": "Kacey Musgraves - Slow Burn (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kacey Musgraves"
+    },
+    "datePublished": "2018-03-30T16:51:10-04:00",
+    "dateModified": "2018-12-26T12:20:38-05:00",
+    "commentCount": 20,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-denver/rocky-mountain-high-chords-1051715",
+    "name": "John Denver - Rocky Mountain High (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Denver"
+    },
+    "datePublished": "2011-04-28T20:00:01-04:00",
+    "dateModified": "2022-08-06T22:12:14-04:00",
+    "commentCount": 31
+}

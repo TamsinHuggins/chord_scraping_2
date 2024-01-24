@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/amy-macdonald/mr-rock-and-roll-chords-539502",
+    "name": "Amy Macdonald - Mr Rock And Roll (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Amy Macdonald"
+    },
+    "datePublished": "2007-06-25T20:00:01-04:00",
+    "dateModified": "2021-03-06T10:33:41-05:00",
+    "commentCount": 11
+}

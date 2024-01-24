@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/keshi/drunk-chords-3340685",
+    "name": "Keshi - Drunk (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "keshi"
+    },
+    "datePublished": "2020-09-18T03:52:26-04:00",
+    "dateModified": "2021-05-05T06:09:22-04:00",
+    "commentCount": 2,
+    "musicalKey": "E"
+}

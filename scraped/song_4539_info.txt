@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/your-song-chords-1829084",
+    "name": "Elton John - Your Song (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2016-03-26T00:55:46-04:00",
+    "dateModified": "2017-06-07T12:43:24-04:00",
+    "commentCount": 7
+}

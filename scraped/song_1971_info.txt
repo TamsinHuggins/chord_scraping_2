@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jvke/golden-hour-chords-4289558",
+    "name": "Jvke - Golden Hour (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "JVKE"
+    },
+    "datePublished": "2022-07-28T15:32:16-04:00",
+    "dateModified": "2022-11-26T15:55:25-05:00",
+    "commentCount": 25,
+    "musicalKey": "A"
+}

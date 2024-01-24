@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nena/irgendwie-irgendwo-irgendwann-chords-77787",
+    "name": "Nena - Irgendwie Irgendwo Irgendwann (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nena"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2019-03-15T14:21:52-04:00",
+    "commentCount": 7
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zac-brown-band/chicken-fried-chords-727014",
+    "name": "Zac Brown Band - Chicken Fried (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zac Brown Band"
+    },
+    "datePublished": "2008-08-31T20:00:01-04:00",
+    "dateModified": "2021-11-29T01:33:03-05:00",
+    "commentCount": 13
+}

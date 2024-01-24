@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/father-john-misty/real-love-baby-chords-1895748",
+    "name": "Father John Misty - Real Love Baby (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Father John Misty"
+    },
+    "datePublished": "2016-10-17T23:40:28-04:00",
+    "dateModified": "2016-10-29T19:46:21-04:00",
+    "commentCount": 5
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cutting-crew/i-just-died-in-your-arms-chords-1024059",
+    "name": "Cutting Crew - I Just Died In Your Arms (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cutting Crew"
+    },
+    "datePublished": "2011-01-27T19:00:01-05:00",
+    "dateModified": "2016-06-22T13:47:56-04:00",
+    "commentCount": 10
+}

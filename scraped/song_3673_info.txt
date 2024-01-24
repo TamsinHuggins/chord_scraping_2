@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fleetwood-mac/i-dont-want-to-know-chords-1087626",
+    "name": "Fleetwood Mac - I Dont Want To Know (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Fleetwood Mac"
+    },
+    "datePublished": "2011-08-28T20:00:01-04:00",
+    "dateModified": "2023-08-09T18:04:06-04:00",
+    "commentCount": 5
+}

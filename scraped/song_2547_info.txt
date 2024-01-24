@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/another-brick-in-the-wall-chords-1698768",
+    "name": "Pink Floyd - Another Brick In The Wall (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2015-01-13T03:47:47-05:00",
+    "dateModified": "2021-08-10T16:11:03-04:00",
+    "commentCount": 10
+}

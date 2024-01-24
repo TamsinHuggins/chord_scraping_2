@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kim-wilde/kids-in-america-chords-932973",
+    "name": "Kim Wilde - Kids In America (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kim Wilde"
+    },
+    "datePublished": "2010-03-22T20:00:01-04:00",
+    "dateModified": "2017-07-07T23:53:37-04:00",
+    "commentCount": 8
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/post-malone/feeling-whitney-chords-1909308",
+    "name": "Post Malone - Feeling Whitney (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Post Malone"
+    },
+    "datePublished": "2016-12-12T06:49:30-05:00",
+    "dateModified": "2022-10-05T18:18:35-04:00",
+    "commentCount": 26,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pinegrove/old-friends-chords-1838259",
+    "name": "Pinegrove - Old Friends (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pinegrove"
+    },
+    "datePublished": "2016-04-25T04:56:12-04:00",
+    "dateModified": "2016-04-25T08:56:36-04:00",
+    "commentCount": 18
+}

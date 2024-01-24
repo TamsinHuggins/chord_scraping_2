@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hinder/lips-of-an-angel-chords-363708",
+    "name": "Hinder - Lips Of An Angel (chords)",
+    "text": "Difficulty: beginner Tuning: D A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hinder"
+    },
+    "datePublished": "2006-05-09T20:00:01-04:00",
+    "dateModified": "2018-09-09T12:38:08-04:00",
+    "commentCount": 102
+}

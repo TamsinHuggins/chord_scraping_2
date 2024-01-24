@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-hunger-games-the-ballad-of-songbirds-and-snakes-the-hanging-tree-chords-5036617",
+    "name": "Misc Soundtrack - The Hunger Games The Ballad Of Songbirds And Snakes - The Hanging Tree (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-11-19T23:26:04-05:00",
+    "dateModified": "2023-11-27T00:38:09-05:00",
+    "commentCount": 0,
+    "musicalKey": "Am"
+}

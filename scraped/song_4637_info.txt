@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/liam-gallagher/once-chords-2724408",
+    "name": "Liam Gallagher - Once (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Liam Gallagher"
+    },
+    "datePublished": "2019-06-12T09:42:39-04:00",
+    "dateModified": "2019-07-27T12:57:53-04:00",
+    "commentCount": 27,
+    "musicalKey": "D"
+}

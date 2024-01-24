@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/a-hard-rains-a-gonna-fall-chords-1459815",
+    "name": "Bob Dylan - A Hard Rains A-Gonna Fall (chords)",
+    "text": "Difficulty: intermediate Tuning: D A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2014-02-04T19:00:01-05:00",
+    "dateModified": "2023-07-27T16:15:00-04:00",
+    "commentCount": 22,
+    "musicalKey": "E"
+}

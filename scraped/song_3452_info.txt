@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kailash-kher/teri-deewani-chords-1469172",
+    "name": "Kailash Kher - Teri Deewani (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kailash Kher"
+    },
+    "datePublished": "2014-03-10T20:00:01-04:00",
+    "dateModified": "2014-03-11T00:00:01-04:00",
+    "commentCount": 4
+}

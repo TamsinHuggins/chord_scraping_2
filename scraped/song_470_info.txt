@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wave-to-earth/seasons-chords-4149694",
+    "name": "Wave To Earth - Seasons (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "wave to earth"
+    },
+    "datePublished": "2022-04-12T04:44:18-04:00",
+    "dateModified": "2023-07-28T17:15:10-04:00",
+    "commentCount": 1,
+    "musicalKey": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/reinaeiry/the-one-that-got-away-chords-3777284",
+    "name": "Reinaeiry - The One That Got Away (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "reinaeiry"
+    },
+    "datePublished": "2021-07-03T01:50:41-04:00",
+    "dateModified": "2021-12-19T13:32:22-05:00",
+    "commentCount": 4,
+    "musicalKey": "E"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/dont-stop-me-now-chords-519549",
+    "name": "Queen - Dont Stop Me Now (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2007-05-18T20:00:01-04:00",
+    "dateModified": "2017-12-08T06:08:57-05:00",
+    "commentCount": 62,
+    "musicalKey": "F"
+}

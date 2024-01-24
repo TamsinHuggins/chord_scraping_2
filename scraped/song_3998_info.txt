@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/i-have-decided-to-follow-jesus-chords-1093077",
+    "name": "Misc Praise Songs - I Have Decided To Follow Jesus (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Praise Songs"
+    },
+    "datePublished": "2011-09-19T20:00:01-04:00",
+    "dateModified": "2019-02-20T21:06:18-05:00",
+    "commentCount": 11
+}

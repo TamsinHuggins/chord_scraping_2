@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jelly-roll-us-nashville-tn/save-me-chords-3205832",
+    "name": "Jelly Roll (Us, Nashville, Tn) - Save Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jelly Roll (US, Nashville, TN)"
+    },
+    "datePublished": "2020-06-17T21:04:41-04:00",
+    "dateModified": "2020-08-25T21:37:11-04:00",
+    "commentCount": 18
+}

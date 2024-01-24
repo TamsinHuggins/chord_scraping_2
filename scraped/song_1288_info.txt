@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dobie-gray/drift-away-chords-794918",
+    "name": "Dobie Gray - Drift Away (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dobie Gray"
+    },
+    "datePublished": "2009-02-24T19:00:01-05:00",
+    "dateModified": "2021-04-12T13:10:42-04:00",
+    "commentCount": 38,
+    "musicalKey": "E"
+}

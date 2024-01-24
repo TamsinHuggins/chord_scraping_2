@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/fortunate-son-chords-1045064",
+    "name": "Creedence Clearwater Revival - Fortunate Son (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Creedence Clearwater Revival"
+    },
+    "datePublished": "2011-04-07T20:00:01-04:00",
+    "dateModified": "2023-01-12T18:57:20-05:00",
+    "commentCount": 17
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dido/white-flag-chords-98623",
+    "name": "Dido - White Flag (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Dido"
+    },
+    "datePublished": "2003-12-24T19:00:00-05:00",
+    "dateModified": "2003-12-25T00:00:00-05:00",
+    "commentCount": 25
+}

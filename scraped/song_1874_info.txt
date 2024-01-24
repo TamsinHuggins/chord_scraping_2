@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-stapleton/cold-chords-3351497",
+    "name": "Chris Stapleton - Cold (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Stapleton"
+    },
+    "datePublished": "2020-09-26T09:05:25-04:00",
+    "dateModified": "2020-10-14T17:22:20-04:00",
+    "commentCount": 11
+}

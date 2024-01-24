@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-everly-brothers/all-i-have-to-do-is-dream-chords-1089415",
+    "name": "The Everly Brothers - All I Have To Do Is Dream (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Everly Brothers"
+    },
+    "datePublished": "2011-08-31T20:00:01-04:00",
+    "dateModified": "2022-07-29T18:19:47-04:00",
+    "commentCount": 16
+}

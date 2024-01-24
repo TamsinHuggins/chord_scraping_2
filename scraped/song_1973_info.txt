@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/boygenius/were-in-love-chords-4707650",
+    "name": "Boygenius - Were In Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "boygenius"
+    },
+    "datePublished": "2023-03-30T20:13:14-04:00",
+    "dateModified": "2023-03-31T00:13:14-04:00",
+    "commentCount": 0
+}

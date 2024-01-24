@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fall-out-boy/sugar-were-going-down-chords-267936",
+    "name": "Fall Out Boy - Sugar Were Going Down (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fall Out Boy"
+    },
+    "datePublished": "2005-10-31T19:00:01-05:00",
+    "dateModified": "2018-09-17T13:13:51-04:00",
+    "commentCount": 77,
+    "musicalKey": "D"
+}

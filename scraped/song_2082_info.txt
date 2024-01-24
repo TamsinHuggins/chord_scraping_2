@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blondie/heart-of-glass-chords-1087338",
+    "name": "Blondie - Heart Of Glass (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blondie"
+    },
+    "datePublished": "2011-08-25T20:00:01-04:00",
+    "dateModified": "2023-08-11T18:43:29-04:00",
+    "commentCount": 16,
+    "musicalKey": "E"
+}

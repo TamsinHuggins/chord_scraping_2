@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grateful-dead/eyes-of-the-world-chords-1243003",
+    "name": "Grateful Dead - Eyes Of The World (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Grateful Dead"
+    },
+    "datePublished": "2013-05-13T20:00:01-04:00",
+    "dateModified": "2018-06-01T19:06:06-04:00",
+    "commentCount": 19
+}

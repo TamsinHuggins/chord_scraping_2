@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lainey-wilson/wildflowers-and-wild-horses-chords-4402463",
+    "name": "Lainey Wilson - Wildflowers And Wild Horses (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lainey Wilson"
+    },
+    "datePublished": "2022-10-28T03:13:54-04:00",
+    "dateModified": "2022-10-28T07:13:54-04:00",
+    "commentCount": 5,
+    "musicalKey": "Eb"
+}

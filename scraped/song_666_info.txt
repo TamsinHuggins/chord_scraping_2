@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laufey/let-you-break-my-heart-again-chords-3833219",
+    "name": "Laufey - Let You Break My Heart Again (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laufey"
+    },
+    "datePublished": "2021-08-14T18:59:19-04:00",
+    "dateModified": "2021-08-15T11:15:55-04:00",
+    "commentCount": 6,
+    "musicalKey": "D"
+}

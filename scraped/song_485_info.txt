@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-seger-the-silver-bullet-band/night-moves-chords-1765474",
+    "name": "Bob Seger & The Silver Bullet Band - Night Moves (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Seger &amp; The Silver Bullet Band"
+    },
+    "datePublished": "2015-09-07T12:53:43-04:00",
+    "dateModified": "2021-07-03T05:52:50-04:00",
+    "commentCount": 63
+}

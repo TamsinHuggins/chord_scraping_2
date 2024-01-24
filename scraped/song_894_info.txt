@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paramore/still-into-you-chords-1231873",
+    "name": "Paramore - Still Into You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Paramore"
+    },
+    "datePublished": "2013-03-20T20:00:01-04:00",
+    "dateModified": "2021-02-11T08:15:41-05:00",
+    "commentCount": 58,
+    "musicalKey": "F"
+}

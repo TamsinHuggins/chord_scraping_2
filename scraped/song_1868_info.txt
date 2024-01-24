@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/deana-carter/once-upon-a-december-chords-1191182",
+    "name": "Deana Carter - Once Upon A December (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Deana Carter"
+    },
+    "datePublished": "2012-10-28T20:00:01-04:00",
+    "dateModified": "2018-05-14T18:09:19-04:00",
+    "commentCount": 13
+}

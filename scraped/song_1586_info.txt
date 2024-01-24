@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/clean-chords-1674149",
+    "name": "Taylor Swift - Clean (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2014-10-24T14:06:13-04:00",
+    "dateModified": "2023-10-28T15:52:45-04:00",
+    "commentCount": 22,
+    "musicalKey": "E"
+}

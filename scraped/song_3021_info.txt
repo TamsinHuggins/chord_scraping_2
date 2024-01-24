@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/seals-crofts/summer-breeze-chords-83666",
+    "name": "Seals & Crofts - Summer Breeze (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Seals &amp; Crofts"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-11-23T10:59:06-05:00",
+    "commentCount": 29
+}

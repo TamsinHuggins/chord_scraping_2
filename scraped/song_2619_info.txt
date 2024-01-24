@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-byrds/turn-turn-turn-to-everything-there-is-a-season-chords-1055233",
+    "name": "The Byrds - Turn Turn Turn To Everything There Is A Season (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Byrds"
+    },
+    "datePublished": "2011-05-09T20:00:01-04:00",
+    "dateModified": "2023-12-15T05:53:04-05:00",
+    "commentCount": 26,
+    "musicalKey": "D"
+}

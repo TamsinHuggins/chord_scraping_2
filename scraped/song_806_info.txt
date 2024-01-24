@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/been-so-good-chords-4792631",
+    "name": "Elevation Worship - Been So Good (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F# Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2023-05-26T21:16:44-04:00",
+    "dateModified": "2023-12-31T15:55:21-05:00",
+    "commentCount": 3,
+    "musicalKey": "F#"
+}

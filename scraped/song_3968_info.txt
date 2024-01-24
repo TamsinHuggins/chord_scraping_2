@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kali-uchis/moonlight-chords-4659896",
+    "name": "Kali Uchis - Moonlight (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kali Uchis"
+    },
+    "datePublished": "2023-02-24T00:43:21-05:00",
+    "dateModified": "2023-02-24T10:33:58-05:00",
+    "commentCount": 1,
+    "musicalKey": "Bb"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/toto/rosanna-chords-1415422",
+    "name": "Toto - Rosanna (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Toto"
+    },
+    "datePublished": "2013-08-29T20:00:01-04:00",
+    "dateModified": "2022-06-30T17:53:54-04:00",
+    "commentCount": 11
+}

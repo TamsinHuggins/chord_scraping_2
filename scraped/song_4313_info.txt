@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dwight-yoakam/guitars-cadillacs-chords-1195527",
+    "name": "Dwight Yoakam - Guitars Cadillacs (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dwight Yoakam"
+    },
+    "datePublished": "2012-11-19T19:00:01-05:00",
+    "dateModified": "2022-11-23T20:51:28-05:00",
+    "commentCount": 4
+}

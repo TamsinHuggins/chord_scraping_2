@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lil-nas-x/old-town-road-chords-2629284",
+    "name": "Lil Nas X - Old Town Road (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Lil Nas X"
+    },
+    "datePublished": "2019-03-10T12:31:13-04:00",
+    "dateModified": "2020-03-06T23:42:39-05:00",
+    "commentCount": 144,
+    "musicalKey": "Ab"
+}

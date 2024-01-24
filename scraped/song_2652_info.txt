@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bo-burnham/welcome-to-the-internet-chords-3732602",
+    "name": "Bo Burnham - Welcome To The Internet (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bo Burnham"
+    },
+    "datePublished": "2021-05-31T14:08:38-04:00",
+    "dateModified": "2021-06-10T20:11:41-04:00",
+    "commentCount": 18,
+    "musicalKey": "Dm"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/u2/i-still-havent-found-what-im-looking-for-chords-57139",
+    "name": "U2 - I Still Havent Found What Im Looking For (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C# Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "U2"
+    },
+    "datePublished": "2003-07-28T20:00:00-04:00",
+    "dateModified": "2019-12-06T09:40:38-05:00",
+    "commentCount": 48,
+    "musicalKey": "C#"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-walker/leave-a-light-on-chords-2207711",
+    "name": "Tom Walker - Leave A Light On (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Walker"
+    },
+    "datePublished": "2017-10-17T08:42:59-04:00",
+    "dateModified": "2018-06-04T22:02:13-04:00",
+    "commentCount": 19,
+    "musicalKey": "Dm"
+}

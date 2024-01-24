@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billy-strings/dust-in-a-baggie-chords-1792953",
+    "name": "Billy Strings - Dust In A Baggie (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billy Strings"
+    },
+    "datePublished": "2015-12-28T07:23:36-05:00",
+    "dateModified": "2019-12-19T03:22:31-05:00",
+    "commentCount": 13
+}

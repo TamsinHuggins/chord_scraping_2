@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mitski/im-your-man-chords-4953574",
+    "name": "Mitski - Im Your Man (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mitski"
+    },
+    "datePublished": "2023-09-14T00:16:55-04:00",
+    "dateModified": "2024-01-13T21:12:41-05:00",
+    "commentCount": 7
+}

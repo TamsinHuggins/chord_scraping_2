@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/i-carrion-icarian-chords-4920832",
+    "name": "Hozier - I Carrion Icarian (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hozier"
+    },
+    "datePublished": "2023-08-18T15:25:13-04:00",
+    "dateModified": "2023-08-18T19:25:14-04:00",
+    "commentCount": 3,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-backseat-lovers/maple-syrup-chords-2737947",
+    "name": "The Backseat Lovers - Maple Syrup (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Backseat Lovers"
+    },
+    "datePublished": "2019-06-21T22:06:20-04:00",
+    "dateModified": "2019-06-25T20:48:00-04:00",
+    "commentCount": 16
+}

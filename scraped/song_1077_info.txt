@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frank-ocean/pink-plus-white-chords-1869337",
+    "name": "Frank Ocean - Pink Plus White (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Frank Ocean"
+    },
+    "datePublished": "2016-08-23T06:19:24-04:00",
+    "dateModified": "2022-03-30T15:32:21-04:00",
+    "commentCount": 15
+}

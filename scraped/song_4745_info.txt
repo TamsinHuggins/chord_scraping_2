@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eraserheads/magasin-chords-58939",
+    "name": "Eraserheads - Magasin (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eraserheads"
+    },
+    "datePublished": "2003-08-24T20:00:00-04:00",
+    "dateModified": "2023-08-03T13:51:28-04:00",
+    "commentCount": 23,
+    "musicalKey": "B"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/r-e-m-/losing-my-religion-chords-114345",
+    "name": "R.e.m. - Losing My Religion (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "R.E.M."
+    },
+    "datePublished": "2004-04-19T20:00:00-04:00",
+    "dateModified": "2016-05-18T12:53:12-04:00",
+    "commentCount": 97,
+    "musicalKey": "Am"
+}

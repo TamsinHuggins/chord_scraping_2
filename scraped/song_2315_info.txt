@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/blue-moon-chords-1217641",
+    "name": "Misc Traditional - Blue Moon (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2013-02-18T19:00:01-05:00",
+    "dateModified": "2020-04-30T21:08:14-04:00",
+    "commentCount": 10,
+    "musicalKey": "C"
+}

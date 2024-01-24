@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/santana/smooth-chords-1399971",
+    "name": "Santana - Smooth (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Santana"
+    },
+    "datePublished": "2013-07-03T20:00:01-04:00",
+    "dateModified": "2017-02-17T08:36:09-05:00",
+    "commentCount": 13
+}

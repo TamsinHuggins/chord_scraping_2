@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/santo-johnny/sleep-walk-chords-2650413",
+    "name": "Santo & Johnny - Sleep Walk (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Santo &amp; Johnny"
+    },
+    "datePublished": "2019-03-31T15:23:01-04:00",
+    "dateModified": "2020-01-03T17:22:07-05:00",
+    "commentCount": 2,
+    "musicalKey": "C"
+}

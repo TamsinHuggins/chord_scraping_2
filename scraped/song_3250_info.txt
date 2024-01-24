@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-arthur/falling-like-the-stars-chords-2689908",
+    "name": "James Arthur - Falling Like The Stars (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "James Arthur"
+    },
+    "datePublished": "2019-05-09T21:06:50-04:00",
+    "dateModified": "2019-06-21T09:32:57-04:00",
+    "commentCount": 11,
+    "musicalKey": "Db"
+}

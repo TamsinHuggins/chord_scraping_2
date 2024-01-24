@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/axix/adhuro-prem-chords-2582544",
+    "name": "Axix - Adhuro Prem (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Axix"
+    },
+    "datePublished": "2019-01-23T17:42:47-05:00",
+    "dateModified": "2020-06-04T08:28:49-04:00",
+    "commentCount": 0
+}

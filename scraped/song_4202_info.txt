@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-fratellis/whistle-for-the-choir-chords-437741",
+    "name": "The Fratellis - Whistle For The Choir (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Fratellis"
+    },
+    "datePublished": "2006-11-21T19:00:01-05:00",
+    "dateModified": "2020-01-03T09:25:55-05:00",
+    "commentCount": 35
+}

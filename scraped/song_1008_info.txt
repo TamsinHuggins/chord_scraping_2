@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/im-only-sleeping-chords-1768241",
+    "name": "The Beatles - Im Only Sleeping (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2015-09-19T02:29:25-04:00",
+    "dateModified": "2016-11-03T09:18:00-04:00",
+    "commentCount": 49
+}

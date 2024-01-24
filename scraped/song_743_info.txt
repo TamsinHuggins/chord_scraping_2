@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/in-bloom-chords-1171571",
+    "name": "Nirvana - In Bloom (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2012-07-29T20:00:01-04:00",
+    "dateModified": "2021-09-27T20:49:08-04:00",
+    "commentCount": 25
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rodrigo-amarante/tuyo-chords-1764660",
+    "name": "Rodrigo Amarante - Tuyo (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rodrigo Amarante"
+    },
+    "datePublished": "2015-09-10T01:49:22-04:00",
+    "dateModified": "2018-07-31T11:39:58-04:00",
+    "commentCount": 13,
+    "musicalKey": "C#m"
+}

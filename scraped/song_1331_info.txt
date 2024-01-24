@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/come-over-chords-4386650",
+    "name": "Noah Kahan - Come Over (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2022-10-15T14:41:29-04:00",
+    "dateModified": "2022-10-15T18:41:29-04:00",
+    "commentCount": 2,
+    "musicalKey": "E"
+}

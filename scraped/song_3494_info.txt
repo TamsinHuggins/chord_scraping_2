@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bowling-for-soup/1985-chords-827445",
+    "name": "Bowling For Soup - 1985 (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bowling for Soup"
+    },
+    "datePublished": "2009-05-21T20:00:01-04:00",
+    "dateModified": "2020-03-24T14:33:58-04:00",
+    "commentCount": 17
+}

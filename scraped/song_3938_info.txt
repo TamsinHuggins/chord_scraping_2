@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/here-be-lions/i-speak-jesus-chords-2854832",
+    "name": "Here Be Lions - I Speak Jesus (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Here Be Lions"
+    },
+    "datePublished": "2019-10-12T20:26:02-04:00",
+    "dateModified": "2020-09-23T11:05:19-04:00",
+    "commentCount": 2
+}

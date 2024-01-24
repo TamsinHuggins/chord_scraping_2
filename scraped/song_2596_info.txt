@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elvis-presley/return-to-sender-chords-1950213",
+    "name": "Elvis Presley - Return To Sender (chords)",
+    "text": "Difficulty:  Tuning: C F Bb Eb G C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elvis Presley"
+    },
+    "datePublished": "2017-02-18T05:07:39-05:00",
+    "dateModified": "2020-12-07T19:25:04-05:00",
+    "commentCount": 6
+}

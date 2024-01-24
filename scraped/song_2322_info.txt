@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jordan-davis/buy-dirt-chords-3717113",
+    "name": "Jordan Davis - Buy Dirt (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Jordan Davis"
+    },
+    "datePublished": "2021-05-21T09:55:32-04:00",
+    "dateModified": "2022-04-30T05:00:43-04:00",
+    "commentCount": 13,
+    "musicalKey": "E"
+}

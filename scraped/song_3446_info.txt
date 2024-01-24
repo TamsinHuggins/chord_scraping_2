@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/goo-goo-dolls/slide-chords-47080",
+    "name": "Goo Goo Dolls - Slide (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Goo Goo Dolls"
+    },
+    "datePublished": "2003-03-09T19:00:00-05:00",
+    "dateModified": "2016-05-19T13:40:17-04:00",
+    "commentCount": 55
+}

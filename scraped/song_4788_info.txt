@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/lady-madonna-chords-1089763",
+    "name": "The Beatles - Lady Madonna (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2011-09-01T20:00:01-04:00",
+    "dateModified": "2023-12-19T20:54:04-05:00",
+    "commentCount": 14,
+    "musicalKey": "A"
+}

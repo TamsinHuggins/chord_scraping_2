@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rodriguez/sugar-man-chords-811245",
+    "name": "Rodriguez - Sugar Man (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rodriguez"
+    },
+    "datePublished": "2009-04-08T20:00:01-04:00",
+    "dateModified": "2018-09-19T14:41:57-04:00",
+    "commentCount": 16,
+    "musicalKey": "Am"
+}

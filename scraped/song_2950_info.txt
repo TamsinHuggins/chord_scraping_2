@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bobby-darin/mack-the-knife-chords-1090546",
+    "name": "Bobby Darin - Mack The Knife (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bobby Darin"
+    },
+    "datePublished": "2011-09-04T20:00:01-04:00",
+    "dateModified": "2022-04-08T17:13:32-04:00",
+    "commentCount": 14
+}

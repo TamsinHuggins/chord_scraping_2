@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gordon-lightfoot/if-you-could-read-my-mind-chords-1047139",
+    "name": "Gordon Lightfoot - If You Could Read My Mind (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Gordon Lightfoot"
+    },
+    "datePublished": "2011-04-14T20:00:01-04:00",
+    "dateModified": "2023-09-20T17:40:46-04:00",
+    "commentCount": 28,
+    "musicalKey": "A"
+}

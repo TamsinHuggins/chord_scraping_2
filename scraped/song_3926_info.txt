@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/troye-sivan/strawberries-and-cigarettes-chords-2340993",
+    "name": "Troye Sivan - Strawberries And Cigarettes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Troye Sivan"
+    },
+    "datePublished": "2018-03-15T11:50:11-04:00",
+    "dateModified": "2020-07-25T23:35:26-04:00",
+    "commentCount": 15
+}

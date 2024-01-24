@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/when-the-saints-go-marching-in-chords-1764942",
+    "name": "Misc Traditional - When The Saints Go Marching In (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2015-09-05T06:02:02-04:00",
+    "dateModified": "2019-11-22T11:21:35-05:00",
+    "commentCount": 2
+}

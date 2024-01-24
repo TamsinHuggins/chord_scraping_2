@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-charlie-daniels-band/the-devil-went-down-to-georgia-chords-1717096",
+    "name": "The Charlie Daniels Band - The Devil Went Down To Georgia (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Charlie Daniels Band"
+    },
+    "datePublished": "2015-03-04T03:40:53-05:00",
+    "dateModified": "2017-09-14T08:21:27-04:00",
+    "commentCount": 16
+}

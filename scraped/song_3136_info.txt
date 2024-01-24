@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-stapleton/whiskey-and-you-chords-1778076",
+    "name": "Chris Stapleton - Whiskey And You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Stapleton"
+    },
+    "datePublished": "2015-11-03T11:29:34-05:00",
+    "dateModified": "2016-04-16T12:08:45-04:00",
+    "commentCount": 23
+}

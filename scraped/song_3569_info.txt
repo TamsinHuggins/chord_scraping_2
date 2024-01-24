@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/victor-leksell/svag-chords-2962136",
+    "name": "Victor Leksell - Svag (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 8",
+    "composer": {
+        "@type": "Person",
+        "name": "Victor Leksell"
+    },
+    "datePublished": "2020-01-17T15:54:00-05:00",
+    "dateModified": "2020-11-06T08:33:33-05:00",
+    "commentCount": 9,
+    "musicalKey": "Ab"
+}

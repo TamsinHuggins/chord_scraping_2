@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kodaline/all-i-want-chords-1180259",
+    "name": "Kodaline - All I Want (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kodaline"
+    },
+    "datePublished": "2012-09-04T20:00:01-04:00",
+    "dateModified": "2020-05-08T11:21:03-04:00",
+    "commentCount": 108,
+    "musicalKey": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/finneas/lets-fall-in-love-for-the-night-chords-2549901",
+    "name": "Finneas - Lets Fall In Love For The Night (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "FINNEAS"
+    },
+    "datePublished": "2018-12-19T23:01:05-05:00",
+    "dateModified": "2020-07-15T21:47:56-04:00",
+    "commentCount": 20,
+    "musicalKey": "Am"
+}

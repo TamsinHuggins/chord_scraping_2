@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/keith-whitley/dont-close-your-eyes-chords-1034121",
+    "name": "Keith Whitley - Dont Close Your Eyes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Keith Whitley"
+    },
+    "datePublished": "2011-03-01T19:00:01-05:00",
+    "dateModified": "2019-12-18T00:33:27-05:00",
+    "commentCount": 19
+}

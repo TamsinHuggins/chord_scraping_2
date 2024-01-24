@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jesus-culture/holy-spirit-chords-1405187",
+    "name": "Jesus Culture - Holy Spirit (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jesus Culture"
+    },
+    "datePublished": "2013-07-25T20:00:01-04:00",
+    "dateModified": "2016-06-15T11:56:15-04:00",
+    "commentCount": 7
+}

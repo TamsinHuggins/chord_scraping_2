@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/xanny-chords-2647539",
+    "name": "Billie Eilish - Xanny (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2019-03-29T02:35:56-04:00",
+    "dateModified": "2020-03-31T07:53:39-04:00",
+    "commentCount": 23,
+    "musicalKey": "A"
+}

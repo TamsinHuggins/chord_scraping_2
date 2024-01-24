@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-blunt/goodbye-my-lover-chords-210906",
+    "name": "James Blunt - Goodbye My Lover (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "James Blunt"
+    },
+    "datePublished": "2005-09-08T20:00:00-04:00",
+    "dateModified": "2016-04-29T12:34:22-04:00",
+    "commentCount": 20
+}

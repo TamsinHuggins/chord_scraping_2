@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mariah-carey/endless-love-chords-3722045",
+    "name": "Mariah Carey - Endless Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Mariah Carey"
+    },
+    "datePublished": "2021-05-24T06:50:26-04:00",
+    "dateModified": "2021-05-24T13:10:51-04:00",
+    "commentCount": 0,
+    "musicalKey": "Bb"
+}

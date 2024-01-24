@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sum-41/pieces-chords-180761",
+    "name": "Sum 41 - Pieces (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sum 41"
+    },
+    "datePublished": "2005-04-25T20:00:00-04:00",
+    "dateModified": "2016-06-16T13:44:43-04:00",
+    "commentCount": 27
+}

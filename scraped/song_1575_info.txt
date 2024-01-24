@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/traveling-wilburys/handle-with-care-chords-1087327",
+    "name": "Traveling Wilburys - Handle With Care (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Traveling Wilburys"
+    },
+    "datePublished": "2011-08-25T20:00:01-04:00",
+    "dateModified": "2023-08-09T11:04:08-04:00",
+    "commentCount": 42,
+    "musicalKey": "G"
+}

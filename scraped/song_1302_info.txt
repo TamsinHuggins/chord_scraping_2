@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/its-all-over-now-baby-blue-chords-14884",
+    "name": "Bob Dylan - Its All Over Now Baby Blue (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2019-03-02T23:16:29-05:00",
+    "commentCount": 23,
+    "musicalKey": "E"
+}

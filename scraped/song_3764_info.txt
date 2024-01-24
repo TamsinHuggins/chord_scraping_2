@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/all-my-love-chords-4160236",
+    "name": "Noah Kahan - All My Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2022-04-19T21:55:34-04:00",
+    "dateModified": "2023-06-06T15:26:53-04:00",
+    "commentCount": 3,
+    "musicalKey": "G"
+}

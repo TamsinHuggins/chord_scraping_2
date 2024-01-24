@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/anuv-jain/husn-chords-5049691",
-    "name": "Anuv Jain - Husn (chords)",
-    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 5",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/take-me-to-church-chords-1442757",
+    "name": "Hozier - Take Me To Church (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
     "composer": {
         "@type": "Person",
-        "name": "Anuv Jain"
+        "name": "Hozier"
     },
-    "datePublished": "2023-11-30T14:40:50-05:00",
-    "dateModified": "2024-01-04T07:27:44-05:00",
-    "commentCount": 3,
-    "musicalKey": "C"
+    "datePublished": "2013-11-27T19:00:01-05:00",
+    "dateModified": "2019-12-19T10:02:37-05:00",
+    "commentCount": 70,
+    "musicalKey": "Em"
 }

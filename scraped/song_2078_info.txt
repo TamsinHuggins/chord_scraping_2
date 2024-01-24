@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chicago/if-you-leave-me-now-chords-151311",
+    "name": "Chicago - If You Leave Me Now (chords)",
+    "text": "Difficulty: intermediate Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chicago"
+    },
+    "datePublished": "2004-12-12T19:00:00-05:00",
+    "dateModified": "2018-09-24T13:08:22-04:00",
+    "commentCount": 19
+}

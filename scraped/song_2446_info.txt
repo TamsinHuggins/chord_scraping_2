@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-rea/the-road-to-hell-chords-81802",
+    "name": "Chris Rea - The Road To Hell (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Rea"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2018-03-21T11:42:08-04:00",
+    "commentCount": 15,
+    "musicalKey": "Am"
+}

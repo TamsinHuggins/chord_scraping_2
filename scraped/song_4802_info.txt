@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-chords-545073",
+    "name": "Bill Withers - Aint No Sunshine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bill Withers"
+    },
+    "datePublished": "2007-07-06T20:00:01-04:00",
+    "dateModified": "2017-07-18T14:58:12-04:00",
+    "commentCount": 16,
+    "musicalKey": "Am"
+}

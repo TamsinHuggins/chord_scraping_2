@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gracie-abrams/21-chords-3000926",
+    "name": "Gracie Abrams - 21 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gracie Abrams"
+    },
+    "datePublished": "2020-02-21T16:39:34-05:00",
+    "dateModified": "2020-03-25T23:02:50-04:00",
+    "commentCount": 7
+}

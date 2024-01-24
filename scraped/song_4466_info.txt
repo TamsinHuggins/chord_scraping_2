@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laura-story/blessings-chords-1050061",
+    "name": "Laura Story - Blessings (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Laura Story"
+    },
+    "datePublished": "2011-04-28T20:00:01-04:00",
+    "dateModified": "2018-03-30T19:41:52-04:00",
+    "commentCount": 11
+}

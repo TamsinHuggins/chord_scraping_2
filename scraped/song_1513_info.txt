@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rainbow-kitten-surprise/its-called-freefall-chords-2393311",
+    "name": "Rainbow Kitten Surprise - Its Called Freefall (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rainbow Kitten Surprise"
+    },
+    "datePublished": "2018-05-26T16:52:47-04:00",
+    "dateModified": "2019-03-14T04:09:57-04:00",
+    "commentCount": 11,
+    "musicalKey": "D"
+}

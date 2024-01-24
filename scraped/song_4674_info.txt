@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/steve-lacy/bad-habit-chords-4253098",
+    "name": "Steve Lacy - Bad Habit (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Steve Lacy"
+    },
+    "datePublished": "2022-06-30T13:32:51-04:00",
+    "dateModified": "2022-07-21T17:40:52-04:00",
+    "commentCount": 2,
+    "musicalKey": "Eb"
+}

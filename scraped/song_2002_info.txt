@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gipsy-kings/bamboleo-chords-709027",
+    "name": "Gipsy Kings - Bamboleo (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Gipsy Kings"
+    },
+    "datePublished": "2008-07-24T20:00:01-04:00",
+    "dateModified": "2018-07-11T12:14:35-04:00",
+    "commentCount": 7
+}

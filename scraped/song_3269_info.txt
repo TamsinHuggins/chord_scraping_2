@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lizzy-mcalpine/hate-to-be-lame-chords-4141453",
+    "name": "Lizzy Mcalpine - Hate To Be Lame (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Lizzy McAlpine"
+    },
+    "datePublished": "2022-04-06T05:23:43-04:00",
+    "dateModified": "2022-04-13T15:23:06-04:00",
+    "commentCount": 4
+}

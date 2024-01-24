@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ariana-grande/one-last-time-chords-1518019",
+    "name": "Ariana Grande - One Last Time (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Ariana Grande"
+    },
+    "datePublished": "2014-09-09T05:25:08-04:00",
+    "dateModified": "2016-05-14T11:27:43-04:00",
+    "commentCount": 14
+}

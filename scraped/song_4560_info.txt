@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lorde/supercut-chords-2045947",
+    "name": "Lorde - Supercut (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lorde"
+    },
+    "datePublished": "2017-06-15T01:28:55-04:00",
+    "dateModified": "2018-03-02T23:49:05-05:00",
+    "commentCount": 4
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-avett-brothers/no-hard-feelings-chords-1856008",
+    "name": "The Avett Brothers - No Hard Feelings (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "The Avett Brothers"
+    },
+    "datePublished": "2016-06-25T07:45:42-04:00",
+    "dateModified": "2016-06-28T02:21:25-04:00",
+    "commentCount": 25
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/khamoshiyan-title-song-chords-1699171",
+    "name": "Misc Soundtrack - Khamoshiyan Title Song (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2015-01-14T04:10:50-05:00",
+    "dateModified": "2022-04-28T15:37:02-04:00",
+    "commentCount": 27,
+    "musicalKey": "Dm"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sia/chandelier-chords-1476462",
+    "name": "Sia - Chandelier (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Sia"
+    },
+    "datePublished": "2014-04-18T04:19:43-04:00",
+    "dateModified": "2021-02-22T06:53:31-05:00",
+    "commentCount": 105,
+    "musicalKey": "F"
+}

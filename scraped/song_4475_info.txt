@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/keith-green/oh-lord-youre-beautiful-chords-420580",
+    "name": "Keith Green - Oh Lord Youre Beautiful (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Keith Green"
+    },
+    "datePublished": "2006-10-05T20:00:01-04:00",
+    "dateModified": "2016-08-01T09:22:34-04:00",
+    "commentCount": 2
+}

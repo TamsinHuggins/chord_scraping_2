@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/i-surrender-all-chords-711010",
+    "name": "Misc Praise Songs - I Surrender All (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Praise Songs"
+    },
+    "datePublished": "2008-07-28T20:00:01-04:00",
+    "dateModified": "2017-05-14T20:12:30-04:00",
+    "commentCount": 8
+}

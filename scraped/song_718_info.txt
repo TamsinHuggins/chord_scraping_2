@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/patrick-watson/je-te-laisserai-des-mots-chords-1820643",
+    "name": "Patrick Watson - Je Te Laisserai Des Mots (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Patrick Watson"
+    },
+    "datePublished": "2016-03-03T09:00:12-05:00",
+    "dateModified": "2021-02-08T14:03:12-05:00",
+    "commentCount": 21
+}

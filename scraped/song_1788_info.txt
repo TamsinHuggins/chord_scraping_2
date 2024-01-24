@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cranberries/ode-to-my-family-chords-630420",
+    "name": "The Cranberries - Ode To My Family (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cranberries"
+    },
+    "datePublished": "2008-01-23T19:00:01-05:00",
+    "dateModified": "2022-06-07T14:54:36-04:00",
+    "commentCount": 36,
+    "musicalKey": "D"
+}

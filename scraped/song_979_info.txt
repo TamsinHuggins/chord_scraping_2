@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kate-bush/running-up-that-hill-chords-1520628",
+    "name": "Kate Bush - Running Up That Hill (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Cm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Kate Bush"
+    },
+    "datePublished": "2014-09-15T08:27:34-04:00",
+    "dateModified": "2023-07-30T08:37:50-04:00",
+    "commentCount": 40,
+    "musicalKey": "Cm"
+}

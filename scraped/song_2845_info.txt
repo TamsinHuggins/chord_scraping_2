@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frank-sinatra/somethin-stupid-chords-586556",
+    "name": "Frank Sinatra - Somethin Stupid (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Frank Sinatra"
+    },
+    "datePublished": "2007-10-07T20:00:01-04:00",
+    "dateModified": "2019-12-06T09:12:53-05:00",
+    "commentCount": 11,
+    "musicalKey": "E"
+}

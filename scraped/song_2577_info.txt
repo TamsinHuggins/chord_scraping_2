@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-petty/wildflowers-chords-1091924",
+    "name": "Tom Petty - Wildflowers (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Petty"
+    },
+    "datePublished": "2011-09-11T20:00:01-04:00",
+    "dateModified": "2022-10-07T20:10:10-04:00",
+    "commentCount": 30,
+    "musicalKey": "Bb"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-musicals/mean-girls-someone-gets-hurt-chords-2393377",
+    "name": "Misc Musicals - Mean Girls - Someone Gets Hurt (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Musicals"
+    },
+    "datePublished": "2018-05-26T21:58:04-04:00",
+    "dateModified": "2023-03-11T10:22:33-05:00",
+    "commentCount": 2,
+    "musicalKey": "Bm"
+}

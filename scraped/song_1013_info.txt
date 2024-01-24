@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dolly-parton/9-to-5-chords-1451141",
+    "name": "Dolly Parton - 9 To 5 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Dolly Parton"
+    },
+    "datePublished": "2013-12-28T19:00:01-05:00",
+    "dateModified": "2020-11-23T12:20:07-05:00",
+    "commentCount": 6
+}

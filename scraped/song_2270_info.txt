@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruno-mars/treasure-chords-1231955",
+    "name": "Bruno Mars - Treasure (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruno Mars"
+    },
+    "datePublished": "2013-03-24T20:00:01-04:00",
+    "dateModified": "2017-01-31T09:32:15-05:00",
+    "commentCount": 7
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jacob-collier/little-blue-chords-4962961",
+    "name": "Jacob Collier - Little Blue (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jacob Collier"
+    },
+    "datePublished": "2023-09-22T05:06:02-04:00",
+    "dateModified": "2023-09-22T11:54:51-04:00",
+    "commentCount": 0
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eagles/seven-bridges-road-chords-941885",
+    "name": "Eagles - Seven Bridges Road (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eagles"
+    },
+    "datePublished": "2010-04-18T20:00:01-04:00",
+    "dateModified": "2016-05-13T12:10:30-04:00",
+    "commentCount": 19
+}

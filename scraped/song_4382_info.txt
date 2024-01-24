@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/yasas-medagedara/sansarini-chords-3160043",
+    "name": "Yasas Medagedara - Sansarini (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Yasas Medagedara"
+    },
+    "datePublished": "2020-05-21T00:27:44-04:00",
+    "dateModified": "2020-05-22T04:42:22-04:00",
+    "commentCount": 0,
+    "musicalKey": "G"
+}

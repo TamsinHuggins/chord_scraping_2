@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sierra-ferrell/in-dreams-chords-2334849",
+    "name": "Sierra Ferrell - In Dreams (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sierra Ferrell"
+    },
+    "datePublished": "2018-03-08T07:15:42-05:00",
+    "dateModified": "2021-11-06T10:06:40-04:00",
+    "commentCount": 12,
+    "musicalKey": "D"
+}

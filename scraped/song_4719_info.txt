@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sheryl-crow/real-gone-chords-390573",
+    "name": "Sheryl Crow - Real Gone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sheryl Crow"
+    },
+    "datePublished": "2006-07-18T20:00:01-04:00",
+    "dateModified": "2023-11-14T23:24:43-05:00",
+    "commentCount": 6
+}

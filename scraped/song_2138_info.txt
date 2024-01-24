@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruce-springsteen/born-in-the-usa-chords-148158",
+    "name": "Bruce Springsteen - Born In The Usa (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruce Springsteen"
+    },
+    "datePublished": "2004-11-25T19:00:00-05:00",
+    "dateModified": "2022-06-17T22:50:54-04:00",
+    "commentCount": 14
+}

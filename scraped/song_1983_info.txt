@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tame-impala/the-less-i-know-the-better-chords-1752782",
+    "name": "Tame Impala - The Less I Know The Better (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tame Impala"
+    },
+    "datePublished": "2015-07-18T05:06:00-04:00",
+    "dateModified": "2020-04-14T09:08:09-04:00",
+    "commentCount": 13,
+    "musicalKey": "C#m"
+}

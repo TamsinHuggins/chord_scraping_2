@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/van-morrison/crazy-love-chords-1044129",
+    "name": "Van Morrison - Crazy Love (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Van Morrison"
+    },
+    "datePublished": "2011-04-06T20:00:01-04:00",
+    "dateModified": "2022-02-18T20:03:40-05:00",
+    "commentCount": 15
+}

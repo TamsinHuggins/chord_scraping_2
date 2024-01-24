@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-strokes/the-adults-are-talking-chords-2706657",
+    "name": "The Strokes - The Adults Are Talking (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Strokes"
+    },
+    "datePublished": "2019-05-26T15:20:46-04:00",
+    "dateModified": "2023-06-01T14:26:55-04:00",
+    "commentCount": 28,
+    "musicalKey": "F"
+}

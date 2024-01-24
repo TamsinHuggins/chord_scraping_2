@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/benben/sa-susunod-na-habang-buhay-chords-2984603",
+    "name": "Ben&Ben - Sa Susunod Na Habang Buhay (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ben&amp;Ben"
+    },
+    "datePublished": "2020-02-08T03:44:22-05:00",
+    "dateModified": "2021-06-24T16:32:45-04:00",
+    "commentCount": 4,
+    "musicalKey": "D"
+}

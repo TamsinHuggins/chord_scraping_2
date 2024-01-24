@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jarabe-de-palo/la-flaca-chords-1405514",
+    "name": "Jarabe De Palo - La Flaca (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jarabe de Palo"
+    },
+    "datePublished": "2013-07-24T20:00:01-04:00",
+    "dateModified": "2016-07-02T07:30:48-04:00",
+    "commentCount": 8
+}

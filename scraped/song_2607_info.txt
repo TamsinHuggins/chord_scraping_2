@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bobby-darin/beyond-the-sea-chords-66751",
+    "name": "Bobby Darin - Beyond The Sea (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bobby Darin"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-09-22T10:11:38-04:00",
+    "commentCount": 29,
+    "musicalKey": "G"
+}

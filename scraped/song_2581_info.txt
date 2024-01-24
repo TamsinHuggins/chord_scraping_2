@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mac-demarco/freaking-out-the-neighborhood-chords-1727305",
+    "name": "Mac Demarco - Freaking Out The Neighborhood (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mac DeMarco"
+    },
+    "datePublished": "2015-04-04T21:01:13-04:00",
+    "dateModified": "2021-01-22T09:48:39-05:00",
+    "commentCount": 8
+}

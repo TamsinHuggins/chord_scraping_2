@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/caamp/so-long-honey-chords-2045889",
+    "name": "Caamp - So Long Honey (chords)",
+    "text": "Difficulty: intermediate Tuning: Eb Ab Db Gb Bb Eb Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Caamp"
+    },
+    "datePublished": "2017-06-15T03:43:41-04:00",
+    "dateModified": "2020-07-21T21:33:59-04:00",
+    "commentCount": 10
+}

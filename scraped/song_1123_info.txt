@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-clash/should-i-stay-or-should-i-go-chords-1412096",
+    "name": "The Clash - Should I Stay Or Should I Go (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Clash"
+    },
+    "datePublished": "2013-08-15T20:00:01-04:00",
+    "dateModified": "2023-12-27T13:09:12-05:00",
+    "commentCount": 32,
+    "musicalKey": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/weezer/buddy-holly-chords-967382",
+    "name": "Weezer - Buddy Holly (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: Fm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Weezer"
+    },
+    "datePublished": "2010-07-15T20:00:01-04:00",
+    "dateModified": "2019-12-04T01:51:23-05:00",
+    "commentCount": 15,
+    "musicalKey": "Fm"
+}

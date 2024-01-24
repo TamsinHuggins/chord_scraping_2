@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lovejoy/normal-people-things-chords-4978987",
+    "name": "Lovejoy - Normal People Things (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lovejoy"
+    },
+    "datePublished": "2023-10-05T10:31:18-04:00",
+    "dateModified": "2023-10-13T06:29:21-04:00",
+    "commentCount": 9
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cory-asbury/reckless-love-chords-1993841",
+    "name": "Cory Asbury - Reckless Love (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cory Asbury"
+    },
+    "datePublished": "2017-05-11T04:32:26-04:00",
+    "dateModified": "2018-10-07T08:01:35-04:00",
+    "commentCount": 124,
+    "musicalKey": "Em"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/conan-gray/family-line-chords-4244227",
+    "name": "Conan Gray - Family Line (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F# Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Conan Gray"
+    },
+    "datePublished": "2022-06-23T09:35:16-04:00",
+    "dateModified": "2022-06-23T13:47:45-04:00",
+    "commentCount": 2,
+    "musicalKey": "F#"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dixie-chicks/wide-open-spaces-chords-1801771",
+    "name": "Dixie Chicks - Wide Open Spaces (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Dixie Chicks"
+    },
+    "datePublished": "2016-01-11T20:55:42-05:00",
+    "dateModified": "2020-02-07T13:01:39-05:00",
+    "commentCount": 16,
+    "musicalKey": "E"
+}

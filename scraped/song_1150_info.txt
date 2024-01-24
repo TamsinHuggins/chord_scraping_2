@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stone-temple-pilots/creep-chords-44309",
+    "name": "Stone Temple Pilots - Creep (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stone Temple Pilots"
+    },
+    "datePublished": "2003-01-26T19:00:00-05:00",
+    "dateModified": "2018-11-08T23:46:02-05:00",
+    "commentCount": 66
+}

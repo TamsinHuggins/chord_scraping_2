@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rex-orange-county/sunflower-chords-2222785",
+    "name": "Rex Orange County - Sunflower (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rex Orange County"
+    },
+    "datePublished": "2017-11-01T00:34:29-04:00",
+    "dateModified": "2019-10-23T11:11:35-04:00",
+    "commentCount": 22,
+    "musicalKey": "F"
+}

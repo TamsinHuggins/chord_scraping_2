@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/encanto-we-dont-talk-about-bruno-chords-3956839",
+    "name": "Misc Cartoons - Encanto - We Dont Talk About Bruno (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Cm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2021-11-20T06:41:46-05:00",
+    "dateModified": "2022-01-06T03:48:17-05:00",
+    "commentCount": 32,
+    "musicalKey": "Cm"
+}

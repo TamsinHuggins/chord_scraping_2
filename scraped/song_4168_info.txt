@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/will-wood/against-the-kitchen-floor-chords-4290155",
+    "name": "Will Wood - Against The Kitchen Floor (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Will Wood"
+    },
+    "datePublished": "2022-07-29T05:10:37-04:00",
+    "dateModified": "2023-01-11T18:02:16-05:00",
+    "commentCount": 4,
+    "musicalKey": "G"
+}

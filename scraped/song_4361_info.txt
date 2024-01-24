@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/i-belong-to-the-zoo/sana-chords-2405013",
+    "name": "I Belong To The Zoo - Sana (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "I Belong to the Zoo"
+    },
+    "datePublished": "2018-06-16T02:53:51-04:00",
+    "dateModified": "2018-10-19T09:41:58-04:00",
+    "commentCount": 5,
+    "musicalKey": "C"
+}

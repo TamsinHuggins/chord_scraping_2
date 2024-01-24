@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/you-belong-with-me-chords-752550",
+    "name": "Taylor Swift - You Belong With Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F# Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2008-11-06T19:00:01-05:00",
+    "dateModified": "2018-12-20T11:33:40-05:00",
+    "commentCount": 163,
+    "musicalKey": "F#"
+}

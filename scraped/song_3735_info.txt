@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gang-of-youths/achilles-come-down-chords-3267158",
+    "name": "Gang Of Youths - Achilles Come Down (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Gang Of Youths"
+    },
+    "datePublished": "2020-07-27T17:29:48-04:00",
+    "dateModified": "2020-07-28T10:47:46-04:00",
+    "commentCount": 29,
+    "musicalKey": "Eb"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lewis-capaldi/wish-you-the-best-chords-4663124",
+    "name": "Lewis Capaldi - Wish You The Best (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Lewis Capaldi"
+    },
+    "datePublished": "2023-02-26T07:26:19-05:00",
+    "dateModified": "2023-06-28T19:18:59-04:00",
+    "commentCount": 5,
+    "musicalKey": "D"
+}

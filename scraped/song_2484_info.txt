@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rihanna/california-king-bed-chords-1057199",
+    "name": "Rihanna - California King Bed (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rihanna"
+    },
+    "datePublished": "2011-05-17T20:00:01-04:00",
+    "dateModified": "2022-11-22T15:03:49-05:00",
+    "commentCount": 4,
+    "musicalKey": "G"
+}

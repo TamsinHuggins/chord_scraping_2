@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/bhediya-apna-bana-le-chords-4427303",
+    "name": "Misc Soundtrack - Bhediya - Apna Bana Le (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2022-11-17T01:57:06-05:00",
+    "dateModified": "2023-05-06T14:11:57-04:00",
+    "commentCount": 7,
+    "musicalKey": "F#m"
+}

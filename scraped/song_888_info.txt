@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/dumb-chords-907179",
+    "name": "Nirvana - Dumb (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2010-01-03T19:00:01-05:00",
+    "dateModified": "2021-09-23T21:02:08-04:00",
+    "commentCount": 28
+}

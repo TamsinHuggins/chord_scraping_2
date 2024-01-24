@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/old-man-chords-1693691",
+    "name": "Neil Young - Old Man (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2014-12-25T11:22:03-05:00",
+    "dateModified": "2018-03-17T14:59:24-04:00",
+    "commentCount": 29,
+    "musicalKey": "D"
+}

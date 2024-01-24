@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/tangled-when-will-my-life-begin-chords-1054436",
+    "name": "Misc Cartoons - Tangled - When Will My Life Begin (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2011-05-05T20:00:01-04:00",
+    "dateModified": "2023-05-10T10:20:49-04:00",
+    "commentCount": 31
+}

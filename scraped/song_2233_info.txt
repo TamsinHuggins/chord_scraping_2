@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/waxahatchee/right-back-to-it-chords-5098726",
+    "name": "Waxahatchee - Right Back To It (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F# Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Waxahatchee"
+    },
+    "datePublished": "2024-01-09T23:01:13-05:00",
+    "dateModified": "2024-01-16T20:37:11-05:00",
+    "commentCount": 4,
+    "musicalKey": "F#"
+}

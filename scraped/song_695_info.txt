@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-barber/straight-and-narrow-chords-4456538",
+    "name": "Sam Barber - Straight And Narrow (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Barber"
+    },
+    "datePublished": "2022-12-10T19:54:11-05:00",
+    "dateModified": "2022-12-24T09:04:23-05:00",
+    "commentCount": 7
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-waits/hold-on-chords-685832",
+    "name": "Tom Waits - Hold On (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Waits"
+    },
+    "datePublished": "2008-06-05T20:00:01-04:00",
+    "dateModified": "2018-10-23T10:22:59-04:00",
+    "commentCount": 15
+}

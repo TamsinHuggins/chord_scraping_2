@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/morgan-wallen/more-than-my-hometown-chords-2712993",
+    "name": "Morgan Wallen - More Than My Hometown (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: F# Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Morgan Wallen"
+    },
+    "datePublished": "2019-06-02T08:18:44-04:00",
+    "dateModified": "2021-03-07T01:14:35-05:00",
+    "commentCount": 23,
+    "musicalKey": "F#"
+}

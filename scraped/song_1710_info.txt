@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/ivy-chords-3462380",
+    "name": "Taylor Swift - Ivy (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-12-11T10:19:15-05:00",
+    "dateModified": "2020-12-16T04:00:42-05:00",
+    "commentCount": 7,
+    "musicalKey": "D"
+}

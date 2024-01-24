@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lykke-li/i-follow-rivers-chords-1025308",
+    "name": "Lykke Li - I Follow Rivers (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Lykke Li"
+    },
+    "datePublished": "2011-02-16T19:00:01-05:00",
+    "dateModified": "2018-08-20T19:57:29-04:00",
+    "commentCount": 3
+}

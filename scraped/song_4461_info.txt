@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-young-free/sinking-deep-chords-1405951",
+    "name": "Hillsong Young & Free - Sinking Deep (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Young &amp; Free"
+    },
+    "datePublished": "2013-07-24T20:00:01-04:00",
+    "dateModified": "2021-05-28T20:08:50-04:00",
+    "commentCount": 18
+}

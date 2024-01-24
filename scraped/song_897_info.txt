@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/norah-jones/sunrise-chords-529990",
+    "name": "Norah Jones - Sunrise (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Norah Jones"
+    },
+    "datePublished": "2007-06-07T20:00:01-04:00",
+    "dateModified": "2020-06-27T02:43:48-04:00",
+    "commentCount": 14,
+    "musicalKey": "Eb"
+}

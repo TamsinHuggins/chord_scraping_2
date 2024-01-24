@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-animals/house-of-the-rising-sun-chords-763620",
+    "name": "The Animals - House Of The Rising Sun (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Animals"
+    },
+    "datePublished": "2008-12-04T19:00:01-05:00",
+    "dateModified": "2017-07-18T14:16:14-04:00",
+    "commentCount": 120,
+    "musicalKey": "Am"
+}

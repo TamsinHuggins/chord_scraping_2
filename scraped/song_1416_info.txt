@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-police/roxanne-chords-953512",
+    "name": "The Police - Roxanne (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Police"
+    },
+    "datePublished": "2010-05-27T20:00:01-04:00",
+    "dateModified": "2023-05-24T14:54:01-04:00",
+    "commentCount": 23,
+    "musicalKey": "Gm"
+}

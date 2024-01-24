@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/to-someone-from-a-warm-climate-uiscefhuaraithe-chords-4920892",
+    "name": "Hozier - To Someone From A Warm Climate Uiscefhuaraithe (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hozier"
+    },
+    "datePublished": "2023-08-18T16:17:03-04:00",
+    "dateModified": "2023-08-18T21:01:56-04:00",
+    "commentCount": 1,
+    "musicalKey": "Db"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/foo-fighters/best-of-you-chords-188224",
+    "name": "Foo Fighters - Best Of You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Foo Fighters"
+    },
+    "datePublished": "2005-05-31T20:00:00-04:00",
+    "dateModified": "2021-02-02T14:13:46-05:00",
+    "commentCount": 43,
+    "musicalKey": "C#m"
+}

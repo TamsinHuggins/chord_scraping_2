@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eagles/take-it-to-the-limit-chords-136452",
+    "name": "Eagles - Take It To The Limit (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Eagles"
+    },
+    "datePublished": "2004-09-09T20:00:00-04:00",
+    "dateModified": "2023-07-30T11:33:52-04:00",
+    "commentCount": 30,
+    "musicalKey": "B"
+}

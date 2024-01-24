@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/crazier-chords-801150",
+    "name": "Taylor Swift - Crazier (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2009-03-11T20:00:01-04:00",
+    "dateModified": "2021-06-08T18:46:52-04:00",
+    "commentCount": 37,
+    "musicalKey": "E"
+}

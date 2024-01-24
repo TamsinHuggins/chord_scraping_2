@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/all-apologies-chords-77616",
+    "name": "Nirvana - All Apologies (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C# Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-12-05T01:13:55-05:00",
+    "commentCount": 40,
+    "musicalKey": "C#"
+}

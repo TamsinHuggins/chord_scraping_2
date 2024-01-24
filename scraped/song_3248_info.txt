@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sajjan-raj-vaidya/hataarindai-bataasindai-chords-2563341",
+    "name": "Sajjan Raj Vaidya - Hataarindai Bataasindai (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Sajjan Raj Vaidya"
+    },
+    "datePublished": "2019-01-03T13:22:25-05:00",
+    "dateModified": "2019-01-10T16:15:37-05:00",
+    "commentCount": 3,
+    "musicalKey": "A"
+}

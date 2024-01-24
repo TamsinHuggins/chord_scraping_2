@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/le-sserafim/perfect-night-chords-5008090",
+    "name": "Le Sserafim - Perfect Night (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "LE SSERAFIM"
+    },
+    "datePublished": "2023-10-29T05:29:32-04:00",
+    "dateModified": "2024-01-22T23:48:45-05:00",
+    "commentCount": 0,
+    "musicalKey": "F"
+}

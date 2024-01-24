@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kenny-loggins/footloose-chords-697886",
+    "name": "Kenny Loggins - Footloose (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kenny Loggins"
+    },
+    "datePublished": "2008-07-01T20:00:01-04:00",
+    "dateModified": "2022-10-16T06:34:29-04:00",
+    "commentCount": 7
+}

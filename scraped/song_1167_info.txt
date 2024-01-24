@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/secondhand-serenade/fall-for-you-chords-630290",
+    "name": "Secondhand Serenade - Fall For You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Secondhand Serenade"
+    },
+    "datePublished": "2008-01-23T19:00:01-05:00",
+    "dateModified": "2019-10-12T23:18:53-04:00",
+    "commentCount": 96,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/the-parting-glass-chords-1449222",
+    "name": "Ed Sheeran - The Parting Glass (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2013-12-24T19:00:01-05:00",
+    "dateModified": "2016-04-19T09:00:34-04:00",
+    "commentCount": 9
+}

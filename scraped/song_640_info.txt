@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kaleo/way-down-we-go-chords-1779177",
+    "name": "Kaleo - Way Down We Go (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Kaleo"
+    },
+    "datePublished": "2015-11-11T17:27:44-05:00",
+    "dateModified": "2021-09-23T16:58:47-04:00",
+    "commentCount": 42,
+    "musicalKey": "Am"
+}

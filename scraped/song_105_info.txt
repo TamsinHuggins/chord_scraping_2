@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-marley/redemption-song-chords-417640",
+    "name": "Bob Marley - Redemption Song (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Marley"
+    },
+    "datePublished": "2006-09-27T20:00:01-04:00",
+    "dateModified": "2018-05-03T14:12:51-04:00",
+    "commentCount": 75,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/dancing-with-our-hands-tied-chords-2551653",
+    "name": "Taylor Swift - Dancing With Our Hands Tied (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2018-12-21T17:09:17-05:00",
+    "dateModified": "2020-12-20T07:01:28-05:00",
+    "commentCount": 11,
+    "musicalKey": "F"
+}

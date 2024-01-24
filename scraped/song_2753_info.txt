@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/punisher-chords-3207635",
+    "name": "Phoebe Bridgers - Punisher (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Phoebe Bridgers"
+    },
+    "datePublished": "2020-06-18T20:51:08-04:00",
+    "dateModified": "2020-06-21T03:30:04-04:00",
+    "commentCount": 7
+}

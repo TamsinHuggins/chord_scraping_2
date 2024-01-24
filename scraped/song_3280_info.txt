@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wave-to-earth/love-chords-4750850",
+    "name": "Wave To Earth - Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "wave to earth"
+    },
+    "datePublished": "2023-05-02T00:11:51-04:00",
+    "dateModified": "2023-05-02T05:58:41-04:00",
+    "commentCount": 0
+}

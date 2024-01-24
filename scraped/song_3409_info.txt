@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-pogues/the-irish-rover-chords-975948",
+    "name": "The Pogues - The Irish Rover (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Pogues"
+    },
+    "datePublished": "2010-08-08T20:00:01-04:00",
+    "dateModified": "2021-02-05T01:06:41-05:00",
+    "commentCount": 15
+}

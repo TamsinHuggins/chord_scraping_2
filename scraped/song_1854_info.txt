@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/april-come-she-will-chords-641222",
+    "name": "Simon & Garfunkel - April Come She Will (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Simon &amp; Garfunkel"
+    },
+    "datePublished": "2008-02-19T19:00:01-05:00",
+    "dateModified": "2023-12-17T06:59:24-05:00",
+    "commentCount": 29,
+    "musicalKey": "Ab"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pixies/here-comes-your-man-chords-1075125",
+    "name": "Pixies - Here Comes Your Man (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pixies"
+    },
+    "datePublished": "2011-07-14T20:00:01-04:00",
+    "dateModified": "2019-09-11T09:42:07-04:00",
+    "commentCount": 24,
+    "musicalKey": "D"
+}

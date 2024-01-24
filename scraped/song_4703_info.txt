@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-mayer/who-says-chords-884362",
+    "name": "John Mayer - Who Says (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Mayer"
+    },
+    "datePublished": "2009-10-19T20:00:01-04:00",
+    "dateModified": "2016-05-12T11:48:20-04:00",
+    "commentCount": 14
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/steve-earle/the-galway-girl-chords-195702",
+    "name": "Steve Earle - The Galway Girl (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Steve Earle"
+    },
+    "datePublished": "2005-07-04T20:00:00-04:00",
+    "dateModified": "2016-07-04T08:02:47-04:00",
+    "commentCount": 13
+}

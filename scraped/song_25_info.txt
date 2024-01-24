@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/have-you-ever-seen-the-rain-chords-56479",
-    "name": "Creedence Clearwater Revival - Have You Ever Seen The Rain (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/fleetwood-mac/landslide-chords-989772",
+    "name": "Fleetwood Mac - Landslide (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 3",
     "composer": {
         "@type": "Person",
-        "name": "Creedence Clearwater Revival"
+        "name": "Fleetwood Mac"
     },
-    "datePublished": "2003-07-20T20:00:00-04:00",
-    "dateModified": "2019-03-29T13:11:45-04:00",
-    "commentCount": 195,
-    "musicalKey": "C"
+    "datePublished": "2010-09-22T20:00:01-04:00",
+    "dateModified": "2022-04-27T00:07:01-04:00",
+    "commentCount": 41,
+    "musicalKey": "Eb"
 }

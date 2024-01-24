@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/led-zeppelin/when-the-levee-breaks-chords-1066000",
+    "name": "Led Zeppelin - When The Levee Breaks (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Led Zeppelin"
+    },
+    "datePublished": "2011-06-13T20:00:01-04:00",
+    "dateModified": "2023-08-10T18:02:50-04:00",
+    "commentCount": 8
+}

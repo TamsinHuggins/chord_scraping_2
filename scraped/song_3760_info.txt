@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dylan-conrique/birthday-cake-chords-4062091",
+    "name": "Dylan Conrique - Birthday Cake (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Dylan Conrique"
+    },
+    "datePublished": "2022-02-06T11:46:23-05:00",
+    "dateModified": "2022-02-07T15:56:26-05:00",
+    "commentCount": 1
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/def-leppard/pour-some-sugar-on-me-chords-1506911",
+    "name": "Def Leppard - Pour Some Sugar On Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Def Leppard"
+    },
+    "datePublished": "2014-08-01T06:41:53-04:00",
+    "dateModified": "2021-07-15T15:34:30-04:00",
+    "commentCount": 8,
+    "musicalKey": "C#m"
+}

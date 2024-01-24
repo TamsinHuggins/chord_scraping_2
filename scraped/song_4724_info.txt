@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/henry-valentino/im-wagen-vor-mir-chords-1491105",
+    "name": "Henry Valentino - Im Wagen Vor Mir (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Henry Valentino"
+    },
+    "datePublished": "2014-06-09T04:37:13-04:00",
+    "dateModified": "2017-12-08T18:16:20-05:00",
+    "commentCount": 6
+}

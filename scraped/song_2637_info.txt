@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/flora-cash/youre-somebody-else-chords-2100901",
+    "name": "Flora Cash - Youre Somebody Else (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Flora Cash"
+    },
+    "datePublished": "2017-08-07T05:11:13-04:00",
+    "dateModified": "2020-08-21T12:19:57-04:00",
+    "commentCount": 17,
+    "musicalKey": "Bbm"
+}

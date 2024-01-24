@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kim-larsen/joanna-chords-350373",
+    "name": "Kim Larsen - Joanna (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Kim Larsen"
+    },
+    "datePublished": "2006-04-04T20:00:01-04:00",
+    "dateModified": "2022-06-16T14:24:27-04:00",
+    "commentCount": 4
+}

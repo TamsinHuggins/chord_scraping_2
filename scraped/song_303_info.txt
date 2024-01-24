@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/revival-chords-2907779",
+    "name": "Zach Bryan - Revival (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2019-11-28T02:30:23-05:00",
+    "dateModified": "2021-01-07T11:08:29-05:00",
+    "commentCount": 4
+}

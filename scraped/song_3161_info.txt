@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ozzy-osbourne/dreamer-chords-45164",
+    "name": "Ozzy Osbourne - Dreamer (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Ozzy Osbourne"
+    },
+    "datePublished": "2003-02-09T19:00:00-05:00",
+    "dateModified": "2021-06-21T06:00:07-04:00",
+    "commentCount": 24
+}

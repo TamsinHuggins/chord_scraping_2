@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cat-stevens-yusuf-islam/the-wind-chords-1493145",
+    "name": "Cat Stevens (Yusuf Islam) - The Wind (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cat Stevens (Yusuf Islam)"
+    },
+    "datePublished": "2014-06-14T07:44:03-04:00",
+    "dateModified": "2023-12-14T18:10:42-05:00",
+    "commentCount": 11,
+    "musicalKey": "D"
+}

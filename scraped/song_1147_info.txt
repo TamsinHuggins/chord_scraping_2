@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/parokya-ni-edgar/harana-chords-79821",
+    "name": "Parokya Ni Edgar - Harana (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Parokya ni Edgar"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2022-03-06T07:09:59-05:00",
+    "commentCount": 35,
+    "musicalKey": "G"
+}

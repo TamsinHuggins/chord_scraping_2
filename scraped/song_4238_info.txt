@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gregory-alan-isakov/if-i-go-im-going-chords-1125571",
+    "name": "Gregory Alan Isakov - If I Go Im Going (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Gregory Alan Isakov"
+    },
+    "datePublished": "2012-01-25T19:00:01-05:00",
+    "dateModified": "2024-01-17T17:57:09-05:00",
+    "commentCount": 16
+}

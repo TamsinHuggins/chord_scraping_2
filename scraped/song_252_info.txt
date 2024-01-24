@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gotye/somebody-that-i-used-to-know-chords-1094597",
+    "name": "Gotye - Somebody That I Used To Know (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Gotye"
+    },
+    "datePublished": "2011-09-20T20:00:01-04:00",
+    "dateModified": "2023-05-12T15:34:42-04:00",
+    "commentCount": 74,
+    "musicalKey": "Dm"
+}

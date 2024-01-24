@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rainbow/the-temple-of-the-king-chords-1777186",
+    "name": "Rainbow - The Temple Of The King (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rainbow"
+    },
+    "datePublished": "2015-10-29T03:15:53-04:00",
+    "dateModified": "2023-11-16T16:09:40-05:00",
+    "commentCount": 12,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/indigo-girls/closer-to-fine-chords-534175",
+    "name": "Indigo Girls - Closer To Fine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Indigo Girls"
+    },
+    "datePublished": "2007-06-21T20:00:01-04:00",
+    "dateModified": "2023-01-18T14:00:04-05:00",
+    "commentCount": 16,
+    "musicalKey": "A"
+}

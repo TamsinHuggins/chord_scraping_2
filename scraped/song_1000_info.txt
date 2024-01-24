@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bronson-diamond/stay-in-your-lane-chords-5011798",
+    "name": "Bronson Diamond - Stay In Your Lane (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bronson Diamond"
+    },
+    "datePublished": "2023-10-31T18:03:49-04:00",
+    "dateModified": "2023-11-01T10:51:31-04:00",
+    "commentCount": 0,
+    "musicalKey": "B"
+}

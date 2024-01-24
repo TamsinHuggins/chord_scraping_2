@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/charity-gayle/endless-praise-chords-3852608",
+    "name": "Charity Gayle - Endless Praise (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Charity Gayle"
+    },
+    "datePublished": "2021-08-28T23:11:01-04:00",
+    "dateModified": "2021-08-29T12:06:26-04:00",
+    "commentCount": 8,
+    "musicalKey": "C"
+}

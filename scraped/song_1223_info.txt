@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rembrandts/ill-be-there-for-you-chords-150573",
+    "name": "The Rembrandts - Ill Be There For You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rembrandts"
+    },
+    "datePublished": "2004-12-07T19:00:00-05:00",
+    "dateModified": "2021-05-28T16:10:04-04:00",
+    "commentCount": 14,
+    "musicalKey": "A"
+}

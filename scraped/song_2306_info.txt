@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/new-years-day-chords-2230887",
+    "name": "Taylor Swift - New Years Day (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2017-11-09T14:34:54-05:00",
+    "dateModified": "2020-03-20T08:04:27-04:00",
+    "commentCount": 30,
+    "musicalKey": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-chamling-rai/hawa-jastai-chords-4873688",
+    "name": "John Chamling Rai - Hawa Jastai (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C#m Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "John Chamling Rai"
+    },
+    "datePublished": "2023-07-14T03:20:12-04:00",
+    "dateModified": "2023-07-15T09:53:18-04:00",
+    "commentCount": 0,
+    "musicalKey": "C#m"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/keane/everybodys-changing-chords-111685",
+    "name": "Keane - Everybodys Changing (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Keane"
+    },
+    "datePublished": "2004-04-05T20:00:00-04:00",
+    "dateModified": "2018-06-16T10:03:45-04:00",
+    "commentCount": 15
+}

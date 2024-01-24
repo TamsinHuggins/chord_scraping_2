@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/faye-webster/i-know-you-chords-2449277",
+    "name": "Faye Webster - I Know You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Faye Webster"
+    },
+    "datePublished": "2018-08-14T03:06:54-04:00",
+    "dateModified": "2018-08-17T01:05:07-04:00",
+    "commentCount": 5
+}

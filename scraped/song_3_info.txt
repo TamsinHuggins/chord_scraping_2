@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/creep-chords-4169",
-    "name": "Radiohead - Creep (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/lord-huron/the-night-we-met-chords-1709964",
+    "name": "Lord Huron - The Night We Met (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F#m Capo: 2",
     "composer": {
         "@type": "Person",
-        "name": "Radiohead"
+        "name": "Lord Huron"
     },
-    "datePublished": "2001-10-30T19:00:00-05:00",
-    "dateModified": "2020-02-27T13:20:55-05:00",
-    "commentCount": 248,
-    "musicalKey": "G"
+    "datePublished": "2015-02-10T05:20:43-05:00",
+    "dateModified": "2020-07-24T20:47:45-04:00",
+    "commentCount": 102,
+    "musicalKey": "F#m"
 }

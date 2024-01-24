@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rihanna/love-the-way-you-lie-part-2-chords-1060268",
+    "name": "Rihanna - Love The Way You Lie Part 2 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Rihanna"
+    },
+    "datePublished": "2011-05-25T20:00:01-04:00",
+    "dateModified": "2021-02-16T15:36:53-05:00",
+    "commentCount": 10,
+    "musicalKey": "Gm"
+}

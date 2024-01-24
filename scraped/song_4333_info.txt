@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/agnes-obel/riverside-chords-1028711",
+    "name": "Agnes Obel - Riverside (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Agnes Obel"
+    },
+    "datePublished": "2011-02-10T19:00:01-05:00",
+    "dateModified": "2016-06-15T12:29:18-04:00",
+    "commentCount": 8
+}

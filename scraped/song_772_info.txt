@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eminem/mockingbird-chords-1722044",
+    "name": "Eminem - Mockingbird (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eminem"
+    },
+    "datePublished": "2015-03-19T07:38:09-04:00",
+    "dateModified": "2023-01-08T16:05:13-05:00",
+    "commentCount": 3,
+    "musicalKey": "Em"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/first-circle/akoy-sayo-at-ikay-akin-lamang-chords-1722333",
+    "name": "First Circle - Akoy Sayo At Ikay Akin Lamang (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "First Circle"
+    },
+    "datePublished": "2015-03-20T09:56:52-04:00",
+    "dateModified": "2020-04-03T16:46:12-04:00",
+    "commentCount": 6,
+    "musicalKey": "A"
+}

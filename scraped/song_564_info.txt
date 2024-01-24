@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zac-brown-band/colder-weather-chords-990491",
+    "name": "Zac Brown Band - Colder Weather (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Zac Brown Band"
+    },
+    "datePublished": "2010-09-23T20:00:01-04:00",
+    "dateModified": "2020-07-23T20:46:25-04:00",
+    "commentCount": 43,
+    "musicalKey": "Ab"
+}

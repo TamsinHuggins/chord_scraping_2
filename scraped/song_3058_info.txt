@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stevie-wonder/overjoyed-chords-1762740",
+    "name": "Stevie Wonder - Overjoyed (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stevie Wonder"
+    },
+    "datePublished": "2015-08-27T06:41:26-04:00",
+    "dateModified": "2021-01-20T14:36:59-05:00",
+    "commentCount": 8,
+    "musicalKey": "Eb"
+}

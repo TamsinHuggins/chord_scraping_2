@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cranberries/animal-instinct-chords-2287807",
+    "name": "The Cranberries - Animal Instinct (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cranberries"
+    },
+    "datePublished": "2018-01-17T05:41:52-05:00",
+    "dateModified": "2018-02-17T18:18:30-05:00",
+    "commentCount": 9
+}

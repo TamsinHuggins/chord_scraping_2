@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/boulevard-of-broken-dreams-chords-139524",
+    "name": "Green Day - Boulevard Of Broken Dreams (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Fm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2004-09-30T20:00:00-04:00",
+    "dateModified": "2020-01-15T21:43:11-05:00",
+    "commentCount": 71,
+    "musicalKey": "Fm"
+}

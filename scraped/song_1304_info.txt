@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/angie-chords-1092197",
+    "name": "The Rolling Stones - Angie (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2011-09-11T20:00:01-04:00",
+    "dateModified": "2023-04-18T20:44:36-04:00",
+    "commentCount": 45,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dodie/she-chords-1667466",
+    "name": "Dodie - She (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "dodie"
+    },
+    "datePublished": "2014-09-30T03:51:09-04:00",
+    "dateModified": "2017-06-22T14:27:16-04:00",
+    "commentCount": 22
+}

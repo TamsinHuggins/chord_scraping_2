@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/refiners-fire-chords-131090",
+    "name": "Misc Praise Songs - Refiners Fire (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Praise Songs"
+    },
+    "datePublished": "2004-08-09T20:00:00-04:00",
+    "dateModified": "2016-06-16T10:31:21-04:00",
+    "commentCount": 7
+}

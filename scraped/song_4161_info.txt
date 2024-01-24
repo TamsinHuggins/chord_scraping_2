@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jelly-roll-us-nashville-tn/son-of-a-sinner-chords-3909071",
+    "name": "Jelly Roll (Us, Nashville, Tn) - Son Of A Sinner (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jelly Roll (US, Nashville, TN)"
+    },
+    "datePublished": "2021-10-13T00:20:02-04:00",
+    "dateModified": "2022-06-27T16:53:34-04:00",
+    "commentCount": 3,
+    "musicalKey": "D"
+}

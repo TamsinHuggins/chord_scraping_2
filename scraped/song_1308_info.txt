@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/candle-in-the-wind-chords-1086982",
+    "name": "Elton John - Candle In The Wind (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2011-08-24T20:00:01-04:00",
+    "dateModified": "2023-11-16T22:08:02-05:00",
+    "commentCount": 24,
+    "musicalKey": "C"
+}

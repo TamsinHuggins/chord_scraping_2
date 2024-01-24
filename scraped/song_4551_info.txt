@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-doors/love-her-madly-chords-986317",
+    "name": "The Doors - Love Her Madly (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Doors"
+    },
+    "datePublished": "2010-09-08T20:00:01-04:00",
+    "dateModified": "2022-11-04T16:33:01-04:00",
+    "commentCount": 16,
+    "musicalKey": "Am"
+}

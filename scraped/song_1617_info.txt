@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shironamhin/ei-obelay-chords-2914400",
+    "name": "Shironamhin - Ei Obelay (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Shironamhin"
+    },
+    "datePublished": "2019-12-04T01:32:55-05:00",
+    "dateModified": "2022-12-16T14:16:23-05:00",
+    "commentCount": 3,
+    "musicalKey": "Dm"
+}

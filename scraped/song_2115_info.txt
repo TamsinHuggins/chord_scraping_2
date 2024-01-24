@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/apo-hiking-society/when-i-met-you-chords-206128",
+    "name": "Apo Hiking Society - When I Met You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "APO Hiking Society"
+    },
+    "datePublished": "2005-08-16T20:00:00-04:00",
+    "dateModified": "2021-04-01T15:49:36-04:00",
+    "commentCount": 6,
+    "musicalKey": "Bb"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/lodi-chords-1048967",
+    "name": "Creedence Clearwater Revival - Lodi (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Creedence Clearwater Revival"
+    },
+    "datePublished": "2011-04-26T20:00:01-04:00",
+    "dateModified": "2023-11-15T22:36:45-05:00",
+    "commentCount": 35
+}

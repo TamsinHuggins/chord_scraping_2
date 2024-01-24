@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-allan-coe/you-never-even-called-me-by-my-name-chords-1789724",
+    "name": "David Allan Coe - You Never Even Called Me By My Name (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Allan Coe"
+    },
+    "datePublished": "2015-12-12T02:03:22-05:00",
+    "dateModified": "2019-05-27T04:57:54-04:00",
+    "commentCount": 10
+}

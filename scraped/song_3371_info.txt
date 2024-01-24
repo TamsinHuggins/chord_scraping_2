@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linkin-park/numb-chords-99169",
+    "name": "Linkin Park - Numb (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Linkin Park"
+    },
+    "datePublished": "2004-01-11T19:00:00-05:00",
+    "dateModified": "2021-04-18T08:51:44-04:00",
+    "commentCount": 25,
+    "musicalKey": "F#m"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-guetta/titanium-chords-1085977",
+    "name": "David Guetta - Titanium (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "David Guetta"
+    },
+    "datePublished": "2011-08-21T20:00:01-04:00",
+    "dateModified": "2021-07-18T09:53:52-04:00",
+    "commentCount": 76,
+    "musicalKey": "Eb"
+}

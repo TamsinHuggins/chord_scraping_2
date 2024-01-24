@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-seger-the-silver-bullet-band/fire-lake-chords-1698874",
+    "name": "Bob Seger & The Silver Bullet Band - Fire Lake (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Seger &amp; The Silver Bullet Band"
+    },
+    "datePublished": "2015-01-10T08:10:16-05:00",
+    "dateModified": "2018-03-06T19:44:16-05:00",
+    "commentCount": 10
+}

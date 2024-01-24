@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/pigs-on-the-wing-part-1-chords-79214",
+    "name": "Pink Floyd - Pigs On The Wing Part 1 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-12-19T20:54:35-05:00",
+    "commentCount": 33,
+    "musicalKey": "C"
+}

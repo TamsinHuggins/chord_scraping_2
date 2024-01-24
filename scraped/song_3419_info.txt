@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/american-town-chords-4959820",
+    "name": "Ed Sheeran - American Town (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2023-09-19T09:47:47-04:00",
+    "dateModified": "2023-09-28T23:37:35-04:00",
+    "commentCount": 4
+}

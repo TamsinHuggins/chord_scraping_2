@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/brutal-chords-3716306",
+    "name": "Olivia Rodrigo - Brutal (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2021-05-20T19:30:41-04:00",
+    "dateModified": "2021-05-28T15:59:45-04:00",
+    "commentCount": 7,
+    "musicalKey": "B"
+}

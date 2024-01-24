@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/daniel-johnston/true-love-will-find-you-in-the-end-chords-438749",
+    "name": "Daniel Johnston - True Love Will Find You In The End (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Daniel Johnston"
+    },
+    "datePublished": "2006-11-23T19:00:01-05:00",
+    "dateModified": "2019-09-12T12:26:53-04:00",
+    "commentCount": 11,
+    "musicalKey": "G"
+}

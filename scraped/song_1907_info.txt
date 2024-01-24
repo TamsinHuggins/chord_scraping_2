@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/santana/black-magic-woman-chords-1086950",
+    "name": "Santana - Black Magic Woman (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Santana"
+    },
+    "datePublished": "2011-08-24T20:00:01-04:00",
+    "dateModified": "2023-08-10T22:22:49-04:00",
+    "commentCount": 13
+}

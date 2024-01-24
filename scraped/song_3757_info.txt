@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/maverick-city-music/lean-back-chords-3920648",
+    "name": "Maverick City Music - Lean Back (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Maverick City Music"
+    },
+    "datePublished": "2021-10-22T10:54:14-04:00",
+    "dateModified": "2021-10-22T15:25:47-04:00",
+    "commentCount": 1
+}

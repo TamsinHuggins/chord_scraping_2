@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/done-again/if-i-only-had-a-brain-chords-5116606",
+    "name": "Done Again - If I Only Had A Brain (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Done Again"
+    },
+    "datePublished": "2024-01-23T09:52:48-05:00",
+    "dateModified": "2024-01-23T15:04:15-05:00",
+    "commentCount": 0
+}

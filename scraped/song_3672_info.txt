@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nena/99-red-balloons-chords-1057703",
+    "name": "Nena - 99 Red Balloons (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Nena"
+    },
+    "datePublished": "2011-05-16T20:00:01-04:00",
+    "dateModified": "2021-05-07T20:00:57-04:00",
+    "commentCount": 9
+}

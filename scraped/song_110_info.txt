@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-cyrus/july-chords-2781478",
+    "name": "Noah Cyrus - July (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Cyrus"
+    },
+    "datePublished": "2019-08-01T02:53:20-04:00",
+    "dateModified": "2021-05-24T18:35:26-04:00",
+    "commentCount": 64,
+    "musicalKey": "Am"
+}

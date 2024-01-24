@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lustra/scotty-doesnt-know-chords-951536",
+    "name": "Lustra - Scotty Doesnt Know (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lustra"
+    },
+    "datePublished": "2010-05-23T20:00:01-04:00",
+    "dateModified": "2020-02-24T23:04:48-05:00",
+    "commentCount": 3
+}

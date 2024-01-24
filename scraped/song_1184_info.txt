@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/etta-james/at-last-chords-1867911",
+    "name": "Etta James - At Last (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Etta James"
+    },
+    "datePublished": "2016-08-17T18:01:10-04:00",
+    "dateModified": "2016-08-17T22:01:10-04:00",
+    "commentCount": 8
+}

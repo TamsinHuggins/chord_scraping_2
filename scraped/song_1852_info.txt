@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gregory-alan-isakov/the-stable-song-chords-1025154",
+    "name": "Gregory Alan Isakov - The Stable Song (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Gregory Alan Isakov"
+    },
+    "datePublished": "2011-02-01T19:00:01-05:00",
+    "dateModified": "2022-01-27T08:38:09-05:00",
+    "commentCount": 15
+}

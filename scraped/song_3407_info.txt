@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adie/mahika-chords-4200730",
+    "name": "Adie - Mahika (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Adie"
+    },
+    "datePublished": "2022-05-21T12:04:55-04:00",
+    "dateModified": "2023-03-01T16:35:25-05:00",
+    "commentCount": 2,
+    "musicalKey": "G"
+}

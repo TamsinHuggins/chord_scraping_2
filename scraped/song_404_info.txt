@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tyler-childers/shake-the-frost-chords-2060307",
+    "name": "Tyler Childers - Shake The Frost (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Tyler Childers"
+    },
+    "datePublished": "2017-06-22T05:40:07-04:00",
+    "dateModified": "2020-04-22T12:10:03-04:00",
+    "commentCount": 13,
+    "musicalKey": "G"
+}

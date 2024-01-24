@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/3449750",
+    "name": "Thomas Stenström - Ser Du Månen Där Du Är Ikväll Tillsammans Igen (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Thomas Stenström"
+    },
+    "datePublished": "2020-12-03T07:28:19-05:00",
+    "dateModified": "2020-12-03T13:01:39-05:00",
+    "commentCount": 2,
+    "musicalKey": "E"
+}

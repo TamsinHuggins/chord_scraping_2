@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/megan-moroney/im-not-pretty-chords-4639979",
+    "name": "Megan Moroney - Im Not Pretty (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Megan Moroney"
+    },
+    "datePublished": "2023-02-10T00:45:02-05:00",
+    "dateModified": "2023-02-10T05:45:03-05:00",
+    "commentCount": 2,
+    "musicalKey": "Bb"
+}

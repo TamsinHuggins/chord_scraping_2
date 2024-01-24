@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/whitney-houston/saving-all-my-love-for-you-chords-512452",
+    "name": "Whitney Houston - Saving All My Love For You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Whitney Houston"
+    },
+    "datePublished": "2007-05-03T20:00:01-04:00",
+    "dateModified": "2018-05-18T11:08:51-04:00",
+    "commentCount": 9
+}

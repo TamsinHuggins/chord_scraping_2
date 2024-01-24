@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/damien-rice/delicate-chords-112109",
+    "name": "Damien Rice - Delicate (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Damien Rice"
+    },
+    "datePublished": "2004-04-06T20:00:00-04:00",
+    "dateModified": "2016-04-23T11:19:23-04:00",
+    "commentCount": 10
+}

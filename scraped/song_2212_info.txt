@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-velvet-underground/pale-blue-eyes-chords-1192699",
+    "name": "The Velvet Underground - Pale Blue Eyes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Velvet Underground"
+    },
+    "datePublished": "2012-11-02T14:11:40-04:00",
+    "dateModified": "2020-02-29T00:14:54-05:00",
+    "commentCount": 13
+}

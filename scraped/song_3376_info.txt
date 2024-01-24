@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ollie-mn/please-never-fall-in-love-again-chords-2259265",
+    "name": "Ollie Mn - Please Never Fall In Love Again (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Ollie MN"
+    },
+    "datePublished": "2017-12-17T15:27:23-05:00",
+    "dateModified": "2023-06-27T19:08:52-04:00",
+    "commentCount": 41
+}

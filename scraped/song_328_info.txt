@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-greatest-showman-never-enough-chords-2267891",
+    "name": "Misc Soundtrack - The Greatest Showman - Never Enough (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2017-12-27T11:59:40-05:00",
+    "dateModified": "2018-10-12T12:28:43-04:00",
+    "commentCount": 75,
+    "musicalKey": "Ab"
+}

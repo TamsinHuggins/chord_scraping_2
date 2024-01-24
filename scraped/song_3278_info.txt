@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phil-wickham/this-is-our-god-chords-4577840",
+    "name": "Phil Wickham - This Is Our God (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phil Wickham"
+    },
+    "datePublished": "2022-12-25T22:47:00-05:00",
+    "dateModified": "2023-09-18T04:45:48-04:00",
+    "commentCount": 8,
+    "musicalKey": "C"
+}

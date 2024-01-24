@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grentperez/cherry-wine-chords-3878948",
+    "name": "Grentperez - Cherry Wine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "grentperez"
+    },
+    "datePublished": "2021-09-19T05:20:14-04:00",
+    "dateModified": "2021-10-09T12:38:03-04:00",
+    "commentCount": 11,
+    "musicalKey": "E"
+}

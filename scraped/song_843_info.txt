@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-shins/new-slang-chords-185173",
+    "name": "The Shins - New Slang (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Shins"
+    },
+    "datePublished": "2005-05-18T20:00:00-04:00",
+    "dateModified": "2018-03-13T15:17:56-04:00",
+    "commentCount": 60,
+    "musicalKey": "Am"
+}

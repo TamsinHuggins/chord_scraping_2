@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/keane/somewhere-only-we-know-chords-115434",
+    "name": "Keane - Somewhere Only We Know (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Keane"
+    },
+    "datePublished": "2004-04-27T20:00:00-04:00",
+    "dateModified": "2021-02-16T00:24:19-05:00",
+    "commentCount": 50,
+    "musicalKey": "A"
+}

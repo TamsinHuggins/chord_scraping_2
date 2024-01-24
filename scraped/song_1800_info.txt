@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-greatest-showman-from-now-on-chords-2265017",
+    "name": "Misc Soundtrack - The Greatest Showman - From Now On (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2017-12-25T11:33:01-05:00",
+    "dateModified": "2018-02-01T11:19:05-05:00",
+    "commentCount": 22,
+    "musicalKey": "C#m"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-combs/beautiful-crazy-chords-2038213",
+    "name": "Luke Combs - Beautiful Crazy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Combs"
+    },
+    "datePublished": "2017-06-14T06:00:44-04:00",
+    "dateModified": "2020-04-29T00:54:02-04:00",
+    "commentCount": 56,
+    "musicalKey": "B"
+}

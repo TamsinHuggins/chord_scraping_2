@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stephen-mcwhirter/come-jesus-come-chords-3832934",
+    "name": "Stephen Mcwhirter - Come Jesus Come (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stephen McWhirter"
+    },
+    "datePublished": "2021-08-14T14:09:41-04:00",
+    "dateModified": "2021-08-15T12:50:59-04:00",
+    "commentCount": 4,
+    "musicalKey": "G"
+}

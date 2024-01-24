@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/warren-zeiders/pretty-little-poison-chords-4651757",
+    "name": "Warren Zeiders - Pretty Little Poison (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Warren Zeiders"
+    },
+    "datePublished": "2023-02-18T08:51:22-05:00",
+    "dateModified": "2023-02-18T15:17:50-05:00",
+    "commentCount": 8
+}

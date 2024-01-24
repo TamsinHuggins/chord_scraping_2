@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/no1-party-anthem-chords-1416632",
+    "name": "Arctic Monkeys - No1 Party Anthem (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2013-09-04T20:00:01-04:00",
+    "dateModified": "2021-07-05T00:05:26-04:00",
+    "commentCount": 14
+}

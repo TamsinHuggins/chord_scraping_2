@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-barber/dancing-in-the-sky-chords-4802726",
+    "name": "Sam Barber - Dancing In The Sky (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Barber"
+    },
+    "datePublished": "2023-06-02T05:04:51-04:00",
+    "dateModified": "2023-09-03T18:12:34-04:00",
+    "commentCount": 1,
+    "musicalKey": "B"
+}

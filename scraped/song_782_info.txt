@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kurt-cobain/and-i-love-her-chords-1733238",
+    "name": "Kurt Cobain - And I Love Her (chords)",
+    "text": "Difficulty: intermediate Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kurt Cobain"
+    },
+    "datePublished": "2015-04-29T13:58:56-04:00",
+    "dateModified": "2018-04-10T10:04:51-04:00",
+    "commentCount": 27
+}

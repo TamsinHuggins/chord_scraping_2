@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/odd-signature/amar-dehokhan-chords-3471524",
+    "name": "Odd Signature - Amar Dehokhan (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Odd Signature"
+    },
+    "datePublished": "2020-12-17T02:57:20-05:00",
+    "dateModified": "2020-12-18T06:46:45-05:00",
+    "commentCount": 0,
+    "musicalKey": "G"
+}

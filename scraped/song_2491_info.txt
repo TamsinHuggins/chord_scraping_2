@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/twenty-one-pilots/ride-chords-1756131",
+    "name": "Twenty One Pilots - Ride (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "twenty one pilots"
+    },
+    "datePublished": "2015-07-31T06:07:22-04:00",
+    "dateModified": "2020-10-19T22:39:09-04:00",
+    "commentCount": 44,
+    "musicalKey": "G"
+}

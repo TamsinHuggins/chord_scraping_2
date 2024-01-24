@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/crooked-teeth-chords-3441266",
+    "name": "Zach Bryan - Crooked Teeth (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2020-11-27T15:58:26-05:00",
+    "dateModified": "2021-06-23T22:21:09-04:00",
+    "commentCount": 12
+}

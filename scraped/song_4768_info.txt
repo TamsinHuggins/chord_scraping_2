@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/candlebox/far-behind-chords-1081705",
+    "name": "Candlebox - Far Behind (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Candlebox"
+    },
+    "datePublished": "2011-08-05T11:26:34-04:00",
+    "dateModified": "2016-06-27T12:14:50-04:00",
+    "commentCount": 6
+}

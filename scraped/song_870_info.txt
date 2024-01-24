@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alex-g-sandy-alex-g/break-chords-1686313",
+    "name": "Alex G ((Sandy) Alex G) - Break (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alex G ((Sandy) Alex G)"
+    },
+    "datePublished": "2014-12-05T03:07:47-05:00",
+    "dateModified": "2014-12-05T08:07:47-05:00",
+    "commentCount": 8
+}

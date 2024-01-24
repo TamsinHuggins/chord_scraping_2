@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jeff-buckley/i-know-its-over-chords-1050686",
+    "name": "Jeff Buckley - I Know Its Over (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Jeff Buckley"
+    },
+    "datePublished": "2011-04-28T20:00:01-04:00",
+    "dateModified": "2016-05-17T10:08:25-04:00",
+    "commentCount": 7
+}

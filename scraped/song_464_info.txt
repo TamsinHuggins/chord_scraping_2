@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rascal-flatts/bless-the-broken-road-chords-143089",
+    "name": "Rascal Flatts - Bless The Broken Road (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rascal Flatts"
+    },
+    "datePublished": "2004-10-24T20:00:00-04:00",
+    "dateModified": "2019-06-02T17:42:23-04:00",
+    "commentCount": 14
+}

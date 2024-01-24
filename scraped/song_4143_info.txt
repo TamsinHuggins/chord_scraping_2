@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tv-girl/cigarettes-out-the-window-chords-2866646",
+    "name": "Tv Girl - Cigarettes Out The Window (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "TV Girl"
+    },
+    "datePublished": "2019-10-23T15:41:01-04:00",
+    "dateModified": "2019-10-24T08:53:55-04:00",
+    "commentCount": 4,
+    "musicalKey": "Am"
+}

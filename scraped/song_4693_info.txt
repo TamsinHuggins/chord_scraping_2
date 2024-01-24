@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/waylon-wyatt/everything-under-the-sun-chords-5026033",
+    "name": "Waylon Wyatt - Everything Under The Sun (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Fm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Waylon Wyatt"
+    },
+    "datePublished": "2023-11-11T15:53:25-05:00",
+    "dateModified": "2023-12-13T22:04:08-05:00",
+    "commentCount": 0,
+    "musicalKey": "Fm"
+}

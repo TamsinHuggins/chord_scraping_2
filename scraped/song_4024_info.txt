@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dionne-warwick/thats-what-friends-are-for-chords-1478065",
+    "name": "Dionne Warwick - Thats What Friends Are For (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Dionne Warwick"
+    },
+    "datePublished": "2014-04-22T05:38:00-04:00",
+    "dateModified": "2016-07-05T09:37:08-04:00",
+    "commentCount": 7
+}

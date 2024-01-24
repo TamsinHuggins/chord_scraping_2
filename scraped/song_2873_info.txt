@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/boygenius/afraid-of-heights-chords-4973269",
+    "name": "Boygenius - Afraid Of Heights (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "boygenius"
+    },
+    "datePublished": "2023-09-30T16:21:21-04:00",
+    "dateModified": "2023-10-03T20:55:03-04:00",
+    "commentCount": 1,
+    "musicalKey": "Ab"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mac-demarco/for-the-first-time-chords-1981259",
+    "name": "Mac Demarco - For The First Time (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mac DeMarco"
+    },
+    "datePublished": "2017-04-18T07:34:03-04:00",
+    "dateModified": "2017-04-14T16:20:47-04:00",
+    "commentCount": 9
+}

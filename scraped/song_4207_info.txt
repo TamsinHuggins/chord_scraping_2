@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-osborne-brothers/rocky-top-chords-1771381",
+    "name": "The Osborne Brothers - Rocky Top (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "The Osborne Brothers"
+    },
+    "datePublished": "2015-10-10T03:52:16-04:00",
+    "dateModified": "2015-10-20T17:50:43-04:00",
+    "commentCount": 9
+}

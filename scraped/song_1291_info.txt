@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/we-are-never-ever-getting-back-together-chords-1175300",
+    "name": "Taylor Swift - We Are Never Ever Getting Back Together (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2012-08-13T20:00:01-04:00",
+    "dateModified": "2020-06-02T08:27:41-04:00",
+    "commentCount": 78,
+    "musicalKey": "G"
+}

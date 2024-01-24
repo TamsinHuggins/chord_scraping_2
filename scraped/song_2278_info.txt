@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-jackson/billie-jean-chords-855230",
+    "name": "Michael Jackson - Billie Jean (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Jackson"
+    },
+    "datePublished": "2009-08-02T20:00:01-04:00",
+    "dateModified": "2019-12-09T12:34:03-05:00",
+    "commentCount": 17,
+    "musicalKey": "F#m"
+}

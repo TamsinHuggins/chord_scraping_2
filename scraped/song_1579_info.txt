@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/one-direction/18-chords-1678182",
+    "name": "One Direction - 18 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "One Direction"
+    },
+    "datePublished": "2014-11-07T13:54:48-05:00",
+    "dateModified": "2020-04-21T17:03:02-04:00",
+    "commentCount": 51,
+    "musicalKey": "A"
+}

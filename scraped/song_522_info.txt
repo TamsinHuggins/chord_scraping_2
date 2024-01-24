@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/u2/one-chords-47269",
+    "name": "U2 - One (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "U2"
+    },
+    "datePublished": "2003-03-10T19:00:00-05:00",
+    "dateModified": "2016-05-18T12:38:04-04:00",
+    "commentCount": 81
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/player/baby-come-back-chords-422506",
+    "name": "Player - Baby Come Back (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Player"
+    },
+    "datePublished": "2006-10-11T20:00:01-04:00",
+    "dateModified": "2023-03-31T03:49:25-04:00",
+    "commentCount": 10
+}

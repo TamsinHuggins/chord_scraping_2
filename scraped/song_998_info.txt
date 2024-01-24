@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/calcutta/tutti-chords-4997059",
+    "name": "Calcutta - Tutti (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Calcutta"
+    },
+    "datePublished": "2023-10-20T12:12:26-04:00",
+    "dateModified": "2023-10-25T14:55:15-04:00",
+    "commentCount": 1,
+    "musicalKey": "D"
+}

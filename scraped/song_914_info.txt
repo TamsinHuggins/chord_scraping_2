@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/graceland-too-chords-3207320",
+    "name": "Phoebe Bridgers - Graceland Too (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Phoebe Bridgers"
+    },
+    "datePublished": "2020-06-18T16:38:50-04:00",
+    "dateModified": "2022-01-06T07:16:44-05:00",
+    "commentCount": 19,
+    "musicalKey": "Bb"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruno-mars/when-i-was-your-man-chords-1450063",
+    "name": "Bruno Mars - When I Was Your Man (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruno Mars"
+    },
+    "datePublished": "2013-12-24T19:00:01-05:00",
+    "dateModified": "2019-07-15T19:45:40-04:00",
+    "commentCount": 8
+}

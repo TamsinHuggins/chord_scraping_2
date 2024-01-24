@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-pretenders/back-on-the-chain-gang-chords-1186471",
+    "name": "The Pretenders - Back On The Chain Gang (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Pretenders"
+    },
+    "datePublished": "2012-10-03T20:00:01-04:00",
+    "dateModified": "2022-01-17T14:52:36-05:00",
+    "commentCount": 25,
+    "musicalKey": "D"
+}

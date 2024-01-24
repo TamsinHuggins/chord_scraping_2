@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/whitney-houston/i-will-always-love-you-chords-878373",
+    "name": "Whitney Houston - I Will Always Love You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Whitney Houston"
+    },
+    "datePublished": "2009-09-30T20:00:01-04:00",
+    "dateModified": "2019-03-20T20:30:10-04:00",
+    "commentCount": 11
+}

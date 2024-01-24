@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lorde/royals-chords-1418611",
+    "name": "Lorde - Royals (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lorde"
+    },
+    "datePublished": "2013-09-17T20:00:01-04:00",
+    "dateModified": "2020-12-29T19:09:45-05:00",
+    "commentCount": 46
+}

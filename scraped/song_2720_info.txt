@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cigarettes-after-sex/sunsetz-chords-2038179",
+    "name": "Cigarettes After Sex - Sunsetz (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cigarettes After Sex"
+    },
+    "datePublished": "2017-06-09T16:35:46-04:00",
+    "dateModified": "2017-06-09T20:13:57-04:00",
+    "commentCount": 5
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/erasure/a-little-respect-chords-39118",
+    "name": "Erasure - A Little Respect (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Erasure"
+    },
+    "datePublished": "2002-11-13T19:00:00-05:00",
+    "dateModified": "2023-08-26T06:20:27-04:00",
+    "commentCount": 24
+}

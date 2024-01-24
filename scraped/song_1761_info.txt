@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/false-confidence-chords-2517918",
+    "name": "Noah Kahan - False Confidence (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F# Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2018-11-14T18:49:49-05:00",
+    "dateModified": "2020-03-25T16:10:31-04:00",
+    "commentCount": 4,
+    "musicalKey": "F#"
+}

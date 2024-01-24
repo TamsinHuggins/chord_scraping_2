@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jensen-mcrae/video-games-chords-5091973",
+    "name": "Jensen Mcrae - Video Games (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Jensen McRae"
+    },
+    "datePublished": "2024-01-04T19:16:36-05:00",
+    "dateModified": "2024-01-05T10:18:16-05:00",
+    "commentCount": 2
+}

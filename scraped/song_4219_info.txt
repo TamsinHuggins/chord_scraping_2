@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/give-me-love-chords-1154540",
+    "name": "Ed Sheeran - Give Me Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2012-05-16T20:00:01-04:00",
+    "dateModified": "2020-06-10T00:04:57-04:00",
+    "commentCount": 88,
+    "musicalKey": "Am"
+}

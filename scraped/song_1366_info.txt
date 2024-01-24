@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-kid-laroi/bleed-chords-5014777",
+    "name": "The Kid Laroi - Bleed (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Kid LAROI"
+    },
+    "datePublished": "2023-11-03T07:51:26-04:00",
+    "dateModified": "2024-01-05T09:51:03-05:00",
+    "commentCount": 1,
+    "musicalKey": "Bbm"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/omar-apollo/evergreen-chords-4187488",
+    "name": "Omar Apollo - Evergreen (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Omar Apollo"
+    },
+    "datePublished": "2022-05-11T10:37:29-04:00",
+    "dateModified": "2022-05-11T15:03:15-04:00",
+    "commentCount": 0,
+    "musicalKey": "A"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zoe-wees/control-chords-3092408",
+    "name": "Zoe Wees - Control (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zoe Wees"
+    },
+    "datePublished": "2020-04-15T15:45:15-04:00",
+    "dateModified": "2020-10-30T21:35:07-04:00",
+    "commentCount": 11,
+    "musicalKey": "C#m"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/green-eyes-chords-35797",
+    "name": "Coldplay - Green Eyes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2002-09-11T20:00:00-04:00",
+    "dateModified": "2016-09-09T09:56:54-04:00",
+    "commentCount": 25
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noel-gallaghers-high-flying-birds/if-i-had-a-gun-chords-1090124",
+    "name": "Noel Gallagher's High Flying Birds - If I Had A Gun (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Noel Gallagher&#039;s High Flying Birds"
+    },
+    "datePublished": "2011-09-07T20:00:01-04:00",
+    "dateModified": "2020-08-10T16:31:03-04:00",
+    "commentCount": 17
+}

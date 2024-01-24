@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james/laid-chords-1160411",
+    "name": "James - Laid (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "James"
+    },
+    "datePublished": "2012-06-10T20:00:01-04:00",
+    "dateModified": "2020-06-02T11:24:20-04:00",
+    "commentCount": 25
+}

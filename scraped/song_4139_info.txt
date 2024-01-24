@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billy-strings/away-from-the-mire-chords-2801240",
+    "name": "Billy Strings - Away From The Mire (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Billy Strings"
+    },
+    "datePublished": "2019-08-21T11:35:15-04:00",
+    "dateModified": "2021-09-04T23:03:19-04:00",
+    "commentCount": 16
+}

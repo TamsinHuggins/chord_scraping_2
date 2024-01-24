@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-tragically-hip/bobcaygeon-chords-1747702",
+    "name": "The Tragically Hip - Bobcaygeon (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Tragically Hip"
+    },
+    "datePublished": "2015-06-26T05:11:44-04:00",
+    "dateModified": "2017-01-26T10:39:13-05:00",
+    "commentCount": 27,
+    "musicalKey": "G"
+}

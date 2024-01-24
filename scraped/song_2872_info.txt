@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tyla/water-chords-4969615",
+    "name": "Tyla - Water (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Tyla"
+    },
+    "datePublished": "2023-09-27T12:05:49-04:00",
+    "dateModified": "2023-09-28T12:48:10-04:00",
+    "commentCount": 0
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bon-jovi/ill-be-there-for-you-chords-330018",
+    "name": "Bon Jovi - Ill Be There For You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bon Jovi"
+    },
+    "datePublished": "2006-02-05T19:00:01-05:00",
+    "dateModified": "2020-09-30T11:06:34-04:00",
+    "commentCount": 13,
+    "musicalKey": "D"
+}

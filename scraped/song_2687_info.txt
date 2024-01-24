@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/all-i-need-chords-589124",
+    "name": "Radiohead - All I Need (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Radiohead"
+    },
+    "datePublished": "2007-10-15T20:00:01-04:00",
+    "dateModified": "2020-02-27T13:26:48-05:00",
+    "commentCount": 20,
+    "musicalKey": "C"
+}

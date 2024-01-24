@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frank-sinatra/the-girl-from-ipanema-chords-644102",
+    "name": "Frank Sinatra - The Girl From Ipanema (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Frank Sinatra"
+    },
+    "datePublished": "2008-02-24T19:00:01-05:00",
+    "dateModified": "2019-12-06T09:06:59-05:00",
+    "commentCount": 20,
+    "musicalKey": "F"
+}

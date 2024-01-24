@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/whiskey-myers/broken-window-serenade-chords-1166670",
+    "name": "Whiskey Myers - Broken Window Serenade (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Whiskey Myers"
+    },
+    "datePublished": "2012-07-12T20:00:01-04:00",
+    "dateModified": "2018-02-11T14:13:41-05:00",
+    "commentCount": 29
+}

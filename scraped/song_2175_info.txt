@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joji/die-for-you-chords-4410773",
+    "name": "Joji - Die For You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Joji"
+    },
+    "datePublished": "2022-11-04T06:52:57-04:00",
+    "dateModified": "2022-11-06T15:40:50-05:00",
+    "commentCount": 8,
+    "musicalKey": "Eb"
+}

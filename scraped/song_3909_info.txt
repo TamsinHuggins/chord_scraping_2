@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bobby-darin/dream-lover-chords-66750",
+    "name": "Bobby Darin - Dream Lover (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bobby Darin"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2017-05-12T03:14:43-04:00",
+    "commentCount": 35
+}

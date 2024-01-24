@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/travis-tritt/its-a-great-day-to-be-alive-chords-1239855",
+    "name": "Travis Tritt - Its A Great Day To Be Alive (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Travis Tritt"
+    },
+    "datePublished": "2013-04-21T20:00:01-04:00",
+    "dateModified": "2023-06-08T20:40:52-04:00",
+    "commentCount": 13,
+    "musicalKey": "G"
+}

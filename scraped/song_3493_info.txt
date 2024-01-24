@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/andreas-bourani/auf-uns-chords-1485093",
+    "name": "Andreas Bourani - Auf Uns (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Andreas Bourani"
+    },
+    "datePublished": "2014-05-21T07:01:38-04:00",
+    "dateModified": "2016-07-02T15:47:33-04:00",
+    "commentCount": 9
+}

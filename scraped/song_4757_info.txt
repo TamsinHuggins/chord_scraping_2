@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/leave-her-johnny-chords-1772665",
+    "name": "Misc Traditional - Leave Her Johnny (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2015-10-14T11:56:20-04:00",
+    "dateModified": "2017-03-01T18:43:22-05:00",
+    "commentCount": 9
+}

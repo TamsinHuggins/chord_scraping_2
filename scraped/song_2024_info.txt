@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/frozen-2-all-is-found-chords-2900771",
+    "name": "Misc Cartoons - Frozen 2 - All Is Found (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2019-11-21T15:16:33-05:00",
+    "dateModified": "2023-03-23T01:50:07-04:00",
+    "commentCount": 23,
+    "musicalKey": "Am"
+}

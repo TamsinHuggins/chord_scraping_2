@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/first-aid-kit/my-silver-lining-chords-1479650",
+    "name": "First Aid Kit - My Silver Lining (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "First Aid Kit"
+    },
+    "datePublished": "2014-05-02T00:23:38-04:00",
+    "dateModified": "2016-04-19T14:30:34-04:00",
+    "commentCount": 19
+}

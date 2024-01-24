@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4753436",
+    "name": "Lola Indigo - Dragón (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lola Indigo"
+    },
+    "datePublished": "2023-05-02T21:02:03-04:00",
+    "dateModified": "2023-05-03T11:49:28-04:00",
+    "commentCount": 0
+}

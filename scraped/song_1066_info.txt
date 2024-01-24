@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bee-gees/stayin-alive-chords-1743431",
+    "name": "Bee Gees - Stayin Alive (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Fm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bee Gees"
+    },
+    "datePublished": "2015-06-08T10:54:40-04:00",
+    "dateModified": "2023-12-28T12:31:30-05:00",
+    "commentCount": 27,
+    "musicalKey": "Fm"
+}

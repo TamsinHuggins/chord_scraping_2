@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/depeche-mode/never-let-me-down-again-chords-14818",
+    "name": "Depeche Mode - Never Let Me Down Again (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Depeche Mode"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-04-21T23:34:08-04:00",
+    "commentCount": 3
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/la-roux/bulletproof-chords-880215",
+    "name": "La Roux - Bulletproof (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "La Roux"
+    },
+    "datePublished": "2009-10-05T20:00:01-04:00",
+    "dateModified": "2016-07-28T12:38:57-04:00",
+    "commentCount": 11
+}

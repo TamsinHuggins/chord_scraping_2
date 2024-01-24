@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/call-your-mom-chords-4807928",
+    "name": "Noah Kahan - Call Your Mom (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2023-06-06T02:50:43-04:00",
+    "dateModified": "2023-09-16T15:57:20-04:00",
+    "commentCount": 6,
+    "musicalKey": "C"
+}

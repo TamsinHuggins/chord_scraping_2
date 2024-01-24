@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/glen-campbell/rhinestone-cowboy-chords-184765",
+    "name": "Glen Campbell - Rhinestone Cowboy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Glen Campbell"
+    },
+    "datePublished": "2005-05-16T20:00:00-04:00",
+    "dateModified": "2023-10-16T20:19:18-04:00",
+    "commentCount": 11
+}

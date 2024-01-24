@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alan-jackson/chasin-that-neon-rainbow-chords-360704",
+    "name": "Alan Jackson - Chasin That Neon Rainbow (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alan Jackson"
+    },
+    "datePublished": "2006-04-30T20:00:01-04:00",
+    "dateModified": "2021-07-01T15:51:37-04:00",
+    "commentCount": 12
+}

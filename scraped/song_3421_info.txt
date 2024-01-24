@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dean-lewis/trust-me-mate-chords-4970593",
+    "name": "Dean Lewis - Trust Me Mate (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dean Lewis"
+    },
+    "datePublished": "2023-09-28T10:38:44-04:00",
+    "dateModified": "2023-11-04T07:21:33-04:00",
+    "commentCount": 2
+}

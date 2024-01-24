@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hole/celebrity-skin-chords-440162",
+    "name": "Hole - Celebrity Skin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hole"
+    },
+    "datePublished": "2006-11-26T19:00:01-05:00",
+    "dateModified": "2016-10-17T12:09:32-04:00",
+    "commentCount": 5
+}

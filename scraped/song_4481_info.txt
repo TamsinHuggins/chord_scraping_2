@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linkin-park/breaking-the-habit-chords-137623",
+    "name": "Linkin Park - Breaking The Habit (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Linkin Park"
+    },
+    "datePublished": "2004-09-18T20:00:00-04:00",
+    "dateModified": "2019-08-30T23:33:53-04:00",
+    "commentCount": 35,
+    "musicalKey": "Em"
+}

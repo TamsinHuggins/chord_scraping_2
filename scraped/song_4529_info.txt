@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bee-gees/too-much-heaven-chords-1700055",
+    "name": "Bee Gees - Too Much Heaven (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C# Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bee Gees"
+    },
+    "datePublished": "2015-01-11T02:07:20-05:00",
+    "dateModified": "2021-10-07T04:10:20-04:00",
+    "commentCount": 7,
+    "musicalKey": "C#"
+}

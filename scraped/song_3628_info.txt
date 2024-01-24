@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cesare-cremonini/la-nuova-stella-di-broadway-chords-1230960",
+    "name": "Cesare Cremonini - La Nuova Stella Di Broadway (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Cesare Cremonini"
+    },
+    "datePublished": "2013-03-19T20:00:01-04:00",
+    "dateModified": "2016-07-05T09:23:48-04:00",
+    "commentCount": 7
+}

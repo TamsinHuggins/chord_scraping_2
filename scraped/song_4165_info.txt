@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fontaines-d-c-/i-love-you-chords-4081264",
+    "name": "Fontaines D.c. - I Love You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fontaines D.C."
+    },
+    "datePublished": "2022-02-20T16:07:46-05:00",
+    "dateModified": "2022-02-20T21:07:47-05:00",
+    "commentCount": 2,
+    "musicalKey": "G"
+}

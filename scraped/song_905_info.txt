@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/leonard-cohen/suzanne-chords-29753",
+    "name": "Leonard Cohen - Suzanne (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Leonard Cohen"
+    },
+    "datePublished": "2002-05-10T20:00:00-04:00",
+    "dateModified": "2019-11-20T10:19:29-05:00",
+    "commentCount": 18,
+    "musicalKey": "E"
+}

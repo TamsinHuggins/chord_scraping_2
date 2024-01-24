@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/time-chords-129282",
+    "name": "Pink Floyd - Time (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2004-07-28T20:00:00-04:00",
+    "dateModified": "2021-05-09T01:56:59-04:00",
+    "commentCount": 93
+}

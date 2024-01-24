@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/yesterday-chords-743197",
+    "name": "The Beatles - Yesterday (chords)",
+    "text": "Difficulty: beginner Tuning: D G C F A D Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2008-10-13T20:00:01-04:00",
+    "dateModified": "2008-10-14T00:00:01-04:00",
+    "commentCount": 13,
+    "musicalKey": "F"
+}

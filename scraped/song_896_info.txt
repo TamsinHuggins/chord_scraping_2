@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-combs/she-got-the-best-of-me-chords-1727300",
+    "name": "Luke Combs - She Got The Best Of Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Combs"
+    },
+    "datePublished": "2015-04-07T06:23:02-04:00",
+    "dateModified": "2019-11-07T13:04:06-05:00",
+    "commentCount": 33,
+    "musicalKey": "E"
+}

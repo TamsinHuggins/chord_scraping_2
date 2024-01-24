@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/tamasha-agar-tum-saath-ho-chords-1780526",
+    "name": "Misc Soundtrack - Tamasha - Agar Tum Saath Ho (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2015-11-14T09:48:35-05:00",
+    "dateModified": "2021-04-15T08:57:26-04:00",
+    "commentCount": 22,
+    "musicalKey": "E"
+}

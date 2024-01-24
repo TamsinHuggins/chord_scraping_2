@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/justin-timberlake/cant-stop-the-feeling-chords-1842720",
+    "name": "Justin Timberlake - Cant Stop The Feeling (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Justin Timberlake"
+    },
+    "datePublished": "2016-05-06T20:51:27-04:00",
+    "dateModified": "2020-03-14T12:40:52-04:00",
+    "commentCount": 18
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lifehouse/hanging-by-a-moment-chords-164068",
+    "name": "Lifehouse - Hanging By A Moment (chords)",
+    "text": "Difficulty:  Tuning: Db Ab Db Gb Bb Eb Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lifehouse"
+    },
+    "datePublished": "2005-02-11T19:00:00-05:00",
+    "dateModified": "2020-06-27T18:44:27-04:00",
+    "commentCount": 22,
+    "musicalKey": "Bm"
+}

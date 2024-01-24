@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eminem/love-the-way-you-lie-chords-961628",
+    "name": "Eminem - Love The Way You Lie (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Eminem"
+    },
+    "datePublished": "2010-06-23T20:00:01-04:00",
+    "dateModified": "2021-05-28T17:56:09-04:00",
+    "commentCount": 35,
+    "musicalKey": "Gm"
+}

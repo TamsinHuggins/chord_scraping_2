@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/what-a-beautiful-name-chords-1854156",
+    "name": "Hillsong Worship - What A Beautiful Name (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Worship"
+    },
+    "datePublished": "2016-06-22T12:08:04-04:00",
+    "dateModified": "2023-04-16T15:01:55-04:00",
+    "commentCount": 59,
+    "musicalKey": "A"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/manchester-orchestra/the-gold-phoebe-bridgers-version-chords-2871389",
+    "name": "Manchester Orchestra - The Gold - Phoebe Bridgers Version (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Manchester Orchestra"
+    },
+    "datePublished": "2019-10-26T20:45:03-04:00",
+    "dateModified": "2022-04-26T00:40:02-04:00",
+    "commentCount": 7
+}

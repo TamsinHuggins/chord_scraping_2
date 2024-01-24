@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/jesus-loves-me-chords-877998",
+    "name": "Misc Praise Songs - Jesus Loves Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Praise Songs"
+    },
+    "datePublished": "2009-09-29T20:00:01-04:00",
+    "dateModified": "2016-06-03T11:08:18-04:00",
+    "commentCount": 13
+}

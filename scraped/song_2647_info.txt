@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mac-demarco/heart-to-heart-chords-2841977",
+    "name": "Mac Demarco - Heart To Heart (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mac DeMarco"
+    },
+    "datePublished": "2019-09-29T15:17:55-04:00",
+    "dateModified": "2024-01-13T21:37:44-05:00",
+    "commentCount": 1,
+    "musicalKey": "E"
+}

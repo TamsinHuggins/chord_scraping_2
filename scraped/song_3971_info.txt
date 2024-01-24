@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laufey/misty-chords-4949986",
+    "name": "Laufey - Misty (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laufey"
+    },
+    "datePublished": "2023-09-10T23:07:00-04:00",
+    "dateModified": "2023-09-11T06:40:43-04:00",
+    "commentCount": 0
+}

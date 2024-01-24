@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kansas/dust-in-the-wind-chords-874870",
+    "name": "Kansas - Dust In The Wind (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kansas"
+    },
+    "datePublished": "2009-09-21T20:00:01-04:00",
+    "dateModified": "2022-11-15T09:53:05-05:00",
+    "commentCount": 111,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/heavy-eyes-chords-4169152",
+    "name": "Zach Bryan - Heavy Eyes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2022-04-26T14:58:22-04:00",
+    "dateModified": "2023-02-20T16:57:36-05:00",
+    "commentCount": 1
+}

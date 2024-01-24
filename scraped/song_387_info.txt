@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/growing-sideways-chords-4386017",
+    "name": "Noah Kahan - Growing Sideways (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2022-10-15T00:32:11-04:00",
+    "dateModified": "2023-04-07T20:55:07-04:00",
+    "commentCount": 7
+}

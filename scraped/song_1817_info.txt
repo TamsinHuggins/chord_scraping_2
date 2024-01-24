@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gavin-adcock/a-cigarette-chords-5038309",
+    "name": "Gavin Adcock - A Cigarette (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gavin Adcock"
+    },
+    "datePublished": "2023-11-21T12:03:48-05:00",
+    "dateModified": "2023-11-27T10:29:23-05:00",
+    "commentCount": 0
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/system-of-a-down/lonely-day-chords-328133",
+    "name": "System Of A Down - Lonely Day (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "System Of A Down"
+    },
+    "datePublished": "2006-01-31T19:00:01-05:00",
+    "dateModified": "2019-01-23T13:35:08-05:00",
+    "commentCount": 56
+}

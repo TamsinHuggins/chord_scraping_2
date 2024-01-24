@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1853403",
+    "name": "José González - Stay Alive (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "José González"
+    },
+    "datePublished": "2016-06-15T10:13:32-04:00",
+    "dateModified": "2019-05-14T17:38:15-04:00",
+    "commentCount": 5
+}

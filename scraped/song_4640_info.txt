@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/leeland/way-maker-chords-2806757",
+    "name": "Leeland - Way Maker (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Leeland"
+    },
+    "datePublished": "2019-08-27T09:13:20-04:00",
+    "dateModified": "2020-04-02T13:07:59-04:00",
+    "commentCount": 9,
+    "musicalKey": "E"
+}

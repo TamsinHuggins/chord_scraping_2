@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lewis-capaldi/pointless-chords-4444535",
+    "name": "Lewis Capaldi - Pointless (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Lewis Capaldi"
+    },
+    "datePublished": "2022-12-01T11:25:56-05:00",
+    "dateModified": "2022-12-01T16:28:20-05:00",
+    "commentCount": 9
+}

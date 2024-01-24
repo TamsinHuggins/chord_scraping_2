@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/post-malone/stay-chords-2362315",
+    "name": "Post Malone - Stay (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Post Malone"
+    },
+    "datePublished": "2018-04-06T11:47:02-04:00",
+    "dateModified": "2019-09-12T05:49:06-04:00",
+    "commentCount": 62,
+    "musicalKey": "C"
+}

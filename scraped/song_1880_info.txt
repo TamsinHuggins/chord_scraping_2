@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laufey/lovesick-chords-4949995",
+    "name": "Laufey - Lovesick (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laufey"
+    },
+    "datePublished": "2023-09-10T23:14:36-04:00",
+    "dateModified": "2023-09-25T01:38:48-04:00",
+    "commentCount": 0,
+    "musicalKey": "E"
+}

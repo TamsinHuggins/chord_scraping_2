@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grateful-dead/sugaree-chords-419950",
+    "name": "Grateful Dead - Sugaree (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Grateful Dead"
+    },
+    "datePublished": "2006-10-03T20:00:01-04:00",
+    "dateModified": "2023-07-22T14:56:46-04:00",
+    "commentCount": 24,
+    "musicalKey": "E"
+}

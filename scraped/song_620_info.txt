@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luka-bloom/dancing-queen-chords-1058115",
+    "name": "Luka Bloom - Dancing Queen (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Luka Bloom"
+    },
+    "datePublished": "2011-05-24T20:00:01-04:00",
+    "dateModified": "2023-02-12T19:30:11-05:00",
+    "commentCount": 7
+}

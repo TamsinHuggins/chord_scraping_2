@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/my-chemical-romance/welcome-to-the-black-parade-chords-443930",
+    "name": "My Chemical Romance - Welcome To The Black Parade (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "My Chemical Romance"
+    },
+    "datePublished": "2006-12-05T19:00:01-05:00",
+    "dateModified": "2018-09-07T12:18:49-04:00",
+    "commentCount": 126
+}

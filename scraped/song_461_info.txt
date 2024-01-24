@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-stapleton/starting-over-chords-3311129",
+    "name": "Chris Stapleton - Starting Over (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Stapleton"
+    },
+    "datePublished": "2020-08-27T14:32:44-04:00",
+    "dateModified": "2021-04-18T06:24:16-04:00",
+    "commentCount": 57,
+    "musicalKey": "Bb"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-dubliners/ill-tell-me-ma-chords-1916935",
+    "name": "The Dubliners - Ill Tell Me Ma (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Dubliners"
+    },
+    "datePublished": "2016-12-23T09:31:37-05:00",
+    "dateModified": "2023-11-16T16:58:12-05:00",
+    "commentCount": 2
+}

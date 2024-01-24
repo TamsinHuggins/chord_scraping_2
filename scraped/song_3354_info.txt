@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blur/coffee-and-tv-chords-800996",
+    "name": "Blur - Coffee And Tv (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blur"
+    },
+    "datePublished": "2009-03-11T20:00:01-04:00",
+    "dateModified": "2016-09-02T18:31:49-04:00",
+    "commentCount": 23
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/the-long-and-winding-road-chords-525032",
+    "name": "The Beatles - The Long And Winding Road (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2007-05-29T20:00:01-04:00",
+    "dateModified": "2022-08-07T10:03:28-04:00",
+    "commentCount": 30,
+    "musicalKey": "Eb"
+}

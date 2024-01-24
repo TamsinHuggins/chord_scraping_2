@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/metallica/enter-sandman-chords-1902902",
+    "name": "Metallica - Enter Sandman (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Metallica"
+    },
+    "datePublished": "2016-11-12T15:12:18-05:00",
+    "dateModified": "2016-11-13T02:27:58-05:00",
+    "commentCount": 9,
+    "musicalKey": "E"
+}

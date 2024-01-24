@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/crosby-stills-nash-young/helpless-chords-56558",
+    "name": "Crosby, Stills, Nash & Young - Helpless (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Crosby, Stills, Nash &amp; Young"
+    },
+    "datePublished": "2003-07-20T20:00:00-04:00",
+    "dateModified": "2019-10-22T16:47:59-04:00",
+    "commentCount": 28
+}

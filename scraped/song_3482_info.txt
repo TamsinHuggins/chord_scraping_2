@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/because-chords-685924",
+    "name": "The Beatles - Because (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2008-06-04T20:00:01-04:00",
+    "dateModified": "2021-09-03T21:34:10-04:00",
+    "commentCount": 19
+}

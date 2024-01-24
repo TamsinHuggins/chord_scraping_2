@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1738850",
+    "name": "Alberte - Lyse Nætter (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Alberte"
+    },
+    "datePublished": "2015-05-21T06:22:30-04:00",
+    "dateModified": "2021-09-20T11:40:18-04:00",
+    "commentCount": 3
+}

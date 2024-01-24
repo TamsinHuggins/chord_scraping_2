@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/xxxtentacion/revenge-chords-2001755",
+    "name": "Xxxtentacion - Revenge (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "XXXTENTACION"
+    },
+    "datePublished": "2017-05-20T05:31:35-04:00",
+    "dateModified": "2019-09-08T23:42:56-04:00",
+    "commentCount": 28,
+    "musicalKey": "Bm"
+}

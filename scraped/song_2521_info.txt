@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/itchyworms/beer-chords-349856",
+    "name": "Itchyworms - Beer (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Itchyworms"
+    },
+    "datePublished": "2006-04-02T20:00:01-04:00",
+    "dateModified": "2022-07-26T16:16:54-04:00",
+    "commentCount": 8,
+    "musicalKey": "G"
+}

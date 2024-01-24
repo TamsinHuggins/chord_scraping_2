@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sting/fields-of-gold-chords-131820",
+    "name": "Sting - Fields Of Gold (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sting"
+    },
+    "datePublished": "2004-08-11T20:00:00-04:00",
+    "dateModified": "2019-11-26T09:52:20-05:00",
+    "commentCount": 29,
+    "musicalKey": "Bm"
+}

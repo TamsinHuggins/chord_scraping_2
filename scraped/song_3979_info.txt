@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/wonka-a-hatful-of-dreams-chords-5060671",
+    "name": "Misc Soundtrack - Wonka - A Hatful Of Dreams (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-12-09T03:34:32-05:00",
+    "dateModified": "2023-12-09T08:34:32-05:00",
+    "commentCount": 1
+}

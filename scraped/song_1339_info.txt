@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/daniel-caesar/japanese-denim-chords-1959745",
+    "name": "Daniel Caesar - Japanese Denim (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Daniel Caesar"
+    },
+    "datePublished": "2017-03-09T07:30:33-05:00",
+    "dateModified": "2021-08-30T19:54:03-04:00",
+    "commentCount": 9,
+    "musicalKey": "Eb"
+}

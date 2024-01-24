@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/come-out-and-play-chords-2523924",
+    "name": "Billie Eilish - Come Out And Play (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2018-11-22T01:14:12-05:00",
+    "dateModified": "2018-11-25T21:19:57-05:00",
+    "commentCount": 22,
+    "musicalKey": "C"
+}

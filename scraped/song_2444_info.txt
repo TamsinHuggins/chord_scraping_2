@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-bowie/changes-chords-820041",
+    "name": "David Bowie - Changes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Bowie"
+    },
+    "datePublished": "2009-05-03T20:00:01-04:00",
+    "dateModified": "2020-04-13T15:37:08-04:00",
+    "commentCount": 15
+}

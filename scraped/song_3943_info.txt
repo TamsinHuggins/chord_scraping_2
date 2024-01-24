@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/maine-chords-3128969",
+    "name": "Noah Kahan - Maine (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2020-05-03T15:31:55-04:00",
+    "dateModified": "2020-10-02T21:47:03-04:00",
+    "commentCount": 0
+}

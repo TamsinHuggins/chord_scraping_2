@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/foo-fighters/under-you-chords-4778135",
+    "name": "Foo Fighters - Under You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Foo Fighters"
+    },
+    "datePublished": "2023-05-17T08:27:44-04:00",
+    "dateModified": "2023-05-23T20:56:58-04:00",
+    "commentCount": 5,
+    "musicalKey": "A"
+}

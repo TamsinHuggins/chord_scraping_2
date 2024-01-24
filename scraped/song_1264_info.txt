@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/shine-on-you-crazy-diamond-part-iv-chords-932230",
+    "name": "Pink Floyd - Shine On You Crazy Diamond Part Iv (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2010-03-18T20:00:01-04:00",
+    "dateModified": "2016-08-21T12:39:11-04:00",
+    "commentCount": 17
+}

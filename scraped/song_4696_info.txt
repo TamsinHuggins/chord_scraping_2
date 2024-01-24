@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1974-ad/chhudaina-timro-mayale-chords-1208500",
+    "name": "1974 Ad - Chhudaina Timro Mayale (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "1974 AD"
+    },
+    "datePublished": "2013-01-16T19:00:01-05:00",
+    "dateModified": "2023-12-25T22:12:31-05:00",
+    "commentCount": 0
+}

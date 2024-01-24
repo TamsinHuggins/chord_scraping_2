@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joe-jackson/is-she-really-going-out-with-him-chords-1735971",
+    "name": "Joe Jackson - Is She Really Going Out With Him (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Joe Jackson"
+    },
+    "datePublished": "2015-05-08T09:27:59-04:00",
+    "dateModified": "2023-12-06T17:29:26-05:00",
+    "commentCount": 26,
+    "musicalKey": "Bb"
+}

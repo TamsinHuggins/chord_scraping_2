@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/finneas/break-my-heart-again-chords-2321251",
+    "name": "Finneas - Break My Heart Again (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "FINNEAS"
+    },
+    "datePublished": "2018-02-17T23:31:52-05:00",
+    "dateModified": "2020-08-04T10:48:01-04:00",
+    "commentCount": 41,
+    "musicalKey": "Em"
+}

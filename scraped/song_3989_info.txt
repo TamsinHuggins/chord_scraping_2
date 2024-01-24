@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/begin-again-chords-1184462",
+    "name": "Taylor Swift - Begin Again (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2012-09-24T20:00:01-04:00",
+    "dateModified": "2019-10-17T10:58:26-04:00",
+    "commentCount": 13,
+    "musicalKey": "G"
+}

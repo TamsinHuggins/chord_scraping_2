@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phil-wickham/hymn-of-heaven-chords-3530942",
+    "name": "Phil Wickham - Hymn Of Heaven (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Phil Wickham"
+    },
+    "datePublished": "2021-01-24T01:21:44-05:00",
+    "dateModified": "2021-09-19T14:35:20-04:00",
+    "commentCount": 7,
+    "musicalKey": "E"
+}

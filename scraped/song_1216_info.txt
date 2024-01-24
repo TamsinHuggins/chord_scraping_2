@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mantra-nepal/sadhai-sadhai-chords-2443051",
+    "name": "Mantra (Nepal) - Sadhai Sadhai (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mantra (Nepal)"
+    },
+    "datePublished": "2018-08-04T05:21:45-04:00",
+    "dateModified": "2021-06-11T09:46:38-04:00",
+    "commentCount": 2,
+    "musicalKey": "A"
+}

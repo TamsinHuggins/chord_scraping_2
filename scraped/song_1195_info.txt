@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/all-american-bitch-chords-4945450",
+    "name": "Olivia Rodrigo - All-American Bitch (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F# Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2023-09-07T16:20:51-04:00",
+    "dateModified": "2023-09-11T18:29:19-04:00",
+    "commentCount": 9,
+    "musicalKey": "F#"
+}

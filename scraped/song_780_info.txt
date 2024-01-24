@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lady-gaga/bad-romance-chords-923703",
+    "name": "Lady Gaga - Bad Romance (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lady Gaga"
+    },
+    "datePublished": "2010-02-22T19:00:01-05:00",
+    "dateModified": "2020-10-04T19:06:22-04:00",
+    "commentCount": 18,
+    "musicalKey": "Am"
+}

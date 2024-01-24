@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/girl-in-red/i-wanna-be-your-girlfriend-chords-2325733",
+    "name": "Girl In Red - I Wanna Be Your Girlfriend (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "girl in red"
+    },
+    "datePublished": "2018-02-24T11:07:11-05:00",
+    "dateModified": "2018-11-25T22:34:17-05:00",
+    "commentCount": 14
+}

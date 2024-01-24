@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kid-rock/picture-chords-29895",
+    "name": "Kid Rock - Picture (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kid Rock"
+    },
+    "datePublished": "2002-05-12T20:00:00-04:00",
+    "dateModified": "2018-12-11T00:13:36-05:00",
+    "commentCount": 50
+}

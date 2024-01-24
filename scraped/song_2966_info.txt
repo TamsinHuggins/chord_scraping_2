@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blake-shelton/gods-country-chords-2653218",
+    "name": "Blake Shelton - Gods Country (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Cm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Blake Shelton"
+    },
+    "datePublished": "2019-04-03T13:30:29-04:00",
+    "dateModified": "2019-07-30T16:10:53-04:00",
+    "commentCount": 31,
+    "musicalKey": "Cm"
+}

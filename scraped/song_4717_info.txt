@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sara-bareilles/gravity-chords-558172",
+    "name": "Sara Bareilles - Gravity (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sara Bareilles"
+    },
+    "datePublished": "2007-08-02T20:00:01-04:00",
+    "dateModified": "2018-09-17T11:29:28-04:00",
+    "commentCount": 7
+}

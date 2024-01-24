@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sia/the-greatest-chords-1872849",
+    "name": "Sia - The Greatest (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Sia"
+    },
+    "datePublished": "2016-09-06T10:43:05-04:00",
+    "dateModified": "2016-09-06T14:43:05-04:00",
+    "commentCount": 14
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/xxxtentacion/depression-and-obsession-chords-2123801",
+    "name": "Xxxtentacion - Depression And Obsession (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "XXXTENTACION"
+    },
+    "datePublished": "2017-08-26T06:15:03-04:00",
+    "dateModified": "2017-08-26T20:42:48-04:00",
+    "commentCount": 35,
+    "musicalKey": "Bm"
+}

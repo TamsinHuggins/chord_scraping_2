@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/mulan-ill-make-a-man-out-of-you-chords-786891",
+    "name": "Misc Cartoons - Mulan - Ill Make A Man Out Of You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2009-02-02T19:00:01-05:00",
+    "dateModified": "2017-02-02T07:25:21-05:00",
+    "commentCount": 20
+}

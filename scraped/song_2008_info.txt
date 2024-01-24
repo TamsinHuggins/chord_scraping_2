@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/modern-talking/cheri-cheri-lady-chords-488020",
+    "name": "Modern Talking - Cheri Cheri Lady (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Modern Talking"
+    },
+    "datePublished": "2007-03-18T20:00:01-04:00",
+    "dateModified": "2019-05-07T14:12:13-04:00",
+    "commentCount": 3
+}

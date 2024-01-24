@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fleetwood-mac/everywhere-chords-1166609",
+    "name": "Fleetwood Mac - Everywhere (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fleetwood Mac"
+    },
+    "datePublished": "2012-07-09T20:00:01-04:00",
+    "dateModified": "2022-12-02T17:21:24-05:00",
+    "commentCount": 15,
+    "musicalKey": "E"
+}

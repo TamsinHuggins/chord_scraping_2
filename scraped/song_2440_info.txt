@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gordon-lightfoot/early-morning-rain-chords-1044730",
+    "name": "Gordon Lightfoot - Early Morning Rain (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Gordon Lightfoot"
+    },
+    "datePublished": "2011-04-07T20:00:01-04:00",
+    "dateModified": "2023-11-04T23:36:26-04:00",
+    "commentCount": 18,
+    "musicalKey": "F"
+}

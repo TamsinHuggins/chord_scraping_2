@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jason-chen/stereo-hearts-chords-1498433",
+    "name": "Jason Chen - Stereo Hearts (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jason Chen"
+    },
+    "datePublished": "2014-07-03T04:51:08-04:00",
+    "dateModified": "2014-07-03T08:51:08-04:00",
+    "commentCount": 2
+}

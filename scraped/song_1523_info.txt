@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/blessed-assurance-chords-517094",
+    "name": "Misc Praise Songs - Blessed Assurance (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Praise Songs"
+    },
+    "datePublished": "2007-05-13T20:00:01-04:00",
+    "dateModified": "2018-12-10T10:06:09-05:00",
+    "commentCount": 21,
+    "musicalKey": "C"
+}

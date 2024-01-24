@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/twist-and-shout-chords-122350",
+    "name": "The Beatles - Twist And Shout (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2004-06-16T20:00:00-04:00",
+    "dateModified": "2020-07-22T12:44:47-04:00",
+    "commentCount": 35,
+    "musicalKey": "D"
+}

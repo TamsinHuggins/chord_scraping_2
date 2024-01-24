@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hotel-ugly/shut-up-my-moms-calling-chords-3463025",
+    "name": "Hotel Ugly - Shut Up My Moms Calling (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hotel Ugly"
+    },
+    "datePublished": "2020-12-11T16:04:15-05:00",
+    "dateModified": "2020-12-14T12:43:49-05:00",
+    "commentCount": 3
+}

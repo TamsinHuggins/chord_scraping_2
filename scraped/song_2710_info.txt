@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/mine-chords-975214",
+    "name": "Taylor Swift - Mine (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2010-08-04T20:00:01-04:00",
+    "dateModified": "2023-07-07T14:43:13-04:00",
+    "commentCount": 33,
+    "musicalKey": "G"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/boygenius/emily-im-sorry-chords-4608749",
+    "name": "Boygenius - Emily Im Sorry (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "boygenius"
+    },
+    "datePublished": "2023-01-18T14:45:18-05:00",
+    "dateModified": "2023-01-21T15:53:47-05:00",
+    "commentCount": 5
+}

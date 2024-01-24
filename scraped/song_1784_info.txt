@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/kathys-song-chords-1091921",
+    "name": "Simon & Garfunkel - Kathys Song (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Simon &amp; Garfunkel"
+    },
+    "datePublished": "2011-09-11T20:00:01-04:00",
+    "dateModified": "2022-10-25T21:17:35-04:00",
+    "commentCount": 30
+}

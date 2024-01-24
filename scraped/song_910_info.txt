@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/van-morrison/into-the-mystic-chords-106508",
+    "name": "Van Morrison - Into The Mystic (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Van Morrison"
+    },
+    "datePublished": "2004-02-25T19:00:00-05:00",
+    "dateModified": "2019-09-18T09:02:21-04:00",
+    "commentCount": 50,
+    "musicalKey": "Eb"
+}

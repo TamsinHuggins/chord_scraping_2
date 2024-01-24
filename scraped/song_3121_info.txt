@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/teddy-swims/lose-control-chords-5089048",
+    "name": "Teddy Swims - Lose Control (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Teddy Swims"
+    },
+    "datePublished": "2024-01-02T08:56:39-05:00",
+    "dateModified": "2024-01-03T11:55:17-05:00",
+    "commentCount": 0,
+    "musicalKey": "F#m"
+}

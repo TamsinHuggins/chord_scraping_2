@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/betty-chords-3261314",
+    "name": "Taylor Swift - Betty (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-07-24T01:20:39-04:00",
+    "dateModified": "2020-11-11T12:03:18-05:00",
+    "commentCount": 46,
+    "musicalKey": "C"
+}
