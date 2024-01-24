@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bryan-adams/cuts-like-a-knife-chords-18579",
+    "name": "Bryan Adams - Cuts Like A Knife (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bryan Adams"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2016-07-11T10:47:02-04:00",
+    "commentCount": 6
+}

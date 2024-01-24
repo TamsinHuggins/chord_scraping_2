@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sade/like-a-tattoo-chords-2704137",
+    "name": "Sade - Like A Tattoo (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sade"
+    },
+    "datePublished": "2019-05-24T04:18:51-04:00",
+    "dateModified": "2023-04-14T20:57:56-04:00",
+    "commentCount": 3
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shawn-mendes/theres-nothing-holdin-me-back-chords-1983837",
+    "name": "Shawn Mendes - Theres Nothing Holdin Me Back (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Shawn Mendes"
+    },
+    "datePublished": "2017-04-20T03:05:45-04:00",
+    "dateModified": "2019-08-12T11:01:09-04:00",
+    "commentCount": 51,
+    "musicalKey": "D"
+}

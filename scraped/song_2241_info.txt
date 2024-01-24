@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/moana-youre-welcome-chords-1904336",
+    "name": "Misc Cartoons - Moana - Youre Welcome (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2016-11-23T06:41:54-05:00",
+    "dateModified": "2017-08-24T14:56:45-04:00",
+    "commentCount": 21,
+    "musicalKey": "Am"
+}

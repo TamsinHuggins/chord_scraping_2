@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fleetwood-mac/gold-dust-woman-chords-992545",
+    "name": "Fleetwood Mac - Gold Dust Woman (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fleetwood Mac"
+    },
+    "datePublished": "2010-10-03T20:00:01-04:00",
+    "dateModified": "2020-03-16T08:53:28-04:00",
+    "commentCount": 41
+}

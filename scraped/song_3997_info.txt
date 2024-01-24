@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/picture-to-burn-chords-429071",
+    "name": "Taylor Swift - Picture To Burn (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2006-10-29T19:00:01-05:00",
+    "dateModified": "2023-06-04T11:49:32-04:00",
+    "commentCount": 40
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/colbie-caillat/try-chords-1489771",
+    "name": "Colbie Caillat - Try (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Colbie Caillat"
+    },
+    "datePublished": "2014-06-03T04:33:35-04:00",
+    "dateModified": "2021-01-20T08:18:12-05:00",
+    "commentCount": 43,
+    "musicalKey": "Bbm"
+}

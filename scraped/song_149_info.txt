@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruno-mars/just-the-way-you-are-chords-970416",
+    "name": "Bruno Mars - Just The Way You Are (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruno Mars"
+    },
+    "datePublished": "2010-07-22T20:00:01-04:00",
+    "dateModified": "2019-02-07T09:24:38-05:00",
+    "commentCount": 69,
+    "musicalKey": "F"
+}

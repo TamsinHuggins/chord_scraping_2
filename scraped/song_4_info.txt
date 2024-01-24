@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/eagles/hotel-california-chords-46190",
-    "name": "Eagles - Hotel California (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: 2",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/thinking-out-loud-chords-1486860",
+    "name": "Ed Sheeran - Thinking Out Loud (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
     "composer": {
         "@type": "Person",
-        "name": "Eagles"
+        "name": "Ed Sheeran"
     },
-    "datePublished": "2003-02-23T19:00:00-05:00",
-    "dateModified": "2023-07-18T02:53:04-04:00",
-    "commentCount": 436,
-    "musicalKey": "Bm"
+    "datePublished": "2014-05-23T16:17:42-04:00",
+    "dateModified": "2020-09-26T23:55:31-04:00",
+    "commentCount": 274,
+    "musicalKey": "D"
 }

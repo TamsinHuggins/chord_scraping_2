@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/steppenwolf/born-to-be-wild-chords-32120",
+    "name": "Steppenwolf - Born To Be Wild (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Steppenwolf"
+    },
+    "datePublished": "2002-09-22T20:00:00-04:00",
+    "dateModified": "2019-07-09T00:58:19-04:00",
+    "commentCount": 43
+}

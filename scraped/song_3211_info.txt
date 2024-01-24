@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paul-simon/kodachrome-chords-1099242",
+    "name": "Paul Simon - Kodachrome (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Paul Simon"
+    },
+    "datePublished": "2011-10-10T20:00:01-04:00",
+    "dateModified": "2023-11-29T23:19:12-05:00",
+    "commentCount": 24
+}

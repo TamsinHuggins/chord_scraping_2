@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mumford-sons/i-will-wait-chords-1174384",
+    "name": "Mumford & Sons - I Will Wait (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Mumford &amp; Sons"
+    },
+    "datePublished": "2012-08-09T20:00:01-04:00",
+    "dateModified": "2018-06-18T12:04:35-04:00",
+    "commentCount": 80,
+    "musicalKey": "Db"
+}

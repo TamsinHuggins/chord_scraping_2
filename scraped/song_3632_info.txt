@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-avett-brothers/i-wish-i-was-chords-1856712",
+    "name": "The Avett Brothers - I Wish I Was (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "The Avett Brothers"
+    },
+    "datePublished": "2016-07-04T11:47:42-04:00",
+    "dateModified": "2019-06-29T10:12:27-04:00",
+    "commentCount": 10
+}

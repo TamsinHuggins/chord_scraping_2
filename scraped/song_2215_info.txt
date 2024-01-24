@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lil-peep/star-shopping-chords-2251989",
+    "name": "Lil Peep - Star Shopping (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "LiL PEEP"
+    },
+    "datePublished": "2017-12-04T18:37:45-05:00",
+    "dateModified": "2017-12-05T10:16:46-05:00",
+    "commentCount": 7
+}

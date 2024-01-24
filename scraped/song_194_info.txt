@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/one-direction/night-changes-chords-1678440",
+    "name": "One Direction - Night Changes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "One Direction"
+    },
+    "datePublished": "2014-11-10T04:05:45-05:00",
+    "dateModified": "2021-01-30T08:41:19-05:00",
+    "commentCount": 84,
+    "musicalKey": "Ab"
+}

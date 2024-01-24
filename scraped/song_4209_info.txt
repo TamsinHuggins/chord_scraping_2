@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-t-hall/thats-how-i-got-to-memphis-chords-1779152",
+    "name": "Tom T. Hall - Thats How I Got To Memphis (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom T. Hall"
+    },
+    "datePublished": "2015-11-11T02:17:47-05:00",
+    "dateModified": "2020-01-28T09:54:49-05:00",
+    "commentCount": 6
+}

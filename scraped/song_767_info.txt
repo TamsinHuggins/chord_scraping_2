@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/post-malone/sunflower-chords-2497134",
+    "name": "Post Malone - Sunflower (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Post Malone"
+    },
+    "datePublished": "2018-10-19T18:12:59-04:00",
+    "dateModified": "2023-04-05T13:23:43-04:00",
+    "commentCount": 43,
+    "musicalKey": "D"
+}

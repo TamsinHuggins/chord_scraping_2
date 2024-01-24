@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/demi-lovato/stone-cold-chords-1772609",
+    "name": "Demi Lovato - Stone Cold (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Demi Lovato"
+    },
+    "datePublished": "2015-10-09T03:57:00-04:00",
+    "dateModified": "2017-10-30T00:57:15-04:00",
+    "commentCount": 39,
+    "musicalKey": "C"
+}

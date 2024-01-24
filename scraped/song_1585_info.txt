@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/i-surrender-chords-1169001",
+    "name": "Hillsong Worship - I Surrender (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Worship"
+    },
+    "datePublished": "2012-07-17T20:00:01-04:00",
+    "dateModified": "2022-01-28T20:38:31-05:00",
+    "commentCount": 23,
+    "musicalKey": "Dm"
+}

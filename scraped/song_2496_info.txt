@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rod-stewart/have-i-told-you-lately-chords-1677935",
+    "name": "Rod Stewart - Have I Told You Lately (chords)",
+    "text": "Difficulty: beginner Tuning: D G C F A D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rod Stewart"
+    },
+    "datePublished": "2014-11-10T17:24:34-05:00",
+    "dateModified": "2020-03-24T14:10:12-04:00",
+    "commentCount": 6
+}

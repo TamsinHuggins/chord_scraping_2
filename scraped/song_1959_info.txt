@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jacques-brel/ne-me-quitte-pas-chords-62531",
+    "name": "Jacques Brel - Ne Me Quitte Pas (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: Abm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jacques Brel"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-11-05T16:13:22-05:00",
+    "commentCount": 12,
+    "musicalKey": "Abm"
+}

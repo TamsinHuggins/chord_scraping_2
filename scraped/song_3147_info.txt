@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/everlast/what-its-like-chords-1683079",
+    "name": "Everlast - What Its Like (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Everlast"
+    },
+    "datePublished": "2014-11-24T04:40:55-05:00",
+    "dateModified": "2018-12-04T11:16:34-05:00",
+    "commentCount": 19
+}

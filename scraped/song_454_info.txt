@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/sparks-chords-132588",
+    "name": "Coldplay - Sparks (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2004-08-15T20:00:00-04:00",
+    "dateModified": "2016-04-26T13:17:32-04:00",
+    "commentCount": 39
+}

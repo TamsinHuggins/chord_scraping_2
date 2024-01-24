@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/ob-la-di-ob-la-da-chords-166166",
+    "name": "The Beatles - Ob-La-Di Ob-La-Da (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2005-02-20T19:00:00-05:00",
+    "dateModified": "2020-09-12T21:08:08-04:00",
+    "commentCount": 27,
+    "musicalKey": "A"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rascal-flatts/what-hurts-the-most-chords-334985",
+    "name": "Rascal Flatts - What Hurts The Most (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Fm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Rascal Flatts"
+    },
+    "datePublished": "2006-02-19T19:00:01-05:00",
+    "dateModified": "2020-05-07T08:48:55-04:00",
+    "commentCount": 36,
+    "musicalKey": "Fm"
+}

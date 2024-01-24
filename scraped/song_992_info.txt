@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/powfu/death-bed-coffee-for-your-head-chords-2979347",
+    "name": "Powfu - Death Bed Coffee For Your Head (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Powfu"
+    },
+    "datePublished": "2020-02-03T13:29:10-05:00",
+    "dateModified": "2023-11-18T11:49:06-05:00",
+    "commentCount": 38,
+    "musicalKey": "C"
+}

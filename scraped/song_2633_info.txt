@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-everly-brothers/let-it-be-me-chords-1099551",
+    "name": "The Everly Brothers - Let It Be Me (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Everly Brothers"
+    },
+    "datePublished": "2011-10-11T20:00:01-04:00",
+    "dateModified": "2022-07-17T17:53:09-04:00",
+    "commentCount": 11
+}

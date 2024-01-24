@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/young-the-giant/cough-syrup-chords-1071862",
+    "name": "Young The Giant - Cough Syrup (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Young the Giant"
+    },
+    "datePublished": "2011-07-03T20:00:01-04:00",
+    "dateModified": "2017-09-01T17:21:37-04:00",
+    "commentCount": 23
+}

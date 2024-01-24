@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nick-cave-the-bad-seeds/into-my-arms-chords-1469180",
+    "name": "Nick Cave & The Bad Seeds - Into My Arms (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nick Cave &amp; The Bad Seeds"
+    },
+    "datePublished": "2014-03-10T20:00:01-04:00",
+    "dateModified": "2016-08-03T07:45:20-04:00",
+    "commentCount": 4
+}

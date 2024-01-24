@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mentissa/et-bam-chords-3781817",
+    "name": "Mentissa - Et Bam (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mentissa"
+    },
+    "datePublished": "2021-07-06T13:54:35-04:00",
+    "dateModified": "2021-07-06T17:54:35-04:00",
+    "commentCount": 3,
+    "musicalKey": "D"
+}

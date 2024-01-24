@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/silk-sonic/leave-the-door-open-chords-3596177",
+    "name": "Silk Sonic - Leave The Door Open (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Silk Sonic"
+    },
+    "datePublished": "2021-03-05T08:05:37-05:00",
+    "dateModified": "2022-04-23T14:57:25-04:00",
+    "commentCount": 21,
+    "musicalKey": "C"
+}

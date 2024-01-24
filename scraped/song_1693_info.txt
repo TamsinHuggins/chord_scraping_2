@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/america-chords-1040297",
+    "name": "Simon & Garfunkel - America (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Simon &amp; Garfunkel"
+    },
+    "datePublished": "2011-03-23T20:00:01-04:00",
+    "dateModified": "2020-10-29T21:21:41-04:00",
+    "commentCount": 32
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/led-zeppelin/going-to-california-chords-828659",
+    "name": "Led Zeppelin - Going To California (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Led Zeppelin"
+    },
+    "datePublished": "2009-05-25T20:00:01-04:00",
+    "dateModified": "2016-05-16T12:43:45-04:00",
+    "commentCount": 36
+}

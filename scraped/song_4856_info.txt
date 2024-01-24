@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-monkees/im-a-believer-chords-25298",
+    "name": "The Monkees - Im A Believer (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Monkees"
+    },
+    "datePublished": "2002-03-13T19:00:00-05:00",
+    "dateModified": "2021-12-13T21:26:20-05:00",
+    "commentCount": 20,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gallery/phantom-of-the-opera-chords-4021378",
+    "name": "Gallery - Phantom Of The Opera (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gallery"
+    },
+    "datePublished": "2022-01-09T05:45:32-05:00",
+    "dateModified": "2022-01-09T10:45:32-05:00",
+    "commentCount": 0,
+    "musicalKey": "Dm"
+}

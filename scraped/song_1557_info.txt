@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sufjan-stevens/mystery-of-love-chords-2224643",
+    "name": "Sufjan Stevens - Mystery Of Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sufjan Stevens"
+    },
+    "datePublished": "2017-11-02T21:25:43-04:00",
+    "dateModified": "2018-03-28T06:44:46-04:00",
+    "commentCount": 27,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dominic-fike/3-nights-chords-2667402",
+    "name": "Dominic Fike - 3 Nights (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Dominic Fike"
+    },
+    "datePublished": "2019-04-17T18:40:04-04:00",
+    "dateModified": "2019-04-17T23:24:56-04:00",
+    "commentCount": 3,
+    "musicalKey": "A"
+}

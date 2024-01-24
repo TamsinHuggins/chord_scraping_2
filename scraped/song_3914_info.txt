@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cristy-lane/one-day-at-a-time-chords-1825815",
+    "name": "Cristy Lane - One Day At A Time (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cristy Lane"
+    },
+    "datePublished": "2016-03-18T07:39:39-04:00",
+    "dateModified": "2016-03-18T11:39:39-04:00",
+    "commentCount": 5
+}

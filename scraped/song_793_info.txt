@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-tomlin/good-good-father-chords-1772968",
+    "name": "Chris Tomlin - Good Good Father (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Tomlin"
+    },
+    "datePublished": "2015-10-10T11:00:46-04:00",
+    "dateModified": "2021-06-21T16:28:54-04:00",
+    "commentCount": 57,
+    "musicalKey": "A"
+}

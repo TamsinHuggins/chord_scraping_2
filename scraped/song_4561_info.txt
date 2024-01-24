@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1123085",
+    "name": "Téléphone - Cendrillon (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Téléphone"
+    },
+    "datePublished": "2012-01-22T19:00:01-05:00",
+    "dateModified": "2020-11-07T20:00:06-05:00",
+    "commentCount": 7
+}

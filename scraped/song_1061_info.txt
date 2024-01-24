@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/matt-redman/blessed-be-your-name-chords-52780",
+    "name": "Matt Redman - Blessed Be Your Name (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Matt Redman"
+    },
+    "datePublished": "2003-06-01T20:00:00-04:00",
+    "dateModified": "2020-05-21T00:48:09-04:00",
+    "commentCount": 64
+}

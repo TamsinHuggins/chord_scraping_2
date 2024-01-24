@@ -1,0 +1,1 @@
+F#[/ch] [ch]A[/ch]  [ch]B[/ch]  [ch]D[/ch]  [ch]A[/ch] [ch]C#m[/ch] [ch]E[/ch]\r\nE- 2  -  -  -  5  4  0\r\nB- 2  2  4  7  5  5  0\r\nG- 3  2  4  7  6  6  1\r\nD- 4  2  4  7  7  6  2\r\nA- 4  0  2  5  7  4  2\r\nE- 2  -  -  -  5  -  0[/tab]\r\n\r\nThe opening \

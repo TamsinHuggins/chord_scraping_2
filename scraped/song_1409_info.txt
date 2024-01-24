@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eric-clapton/knocking-on-heavens-door-chords-138823",
+    "name": "Eric Clapton - Knocking On Heavens Door (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eric Clapton"
+    },
+    "datePublished": "2004-09-26T20:00:00-04:00",
+    "dateModified": "2018-09-01T10:33:55-04:00",
+    "commentCount": 66
+}

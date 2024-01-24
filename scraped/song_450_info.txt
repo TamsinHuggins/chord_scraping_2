@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/counting-crows/mr-jones-chords-16066",
+    "name": "Counting Crows - Mr Jones (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Counting Crows"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-08-21T20:48:39-04:00",
+    "commentCount": 53,
+    "musicalKey": "Am"
+}

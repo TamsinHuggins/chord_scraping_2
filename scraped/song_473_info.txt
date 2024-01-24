@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dido/thank-you-chords-57890",
+    "name": "Dido - Thank You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Dido"
+    },
+    "datePublished": "2003-08-10T20:00:00-04:00",
+    "dateModified": "2022-02-18T17:09:16-05:00",
+    "commentCount": 27,
+    "musicalKey": "G#m"
+}

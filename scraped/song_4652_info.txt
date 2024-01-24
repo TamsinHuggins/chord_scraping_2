@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alex-g-sandy-alex-g/gnaw-chords-2581020",
+    "name": "Alex G ((Sandy) Alex G) - Gnaw (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alex G ((Sandy) Alex G)"
+    },
+    "datePublished": "2019-01-22T03:02:02-05:00",
+    "dateModified": "2019-07-22T12:08:10-04:00",
+    "commentCount": 2
+}

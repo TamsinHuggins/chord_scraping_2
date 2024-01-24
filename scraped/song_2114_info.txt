@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mumford-sons/the-cave-chords-930789",
+    "name": "Mumford & Sons - The Cave (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Mumford &amp; Sons"
+    },
+    "datePublished": "2010-03-15T20:00:01-04:00",
+    "dateModified": "2020-05-04T20:54:26-04:00",
+    "commentCount": 62
+}

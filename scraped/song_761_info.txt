@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linkin-park/in-the-end-chords-1483998",
+    "name": "Linkin Park - In The End (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Linkin Park"
+    },
+    "datePublished": "2014-05-13T01:31:45-04:00",
+    "dateModified": "2020-03-27T22:20:04-04:00",
+    "commentCount": 21
+}

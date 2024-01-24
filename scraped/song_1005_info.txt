@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/matchbox-twenty/3am-chords-1063467",
+    "name": "Matchbox Twenty - 3Am (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Matchbox Twenty"
+    },
+    "datePublished": "2011-06-06T20:00:01-04:00",
+    "dateModified": "2016-04-27T10:19:56-04:00",
+    "commentCount": 28
+}

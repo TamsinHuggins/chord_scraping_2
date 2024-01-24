@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/townes-van-zandt/waitin-around-to-die-chords-1417574",
+    "name": "Townes Van Zandt - Waitin Around To Die (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Townes Van Zandt"
+    },
+    "datePublished": "2013-09-15T20:00:01-04:00",
+    "dateModified": "2019-01-25T23:54:34-05:00",
+    "commentCount": 8
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alison-krauss/down-to-the-river-to-pray-chords-2531577",
+    "name": "Alison Krauss - Down To The River To Pray (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alison Krauss"
+    },
+    "datePublished": "2018-11-30T15:44:27-05:00",
+    "dateModified": "2018-11-30T20:55:10-05:00",
+    "commentCount": 6,
+    "musicalKey": "G"
+}

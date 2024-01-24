@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-chamling-rai/sadhana-chords-4679273",
+    "name": "John Chamling Rai - Sadhana (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "John Chamling Rai"
+    },
+    "datePublished": "2023-03-10T04:03:01-05:00",
+    "dateModified": "2023-03-10T12:55:06-05:00",
+    "commentCount": 0
+}

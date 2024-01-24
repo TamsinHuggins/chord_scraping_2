@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dire-straits/so-far-away-chords-15417",
+    "name": "Dire Straits - So Far Away (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dire Straits"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2016-07-01T08:41:54-04:00",
+    "commentCount": 8
+}

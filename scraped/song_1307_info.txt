@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/black-sabbath/paranoid-chords-1167469",
+    "name": "Black Sabbath - Paranoid (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Black Sabbath"
+    },
+    "datePublished": "2012-07-10T20:00:01-04:00",
+    "dateModified": "2018-05-17T13:11:19-04:00",
+    "commentCount": 11
+}

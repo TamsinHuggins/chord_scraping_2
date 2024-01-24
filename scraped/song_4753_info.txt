@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linkin-park/iridescent-chords-986543",
+    "name": "Linkin Park - Iridescent (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Linkin Park"
+    },
+    "datePublished": "2010-09-09T20:00:01-04:00",
+    "dateModified": "2017-07-21T13:34:23-04:00",
+    "commentCount": 24,
+    "musicalKey": "Am"
+}

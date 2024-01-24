@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/passenger/let-her-go-chords-1137467",
-    "name": "Passenger - Let Her Go (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: 7",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-stapleton/tennessee-whiskey-chords-1741042",
+    "name": "Chris Stapleton - Tennessee Whiskey (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
     "composer": {
         "@type": "Person",
-        "name": "Passenger"
+        "name": "Chris Stapleton"
     },
-    "datePublished": "2012-03-12T20:00:01-04:00",
-    "dateModified": "2021-02-03T21:38:09-05:00",
-    "commentCount": 500,
-    "musicalKey": "Em"
+    "datePublished": "2015-05-29T05:08:43-04:00",
+    "dateModified": "2022-10-20T15:13:46-04:00",
+    "commentCount": 85,
+    "musicalKey": "A"
 }

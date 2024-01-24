@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/surf-curse/freaks-chords-1754545",
+    "name": "Surf Curse - Freaks (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Surf Curse"
+    },
+    "datePublished": "2015-07-24T02:23:18-04:00",
+    "dateModified": "2021-05-24T03:53:21-04:00",
+    "commentCount": 13,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chord-overstreet/hold-on-chords-1963497",
+    "name": "Chord Overstreet - Hold On (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chord Overstreet"
+    },
+    "datePublished": "2017-03-16T04:18:18-04:00",
+    "dateModified": "2017-03-16T08:18:16-04:00",
+    "commentCount": 32
+}

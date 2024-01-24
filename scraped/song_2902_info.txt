@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neck-deep/december-chords-1759066",
+    "name": "Neck Deep - December (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neck Deep"
+    },
+    "datePublished": "2015-08-15T16:26:53-04:00",
+    "dateModified": "2022-12-02T17:21:11-05:00",
+    "commentCount": 18,
+    "musicalKey": "D"
+}

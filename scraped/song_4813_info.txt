@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kris-kristofferson/sunday-morning-coming-down-chords-1418210",
+    "name": "Kris Kristofferson - Sunday Morning Coming Down (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Kris Kristofferson"
+    },
+    "datePublished": "2013-09-12T20:00:01-04:00",
+    "dateModified": "2020-05-13T00:01:01-04:00",
+    "commentCount": 12
+}

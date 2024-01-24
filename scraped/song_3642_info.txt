@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/daft-punk/instant-crush-chords-1251499",
+    "name": "Daft Punk - Instant Crush (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Daft Punk"
+    },
+    "datePublished": "2013-06-10T20:00:01-04:00",
+    "dateModified": "2021-02-23T11:07:11-05:00",
+    "commentCount": 15,
+    "musicalKey": "E"
+}

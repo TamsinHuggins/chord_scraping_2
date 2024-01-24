@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/dont-panic-chords-200878",
+    "name": "Coldplay - Dont Panic (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2005-07-26T20:00:00-04:00",
+    "dateModified": "2022-10-30T19:13:25-04:00",
+    "commentCount": 32,
+    "musicalKey": "F"
+}

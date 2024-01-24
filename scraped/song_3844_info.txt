@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/gimme-gimme-gimme-chords-1470919",
+    "name": "Abba - Gimme Gimme Gimme (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2014-03-23T20:00:01-04:00",
+    "dateModified": "2023-04-04T21:30:11-04:00",
+    "commentCount": 1,
+    "musicalKey": "Dm"
+}

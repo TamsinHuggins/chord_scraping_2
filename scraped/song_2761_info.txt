@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/boywithuke/toxic-chords-3895790",
+    "name": "Boywithuke - Toxic (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "BoyWithUke"
+    },
+    "datePublished": "2021-10-02T09:32:52-04:00",
+    "dateModified": "2021-11-11T17:47:09-05:00",
+    "commentCount": 16,
+    "musicalKey": "B"
+}

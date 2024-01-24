@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-petty-and-the-heartbreakers/american-girl-chords-1142372",
+    "name": "Tom Petty And The Heartbreakers - American Girl (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Petty and The Heartbreakers"
+    },
+    "datePublished": "2012-04-02T20:00:01-04:00",
+    "dateModified": "2020-03-15T19:26:20-04:00",
+    "commentCount": 54,
+    "musicalKey": "D"
+}

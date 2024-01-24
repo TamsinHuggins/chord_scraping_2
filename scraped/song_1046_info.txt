@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/morgan-wallen/sand-in-my-boots-chords-3506978",
+    "name": "Morgan Wallen - Sand In My Boots (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Morgan Wallen"
+    },
+    "datePublished": "2021-01-09T19:30:28-05:00",
+    "dateModified": "2021-01-26T15:55:05-05:00",
+    "commentCount": 19,
+    "musicalKey": "Eb"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/oh-my-darling-clementine-chords-1050962",
+    "name": "Misc Traditional - Oh My Darling Clementine (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2011-04-25T20:00:01-04:00",
+    "dateModified": "2022-05-01T20:49:37-04:00",
+    "commentCount": 18
+}

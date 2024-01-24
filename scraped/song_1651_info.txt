@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/culture-club/karma-chameleon-chords-731616",
+    "name": "Culture Club - Karma Chameleon (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Culture Club"
+    },
+    "datePublished": "2008-09-12T20:00:01-04:00",
+    "dateModified": "2023-03-11T23:54:37-05:00",
+    "commentCount": 3,
+    "musicalKey": "Bb"
+}

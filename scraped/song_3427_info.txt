@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/a-certain-romance-chords-280961",
+    "name": "Arctic Monkeys - A Certain Romance (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2005-12-21T19:00:01-05:00",
+    "dateModified": "2018-07-16T20:00:16-04:00",
+    "commentCount": 18
+}

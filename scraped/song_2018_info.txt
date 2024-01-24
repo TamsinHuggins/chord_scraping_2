@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/party-favor-chords-2106961",
+    "name": "Billie Eilish - Party Favor (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2017-08-12T01:23:40-04:00",
+    "dateModified": "2017-08-14T21:53:24-04:00",
+    "commentCount": 33
+}

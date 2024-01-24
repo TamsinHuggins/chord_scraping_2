@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-musicals/six-the-musical-heart-of-stone-chords-2608638",
+    "name": "Misc Musicals - Six The Musical - Heart Of Stone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Musicals"
+    },
+    "datePublished": "2019-02-17T23:29:41-05:00",
+    "dateModified": "2022-12-30T23:41:43-05:00",
+    "commentCount": 5
+}

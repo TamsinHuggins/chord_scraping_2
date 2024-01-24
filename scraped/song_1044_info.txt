@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-ezra/shotgun-chords-2348569",
+    "name": "George Ezra - Shotgun (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "George Ezra"
+    },
+    "datePublished": "2018-03-23T08:42:31-04:00",
+    "dateModified": "2018-10-26T13:33:14-04:00",
+    "commentCount": 37,
+    "musicalKey": "F"
+}

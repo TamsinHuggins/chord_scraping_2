@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-combs/better-together-chords-2887499",
+    "name": "Luke Combs - Better Together (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Combs"
+    },
+    "datePublished": "2019-11-09T01:03:24-05:00",
+    "dateModified": "2019-11-09T08:59:16-05:00",
+    "commentCount": 22,
+    "musicalKey": "C"
+}

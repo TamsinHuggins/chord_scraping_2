@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ashutosh-kc/maya-chords-3714014",
+    "name": "Ashutosh Kc - Maya (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Ashutosh KC"
+    },
+    "datePublished": "2021-05-19T08:58:01-04:00",
+    "dateModified": "2021-07-08T10:19:23-04:00",
+    "commentCount": 1
+}

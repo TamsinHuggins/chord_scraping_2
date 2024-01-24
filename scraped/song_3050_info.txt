@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/black-sabbath/war-pigs-chords-1694335",
+    "name": "Black Sabbath - War Pigs (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Black Sabbath"
+    },
+    "datePublished": "2014-12-27T14:09:01-05:00",
+    "dateModified": "2024-01-22T18:08:07-05:00",
+    "commentCount": 14
+}

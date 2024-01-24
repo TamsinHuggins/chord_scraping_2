@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/waiting-room-chords-1903831",
+    "name": "Phoebe Bridgers - Waiting Room (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phoebe Bridgers"
+    },
+    "datePublished": "2016-11-16T14:59:32-05:00",
+    "dateModified": "2023-09-04T09:29:23-04:00",
+    "commentCount": 5
+}

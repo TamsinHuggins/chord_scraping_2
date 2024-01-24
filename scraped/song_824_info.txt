@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/foreigner/i-want-to-know-what-love-is-chords-42854",
+    "name": "Foreigner - I Want To Know What Love Is (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Foreigner"
+    },
+    "datePublished": "2003-01-07T19:00:00-05:00",
+    "dateModified": "2022-04-28T11:08:55-04:00",
+    "commentCount": 17
+}

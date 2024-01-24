@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-proclaimers/im-gonna-be-500-miles-chords-26900",
+    "name": "The Proclaimers - Im Gonna Be 500 Miles (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Proclaimers"
+    },
+    "datePublished": "2002-04-06T19:00:00-05:00",
+    "dateModified": "2020-01-15T10:10:31-05:00",
+    "commentCount": 51,
+    "musicalKey": "E"
+}

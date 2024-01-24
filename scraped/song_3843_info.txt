@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-seekers/ill-never-find-another-you-chords-1395519",
+    "name": "The Seekers - Ill Never Find Another You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Seekers"
+    },
+    "datePublished": "2013-06-10T20:00:01-04:00",
+    "dateModified": "2018-01-14T21:16:13-05:00",
+    "commentCount": 17
+}

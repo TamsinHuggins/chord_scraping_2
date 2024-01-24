@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/aerosmith/i-dont-want-to-miss-a-thing-chords-59465",
+    "name": "Aerosmith - I Dont Want To Miss A Thing (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Aerosmith"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2022-07-16T08:42:45-04:00",
+    "commentCount": 53,
+    "musicalKey": "D"
+}

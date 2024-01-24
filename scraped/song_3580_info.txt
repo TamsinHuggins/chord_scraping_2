@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lovejoy/perfume-chords-3750401",
+    "name": "Lovejoy - Perfume (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lovejoy"
+    },
+    "datePublished": "2021-06-13T08:38:36-04:00",
+    "dateModified": "2021-12-27T16:43:20-05:00",
+    "commentCount": 22,
+    "musicalKey": "Eb"
+}

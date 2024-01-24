@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-archies/sugar-sugar-chords-358702",
+    "name": "The Archies - Sugar Sugar (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Archies"
+    },
+    "datePublished": "2006-04-25T20:00:01-04:00",
+    "dateModified": "2023-02-10T14:00:55-05:00",
+    "commentCount": 14
+}

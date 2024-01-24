@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bon-jovi/bed-of-roses-chords-194949",
+    "name": "Bon Jovi - Bed Of Roses (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bon Jovi"
+    },
+    "datePublished": "2005-07-01T20:00:00-04:00",
+    "dateModified": "2021-10-13T19:14:41-04:00",
+    "commentCount": 40,
+    "musicalKey": "F"
+}

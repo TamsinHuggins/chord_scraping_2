@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1044741",
+    "name": "Simon & Garfunkel - El Cóndor Pasa If I Could (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Simon &amp; Garfunkel"
+    },
+    "datePublished": "2011-04-12T20:00:01-04:00",
+    "dateModified": "2023-12-01T22:09:10-05:00",
+    "commentCount": 14,
+    "musicalKey": "Em"
+}

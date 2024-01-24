@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/avicii/hey-brother-chords-1426261",
+    "name": "Avicii - Hey Brother (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Avicii"
+    },
+    "datePublished": "2013-10-20T20:00:01-04:00",
+    "dateModified": "2020-08-25T01:10:22-04:00",
+    "commentCount": 65,
+    "musicalKey": "Gm"
+}

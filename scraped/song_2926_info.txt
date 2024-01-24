@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-chords-1056138",
+    "name": "Chris Isaak - Wicked Game (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Isaak"
+    },
+    "datePublished": "2011-05-22T20:00:01-04:00",
+    "dateModified": "2023-12-23T22:31:41-05:00",
+    "commentCount": 11,
+    "musicalKey": "Bm"
+}

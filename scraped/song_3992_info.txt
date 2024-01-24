@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harvey-danger/flagpole-sitta-chords-41929",
+    "name": "Harvey Danger - Flagpole Sitta (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Harvey Danger"
+    },
+    "datePublished": "2002-12-25T19:00:00-05:00",
+    "dateModified": "2019-04-02T05:09:03-04:00",
+    "commentCount": 34
+}

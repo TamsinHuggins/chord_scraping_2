@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/schule-der-erweckung/sehnsucht-chords-4316504",
+    "name": "Schule Der Erweckung - Sehnsucht (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Schule der Erweckung"
+    },
+    "datePublished": "2022-08-19T07:16:49-04:00",
+    "dateModified": "2022-08-22T15:45:07-04:00",
+    "commentCount": 2,
+    "musicalKey": "D"
+}

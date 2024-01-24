@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-devil-makes-three/old-number-7-chords-761428",
+    "name": "The Devil Makes Three - Old Number 7 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Devil Makes Three"
+    },
+    "datePublished": "2008-11-28T19:00:01-05:00",
+    "dateModified": "2020-01-23T01:57:35-05:00",
+    "commentCount": 25,
+    "musicalKey": "Bm"
+}

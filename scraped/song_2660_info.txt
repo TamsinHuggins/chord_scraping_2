@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/morgan-wallen/man-made-a-bar-chords-4670954",
+    "name": "Morgan Wallen - Man Made A Bar (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Morgan Wallen"
+    },
+    "datePublished": "2023-03-03T16:12:53-05:00",
+    "dateModified": "2023-03-04T12:36:49-05:00",
+    "commentCount": 1
+}

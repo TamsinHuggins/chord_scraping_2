@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/2102057",
+    "name": "Édith Piaf - La Vie En Rose (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Édith Piaf"
+    },
+    "datePublished": "2017-08-07T22:08:04-04:00",
+    "dateModified": "2017-08-07T17:04:55-04:00",
+    "commentCount": 5
+}

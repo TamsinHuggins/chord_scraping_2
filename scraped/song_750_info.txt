@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-las/there-she-goes-chords-73933",
+    "name": "The La's - There She Goes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The La&#039;s"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-03-02T18:24:01-05:00",
+    "commentCount": 28,
+    "musicalKey": "G"
+}

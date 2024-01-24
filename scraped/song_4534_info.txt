@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/willie-nelson/seven-spanish-angels-chords-884270",
+    "name": "Willie Nelson - Seven Spanish Angels (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Willie Nelson"
+    },
+    "datePublished": "2009-10-21T20:00:01-04:00",
+    "dateModified": "2022-08-09T07:23:52-04:00",
+    "commentCount": 28,
+    "musicalKey": "F"
+}

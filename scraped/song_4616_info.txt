@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1974-ad/parelima-chords-2425033",
+    "name": "1974 Ad - Parelima (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "1974 AD"
+    },
+    "datePublished": "2018-07-13T07:34:01-04:00",
+    "dateModified": "2018-07-13T13:23:38-04:00",
+    "commentCount": 0,
+    "musicalKey": "E"
+}

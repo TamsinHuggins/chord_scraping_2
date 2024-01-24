@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/annenmaykantereit/toms-diner-chords-3099566",
+    "name": "Annenmaykantereit - Toms Diner (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "AnnenMayKantereit"
+    },
+    "datePublished": "2020-04-19T05:14:37-04:00",
+    "dateModified": "2020-06-02T11:21:35-04:00",
+    "commentCount": 1,
+    "musicalKey": "F#m"
+}

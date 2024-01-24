@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/donovan/catch-the-wind-chords-1044022",
+    "name": "Donovan - Catch The Wind (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Donovan"
+    },
+    "datePublished": "2011-04-04T20:00:01-04:00",
+    "dateModified": "2023-10-28T20:37:25-04:00",
+    "commentCount": 30
+}

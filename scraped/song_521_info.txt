@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-moody-blues/nights-in-white-satin-chords-56845",
+    "name": "The Moody Blues - Nights In White Satin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Moody Blues"
+    },
+    "datePublished": "2003-07-24T20:00:00-04:00",
+    "dateModified": "2018-10-16T07:40:59-04:00",
+    "commentCount": 70
+}

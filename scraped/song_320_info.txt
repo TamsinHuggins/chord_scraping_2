@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-shallow-chords-2480119",
+    "name": "Misc Soundtrack - A Star Is Born - Shallow (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2018-09-27T13:46:24-04:00",
+    "dateModified": "2021-02-26T11:27:03-05:00",
+    "commentCount": 140,
+    "musicalKey": "Em"
+}

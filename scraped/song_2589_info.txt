@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-black-eyed-peas/i-gotta-feeling-chords-832775",
+    "name": "The Black Eyed Peas - I Gotta Feeling (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Black Eyed Peas"
+    },
+    "datePublished": "2009-06-03T20:00:01-04:00",
+    "dateModified": "2020-02-27T13:49:01-05:00",
+    "commentCount": 40,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/aretha-franklin/i-say-a-little-prayer-chords-276769",
+    "name": "Aretha Franklin - I Say A Little Prayer (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Aretha Franklin"
+    },
+    "datePublished": "2005-12-05T19:00:01-05:00",
+    "dateModified": "2018-08-17T13:13:33-04:00",
+    "commentCount": 13,
+    "musicalKey": "F#m"
+}

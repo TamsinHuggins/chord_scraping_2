@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bo-burnham/goodbye-chords-3735281",
+    "name": "Bo Burnham - Goodbye (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bo Burnham"
+    },
+    "datePublished": "2021-06-02T10:50:57-04:00",
+    "dateModified": "2022-08-23T14:12:57-04:00",
+    "commentCount": 19,
+    "musicalKey": "G"
+}

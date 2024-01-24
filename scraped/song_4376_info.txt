@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tyler-childers/messed-up-kid-chords-2222791",
+    "name": "Tyler Childers - Messed Up Kid (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Tyler Childers"
+    },
+    "datePublished": "2017-11-01T00:49:38-04:00",
+    "dateModified": "2019-11-21T00:46:14-05:00",
+    "commentCount": 6,
+    "musicalKey": "E"
+}

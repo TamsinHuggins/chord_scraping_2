@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grateful-dead/friend-of-the-devil-chords-1087323",
+    "name": "Grateful Dead - Friend Of The Devil (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Grateful Dead"
+    },
+    "datePublished": "2011-08-25T20:00:01-04:00",
+    "dateModified": "2023-05-28T21:46:31-04:00",
+    "commentCount": 47
+}

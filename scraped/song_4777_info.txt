@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/descendants-2-space-between-chords-2101993",
+    "name": "Misc Soundtrack - Descendants 2 - Space Between (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2017-08-08T03:44:54-04:00",
+    "dateModified": "2019-01-30T12:04:59-05:00",
+    "commentCount": 31
+}

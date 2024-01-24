@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/get-him-back-chords-4945543",
+    "name": "Olivia Rodrigo - Get Him Back (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2023-09-07T17:42:01-04:00",
+    "dateModified": "2023-09-14T15:06:46-04:00",
+    "commentCount": 1,
+    "musicalKey": "F"
+}

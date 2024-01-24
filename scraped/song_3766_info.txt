@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/humpty-sharma-ki-dulhania-samjhawan-chords-2483712",
+    "name": "Misc Soundtrack - Humpty Sharma Ki Dulhania - Samjhawan (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2018-10-04T01:44:16-04:00",
+    "dateModified": "2022-08-15T09:50:43-04:00",
+    "commentCount": 3
+}

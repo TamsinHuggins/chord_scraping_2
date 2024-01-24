@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/lucy-in-the-sky-with-diamonds-chords-1049325",
+    "name": "The Beatles - Lucy In The Sky With Diamonds (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2011-04-25T20:00:01-04:00",
+    "dateModified": "2023-10-31T21:50:13-04:00",
+    "commentCount": 15
+}

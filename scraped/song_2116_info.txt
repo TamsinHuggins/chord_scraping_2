@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/radio-chords-1128359",
+    "name": "Lana Del Rey - Radio (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2012-02-05T19:00:01-05:00",
+    "dateModified": "2016-06-08T12:00:16-04:00",
+    "commentCount": 10
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jason-mraz/i-wont-give-up-chords-1121837",
+    "name": "Jason Mraz - I Wont Give Up (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Jason Mraz"
+    },
+    "datePublished": "2012-01-08T19:00:01-05:00",
+    "dateModified": "2021-05-26T19:18:12-04:00",
+    "commentCount": 32,
+    "musicalKey": "A"
+}

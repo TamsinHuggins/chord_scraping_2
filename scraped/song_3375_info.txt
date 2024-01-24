@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jessie-reyez/figures-chords-1871571",
+    "name": "Jessie Reyez - Figures (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jessie Reyez"
+    },
+    "datePublished": "2016-09-01T03:14:58-04:00",
+    "dateModified": "2018-12-08T07:55:00-05:00",
+    "commentCount": 25,
+    "musicalKey": "G"
+}

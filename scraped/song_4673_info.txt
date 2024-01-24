@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/megan-moroney/fix-you-too-chords-4218355",
+    "name": "Megan Moroney - Fix You Too (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Megan Moroney"
+    },
+    "datePublished": "2022-06-03T15:16:19-04:00",
+    "dateModified": "2022-06-04T11:12:46-04:00",
+    "commentCount": 2
+}

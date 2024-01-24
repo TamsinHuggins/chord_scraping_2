@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/howie-day/collide-chords-160814",
+    "name": "Howie Day - Collide (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Howie Day"
+    },
+    "datePublished": "2005-01-27T19:00:00-05:00",
+    "dateModified": "2021-01-17T04:50:31-05:00",
+    "commentCount": 52,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-band-perry/if-i-die-young-chords-943160",
+    "name": "The Band Perry - If I Die Young (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Band Perry"
+    },
+    "datePublished": "2010-04-22T20:00:01-04:00",
+    "dateModified": "2020-07-14T13:01:43-04:00",
+    "commentCount": 28,
+    "musicalKey": "E"
+}

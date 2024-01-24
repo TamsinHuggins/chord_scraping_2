@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-killers/when-you-were-young-chords-425705",
+    "name": "The Killers - When You Were Young (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Killers"
+    },
+    "datePublished": "2006-10-20T20:00:01-04:00",
+    "dateModified": "2020-08-18T11:31:47-04:00",
+    "commentCount": 35,
+    "musicalKey": "E"
+}

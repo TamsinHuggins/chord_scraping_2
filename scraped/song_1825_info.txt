@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-jones/he-stopped-loving-her-today-chords-910246",
+    "name": "George Jones - He Stopped Loving Her Today (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "George Jones"
+    },
+    "datePublished": "2010-01-10T19:00:01-05:00",
+    "dateModified": "2019-06-15T11:25:09-04:00",
+    "commentCount": 15
+}

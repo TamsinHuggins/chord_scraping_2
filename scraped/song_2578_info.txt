@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-romantics/what-i-like-about-you-chords-559816",
+    "name": "The Romantics - What I Like About You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Romantics"
+    },
+    "datePublished": "2007-08-06T20:00:01-04:00",
+    "dateModified": "2016-06-10T09:55:31-04:00",
+    "commentCount": 30
+}

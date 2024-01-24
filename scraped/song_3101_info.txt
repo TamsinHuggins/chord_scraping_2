@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/drake/yebbas-heartbreak-chords-3872414",
+    "name": "Drake - Yebbas Heartbreak (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Drake"
+    },
+    "datePublished": "2021-09-13T17:01:26-04:00",
+    "dateModified": "2023-05-30T07:40:34-04:00",
+    "commentCount": 2,
+    "musicalKey": "Em"
+}

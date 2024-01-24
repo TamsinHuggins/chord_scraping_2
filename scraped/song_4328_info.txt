@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1765481",
+    "name": "Die Ärzte - Schrei Nach Liebe (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Die Ärzte"
+    },
+    "datePublished": "2015-09-07T08:52:19-04:00",
+    "dateModified": "2015-09-08T13:59:35-04:00",
+    "commentCount": 0
+}

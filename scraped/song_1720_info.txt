@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/four-strong-winds-chords-355319",
+    "name": "Neil Young - Four Strong Winds (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2006-04-17T20:00:01-04:00",
+    "dateModified": "2021-02-15T14:23:46-05:00",
+    "commentCount": 26
+}

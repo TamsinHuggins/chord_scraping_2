@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/foo-fighters/never-gonna-give-you-up-chords-2266705",
+    "name": "Foo Fighters - Never Gonna Give You Up (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Foo Fighters"
+    },
+    "datePublished": "2017-12-26T23:49:22-05:00",
+    "dateModified": "2021-09-29T16:12:41-04:00",
+    "commentCount": 23,
+    "musicalKey": "Bm"
+}

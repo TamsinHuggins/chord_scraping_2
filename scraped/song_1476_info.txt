@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-seger-the-silver-bullet-band/still-the-same-chords-1691983",
+    "name": "Bob Seger & The Silver Bullet Band - Still The Same (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Seger &amp; The Silver Bullet Band"
+    },
+    "datePublished": "2014-12-20T09:49:48-05:00",
+    "dateModified": "2017-10-18T16:02:33-04:00",
+    "commentCount": 36
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/till-there-was-you-chords-17443",
+    "name": "The Beatles - Till There Was You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2021-07-26T06:43:11-04:00",
+    "commentCount": 41
+}

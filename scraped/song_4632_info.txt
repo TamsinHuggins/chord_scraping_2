@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/with-all-i-am-chords-198525",
+    "name": "Hillsong Worship - With All I Am (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Worship"
+    },
+    "datePublished": "2005-07-17T20:00:00-04:00",
+    "dateModified": "2019-01-24T21:05:21-05:00",
+    "commentCount": 8
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/moira-dela-torre/paubaya-chords-3387233",
+    "name": "Moira Dela Torre - Paubaya (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Moira Dela Torre"
+    },
+    "datePublished": "2020-10-22T12:54:17-04:00",
+    "dateModified": "2020-10-26T13:54:33-04:00",
+    "commentCount": 5,
+    "musicalKey": "F"
+}

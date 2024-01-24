@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/status-quo/rockin-all-over-the-world-chords-357805",
+    "name": "Status Quo - Rockin All Over The World (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Status Quo"
+    },
+    "datePublished": "2006-04-23T20:00:01-04:00",
+    "dateModified": "2017-07-10T21:45:45-04:00",
+    "commentCount": 6
+}

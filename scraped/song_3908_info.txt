@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mike-oldfield/moonlight-shadow-chords-969267",
+    "name": "Mike Oldfield - Moonlight Shadow (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Mike Oldfield"
+    },
+    "datePublished": "2010-07-20T20:00:01-04:00",
+    "dateModified": "2022-07-20T16:38:01-04:00",
+    "commentCount": 5
+}

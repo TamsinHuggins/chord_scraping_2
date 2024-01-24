@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queens-of-the-stone-age/go-with-the-flow-chords-98249",
+    "name": "Queens Of The Stone Age - Go With The Flow (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Queens of the Stone Age"
+    },
+    "datePublished": "2003-12-23T19:00:00-05:00",
+    "dateModified": "2020-05-28T02:28:22-04:00",
+    "commentCount": 8
+}

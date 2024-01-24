@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-stapleton/what-are-you-listening-to-chords-1405074",
+    "name": "Chris Stapleton - What Are You Listening To (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Stapleton"
+    },
+    "datePublished": "2013-07-21T20:00:01-04:00",
+    "dateModified": "2021-04-24T22:03:36-04:00",
+    "commentCount": 36
+}

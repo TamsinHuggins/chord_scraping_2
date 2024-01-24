@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/scar-tissue-chords-717911",
+    "name": "Red Hot Chili Peppers - Scar Tissue (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Red Hot Chili Peppers"
+    },
+    "datePublished": "2008-08-12T20:00:01-04:00",
+    "dateModified": "2021-04-06T07:47:24-04:00",
+    "commentCount": 31,
+    "musicalKey": "F"
+}

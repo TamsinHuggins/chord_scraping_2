@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/indila/derniere-danse-chords-1484243",
+    "name": "Indila - Derniere Danse (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Indila"
+    },
+    "datePublished": "2014-05-13T23:42:46-04:00",
+    "dateModified": "2017-04-13T19:18:18-04:00",
+    "commentCount": 11
+}

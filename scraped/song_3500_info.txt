@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/i-want-it-all-chords-80618",
+    "name": "Queen - I Want It All (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2022-04-19T18:03:53-04:00",
+    "commentCount": 6
+}

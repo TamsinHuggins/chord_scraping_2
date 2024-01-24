@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shawn-mendes/stitches-chords-1721493",
+    "name": "Shawn Mendes - Stitches (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Shawn Mendes"
+    },
+    "datePublished": "2015-03-18T05:12:27-04:00",
+    "dateModified": "2021-06-08T06:19:00-04:00",
+    "commentCount": 64,
+    "musicalKey": "Bbm"
+}

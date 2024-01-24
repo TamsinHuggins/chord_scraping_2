@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/aftermath-bangladesh/moho-chords-3826193",
+    "name": "Aftermath (Bangladesh) - Moho (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Aftermath (Bangladesh)"
+    },
+    "datePublished": "2021-08-09T08:24:31-04:00",
+    "dateModified": "2021-08-09T14:27:28-04:00",
+    "commentCount": 2
+}

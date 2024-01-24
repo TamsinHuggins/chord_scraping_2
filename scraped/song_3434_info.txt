@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/marc-cohn/walking-in-memphis-chords-1950777",
+    "name": "Marc Cohn - Walking In Memphis (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Marc Cohn"
+    },
+    "datePublished": "2017-02-19T02:59:46-05:00",
+    "dateModified": "2020-05-08T04:14:15-04:00",
+    "commentCount": 1
+}

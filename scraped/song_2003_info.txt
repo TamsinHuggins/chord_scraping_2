@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-denver/take-me-home-country-roads-chords-145143",
+    "name": "John Denver - Take Me Home Country Roads (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Denver"
+    },
+    "datePublished": "2004-11-07T19:00:00-05:00",
+    "dateModified": "2018-09-20T10:18:47-04:00",
+    "commentCount": 37,
+    "musicalKey": "A"
+}

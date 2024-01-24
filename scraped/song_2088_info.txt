@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/grease-youre-the-one-that-i-want-chords-78010",
+    "name": "Misc Soundtrack - Grease - Youre The One That I Want (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2022-08-10T15:27:26-04:00",
+    "commentCount": 19,
+    "musicalKey": "Am"
+}

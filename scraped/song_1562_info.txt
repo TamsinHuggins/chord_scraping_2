@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-sweat/at-my-worst-chords-3256316",
+    "name": "Pink Sweat$ - At My Worst (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Sweat$"
+    },
+    "datePublished": "2020-07-20T14:23:31-04:00",
+    "dateModified": "2021-03-21T06:11:35-04:00",
+    "commentCount": 7,
+    "musicalKey": "C"
+}

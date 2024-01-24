@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-marley/i-shot-the-sheriff-chords-213453",
+    "name": "Bob Marley - I Shot The Sheriff (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Marley"
+    },
+    "datePublished": "2005-09-20T20:00:00-04:00",
+    "dateModified": "2016-04-26T10:10:22-04:00",
+    "commentCount": 21
+}

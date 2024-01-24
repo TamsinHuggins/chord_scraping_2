@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sia/elastic-heart-chords-1702336",
+    "name": "Sia - Elastic Heart (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Sia"
+    },
+    "datePublished": "2015-01-19T07:32:53-05:00",
+    "dateModified": "2021-05-06T11:17:13-04:00",
+    "commentCount": 29,
+    "musicalKey": "D"
+}

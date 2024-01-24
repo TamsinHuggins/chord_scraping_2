@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/thinking-out-loud-chords-1486901",
+    "name": "Ed Sheeran - Thinking Out Loud (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2014-05-24T05:22:56-04:00",
+    "dateModified": "2017-07-21T13:40:39-04:00",
+    "commentCount": 120,
+    "musicalKey": "C"
+}

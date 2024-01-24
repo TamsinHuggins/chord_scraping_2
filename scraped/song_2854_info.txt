@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sabin-rai/komal-tyo-timro-chords-2555469",
+    "name": "Sabin Rai - Komal Tyo Timro (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sabin Rai"
+    },
+    "datePublished": "2018-12-25T23:59:01-05:00",
+    "dateModified": "2018-12-29T09:30:33-05:00",
+    "commentCount": 3
+}

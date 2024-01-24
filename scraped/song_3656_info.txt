@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phillip-phillips/gone-gone-gone-chords-1196452",
+    "name": "Phillip Phillips - Gone Gone Gone (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phillip Phillips"
+    },
+    "datePublished": "2012-11-21T19:00:01-05:00",
+    "dateModified": "2016-04-21T11:01:44-04:00",
+    "commentCount": 15
+}

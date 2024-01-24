@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/labrinth/jealous-chords-1696042",
+    "name": "Labrinth - Jealous (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Labrinth"
+    },
+    "datePublished": "2015-01-03T05:47:02-05:00",
+    "dateModified": "2018-05-08T14:49:56-04:00",
+    "commentCount": 44,
+    "musicalKey": "C"
+}

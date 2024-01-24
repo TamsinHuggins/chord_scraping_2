@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/american-idiot-chords-145586",
+    "name": "Green Day - American Idiot (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2004-11-10T19:00:00-05:00",
+    "dateModified": "2018-10-18T15:37:18-04:00",
+    "commentCount": 74
+}

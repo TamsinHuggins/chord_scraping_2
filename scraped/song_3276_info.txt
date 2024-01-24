@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laufey/beautiful-stranger-chords-4326701",
+    "name": "Laufey - Beautiful Stranger (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laufey"
+    },
+    "datePublished": "2022-08-27T04:29:19-04:00",
+    "dateModified": "2022-08-27T12:12:48-04:00",
+    "commentCount": 0
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/956594",
+    "name": "Cornelis Vreeswijk - Somliga Går Med Trasiga Skor (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Cornelis Vreeswijk"
+    },
+    "datePublished": "2010-06-06T20:00:01-04:00",
+    "dateModified": "2017-07-14T22:42:45-04:00",
+    "commentCount": 9
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hannes-wader/heute-hier-morgen-dort-chords-1681167",
+    "name": "Hannes Wader - Heute Hier Morgen Dort (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hannes Wader"
+    },
+    "datePublished": "2014-11-18T03:40:32-05:00",
+    "dateModified": "2017-02-27T09:46:23-05:00",
+    "commentCount": 13
+}

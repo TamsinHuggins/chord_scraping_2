@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tal-bachman/shes-so-high-chords-721438",
+    "name": "Tal Bachman - Shes So High (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tal Bachman"
+    },
+    "datePublished": "2008-08-19T20:00:01-04:00",
+    "dateModified": "2016-05-26T09:10:51-04:00",
+    "commentCount": 6
+}

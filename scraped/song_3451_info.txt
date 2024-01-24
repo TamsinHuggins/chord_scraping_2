@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frank-ocean/ivy-chords-1870310",
+    "name": "Frank Ocean - Ivy (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Frank Ocean"
+    },
+    "datePublished": "2016-08-26T14:22:36-04:00",
+    "dateModified": "2016-08-26T18:22:36-04:00",
+    "commentCount": 12
+}

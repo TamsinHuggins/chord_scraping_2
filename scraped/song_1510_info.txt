@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stuart-townend/how-deep-the-fathers-love-for-us-chords-1061504",
+    "name": "Stuart Townend - How Deep The Fathers Love For Us (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Stuart Townend"
+    },
+    "datePublished": "2011-05-31T20:00:01-04:00",
+    "dateModified": "2020-06-09T11:25:19-04:00",
+    "commentCount": 23,
+    "musicalKey": "E"
+}

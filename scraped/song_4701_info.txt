@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/guns-n-roses/welcome-to-the-jungle-chords-1941985",
+    "name": "Guns N' Roses - Welcome To The Jungle (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Guns N&#039; Roses"
+    },
+    "datePublished": "2017-02-03T02:12:48-05:00",
+    "dateModified": "2018-11-12T10:05:34-05:00",
+    "commentCount": 2
+}

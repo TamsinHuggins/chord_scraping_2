@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/fluorescent-adolescent-chords-510133",
+    "name": "Arctic Monkeys - Fluorescent Adolescent (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2007-04-29T20:00:01-04:00",
+    "dateModified": "2020-03-19T08:04:09-04:00",
+    "commentCount": 39,
+    "musicalKey": "E"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lewis-capaldi/hold-me-while-you-wait-chords-2724666",
+    "name": "Lewis Capaldi - Hold Me While You Wait (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lewis Capaldi"
+    },
+    "datePublished": "2019-06-12T14:23:13-04:00",
+    "dateModified": "2021-01-22T01:07:11-05:00",
+    "commentCount": 10,
+    "musicalKey": "C"
+}

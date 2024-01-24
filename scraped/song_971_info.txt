@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laufey/promise-chords-4814957",
+    "name": "Laufey - Promise (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laufey"
+    },
+    "datePublished": "2023-06-10T04:16:18-04:00",
+    "dateModified": "2023-06-21T12:26:54-04:00",
+    "commentCount": 4,
+    "musicalKey": "C"
+}

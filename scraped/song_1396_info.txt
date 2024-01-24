@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/saviors-chords-5110294",
+    "name": "Green Day - Saviors (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2024-01-18T17:10:45-05:00",
+    "dateModified": "2024-01-18T22:10:46-05:00",
+    "commentCount": 1
+}

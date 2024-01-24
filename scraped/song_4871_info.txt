@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/poison/every-rose-has-its-thorn-chords-130272",
+    "name": "Poison - Every Rose Has Its Thorn (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: F# Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Poison"
+    },
+    "datePublished": "2004-08-03T20:00:00-04:00",
+    "dateModified": "2022-03-31T05:22:35-04:00",
+    "commentCount": 122,
+    "musicalKey": "F#"
+}

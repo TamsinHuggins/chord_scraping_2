@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/francesca-chords-4780562",
+    "name": "Hozier - Francesca (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hozier"
+    },
+    "datePublished": "2023-05-19T07:45:37-04:00",
+    "dateModified": "2023-05-19T11:45:37-04:00",
+    "commentCount": 2,
+    "musicalKey": "Bm"
+}

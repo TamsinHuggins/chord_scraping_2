@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ruth-b-/lost-boy-chords-1706086",
+    "name": "Ruth B. - Lost Boy (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ruth B."
+    },
+    "datePublished": "2015-02-02T15:11:11-05:00",
+    "dateModified": "2022-04-19T22:54:43-04:00",
+    "commentCount": 45,
+    "musicalKey": "Em"
+}

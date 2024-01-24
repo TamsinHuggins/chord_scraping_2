@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/la-la-land-city-of-stars-chords-1914825",
+    "name": "Misc Soundtrack - La La Land - City Of Stars (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2016-12-20T05:29:59-05:00",
+    "dateModified": "2018-05-02T07:35:56-04:00",
+    "commentCount": 39
+}

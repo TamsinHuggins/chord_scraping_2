@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bonnie-raitt/angel-from-montgomery-chords-985631",
+    "name": "Bonnie Raitt - Angel From Montgomery (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Bonnie Raitt"
+    },
+    "datePublished": "2010-09-07T20:00:01-04:00",
+    "dateModified": "2020-04-11T15:56:50-04:00",
+    "commentCount": 14,
+    "musicalKey": "E"
+}

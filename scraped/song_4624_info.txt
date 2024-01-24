@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/angel-of-small-death-and-the-codeine-scene-chords-1698222",
+    "name": "Hozier - Angel Of Small Death And The Codeine Scene (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hozier"
+    },
+    "datePublished": "2015-01-09T13:41:42-05:00",
+    "dateModified": "2018-08-01T09:05:26-04:00",
+    "commentCount": 8
+}

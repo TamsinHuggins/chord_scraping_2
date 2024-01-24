@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-jam/thats-entertainment-chords-104188",
+    "name": "The Jam - Thats Entertainment (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Jam"
+    },
+    "datePublished": "2004-02-08T19:00:00-05:00",
+    "dateModified": "2016-06-21T09:43:23-04:00",
+    "commentCount": 22
+}

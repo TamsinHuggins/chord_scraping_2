@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/faye-webster/kingston-chords-2534628",
+    "name": "Faye Webster - Kingston (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Faye Webster"
+    },
+    "datePublished": "2018-12-03T20:16:53-05:00",
+    "dateModified": "2021-01-26T20:22:12-05:00",
+    "commentCount": 8
+}

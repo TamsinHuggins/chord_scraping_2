@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/76407",
+    "name": "Reinhard Mey - Über Den Wolken (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Reinhard Mey"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2019-05-01T22:57:13-04:00",
+    "commentCount": 6
+}

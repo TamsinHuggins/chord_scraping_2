@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kane-brown/thank-god-chords-4342283",
+    "name": "Kane Brown - Thank God (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Kane Brown"
+    },
+    "datePublished": "2022-09-09T06:44:09-04:00",
+    "dateModified": "2023-12-19T23:54:08-05:00",
+    "commentCount": 2
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cigarettes-after-sex/cry-chords-2869340",
+    "name": "Cigarettes After Sex - Cry (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cigarettes After Sex"
+    },
+    "datePublished": "2019-10-25T10:42:41-04:00",
+    "dateModified": "2019-10-25T14:42:41-04:00",
+    "commentCount": 6
+}

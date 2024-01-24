@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-black-keys/lonely-boy-chords-1120149",
+    "name": "The Black Keys - Lonely Boy (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Black Keys"
+    },
+    "datePublished": "2012-01-04T19:00:01-05:00",
+    "dateModified": "2020-08-05T09:36:17-04:00",
+    "commentCount": 25,
+    "musicalKey": "E"
+}

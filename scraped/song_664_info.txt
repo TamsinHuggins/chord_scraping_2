@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/buffalo-springfield/for-what-its-worth-chords-139827",
+    "name": "Buffalo Springfield - For What Its Worth (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Buffalo Springfield"
+    },
+    "datePublished": "2004-10-02T20:00:00-04:00",
+    "dateModified": "2019-11-05T06:55:10-05:00",
+    "commentCount": 49,
+    "musicalKey": "E"
+}

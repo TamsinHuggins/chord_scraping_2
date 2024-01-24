@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/i-will-chords-17421",
+    "name": "The Beatles - I Will (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-07-06T08:39:05-04:00",
+    "commentCount": 11
+}

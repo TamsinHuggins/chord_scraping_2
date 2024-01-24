@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/metallica/nothing-else-matters-chords-8802",
+    "name": "Metallica - Nothing Else Matters (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Metallica"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2018-09-10T09:00:45-04:00",
+    "commentCount": 141,
+    "musicalKey": "Em"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blink-182/dammit-chords-857507",
+    "name": "Blink-182 - Dammit (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blink-182"
+    },
+    "datePublished": "2009-08-06T20:00:01-04:00",
+    "dateModified": "2020-03-06T21:24:57-05:00",
+    "commentCount": 19
+}

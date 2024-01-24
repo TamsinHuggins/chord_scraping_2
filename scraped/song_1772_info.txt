@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coolio/gangstas-paradise-chords-1233869",
+    "name": "Coolio - Gangstas Paradise (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Coolio"
+    },
+    "datePublished": "2013-04-01T20:00:01-04:00",
+    "dateModified": "2022-10-03T15:38:31-04:00",
+    "commentCount": 24,
+    "musicalKey": "Ab"
+}

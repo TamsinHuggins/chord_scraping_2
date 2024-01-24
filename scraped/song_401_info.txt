@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/3732140",
+    "name": "Måneskin - Beggin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Måneskin"
+    },
+    "datePublished": "2021-05-31T09:07:32-04:00",
+    "dateModified": "2021-08-25T22:50:04-04:00",
+    "commentCount": 62,
+    "musicalKey": "Bm"
+}

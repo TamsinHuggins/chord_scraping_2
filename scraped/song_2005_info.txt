@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hank-williams/i-saw-the-light-chords-873754",
+    "name": "Hank Williams - I Saw The Light (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hank Williams"
+    },
+    "datePublished": "2009-09-16T20:00:01-04:00",
+    "dateModified": "2021-06-08T15:20:32-04:00",
+    "commentCount": 20,
+    "musicalKey": "G"
+}

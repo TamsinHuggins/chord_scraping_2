@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fiona-apple/criminal-chords-825968",
+    "name": "Fiona Apple - Criminal (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fiona Apple"
+    },
+    "datePublished": "2009-05-17T20:00:01-04:00",
+    "dateModified": "2022-03-04T13:57:31-05:00",
+    "commentCount": 36
+}

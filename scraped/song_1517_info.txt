@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/poor-mans-poison/hells-comin-with-me-chords-3356498",
+    "name": "Poor Man's Poison - Hells Comin With Me (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Poor Man&#039;s Poison"
+    },
+    "datePublished": "2020-09-29T21:13:41-04:00",
+    "dateModified": "2023-03-08T00:51:20-05:00",
+    "commentCount": 13,
+    "musicalKey": "Em"
+}

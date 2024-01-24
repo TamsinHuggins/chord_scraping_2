@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creed/my-sacrifice-chords-938168",
+    "name": "Creed - My Sacrifice (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Creed"
+    },
+    "datePublished": "2010-04-11T20:00:01-04:00",
+    "dateModified": "2016-06-28T15:06:00-04:00",
+    "commentCount": 10
+}

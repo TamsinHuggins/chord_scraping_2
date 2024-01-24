@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/i-guess-thats-why-they-call-it-the-blues-chords-1087623",
+    "name": "Elton John - I Guess Thats Why They Call It The Blues (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2011-08-28T20:00:01-04:00",
+    "dateModified": "2023-08-11T21:38:49-04:00",
+    "commentCount": 18
+}

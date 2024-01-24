@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shawn-james/through-the-valley-chords-1907637",
+    "name": "Shawn James - Through The Valley (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Shawn James"
+    },
+    "datePublished": "2016-12-03T19:48:02-05:00",
+    "dateModified": "2022-07-24T12:58:25-04:00",
+    "commentCount": 25,
+    "musicalKey": "G#m"
+}

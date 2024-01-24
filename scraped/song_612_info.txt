@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ella-fitzgerald/misty-chords-1206796",
+    "name": "Ella Fitzgerald - Misty (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ella Fitzgerald"
+    },
+    "datePublished": "2013-01-09T19:00:01-05:00",
+    "dateModified": "2016-06-17T12:00:16-04:00",
+    "commentCount": 12
+}

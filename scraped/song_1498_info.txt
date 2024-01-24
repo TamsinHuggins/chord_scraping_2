@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eagles/one-of-these-nights-chords-14298",
+    "name": "Eagles - One Of These Nights (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eagles"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2021-04-19T05:51:55-04:00",
+    "commentCount": 6
+}

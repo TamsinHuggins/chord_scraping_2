@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/supertramp/breakfast-in-america-chords-336671",
+    "name": "Supertramp - Breakfast In America (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Supertramp"
+    },
+    "datePublished": "2006-02-24T19:00:01-05:00",
+    "dateModified": "2022-10-17T05:00:37-04:00",
+    "commentCount": 18
+}

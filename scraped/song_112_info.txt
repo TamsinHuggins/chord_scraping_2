@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joji/glimpse-of-us-chords-4226839",
+    "name": "Joji - Glimpse Of Us (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Fm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Joji"
+    },
+    "datePublished": "2022-06-10T01:21:13-04:00",
+    "dateModified": "2022-06-15T23:48:37-04:00",
+    "commentCount": 33,
+    "musicalKey": "Fm"
+}

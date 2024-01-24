@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/crosby-stills-nash/southern-cross-chords-155049",
+    "name": "Crosby, Stills & Nash - Southern Cross (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Crosby, Stills &amp; Nash"
+    },
+    "datePublished": "2005-01-04T19:00:00-05:00",
+    "dateModified": "2023-08-03T02:18:00-04:00",
+    "commentCount": 36,
+    "musicalKey": "D"
+}

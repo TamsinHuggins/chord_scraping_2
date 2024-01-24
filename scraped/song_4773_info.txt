@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/red-river-valley-chords-1051628",
+    "name": "Misc Traditional - Red River Valley (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2011-04-27T20:00:01-04:00",
+    "dateModified": "2023-08-10T18:14:15-04:00",
+    "commentCount": 11
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/natalia-lafourcade/hasta-la-raiz-chords-1766730",
+    "name": "Natalia Lafourcade - Hasta La Raiz (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Natalia Lafourcade"
+    },
+    "datePublished": "2015-09-23T14:23:15-04:00",
+    "dateModified": "2022-03-24T08:37:23-04:00",
+    "commentCount": 9
+}

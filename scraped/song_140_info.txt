@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dylan-gossett/coal-chords-4891183",
+    "name": "Dylan Gossett - Coal (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Dylan Gossett"
+    },
+    "datePublished": "2023-07-27T04:07:36-04:00",
+    "dateModified": "2023-08-21T03:56:54-04:00",
+    "commentCount": 8,
+    "musicalKey": "Am"
+}

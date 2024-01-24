@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/harvest-moon-chords-1444151",
+    "name": "Neil Young - Harvest Moon (chords)",
+    "text": "Difficulty: intermediate Tuning: D A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2013-12-09T19:00:01-05:00",
+    "dateModified": "2021-12-30T12:28:40-05:00",
+    "commentCount": 52,
+    "musicalKey": "D"
+}

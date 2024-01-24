@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/enough-for-you-chords-3716339",
+    "name": "Olivia Rodrigo - Enough For You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2021-05-20T20:02:36-04:00",
+    "dateModified": "2021-06-04T17:33:39-04:00",
+    "commentCount": 24,
+    "musicalKey": "G"
+}

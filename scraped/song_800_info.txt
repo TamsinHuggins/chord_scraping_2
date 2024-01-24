@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/cowboy-like-me-chords-3461846",
+    "name": "Taylor Swift - Cowboy Like Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-12-11T01:19:44-05:00",
+    "dateModified": "2023-04-19T05:43:34-04:00",
+    "commentCount": 21,
+    "musicalKey": "C"
+}

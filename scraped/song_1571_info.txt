@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-mayer/stop-this-train-chords-1399499",
+    "name": "John Mayer - Stop This Train (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Mayer"
+    },
+    "datePublished": "2013-06-27T20:00:01-04:00",
+    "dateModified": "2020-01-31T07:48:17-05:00",
+    "commentCount": 14,
+    "musicalKey": "D"
+}

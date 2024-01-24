@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/happier-chords-3716399",
+    "name": "Olivia Rodrigo - Happier (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F# Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2021-05-20T21:01:36-04:00",
+    "dateModified": "2021-06-03T22:05:10-04:00",
+    "commentCount": 13,
+    "musicalKey": "F#"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lynyrd-skynyrd/the-ballad-of-curtis-loew-chords-685055",
+    "name": "Lynyrd Skynyrd - The Ballad Of Curtis Loew (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lynyrd Skynyrd"
+    },
+    "datePublished": "2008-06-02T20:00:01-04:00",
+    "dateModified": "2016-08-10T11:21:23-04:00",
+    "commentCount": 15
+}

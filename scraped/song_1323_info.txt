@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/daylight-chords-2802833",
+    "name": "Taylor Swift - Daylight (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2019-08-23T00:36:51-04:00",
+    "dateModified": "2019-08-23T04:36:51-04:00",
+    "commentCount": 7,
+    "musicalKey": "C"
+}

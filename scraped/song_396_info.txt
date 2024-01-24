@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billy-joel/vienna-chords-1490084",
+    "name": "Billy Joel - Vienna (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Billy Joel"
+    },
+    "datePublished": "2014-06-03T21:05:49-04:00",
+    "dateModified": "2022-06-08T19:42:00-04:00",
+    "commentCount": 9,
+    "musicalKey": "Bb"
+}

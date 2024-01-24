@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beach-house/space-song-chords-1854216",
+    "name": "Beach House - Space Song (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Beach House"
+    },
+    "datePublished": "2016-06-23T10:06:44-04:00",
+    "dateModified": "2016-06-23T14:06:44-04:00",
+    "commentCount": 13
+}

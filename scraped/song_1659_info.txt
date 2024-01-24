@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jason-isbell-and-the-400-unit/if-we-were-vampires-chords-1996219",
+    "name": "Jason Isbell And The 400 Unit - If We Were Vampires (chords)",
+    "text": "Difficulty: beginner Tuning: D G C F A D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jason Isbell and The 400 Unit"
+    },
+    "datePublished": "2017-05-15T05:43:09-04:00",
+    "dateModified": "2022-03-17T00:20:54-04:00",
+    "commentCount": 34
+}

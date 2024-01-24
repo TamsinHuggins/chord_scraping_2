@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4962253",
+    "name": "Chance Peña - I Am Not Who I Was (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chance Peña"
+    },
+    "datePublished": "2023-09-21T13:05:08-04:00",
+    "dateModified": "2023-09-21T18:51:31-04:00",
+    "commentCount": 1,
+    "musicalKey": "G"
+}

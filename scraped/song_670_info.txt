@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eraserheads/ang-huling-el-bimbo-chords-93614",
+    "name": "Eraserheads - Ang Huling El Bimbo (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eraserheads"
+    },
+    "datePublished": "2003-11-03T19:00:00-05:00",
+    "dateModified": "2016-04-27T11:05:48-04:00",
+    "commentCount": 34,
+    "musicalKey": "G"
+}

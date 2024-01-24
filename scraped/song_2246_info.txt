@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-lumineers/sleep-on-the-floor-chords-1815265",
+    "name": "The Lumineers - Sleep On The Floor (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Lumineers"
+    },
+    "datePublished": "2016-02-14T12:47:10-05:00",
+    "dateModified": "2017-04-16T12:31:47-04:00",
+    "commentCount": 20,
+    "musicalKey": "C"
+}

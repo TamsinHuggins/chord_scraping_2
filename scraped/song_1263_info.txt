@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shenandoah/two-dozen-roses-chords-1801213",
+    "name": "Shenandoah - Two Dozen Roses (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Shenandoah"
+    },
+    "datePublished": "2016-01-07T13:24:01-05:00",
+    "dateModified": "2016-01-14T21:52:25-05:00",
+    "commentCount": 8
+}

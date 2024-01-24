@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-sundays/heres-where-the-story-ends-chords-1718061",
+    "name": "The Sundays - Heres Where The Story Ends (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Sundays"
+    },
+    "datePublished": "2015-03-06T12:45:44-05:00",
+    "dateModified": "2022-08-20T13:01:07-04:00",
+    "commentCount": 8,
+    "musicalKey": "G"
+}

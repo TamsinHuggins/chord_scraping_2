@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/camila-cabello/havana-chords-2105155",
+    "name": "Camila Cabello - Havana (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Camila Cabello"
+    },
+    "datePublished": "2017-08-12T14:22:39-04:00",
+    "dateModified": "2020-11-29T10:40:04-05:00",
+    "commentCount": 109,
+    "musicalKey": "Gm"
+}

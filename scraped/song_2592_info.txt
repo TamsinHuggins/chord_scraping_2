@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ozzy-osbourne/mama-im-coming-home-chords-1416319",
+    "name": "Ozzy Osbourne - Mama Im Coming Home (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ozzy Osbourne"
+    },
+    "datePublished": "2013-09-08T20:00:01-04:00",
+    "dateModified": "2016-05-27T08:01:12-04:00",
+    "commentCount": 18
+}

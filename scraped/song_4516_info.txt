@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tennessee-ernie-ford/sixteen-tons-chords-998257",
+    "name": "Tennessee Ernie Ford - Sixteen Tons (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Tennessee Ernie Ford"
+    },
+    "datePublished": "2010-10-26T20:00:01-04:00",
+    "dateModified": "2021-02-02T11:36:38-05:00",
+    "commentCount": 5,
+    "musicalKey": "Bm"
+}

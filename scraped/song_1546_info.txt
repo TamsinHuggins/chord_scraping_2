@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dire-straits/brothers-in-arms-chords-15403",
+    "name": "Dire Straits - Brothers In Arms (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dire Straits"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-12-22T10:16:01-05:00",
+    "commentCount": 14
+}

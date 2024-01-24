@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/jeff-buckley/hallelujah-chords-198052",
-    "name": "Jeff Buckley - Hallelujah (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-lennon/imagine-chords-9306",
+    "name": "John Lennon - Imagine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
     "composer": {
         "@type": "Person",
-        "name": "Jeff Buckley"
+        "name": "John Lennon"
     },
-    "datePublished": "2005-07-14T20:00:00-04:00",
-    "dateModified": "2018-12-08T09:04:51-05:00",
-    "commentCount": 692,
-    "musicalKey": "Db"
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-12-19T11:28:27-05:00",
+    "commentCount": 120,
+    "musicalKey": "C"
 }

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-verve/the-drugs-dont-work-chords-203796",
+    "name": "The Verve - The Drugs Dont Work (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Verve"
+    },
+    "datePublished": "2005-08-07T20:00:00-04:00",
+    "dateModified": "2021-03-10T17:18:15-05:00",
+    "commentCount": 47,
+    "musicalKey": "C"
+}

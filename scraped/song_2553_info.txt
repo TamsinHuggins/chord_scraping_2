@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/yebba/my-mind-chords-2103791",
+    "name": "Yebba - My Mind (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "YEBBA"
+    },
+    "datePublished": "2017-08-12T09:12:17-04:00",
+    "dateModified": "2021-09-13T20:08:43-04:00",
+    "commentCount": 5
+}

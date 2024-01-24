@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/new-perspective-chords-3525398",
+    "name": "Noah Kahan - New Perspective (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 8",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2021-01-20T17:09:40-05:00",
+    "dateModified": "2022-10-20T19:56:29-04:00",
+    "commentCount": 6
+}

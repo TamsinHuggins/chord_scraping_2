@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bloodhound-gang/the-bad-touch-chords-706086",
+    "name": "Bloodhound Gang - The Bad Touch (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Bloodhound Gang"
+    },
+    "datePublished": "2008-07-18T20:00:01-04:00",
+    "dateModified": "2016-06-29T13:43:38-04:00",
+    "commentCount": 10
+}

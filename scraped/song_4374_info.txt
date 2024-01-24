@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/birmingham-chords-2870561",
+    "name": "Zach Bryan - Birmingham (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2019-10-26T07:04:04-04:00",
+    "dateModified": "2022-04-20T15:02:39-04:00",
+    "commentCount": 3
+}

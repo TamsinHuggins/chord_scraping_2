@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kenny-rogers/coward-of-the-county-chords-82132",
+    "name": "Kenny Rogers - Coward Of The County (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Kenny Rogers"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2018-09-30T05:54:45-04:00",
+    "commentCount": 12
+}

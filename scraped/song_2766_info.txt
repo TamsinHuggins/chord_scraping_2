@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lauren-spencer-smith/fingers-crossed-chords-4015429",
+    "name": "Lauren Spencer-Smith - Fingers Crossed (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Lauren Spencer-Smith"
+    },
+    "datePublished": "2022-01-05T04:38:27-05:00",
+    "dateModified": "2022-02-01T10:44:09-05:00",
+    "commentCount": 9,
+    "musicalKey": "F"
+}

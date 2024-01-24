@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-petty/i-wont-back-down-chords-55036",
+    "name": "Tom Petty - I Wont Back Down (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Petty"
+    },
+    "datePublished": "2003-07-02T20:00:00-04:00",
+    "dateModified": "2022-10-24T12:59:42-04:00",
+    "commentCount": 54,
+    "musicalKey": "G"
+}

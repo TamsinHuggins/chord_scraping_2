@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-foundations/build-me-up-buttercup-chords-815490",
+    "name": "The Foundations - Build Me Up Buttercup (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Foundations"
+    },
+    "datePublished": "2009-04-19T20:00:01-04:00",
+    "dateModified": "2022-07-19T06:30:38-04:00",
+    "commentCount": 27,
+    "musicalKey": "C"
+}

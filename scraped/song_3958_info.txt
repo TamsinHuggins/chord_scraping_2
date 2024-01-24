@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zack-tabudlo/give-me-your-forever-chords-3949937",
+    "name": "Zack Tabudlo - Give Me Your Forever (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Zack Tabudlo"
+    },
+    "datePublished": "2021-11-14T17:42:50-05:00",
+    "dateModified": "2021-11-15T14:16:41-05:00",
+    "commentCount": 0,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4280470",
+    "name": "Reneé Rapp - In The Kitchen (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Reneé Rapp"
+    },
+    "datePublished": "2022-07-21T09:52:07-04:00",
+    "dateModified": "2022-07-21T13:52:08-04:00",
+    "commentCount": 2,
+    "musicalKey": "Eb"
+}

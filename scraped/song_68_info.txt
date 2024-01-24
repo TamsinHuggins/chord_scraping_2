@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/the-scientist-chords-42050",
+    "name": "Coldplay - The Scientist (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2002-12-29T19:00:00-05:00",
+    "dateModified": "2019-04-16T20:14:25-04:00",
+    "commentCount": 70,
+    "musicalKey": "Dm"
+}

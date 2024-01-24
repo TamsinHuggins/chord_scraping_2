@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/deep-purple/smoke-on-the-water-chords-1007111",
+    "name": "Deep Purple - Smoke On The Water (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Deep Purple"
+    },
+    "datePublished": "2010-11-28T19:00:01-05:00",
+    "dateModified": "2020-03-19T16:12:49-04:00",
+    "commentCount": 16,
+    "musicalKey": "G"
+}

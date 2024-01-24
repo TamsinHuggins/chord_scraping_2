@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/born-to-die-chords-1117902",
+    "name": "Lana Del Rey - Born To Die (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2011-12-22T19:00:01-05:00",
+    "dateModified": "2016-04-11T15:39:59-04:00",
+    "commentCount": 19
+}

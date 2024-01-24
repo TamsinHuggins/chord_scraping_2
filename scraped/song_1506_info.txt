@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/b-b-king/the-thrill-is-gone-chords-712526",
+    "name": "B.b. King - The Thrill Is Gone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "B.B. King"
+    },
+    "datePublished": "2008-07-31T20:00:01-04:00",
+    "dateModified": "2020-03-18T09:14:38-04:00",
+    "commentCount": 18
+}

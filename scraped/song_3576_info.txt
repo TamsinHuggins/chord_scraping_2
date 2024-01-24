@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/jackpot-kabhi-jo-baadal-barse-chords-1838671",
+    "name": "Misc Soundtrack - Jackpot - Kabhi Jo Baadal Barse (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Cm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2016-04-25T08:44:16-04:00",
+    "dateModified": "2022-09-06T22:04:56-04:00",
+    "commentCount": 5,
+    "musicalKey": "Cm"
+}

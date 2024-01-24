@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/portugal-the-man/feel-it-still-chords-1960449",
+    "name": "Portugal. The Man - Feel It Still (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Portugal. The Man"
+    },
+    "datePublished": "2017-03-09T21:16:37-05:00",
+    "dateModified": "2023-04-22T00:11:02-04:00",
+    "commentCount": 35,
+    "musicalKey": "C#m"
+}

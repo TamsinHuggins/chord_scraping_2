@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-bay/let-it-go-chords-1680532",
+    "name": "James Bay - Let It Go (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "James Bay"
+    },
+    "datePublished": "2014-11-18T04:10:54-05:00",
+    "dateModified": "2018-02-14T14:31:59-05:00",
+    "commentCount": 85,
+    "musicalKey": "G"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gregory-alan-isakov/big-black-car-chords-1405519",
+    "name": "Gregory Alan Isakov - Big Black Car (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Gregory Alan Isakov"
+    },
+    "datePublished": "2013-07-24T20:00:01-04:00",
+    "dateModified": "2016-07-06T14:54:18-04:00",
+    "commentCount": 10
+}

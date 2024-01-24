@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blind-faith/cant-find-my-way-home-chords-861343",
+    "name": "Blind Faith - Cant Find My Way Home (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blind Faith"
+    },
+    "datePublished": "2009-08-16T20:00:01-04:00",
+    "dateModified": "2022-10-30T21:17:23-04:00",
+    "commentCount": 4
+}

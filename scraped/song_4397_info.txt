@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grateful-dead/goin-down-the-road-feeling-bad-chords-363786",
+    "name": "Grateful Dead - Goin Down The Road Feeling Bad (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Grateful Dead"
+    },
+    "datePublished": "2006-05-09T20:00:01-04:00",
+    "dateModified": "2022-03-31T20:25:24-04:00",
+    "commentCount": 2
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-taylor/carolina-in-my-mind-chords-1065978",
+    "name": "James Taylor - Carolina In My Mind (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "James Taylor"
+    },
+    "datePublished": "2011-06-13T20:00:01-04:00",
+    "dateModified": "2016-05-12T11:48:50-04:00",
+    "commentCount": 30
+}

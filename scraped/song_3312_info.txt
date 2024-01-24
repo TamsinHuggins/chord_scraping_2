@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ritchie-valens/we-belong-together-chords-652",
+    "name": "Ritchie Valens - We Belong Together (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ritchie Valens"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2016-06-14T10:13:47-04:00",
+    "commentCount": 5
+}

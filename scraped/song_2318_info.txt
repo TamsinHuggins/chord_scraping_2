@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/moon-song-chords-3794300",
+    "name": "Phoebe Bridgers - Moon Song (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phoebe Bridgers"
+    },
+    "datePublished": "2021-07-16T01:47:04-04:00",
+    "dateModified": "2021-07-25T04:55:46-04:00",
+    "commentCount": 2
+}

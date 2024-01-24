@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cory-asbury/reckless-love-chords-1973471",
+    "name": "Cory Asbury - Reckless Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cory Asbury"
+    },
+    "datePublished": "2017-04-05T03:07:12-04:00",
+    "dateModified": "2018-11-20T12:23:26-05:00",
+    "commentCount": 25
+}

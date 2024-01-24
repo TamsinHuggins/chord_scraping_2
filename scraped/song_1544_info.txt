@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/after-the-gold-rush-chords-56557",
+    "name": "Neil Young - After The Gold Rush (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2003-07-20T20:00:00-04:00",
+    "dateModified": "2019-05-31T19:36:49-04:00",
+    "commentCount": 38
+}

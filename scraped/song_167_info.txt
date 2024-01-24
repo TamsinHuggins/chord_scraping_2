@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/as-it-was-chords-4134073",
+    "name": "Harry Styles - As It Was (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2022-03-31T19:13:04-04:00",
+    "dateModified": "2022-06-09T13:33:45-04:00",
+    "commentCount": 83,
+    "musicalKey": "A"
+}

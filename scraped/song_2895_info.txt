@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jon-pardi/head-over-boots-chords-1768040",
+    "name": "Jon Pardi - Head Over Boots (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jon Pardi"
+    },
+    "datePublished": "2015-09-24T03:43:57-04:00",
+    "dateModified": "2020-08-20T23:12:10-04:00",
+    "commentCount": 23
+}

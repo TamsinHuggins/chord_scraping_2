@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pulp/common-people-chords-79870",
+    "name": "Pulp - Common People (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pulp"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2016-06-07T15:07:59-04:00",
+    "commentCount": 9
+}

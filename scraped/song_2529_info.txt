@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/runrig/loch-lomond-chords-179900",
+    "name": "Runrig - Loch Lomond (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Runrig"
+    },
+    "datePublished": "2005-04-21T20:00:00-04:00",
+    "dateModified": "2016-06-07T08:28:04-04:00",
+    "commentCount": 13
+}

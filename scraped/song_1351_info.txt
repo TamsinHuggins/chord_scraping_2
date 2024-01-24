@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/jumpin-jack-flash-chords-1889776",
+    "name": "The Rolling Stones - Jumpin Jack Flash (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2016-10-13T04:30:14-04:00",
+    "dateModified": "2017-05-02T18:47:03-04:00",
+    "commentCount": 8
+}

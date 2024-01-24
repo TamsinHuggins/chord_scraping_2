@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/the-good-ill-do-chords-4199722",
+    "name": "Zach Bryan - The Good Ill Do (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2022-05-20T15:23:09-04:00",
+    "dateModified": "2022-12-26T07:45:41-05:00",
+    "commentCount": 5,
+    "musicalKey": "Bb"
+}

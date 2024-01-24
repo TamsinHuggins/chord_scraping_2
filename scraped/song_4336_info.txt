@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/josh-groban/you-raise-me-up-chords-262269",
+    "name": "Josh Groban - You Raise Me Up (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Josh Groban"
+    },
+    "datePublished": "2005-10-09T20:00:01-04:00",
+    "dateModified": "2018-09-25T14:08:30-04:00",
+    "commentCount": 19
+}

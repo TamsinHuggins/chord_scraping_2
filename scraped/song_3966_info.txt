@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4600898",
+    "name": "Måneskin - Gossip (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Måneskin"
+    },
+    "datePublished": "2023-01-12T19:12:00-05:00",
+    "dateModified": "2023-05-29T15:11:04-04:00",
+    "commentCount": 13
+}

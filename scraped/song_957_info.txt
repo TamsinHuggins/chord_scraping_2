@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/i-saw-her-standing-there-chords-139706",
+    "name": "The Beatles - I Saw Her Standing There (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2004-10-01T20:00:00-04:00",
+    "dateModified": "2020-02-11T11:37:50-05:00",
+    "commentCount": 42,
+    "musicalKey": "E"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-mayer/free-fallin-chords-999809",
+    "name": "John Mayer - Free Fallin (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "John Mayer"
+    },
+    "datePublished": "2010-11-01T20:00:01-04:00",
+    "dateModified": "2019-03-15T08:04:26-04:00",
+    "commentCount": 26,
+    "musicalKey": "F"
+}

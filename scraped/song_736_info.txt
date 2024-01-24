@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/good-4-u-chords-3705839",
+    "name": "Olivia Rodrigo - Good 4 U (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2021-05-13T18:44:19-04:00",
+    "dateModified": "2022-08-23T14:36:58-04:00",
+    "commentCount": 45,
+    "musicalKey": "F#m"
+}

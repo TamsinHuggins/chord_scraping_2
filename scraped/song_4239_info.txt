@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/donny-hathaway/a-song-for-you-chords-983758",
+    "name": "Donny Hathaway - A Song For You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Donny Hathaway"
+    },
+    "datePublished": "2010-08-31T20:00:01-04:00",
+    "dateModified": "2016-07-19T13:27:34-04:00",
+    "commentCount": 11
+}

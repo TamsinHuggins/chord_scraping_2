@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/derrick-dove-the-peacekeepers/when-did-i-get-old-chords-5015944",
+    "name": "Derrick Dove & The Peacekeepers - When Did I Get Old (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Derrick Dove &amp; The Peacekeepers"
+    },
+    "datePublished": "2023-11-04T06:01:34-04:00",
+    "dateModified": "2023-11-04T10:01:35-04:00",
+    "commentCount": 4,
+    "musicalKey": "G"
+}

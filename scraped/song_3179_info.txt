@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cars/drive-chords-63345",
+    "name": "The Cars - Drive (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cars"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-05-02T08:24:45-04:00",
+    "commentCount": 21,
+    "musicalKey": "B"
+}

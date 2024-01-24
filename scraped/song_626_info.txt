@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-kinks/lola-chords-1048969",
+    "name": "The Kinks - Lola (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Kinks"
+    },
+    "datePublished": "2011-04-28T20:00:01-04:00",
+    "dateModified": "2023-06-14T23:03:24-04:00",
+    "commentCount": 81,
+    "musicalKey": "E"
+}

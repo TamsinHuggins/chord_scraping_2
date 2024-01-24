@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stephen-wilson-jr-/year-to-be-young-1994-chords-3152921",
+    "name": "Stephen Wilson Jr. - Year To Be Young 1994 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stephen Wilson Jr."
+    },
+    "datePublished": "2020-05-17T04:49:29-04:00",
+    "dateModified": "2020-05-18T15:35:07-04:00",
+    "commentCount": 4
+}

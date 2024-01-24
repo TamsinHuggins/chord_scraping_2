@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/terry-jacks/seasons-in-the-sun-chords-366567",
+    "name": "Terry Jacks - Seasons In The Sun (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Terry Jacks"
+    },
+    "datePublished": "2006-05-17T20:00:01-04:00",
+    "dateModified": "2023-12-12T13:43:57-05:00",
+    "commentCount": 19,
+    "musicalKey": "G"
+}

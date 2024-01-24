@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kim-carnes/bette-davis-eyes-chords-660549",
+    "name": "Kim Carnes - Bette Davis Eyes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Kim Carnes"
+    },
+    "datePublished": "2008-04-02T20:00:01-04:00",
+    "dateModified": "2019-12-01T11:23:25-05:00",
+    "commentCount": 17
+}

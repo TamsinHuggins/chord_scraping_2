@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/red-chords-1185997",
+    "name": "Taylor Swift - Red (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2012-10-01T20:00:01-04:00",
+    "dateModified": "2021-11-12T17:58:04-05:00",
+    "commentCount": 61,
+    "musicalKey": "E"
+}

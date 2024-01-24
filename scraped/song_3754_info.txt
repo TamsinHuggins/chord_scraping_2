@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/getting-older-chords-3811904",
+    "name": "Billie Eilish - Getting Older (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2021-07-29T14:30:07-04:00",
+    "dateModified": "2021-08-03T17:22:38-04:00",
+    "commentCount": 13,
+    "musicalKey": "Bb"
+}

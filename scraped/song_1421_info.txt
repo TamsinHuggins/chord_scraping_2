@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/crosby-stills-nash/helplessly-hoping-chords-64116",
+    "name": "Crosby, Stills & Nash - Helplessly Hoping (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Crosby, Stills &amp; Nash"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-01-21T15:38:10-05:00",
+    "commentCount": 30,
+    "musicalKey": "Am"
+}

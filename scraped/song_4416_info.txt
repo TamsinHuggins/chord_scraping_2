@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/boys-of-faith-chords-4962757",
+    "name": "Zach Bryan - Boys Of Faith (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2023-09-22T00:52:57-04:00",
+    "dateModified": "2023-09-22T04:52:57-04:00",
+    "commentCount": 2,
+    "musicalKey": "C"
+}

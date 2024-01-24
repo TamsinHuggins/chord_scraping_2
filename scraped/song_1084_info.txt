@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pearl-jam/just-breathe-chords-875531",
+    "name": "Pearl Jam - Just Breathe (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pearl Jam"
+    },
+    "datePublished": "2009-09-23T20:00:01-04:00",
+    "dateModified": "2016-05-06T14:45:57-04:00",
+    "commentCount": 30
+}

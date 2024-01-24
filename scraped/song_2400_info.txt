@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-combs/going-going-gone-chords-4245421",
+    "name": "Luke Combs - Going Going Gone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Combs"
+    },
+    "datePublished": "2022-06-24T06:24:13-04:00",
+    "dateModified": "2022-12-22T22:05:25-05:00",
+    "commentCount": 1
+}

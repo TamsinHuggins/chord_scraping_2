@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lauren-daigle/rescue-chords-2466210",
+    "name": "Lauren Daigle - Rescue (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F# Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Lauren Daigle"
+    },
+    "datePublished": "2018-09-07T04:52:54-04:00",
+    "dateModified": "2021-09-30T16:41:40-04:00",
+    "commentCount": 12,
+    "musicalKey": "F#"
+}

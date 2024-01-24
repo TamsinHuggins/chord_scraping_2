@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/amy-winehouse/will-you-still-love-me-tomorrow-chords-562183",
+    "name": "Amy Winehouse - Will You Still Love Me Tomorrow (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Amy Winehouse"
+    },
+    "datePublished": "2007-08-12T20:00:01-04:00",
+    "dateModified": "2016-04-19T15:01:09-04:00",
+    "commentCount": 8
+}

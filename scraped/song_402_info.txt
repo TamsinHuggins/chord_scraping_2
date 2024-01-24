@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cody-carnes/firm-foundation-he-wont-chords-3983812",
+    "name": "Cody Carnes - Firm Foundation He Wont (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Cody Carnes"
+    },
+    "datePublished": "2021-12-11T06:41:52-05:00",
+    "dateModified": "2021-12-12T15:26:30-05:00",
+    "commentCount": 5,
+    "musicalKey": "Bb"
+}

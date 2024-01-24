@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-1975/robbers-chords-1489132",
+    "name": "The 1975 - Robbers (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "The 1975"
+    },
+    "datePublished": "2014-05-31T11:58:00-04:00",
+    "dateModified": "2019-08-23T15:22:21-04:00",
+    "commentCount": 15
+}

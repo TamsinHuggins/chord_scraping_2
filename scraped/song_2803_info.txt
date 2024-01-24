@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-prine/paradise-chords-1051304",
+    "name": "John Prine - Paradise (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "John Prine"
+    },
+    "datePublished": "2011-04-28T20:00:01-04:00",
+    "dateModified": "2022-09-30T20:41:51-04:00",
+    "commentCount": 11,
+    "musicalKey": "D"
+}

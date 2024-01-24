@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-greatest-showman-tightrope-chords-2268115",
+    "name": "Misc Soundtrack - The Greatest Showman - Tightrope (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2017-12-27T19:42:50-05:00",
+    "dateModified": "2021-01-25T21:03:32-05:00",
+    "commentCount": 45,
+    "musicalKey": "A"
+}

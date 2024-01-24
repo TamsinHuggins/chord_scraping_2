@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frank-ocean/thinkin-bout-you-chords-1135763",
+    "name": "Frank Ocean - Thinkin Bout You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Frank Ocean"
+    },
+    "datePublished": "2012-03-06T19:00:01-05:00",
+    "dateModified": "2021-11-18T17:15:23-05:00",
+    "commentCount": 23,
+    "musicalKey": "Am"
+}

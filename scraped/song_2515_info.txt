@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/all-along-the-watchtower-chords-1090598",
+    "name": "Bob Dylan - All Along The Watchtower (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2011-09-04T20:00:01-04:00",
+    "dateModified": "2019-08-13T19:30:58-04:00",
+    "commentCount": 18,
+    "musicalKey": "C#m"
+}

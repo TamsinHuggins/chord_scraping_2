@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/norman-greenbaum/spirit-in-the-sky-chords-1053312",
+    "name": "Norman Greenbaum - Spirit In The Sky (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Norman Greenbaum"
+    },
+    "datePublished": "2011-05-02T20:00:01-04:00",
+    "dateModified": "2023-10-21T20:41:13-04:00",
+    "commentCount": 9
+}

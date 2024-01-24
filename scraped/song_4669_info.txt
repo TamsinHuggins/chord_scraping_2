@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/forever-winter-chords-3946124",
+    "name": "Taylor Swift - Forever Winter (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2021-11-12T02:40:12-05:00",
+    "dateModified": "2021-11-12T17:04:20-05:00",
+    "commentCount": 7,
+    "musicalKey": "C"
+}

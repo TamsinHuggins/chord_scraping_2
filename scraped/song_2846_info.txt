@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rey-valera/kahit-maputi-na-ang-buhok-ko-chords-567660",
+    "name": "Rey Valera - Kahit Maputi Na Ang Buhok Ko (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rey Valera"
+    },
+    "datePublished": "2007-08-22T20:00:01-04:00",
+    "dateModified": "2018-08-26T00:30:41-04:00",
+    "commentCount": 22,
+    "musicalKey": "G"
+}

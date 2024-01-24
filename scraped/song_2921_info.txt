@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lauren-daigle/trust-in-you-chords-1707265",
+    "name": "Lauren Daigle - Trust In You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Lauren Daigle"
+    },
+    "datePublished": "2015-02-05T02:28:28-05:00",
+    "dateModified": "2022-01-26T19:31:23-05:00",
+    "commentCount": 39
+}

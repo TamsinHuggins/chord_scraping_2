@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beabadoobee/youre-here-thats-the-thing-chords-4272166",
+    "name": "Beabadoobee - Youre Here Thats The Thing (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "beabadoobee"
+    },
+    "datePublished": "2022-07-15T00:09:21-04:00",
+    "dateModified": "2022-07-15T11:31:17-04:00",
+    "commentCount": 10
+}

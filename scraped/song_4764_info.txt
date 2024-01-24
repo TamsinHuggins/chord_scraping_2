@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-front-bottoms/twin-size-mattress-chords-1749042",
+    "name": "The Front Bottoms - Twin Size Mattress (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Front Bottoms"
+    },
+    "datePublished": "2015-07-02T05:33:19-04:00",
+    "dateModified": "2018-09-15T01:53:00-04:00",
+    "commentCount": 12
+}

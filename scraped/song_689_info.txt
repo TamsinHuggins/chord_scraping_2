@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rod-stewart/i-dont-want-to-talk-about-it-chords-1186023",
+    "name": "Rod Stewart - I Dont Want To Talk About It (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Rod Stewart"
+    },
+    "datePublished": "2012-10-01T20:00:01-04:00",
+    "dateModified": "2023-01-11T09:27:38-05:00",
+    "commentCount": 19,
+    "musicalKey": "Bb"
+}

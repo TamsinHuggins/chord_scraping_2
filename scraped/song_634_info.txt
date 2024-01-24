@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/suzie-chapstick-chords-5104909",
+    "name": "Green Day - Suzie Chapstick (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2024-01-14T16:46:44-05:00",
+    "dateModified": "2024-01-23T16:05:12-05:00",
+    "commentCount": 8,
+    "musicalKey": "C"
+}

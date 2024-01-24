@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/forever-chords-5038477",
+    "name": "Noah Kahan - Forever (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2023-11-21T14:20:45-05:00",
+    "dateModified": "2023-11-24T14:17:07-05:00",
+    "commentCount": 0,
+    "musicalKey": "C"
+}

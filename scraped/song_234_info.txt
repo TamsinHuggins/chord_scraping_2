@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/train/drops-of-jupiter-chords-1433",
+    "name": "Train - Drops Of Jupiter (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Train"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2018-12-11T12:29:41-05:00",
+    "commentCount": 118,
+    "musicalKey": "C"
+}

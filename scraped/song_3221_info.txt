@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/albert-hammond/it-never-rains-in-southern-california-chords-1047441",
+    "name": "Albert Hammond - It Never Rains In Southern California (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Albert Hammond"
+    },
+    "datePublished": "2011-04-14T20:00:01-04:00",
+    "dateModified": "2023-09-21T17:35:35-04:00",
+    "commentCount": 21
+}

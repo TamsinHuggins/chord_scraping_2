@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/spotless-chords-4924183",
+    "name": "Zach Bryan - Spotless (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2023-08-20T21:10:20-04:00",
+    "dateModified": "2023-09-06T01:41:35-04:00",
+    "commentCount": 5,
+    "musicalKey": "C"
+}

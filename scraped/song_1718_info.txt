@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-combs/hurricane-chords-1814248",
+    "name": "Luke Combs - Hurricane (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Combs"
+    },
+    "datePublished": "2016-02-11T04:37:14-05:00",
+    "dateModified": "2017-04-10T21:28:14-04:00",
+    "commentCount": 15
+}

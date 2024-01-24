@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eli-wilson/i-always-fall-chords-5038981",
+    "name": "Eli Wilson - I Always Fall (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eli Wilson"
+    },
+    "datePublished": "2023-11-22T02:13:19-05:00",
+    "dateModified": "2023-11-22T09:20:24-05:00",
+    "commentCount": 3,
+    "musicalKey": "D"
+}

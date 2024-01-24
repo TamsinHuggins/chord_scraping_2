@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/boney-m-/rasputin-chords-1230089",
+    "name": "Boney M. - Rasputin (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Boney M."
+    },
+    "datePublished": "2013-03-12T20:00:01-04:00",
+    "dateModified": "2019-11-30T15:12:38-05:00",
+    "commentCount": 18
+}

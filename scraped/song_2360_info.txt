@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/roy-orbison/crying-chords-1092196",
+    "name": "Roy Orbison - Crying (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Roy Orbison"
+    },
+    "datePublished": "2011-09-11T20:00:01-04:00",
+    "dateModified": "2023-08-20T18:46:50-04:00",
+    "commentCount": 24
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eva-cassidy/autumn-leaves-chords-816511",
+    "name": "Eva Cassidy - Autumn Leaves (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Eva Cassidy"
+    },
+    "datePublished": "2009-04-22T20:00:01-04:00",
+    "dateModified": "2022-01-21T15:45:10-05:00",
+    "commentCount": 15
+}

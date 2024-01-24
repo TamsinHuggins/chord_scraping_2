@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/fake-plastic-trees-chords-140939",
+    "name": "Radiohead - Fake Plastic Trees (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Radiohead"
+    },
+    "datePublished": "2004-10-10T20:00:00-04:00",
+    "dateModified": "2020-02-27T13:22:01-05:00",
+    "commentCount": 36,
+    "musicalKey": "A"
+}

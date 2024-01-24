@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adele/chasing-pavements-chords-989912",
+    "name": "Adele - Chasing Pavements (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Adele"
+    },
+    "datePublished": "2010-09-21T20:00:01-04:00",
+    "dateModified": "2021-02-08T16:03:38-05:00",
+    "commentCount": 26,
+    "musicalKey": "Eb"
+}

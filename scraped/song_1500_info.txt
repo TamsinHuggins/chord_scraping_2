@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/as-tears-go-by-chords-346586",
+    "name": "The Rolling Stones - As Tears Go By (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2006-03-24T19:00:01-05:00",
+    "dateModified": "2018-09-21T12:41:47-04:00",
+    "commentCount": 26,
+    "musicalKey": "G"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-velvet-underground/sunday-morning-chords-87799",
+    "name": "The Velvet Underground - Sunday Morning (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Velvet Underground"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2016-05-17T12:48:04-04:00",
+    "commentCount": 17
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/all-of-the-girls-you-loved-before-chords-4668233",
+    "name": "Taylor Swift - All Of The Girls You Loved Before (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2023-03-01T17:41:21-05:00",
+    "dateModified": "2023-03-18T15:37:47-04:00",
+    "commentCount": 5,
+    "musicalKey": "Bm"
+}

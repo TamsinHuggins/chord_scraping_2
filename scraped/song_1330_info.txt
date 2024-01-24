@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/the-30th-chords-4280629",
+    "name": "Billie Eilish - The 30Th (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2022-07-21T12:15:43-04:00",
+    "dateModified": "2022-07-26T16:16:24-04:00",
+    "commentCount": 17,
+    "musicalKey": "G"
+}

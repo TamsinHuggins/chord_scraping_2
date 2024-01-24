@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fugazi/im-so-tired-chords-1076310",
+    "name": "Fugazi - Im So Tired (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fugazi"
+    },
+    "datePublished": "2011-07-18T20:00:01-04:00",
+    "dateModified": "2016-07-12T14:49:48-04:00",
+    "commentCount": 10
+}

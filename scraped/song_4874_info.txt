@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/barbie-im-just-ken-chords-4863341",
+    "name": "Misc Soundtrack - Barbie - Im Just Ken (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-07-10T13:57:50-04:00",
+    "dateModified": "2023-08-29T13:28:58-04:00",
+    "commentCount": 13,
+    "musicalKey": "B"
+}

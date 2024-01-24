@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-velvet-underground/candy-says-chords-631",
+    "name": "The Velvet Underground - Candy Says (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Velvet Underground"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2016-07-06T10:20:27-04:00",
+    "commentCount": 15
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/charlie-hall/how-great-thou-art-chords-1130952",
+    "name": "Charlie Hall - How Great Thou Art (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Charlie Hall"
+    },
+    "datePublished": "2012-02-14T19:00:01-05:00",
+    "dateModified": "2021-05-29T21:29:36-04:00",
+    "commentCount": 18,
+    "musicalKey": "B"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cardigans/lovefool-chords-468397",
+    "name": "The Cardigans - Lovefool (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cardigans"
+    },
+    "datePublished": "2007-02-02T19:00:01-05:00",
+    "dateModified": "2016-05-19T12:09:45-04:00",
+    "commentCount": 12
+}

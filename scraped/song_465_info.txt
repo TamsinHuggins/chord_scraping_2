@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/wildest-dreams-chords-1674166",
+    "name": "Taylor Swift - Wildest Dreams (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2014-10-24T14:55:13-04:00",
+    "dateModified": "2023-11-28T01:24:46-05:00",
+    "commentCount": 52,
+    "musicalKey": "Db"
+}

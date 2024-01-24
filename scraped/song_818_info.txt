@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pearl-jam/elderly-woman-behind-the-counter-in-a-small-town-chords-1231544",
+    "name": "Pearl Jam - Elderly Woman Behind The Counter In A Small Town (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pearl Jam"
+    },
+    "datePublished": "2013-03-21T20:00:01-04:00",
+    "dateModified": "2022-01-16T05:56:10-05:00",
+    "commentCount": 39,
+    "musicalKey": "G"
+}

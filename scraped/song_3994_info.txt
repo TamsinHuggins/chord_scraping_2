@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/skid-row/i-remember-you-chords-1754385",
+    "name": "Skid Row - I Remember You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Skid Row"
+    },
+    "datePublished": "2015-07-24T06:06:16-04:00",
+    "dateModified": "2015-07-24T10:06:16-04:00",
+    "commentCount": 11
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-united/oceans-where-feet-may-fail-chords-1468013",
+    "name": "Hillsong United - Oceans Where Feet May Fail (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong United"
+    },
+    "datePublished": "2014-03-05T19:00:01-05:00",
+    "dateModified": "2019-07-22T22:20:52-04:00",
+    "commentCount": 53,
+    "musicalKey": "Bm"
+}

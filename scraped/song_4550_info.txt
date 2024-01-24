@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/three-days-grace/never-too-late-chords-383493",
+    "name": "Three Days Grace - Never Too Late (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Three Days Grace"
+    },
+    "datePublished": "2006-06-30T20:00:01-04:00",
+    "dateModified": "2018-02-27T16:25:32-05:00",
+    "commentCount": 27
+}

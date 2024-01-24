@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zac-brown-band/knee-deep-chords-991228",
+    "name": "Zac Brown Band - Knee Deep (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Zac Brown Band"
+    },
+    "datePublished": "2010-09-28T20:00:01-04:00",
+    "dateModified": "2019-07-20T03:08:59-04:00",
+    "commentCount": 10
+}

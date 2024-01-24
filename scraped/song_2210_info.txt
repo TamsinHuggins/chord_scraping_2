@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dixie-chicks/landslide-chords-67128",
+    "name": "Dixie Chicks - Landslide (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Dixie Chicks"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-06-26T22:03:43-04:00",
+    "commentCount": 32
+}

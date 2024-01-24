@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/willie-nelson/seven-spanish-angels-chords-1788122",
+    "name": "Willie Nelson - Seven Spanish Angels (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Willie Nelson"
+    },
+    "datePublished": "2015-12-11T18:25:06-05:00",
+    "dateModified": "2015-12-11T23:25:06-05:00",
+    "commentCount": 6
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adele/set-fire-to-the-rain-chords-1036340",
+    "name": "Adele - Set Fire To The Rain (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Adele"
+    },
+    "datePublished": "2011-03-15T20:00:01-04:00",
+    "dateModified": "2020-09-08T12:09:21-04:00",
+    "commentCount": 45,
+    "musicalKey": "Am"
+}

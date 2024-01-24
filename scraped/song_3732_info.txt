@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dan-shay/speechless-chords-2386647",
+    "name": "Dan + Shay - Speechless (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Dan + Shay"
+    },
+    "datePublished": "2018-05-18T04:27:59-04:00",
+    "dateModified": "2019-05-30T13:13:08-04:00",
+    "commentCount": 12,
+    "musicalKey": "Db"
+}

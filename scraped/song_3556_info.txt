@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/caamp/26-chords-2355611",
+    "name": "Caamp - 26 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Caamp"
+    },
+    "datePublished": "2018-03-30T15:52:23-04:00",
+    "dateModified": "2023-01-02T00:21:18-05:00",
+    "commentCount": 11
+}

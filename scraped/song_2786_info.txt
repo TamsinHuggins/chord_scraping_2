@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-allman-brothers-band/soulshine-chords-59595",
+    "name": "The Allman Brothers Band - Soulshine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Allman Brothers Band"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-01-05T23:02:45-05:00",
+    "commentCount": 11
+}

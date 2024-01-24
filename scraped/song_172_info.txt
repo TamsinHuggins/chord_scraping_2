@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/prince/purple-rain-chords-413679",
+    "name": "Prince - Purple Rain (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Prince"
+    },
+    "datePublished": "2006-09-17T20:00:01-04:00",
+    "dateModified": "2020-10-07T04:37:24-04:00",
+    "commentCount": 74,
+    "musicalKey": "Bb"
+}

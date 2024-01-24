@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/viva-la-vida-chords-1240850",
+    "name": "Coldplay - Viva La Vida (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2013-04-25T20:00:01-04:00",
+    "dateModified": "2018-11-16T21:07:46-05:00",
+    "commentCount": 11
+}

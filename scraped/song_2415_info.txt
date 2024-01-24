@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/seether/broken-chords-98496",
+    "name": "Seether - Broken (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Seether"
+    },
+    "datePublished": "2003-12-23T19:00:00-05:00",
+    "dateModified": "2018-09-06T13:37:01-04:00",
+    "commentCount": 37,
+    "musicalKey": "Em"
+}

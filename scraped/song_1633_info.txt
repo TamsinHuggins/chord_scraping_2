@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neon-trees/everybody-talks-chords-1121978",
+    "name": "Neon Trees - Everybody Talks (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Neon Trees"
+    },
+    "datePublished": "2012-01-10T19:00:01-05:00",
+    "dateModified": "2016-05-11T11:01:57-04:00",
+    "commentCount": 45
+}

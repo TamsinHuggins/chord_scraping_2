@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/keshi/understand-chords-4131823",
+    "name": "Keshi - Understand (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "keshi"
+    },
+    "datePublished": "2022-03-30T06:10:42-04:00",
+    "dateModified": "2022-03-30T10:23:59-04:00",
+    "commentCount": 4,
+    "musicalKey": "F"
+}

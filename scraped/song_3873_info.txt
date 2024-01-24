@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tokio-hotel/monsoon-chords-511102",
+    "name": "Tokio Hotel - Monsoon (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tokio Hotel"
+    },
+    "datePublished": "2007-04-30T20:00:01-04:00",
+    "dateModified": "2021-02-05T09:59:17-05:00",
+    "commentCount": 6
+}

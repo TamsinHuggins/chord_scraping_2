@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laurie-klein/i-love-you-lord-chords-1752454",
+    "name": "Laurie Klein - I Love You Lord (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laurie Klein"
+    },
+    "datePublished": "2015-07-17T06:29:46-04:00",
+    "dateModified": "2020-05-21T12:19:27-04:00",
+    "commentCount": 9
+}

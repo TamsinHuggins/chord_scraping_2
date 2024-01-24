@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alice-in-chains/man-in-the-box-chords-1022419",
+    "name": "Alice In Chains - Man In The Box (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alice in Chains"
+    },
+    "datePublished": "2011-01-27T19:00:01-05:00",
+    "dateModified": "2021-01-27T21:49:03-05:00",
+    "commentCount": 9
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dylan-gossett/beneath-oak-trees-chords-4980199",
+    "name": "Dylan Gossett - Beneath Oak Trees (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Dylan Gossett"
+    },
+    "datePublished": "2023-10-06T09:21:53-04:00",
+    "dateModified": "2023-10-06T13:21:54-04:00",
+    "commentCount": 0
+}

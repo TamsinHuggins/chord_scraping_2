@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paolo-nutini/new-shoes-chords-392410",
+    "name": "Paolo Nutini - New Shoes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Paolo Nutini"
+    },
+    "datePublished": "2006-07-24T20:00:01-04:00",
+    "dateModified": "2018-09-17T14:35:24-04:00",
+    "commentCount": 37
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-originals/lucy-gray-baird-and-suzanne-collins-the-old-therebefore-the-snake-lullaby-chords-3554426",
+    "name": "Misc Originals - Lucy Gray Baird And Suzanne Collins - The Old Therebefore The Snake Lullaby (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Originals"
+    },
+    "datePublished": "2021-02-07T10:07:24-05:00",
+    "dateModified": "2021-02-09T10:28:32-05:00",
+    "commentCount": 1
+}

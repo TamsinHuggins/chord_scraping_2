@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lizzy-mcalpine/pancakes-for-dinner-chords-3302627",
+    "name": "Lizzy Mcalpine - Pancakes For Dinner (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lizzy McAlpine"
+    },
+    "datePublished": "2020-08-21T14:12:12-04:00",
+    "dateModified": "2020-08-22T08:28:11-04:00",
+    "commentCount": 1,
+    "musicalKey": "C"
+}

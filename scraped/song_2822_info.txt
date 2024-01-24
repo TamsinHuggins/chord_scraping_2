@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/shelter-from-the-storm-chords-697872",
+    "name": "Bob Dylan - Shelter From The Storm (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2008-07-01T20:00:01-04:00",
+    "dateModified": "2020-04-13T12:56:21-04:00",
+    "commentCount": 31,
+    "musicalKey": "E"
+}

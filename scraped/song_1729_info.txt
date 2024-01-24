@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-strokes/last-nite-chords-22480",
+    "name": "The Strokes - Last Nite (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Strokes"
+    },
+    "datePublished": "2002-01-18T19:00:00-05:00",
+    "dateModified": "2021-08-18T02:11:13-04:00",
+    "commentCount": 109,
+    "musicalKey": "C"
+}

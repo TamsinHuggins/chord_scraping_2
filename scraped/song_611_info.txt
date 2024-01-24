@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruno-mars/marry-you-chords-1009718",
+    "name": "Bruno Mars - Marry You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruno Mars"
+    },
+    "datePublished": "2010-12-05T19:00:01-05:00",
+    "dateModified": "2021-03-31T12:12:14-04:00",
+    "commentCount": 33,
+    "musicalKey": "F"
+}

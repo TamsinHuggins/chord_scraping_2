@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/knee-socks-chords-1418450",
+    "name": "Arctic Monkeys - Knee Socks (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2013-09-15T20:00:01-04:00",
+    "dateModified": "2018-11-04T23:27:16-05:00",
+    "commentCount": 12
+}

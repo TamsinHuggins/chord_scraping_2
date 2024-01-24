@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lorde/liability-chords-1960521",
+    "name": "Lorde - Liability (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Lorde"
+    },
+    "datePublished": "2017-03-10T00:06:52-05:00",
+    "dateModified": "2021-02-26T09:14:44-05:00",
+    "commentCount": 29,
+    "musicalKey": "C"
+}

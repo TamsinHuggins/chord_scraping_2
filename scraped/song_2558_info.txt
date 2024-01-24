@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brian-johnson/god-of-revival-chords-2842307",
+    "name": "Brian Johnson - God Of Revival (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Brian Johnson"
+    },
+    "datePublished": "2019-09-29T20:02:45-04:00",
+    "dateModified": "2019-09-30T17:47:22-04:00",
+    "commentCount": 4
+}

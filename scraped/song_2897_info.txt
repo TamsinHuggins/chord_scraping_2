@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/cast-no-shadow-chords-6090",
+    "name": "Oasis - Cast No Shadow (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Oasis"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-05-28T22:22:13-04:00",
+    "commentCount": 23
+}

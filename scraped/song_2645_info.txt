@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-maybe-its-time-chords-2485275",
+    "name": "Misc Soundtrack - A Star Is Born - Maybe Its Time (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2018-10-05T12:20:40-04:00",
+    "dateModified": "2023-08-07T09:34:17-04:00",
+    "commentCount": 36,
+    "musicalKey": "G"
+}

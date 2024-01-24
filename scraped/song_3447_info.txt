@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mgmt/time-to-pretend-chords-637823",
+    "name": "Mgmt - Time To Pretend (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "MGMT"
+    },
+    "datePublished": "2008-02-11T19:00:01-05:00",
+    "dateModified": "2018-06-18T08:00:40-04:00",
+    "commentCount": 9
+}

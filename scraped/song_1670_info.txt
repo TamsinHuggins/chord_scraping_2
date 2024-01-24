@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/encanto-dos-oruguitas-chords-3956728",
+    "name": "Misc Cartoons - Encanto - Dos Oruguitas (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2021-11-20T03:12:30-05:00",
+    "dateModified": "2021-12-27T16:38:35-05:00",
+    "commentCount": 18,
+    "musicalKey": "C"
+}

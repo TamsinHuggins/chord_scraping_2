@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/roxette/it-must-have-been-love-chords-260123",
+    "name": "Roxette - It Must Have Been Love (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Roxette"
+    },
+    "datePublished": "2005-09-30T20:59:02-04:00",
+    "dateModified": "2019-03-18T00:17:18-04:00",
+    "commentCount": 12
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eraserheads/with-a-smile-chords-124395",
+    "name": "Eraserheads - With A Smile (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eraserheads"
+    },
+    "datePublished": "2004-06-29T20:00:00-04:00",
+    "dateModified": "2022-03-05T11:07:30-05:00",
+    "commentCount": 38,
+    "musicalKey": "G"
+}

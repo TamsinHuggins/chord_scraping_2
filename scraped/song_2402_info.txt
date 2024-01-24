@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/henry-moodie/drunk-text-chords-4620515",
+    "name": "Henry Moodie - Drunk Text (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Henry Moodie"
+    },
+    "datePublished": "2023-01-27T04:53:09-05:00",
+    "dateModified": "2023-03-15T09:40:42-04:00",
+    "commentCount": 2
+}

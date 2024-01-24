@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/josh-turner/your-man-chords-935680",
+    "name": "Josh Turner - Your Man (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Josh Turner"
+    },
+    "datePublished": "2010-03-29T20:00:01-04:00",
+    "dateModified": "2016-06-07T13:23:03-04:00",
+    "commentCount": 15
+}

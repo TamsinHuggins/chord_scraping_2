@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/deep-blue-something/breakfast-at-tiffanys-chords-192338",
+    "name": "Deep Blue Something - Breakfast At Tiffanys (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Deep Blue Something"
+    },
+    "datePublished": "2005-06-19T20:00:00-04:00",
+    "dateModified": "2021-05-17T21:00:25-04:00",
+    "commentCount": 39,
+    "musicalKey": "D"
+}

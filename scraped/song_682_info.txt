@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/milky-chance/stolen-dance-chords-1243327",
+    "name": "Milky Chance - Stolen Dance (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Milky Chance"
+    },
+    "datePublished": "2013-05-06T20:00:01-04:00",
+    "dateModified": "2020-04-20T19:22:03-04:00",
+    "commentCount": 45,
+    "musicalKey": "G#m"
+}

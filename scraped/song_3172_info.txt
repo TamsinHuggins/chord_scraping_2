@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-mayer/in-the-blood-chords-1980523",
+    "name": "John Mayer - In The Blood (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "John Mayer"
+    },
+    "datePublished": "2017-04-13T08:22:03-04:00",
+    "dateModified": "2018-01-02T14:27:19-05:00",
+    "commentCount": 33,
+    "musicalKey": "G"
+}

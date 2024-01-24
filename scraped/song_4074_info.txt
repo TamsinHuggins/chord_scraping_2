@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/sorry-seems-to-be-the-hardest-word-chords-713274",
+    "name": "Elton John - Sorry Seems To Be The Hardest Word (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2008-08-03T20:00:01-04:00",
+    "dateModified": "2016-05-12T09:25:13-04:00",
+    "commentCount": 8
+}

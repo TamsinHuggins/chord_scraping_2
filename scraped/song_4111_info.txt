@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/timeless-chords-4857341",
+    "name": "Taylor Swift - Timeless (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2023-07-07T01:05:22-04:00",
+    "dateModified": "2023-07-12T13:58:18-04:00",
+    "commentCount": 4,
+    "musicalKey": "Eb"
+}

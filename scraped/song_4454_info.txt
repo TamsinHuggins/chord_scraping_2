@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kenny-chesney/you-and-tequila-chords-1059220",
+    "name": "Kenny Chesney - You And Tequila (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kenny Chesney"
+    },
+    "datePublished": "2011-05-24T20:00:01-04:00",
+    "dateModified": "2016-05-23T08:54:03-04:00",
+    "commentCount": 13
+}

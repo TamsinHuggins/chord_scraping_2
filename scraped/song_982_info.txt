@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-nash/i-can-see-clearly-now-chords-77897",
+    "name": "Johnny Nash - I Can See Clearly Now (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Nash"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-10-08T13:07:38-04:00",
+    "commentCount": 19,
+    "musicalKey": "D"
+}

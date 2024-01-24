@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fiona-apple/across-the-universe-chords-148212",
+    "name": "Fiona Apple - Across The Universe (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Fiona Apple"
+    },
+    "datePublished": "2004-11-25T19:00:00-05:00",
+    "dateModified": "2020-07-17T20:13:54-04:00",
+    "commentCount": 15
+}

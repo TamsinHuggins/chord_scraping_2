@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nancy-sinatra/these-boots-are-made-for-walkin-chords-113347",
+    "name": "Nancy Sinatra - These Boots Are Made For Walkin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nancy Sinatra"
+    },
+    "datePublished": "2004-04-11T20:00:00-04:00",
+    "dateModified": "2016-04-28T13:16:54-04:00",
+    "commentCount": 6
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gorillaz/feel-good-inc-chords-1001362",
+    "name": "Gorillaz - Feel Good Inc (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gorillaz"
+    },
+    "datePublished": "2010-11-04T20:00:01-04:00",
+    "dateModified": "2010-11-05T00:00:01-04:00",
+    "commentCount": 24
+}

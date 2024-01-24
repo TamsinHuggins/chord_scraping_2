@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/otis-redding/sittin-on-the-dock-of-the-bay-chords-1088518",
+    "name": "Otis Redding - Sittin On The Dock Of The Bay (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Otis Redding"
+    },
+    "datePublished": "2011-08-29T20:00:01-04:00",
+    "dateModified": "2022-07-08T21:46:15-04:00",
+    "commentCount": 82,
+    "musicalKey": "G"
+}

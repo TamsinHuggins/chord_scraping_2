@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/miranda-lambert/the-house-that-built-me-chords-1029726",
+    "name": "Miranda Lambert - The House That Built Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Miranda Lambert"
+    },
+    "datePublished": "2011-02-13T19:00:01-05:00",
+    "dateModified": "2019-03-22T23:08:01-04:00",
+    "commentCount": 24,
+    "musicalKey": "F"
+}

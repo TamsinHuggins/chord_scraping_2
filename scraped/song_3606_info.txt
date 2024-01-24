@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-odell/heal-chords-1725586",
+    "name": "Tom Odell - Heal (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Odell"
+    },
+    "datePublished": "2015-03-31T05:49:27-04:00",
+    "dateModified": "2021-09-19T21:21:12-04:00",
+    "commentCount": 6,
+    "musicalKey": "Bbm"
+}

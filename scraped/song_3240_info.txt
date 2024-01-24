@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/al-bano-romina-power/felicita-chords-1484164",
+    "name": "Al Bano & Romina Power - Felicita (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Al Bano &amp; Romina Power"
+    },
+    "datePublished": "2014-05-18T06:21:17-04:00",
+    "dateModified": "2020-08-24T22:51:50-04:00",
+    "commentCount": 4
+}

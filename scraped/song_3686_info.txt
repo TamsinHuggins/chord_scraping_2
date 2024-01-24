@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paul-simon/you-can-call-me-al-chords-84865",
+    "name": "Paul Simon - You Can Call Me Al (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Paul Simon"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-11-18T10:44:30-05:00",
+    "commentCount": 17,
+    "musicalKey": "G"
+}

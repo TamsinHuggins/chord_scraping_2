@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rihanna/stay-chords-1195964",
+    "name": "Rihanna - Stay (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rihanna"
+    },
+    "datePublished": "2012-11-18T19:00:01-05:00",
+    "dateModified": "2022-05-17T21:53:07-04:00",
+    "commentCount": 56,
+    "musicalKey": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kiss/beth-chords-178022",
+    "name": "Kiss - Beth (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "KISS"
+    },
+    "datePublished": "2005-04-12T20:00:00-04:00",
+    "dateModified": "2018-07-28T11:44:36-04:00",
+    "commentCount": 24,
+    "musicalKey": "C"
+}

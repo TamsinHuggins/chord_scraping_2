@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/van-morrison/star-of-the-county-down-chords-1040988",
+    "name": "Van Morrison - Star Of The County Down (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Van Morrison"
+    },
+    "datePublished": "2011-03-29T20:00:01-04:00",
+    "dateModified": "2018-05-24T19:06:51-04:00",
+    "commentCount": 8
+}

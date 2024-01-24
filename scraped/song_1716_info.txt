@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/745630",
+    "name": "Beyoncé - If I Were A Boy (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Beyoncé"
+    },
+    "datePublished": "2008-10-19T20:00:01-04:00",
+    "dateModified": "2016-04-19T12:54:32-04:00",
+    "commentCount": 20
+}

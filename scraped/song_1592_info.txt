@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-marley/jamming-chords-75870",
+    "name": "Bob Marley - Jamming (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Marley"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2022-08-14T11:28:06-04:00",
+    "commentCount": 23
+}

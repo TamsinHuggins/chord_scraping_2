@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/montell-fish/fall-in-love-with-you-chords-3971059",
+    "name": "Montell Fish - Fall In Love With You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Montell Fish"
+    },
+    "datePublished": "2021-12-01T15:33:55-05:00",
+    "dateModified": "2022-03-05T13:31:27-05:00",
+    "commentCount": 2,
+    "musicalKey": "E"
+}

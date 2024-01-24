@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/by-the-way-chords-954593",
+    "name": "Red Hot Chili Peppers - By The Way (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Red Hot Chili Peppers"
+    },
+    "datePublished": "2010-06-01T20:00:01-04:00",
+    "dateModified": "2017-03-31T10:20:50-04:00",
+    "commentCount": 16
+}

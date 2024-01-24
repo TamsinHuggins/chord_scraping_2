@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/lion-chords-4086742",
+    "name": "Elevation Worship - Lion (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2022-02-25T04:07:38-05:00",
+    "dateModified": "2022-03-05T20:43:45-05:00",
+    "commentCount": 3,
+    "musicalKey": "Dm"
+}

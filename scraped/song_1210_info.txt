@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/lay-all-your-love-on-me-chords-1798288",
+    "name": "Abba - Lay All Your Love On Me (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2015-12-25T03:58:49-05:00",
+    "dateModified": "2016-12-24T01:39:36-05:00",
+    "commentCount": 7
+}

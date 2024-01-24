@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cavetown/boys-will-be-bugs-chords-2541447",
+    "name": "Cavetown - Boys Will Be Bugs (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "cavetown"
+    },
+    "datePublished": "2018-12-11T03:36:06-05:00",
+    "dateModified": "2020-08-24T14:34:39-04:00",
+    "commentCount": 68,
+    "musicalKey": "D"
+}

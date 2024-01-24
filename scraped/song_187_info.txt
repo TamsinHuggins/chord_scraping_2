@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/blackbird-chords-718548",
+    "name": "The Beatles - Blackbird (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2008-08-12T20:00:01-04:00",
+    "dateModified": "2019-09-25T13:19:37-04:00",
+    "commentCount": 60,
+    "musicalKey": "G"
+}

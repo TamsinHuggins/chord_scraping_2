@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mitski/my-love-mine-all-mine-chords-4953208",
+    "name": "Mitski - My Love Mine All Mine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mitski"
+    },
+    "datePublished": "2023-09-13T15:40:07-04:00",
+    "dateModified": "2023-10-25T15:00:38-04:00",
+    "commentCount": 40,
+    "musicalKey": "A"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/spandau-ballet/true-chords-1163064",
+    "name": "Spandau Ballet - True (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Spandau Ballet"
+    },
+    "datePublished": "2012-06-21T20:00:01-04:00",
+    "dateModified": "2020-04-27T10:58:32-04:00",
+    "commentCount": 33
+}

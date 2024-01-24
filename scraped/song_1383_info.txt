@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sheryl-crow/if-it-makes-you-happy-chords-937787",
+    "name": "Sheryl Crow - If It Makes You Happy (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sheryl Crow"
+    },
+    "datePublished": "2010-04-06T20:00:01-04:00",
+    "dateModified": "2023-10-17T11:07:36-04:00",
+    "commentCount": 16
+}

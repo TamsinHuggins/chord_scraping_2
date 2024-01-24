@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-bowie/modern-love-chords-1773862",
+    "name": "David Bowie - Modern Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Bowie"
+    },
+    "datePublished": "2015-10-14T00:59:37-04:00",
+    "dateModified": "2018-06-01T06:23:08-04:00",
+    "commentCount": 19
+}

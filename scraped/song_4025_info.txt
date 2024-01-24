@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mika/grace-kelly-chords-529330",
+    "name": "Mika - Grace Kelly (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mika"
+    },
+    "datePublished": "2007-06-05T20:00:01-04:00",
+    "dateModified": "2021-09-16T15:38:05-04:00",
+    "commentCount": 7,
+    "musicalKey": "G"
+}

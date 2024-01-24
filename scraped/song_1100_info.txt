@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dire-straits/money-for-nothing-chords-282638",
+    "name": "Dire Straits - Money For Nothing (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dire Straits"
+    },
+    "datePublished": "2005-12-26T19:00:01-05:00",
+    "dateModified": "2016-04-27T12:21:48-04:00",
+    "commentCount": 8
+}

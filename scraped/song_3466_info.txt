@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/damien-rice/cannonball-chords-144219",
+    "name": "Damien Rice - Cannonball (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Damien Rice"
+    },
+    "datePublished": "2004-11-01T19:00:00-05:00",
+    "dateModified": "2018-04-12T10:13:30-04:00",
+    "commentCount": 50
+}

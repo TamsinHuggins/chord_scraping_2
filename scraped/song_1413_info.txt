@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/solomon-burke/cry-to-me-chords-1162555",
+    "name": "Solomon Burke - Cry To Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Solomon Burke"
+    },
+    "datePublished": "2012-06-19T20:00:01-04:00",
+    "dateModified": "2023-11-02T21:39:25-04:00",
+    "commentCount": 12,
+    "musicalKey": "E"
+}

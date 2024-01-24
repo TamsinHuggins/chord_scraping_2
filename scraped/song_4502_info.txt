@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/how-would-you-feel-paean-chords-1949223",
+    "name": "Ed Sheeran - How Would You Feel Paean (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2017-02-16T08:11:32-05:00",
+    "dateModified": "2017-07-18T12:47:27-04:00",
+    "commentCount": 41,
+    "musicalKey": "G"
+}

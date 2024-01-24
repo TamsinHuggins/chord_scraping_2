@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/woody-guthrie/this-land-is-your-land-chords-1054304",
+    "name": "Woody Guthrie - This Land Is Your Land (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Woody Guthrie"
+    },
+    "datePublished": "2011-05-05T20:00:01-04:00",
+    "dateModified": "2023-05-19T04:53:21-04:00",
+    "commentCount": 24,
+    "musicalKey": "A"
+}

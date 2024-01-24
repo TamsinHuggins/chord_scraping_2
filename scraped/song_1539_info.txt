@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/it-aint-me-babe-chords-14882",
+    "name": "Bob Dylan - It Aint Me Babe (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2022-01-21T09:55:32-05:00",
+    "commentCount": 24,
+    "musicalKey": "G"
+}

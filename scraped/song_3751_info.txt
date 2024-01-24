@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/3542777",
+    "name": "Rosé (Blackpink) - Gone (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F# Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Rosé (BLACKPINK)"
+    },
+    "datePublished": "2021-01-31T04:44:29-05:00",
+    "dateModified": "2021-03-14T19:37:50-04:00",
+    "commentCount": 9,
+    "musicalKey": "F#"
+}

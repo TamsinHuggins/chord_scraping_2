@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/its-only-love-chords-1061820",
+    "name": "The Beatles - Its Only Love (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2011-05-30T20:00:01-04:00",
+    "dateModified": "2023-12-05T20:36:17-05:00",
+    "commentCount": 17,
+    "musicalKey": "C"
+}

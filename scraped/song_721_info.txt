@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beabadoobee/the-perfect-pair-chords-4273708",
+    "name": "Beabadoobee - The Perfect Pair (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "beabadoobee"
+    },
+    "datePublished": "2022-07-16T10:00:07-04:00",
+    "dateModified": "2022-12-10T15:46:48-05:00",
+    "commentCount": 10,
+    "musicalKey": "G#m"
+}

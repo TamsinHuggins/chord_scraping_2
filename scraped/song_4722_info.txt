@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alvaro-soler/sofia-chords-1836944",
+    "name": "Alvaro Soler - Sofia (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Alvaro Soler"
+    },
+    "datePublished": "2016-04-19T08:07:21-04:00",
+    "dateModified": "2016-04-19T12:07:21-04:00",
+    "commentCount": 8
+}

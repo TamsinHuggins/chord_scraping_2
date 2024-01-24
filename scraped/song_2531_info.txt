@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-kinks/you-really-got-me-chords-1056474",
+    "name": "The Kinks - You Really Got Me (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Kinks"
+    },
+    "datePublished": "2011-05-15T20:00:01-04:00",
+    "dateModified": "2023-08-11T18:46:58-04:00",
+    "commentCount": 8
+}

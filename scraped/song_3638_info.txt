@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-seekers/i-am-australian-chords-427316",
+    "name": "The Seekers - I Am Australian (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Seekers"
+    },
+    "datePublished": "2006-10-24T20:00:01-04:00",
+    "dateModified": "2016-07-06T08:05:20-04:00",
+    "commentCount": 6
+}

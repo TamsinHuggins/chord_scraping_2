@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/thee-sacred-souls/can-i-call-you-rose-chords-4237114",
+    "name": "Thee Sacred Souls - Can I Call You Rose (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Thee Sacred Souls"
+    },
+    "datePublished": "2022-06-17T21:19:55-04:00",
+    "dateModified": "2022-06-18T12:44:50-04:00",
+    "commentCount": 0
+}

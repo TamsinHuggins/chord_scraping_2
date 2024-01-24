@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/patsy-cline/walkin-after-midnight-chords-340989",
+    "name": "Patsy Cline - Walkin After Midnight (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Patsy Cline"
+    },
+    "datePublished": "2006-03-07T19:00:01-05:00",
+    "dateModified": "2023-05-23T13:24:45-04:00",
+    "commentCount": 9,
+    "musicalKey": "C"
+}

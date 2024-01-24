@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/from-austin-chords-3943277",
+    "name": "Zach Bryan - From Austin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2021-11-09T17:04:48-05:00",
+    "dateModified": "2022-06-23T23:39:10-04:00",
+    "commentCount": 4,
+    "musicalKey": "C"
+}

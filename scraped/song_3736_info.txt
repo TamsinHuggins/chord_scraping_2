@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mitski/me-and-my-husband-chords-2452641",
+    "name": "Mitski - Me And My Husband (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mitski"
+    },
+    "datePublished": "2018-08-19T15:28:17-04:00",
+    "dateModified": "2018-08-21T19:11:27-04:00",
+    "commentCount": 6
+}

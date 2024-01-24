@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/annenmaykantereit/als-ich-ein-kind-war-chords-4672355",
+    "name": "Annenmaykantereit - Als Ich Ein Kind War (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "AnnenMayKantereit"
+    },
+    "datePublished": "2023-03-04T16:18:04-05:00",
+    "dateModified": "2023-03-05T13:03:45-05:00",
+    "commentCount": 0,
+    "musicalKey": "Am"
+}

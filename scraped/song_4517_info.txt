@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-doors/the-crystal-ship-chords-1053687",
+    "name": "The Doors - The Crystal Ship (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Doors"
+    },
+    "datePublished": "2011-05-03T20:00:01-04:00",
+    "dateModified": "2023-11-05T19:08:53-05:00",
+    "commentCount": 21
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-strokes/reptilia-chords-99295",
+    "name": "The Strokes - Reptilia (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Strokes"
+    },
+    "datePublished": "2004-01-13T19:00:00-05:00",
+    "dateModified": "2020-04-10T08:36:24-04:00",
+    "commentCount": 12,
+    "musicalKey": "Bm"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/three-days-grace/i-hate-everything-about-you-chords-1049444",
+    "name": "Three Days Grace - I Hate Everything About You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Three Days Grace"
+    },
+    "datePublished": "2011-04-21T20:00:01-04:00",
+    "dateModified": "2019-04-09T02:53:04-04:00",
+    "commentCount": 21
+}

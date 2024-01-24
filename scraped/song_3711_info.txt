@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dean-martin/sway-chords-819964",
+    "name": "Dean Martin - Sway (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dean Martin"
+    },
+    "datePublished": "2009-05-03T20:00:01-04:00",
+    "dateModified": "2016-06-07T15:20:02-04:00",
+    "commentCount": 6
+}

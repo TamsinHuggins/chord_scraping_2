@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/giveon/heartbreak-anniversary-chords-3026459",
+    "name": "Giveon - Heartbreak Anniversary (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Giveon"
+    },
+    "datePublished": "2020-03-14T07:34:38-04:00",
+    "dateModified": "2021-02-17T01:24:50-05:00",
+    "commentCount": 12,
+    "musicalKey": "C"
+}

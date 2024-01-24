@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/birdy/wings-chords-1405913",
+    "name": "Birdy - Wings (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Birdy"
+    },
+    "datePublished": "2013-07-22T20:00:01-04:00",
+    "dateModified": "2021-11-29T22:04:19-05:00",
+    "commentCount": 41
+}

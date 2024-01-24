@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-paper-kites/bloom-chords-1194577",
+    "name": "The Paper Kites - Bloom (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ebm Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "The Paper Kites"
+    },
+    "datePublished": "2012-11-12T19:00:01-05:00",
+    "dateModified": "2021-09-12T23:17:05-04:00",
+    "commentCount": 32,
+    "musicalKey": "Ebm"
+}

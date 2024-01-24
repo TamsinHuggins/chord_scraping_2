@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/declan-mckenna/brazil-chords-1792830",
+    "name": "Declan Mckenna - Brazil (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Declan McKenna"
+    },
+    "datePublished": "2015-12-26T07:29:19-05:00",
+    "dateModified": "2022-06-02T16:30:06-04:00",
+    "commentCount": 30,
+    "musicalKey": "C#m"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dire-straits/lady-writer-chords-15409",
+    "name": "Dire Straits - Lady Writer (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dire Straits"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2016-07-22T09:16:29-04:00",
+    "commentCount": 18
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brad-paisley/whiskey-lullaby-chords-142500",
+    "name": "Brad Paisley - Whiskey Lullaby (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Brad Paisley"
+    },
+    "datePublished": "2004-10-21T20:00:00-04:00",
+    "dateModified": "2019-04-06T21:18:22-04:00",
+    "commentCount": 10
+}

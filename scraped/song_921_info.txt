@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/with-a-little-help-from-my-friends-chords-682919",
+    "name": "The Beatles - With A Little Help From My Friends (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2008-05-28T20:00:01-04:00",
+    "dateModified": "2021-12-29T11:31:27-05:00",
+    "commentCount": 56,
+    "musicalKey": "E"
+}

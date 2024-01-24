@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/megan-moroney/tennessee-orange-chords-4334519",
+    "name": "Megan Moroney - Tennessee Orange (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Megan Moroney"
+    },
+    "datePublished": "2022-09-02T10:33:41-04:00",
+    "dateModified": "2023-01-20T23:32:52-05:00",
+    "commentCount": 4
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neutral-milk-hotel/the-king-of-carrot-flowers-part-1-chords-124687",
+    "name": "Neutral Milk Hotel - The King Of Carrot Flowers Part 1 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neutral Milk Hotel"
+    },
+    "datePublished": "2004-06-30T20:00:00-04:00",
+    "dateModified": "2016-07-21T07:27:25-04:00",
+    "commentCount": 23
+}

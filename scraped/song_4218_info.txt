@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laura-marling/what-he-wrote-chords-935880",
+    "name": "Laura Marling - What He Wrote (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laura Marling"
+    },
+    "datePublished": "2010-03-31T20:00:01-04:00",
+    "dateModified": "2021-11-10T15:22:14-05:00",
+    "commentCount": 9,
+    "musicalKey": "Am"
+}

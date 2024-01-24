@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/coney-island-chords-3461909",
+    "name": "Taylor Swift - Coney Island (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-12-11T02:16:16-05:00",
+    "dateModified": "2023-05-07T14:31:09-04:00",
+    "commentCount": 10,
+    "musicalKey": "Ab"
+}

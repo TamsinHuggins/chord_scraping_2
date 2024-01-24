@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/conan-gray/astronomy-chords-3696005",
+    "name": "Conan Gray - Astronomy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Conan Gray"
+    },
+    "datePublished": "2021-05-07T00:19:59-04:00",
+    "dateModified": "2021-05-08T08:08:48-04:00",
+    "commentCount": 25,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/yellow-submarine-chords-672077",
+    "name": "The Beatles - Yellow Submarine (chords)",
+    "text": "Difficulty: intermediate Tuning: Eb Ab Db Gb Bb Eb Key: F# Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2008-05-01T20:00:01-04:00",
+    "dateModified": "2020-02-11T11:35:42-05:00",
+    "commentCount": 40,
+    "musicalKey": "F#"
+}

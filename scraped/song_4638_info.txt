@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sir-chloe/too-close-chords-2782075",
+    "name": "Sir Chloe - Too Close (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sir Chloe"
+    },
+    "datePublished": "2019-08-01T14:52:42-04:00",
+    "dateModified": "2019-08-01T18:57:45-04:00",
+    "commentCount": 10,
+    "musicalKey": "E"
+}

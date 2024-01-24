@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/metallica/turn-the-page-chords-75008",
+    "name": "Metallica - Turn The Page (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: Ebm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Metallica"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-10-21T11:14:54-04:00",
+    "commentCount": 18,
+    "musicalKey": "Ebm"
+}

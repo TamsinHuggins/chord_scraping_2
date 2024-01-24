@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/europe/the-final-countdown-chords-177015",
+    "name": "Europe - The Final Countdown (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Europe"
+    },
+    "datePublished": "2005-04-07T20:00:00-04:00",
+    "dateModified": "2020-01-15T09:57:30-05:00",
+    "commentCount": 35,
+    "musicalKey": "F#m"
+}

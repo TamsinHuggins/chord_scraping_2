@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/from-the-dining-table-chords-1994951",
+    "name": "Harry Styles - From The Dining Table (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2017-05-12T00:58:23-04:00",
+    "dateModified": "2020-05-15T22:43:16-04:00",
+    "commentCount": 7,
+    "musicalKey": "Eb"
+}

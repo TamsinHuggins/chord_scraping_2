@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alex-turner/glass-in-the-park-chords-1050912",
+    "name": "Alex Turner - Glass In The Park (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Alex Turner"
+    },
+    "datePublished": "2011-04-25T20:00:01-04:00",
+    "dateModified": "2016-05-22T14:51:35-04:00",
+    "commentCount": 10
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/wish-you-were-here-chords-44555",
+    "name": "Pink Floyd - Wish You Were Here (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2003-01-28T19:00:00-05:00",
+    "dateModified": "2021-01-21T23:31:45-05:00",
+    "commentCount": 229,
+    "musicalKey": "Em"
+}

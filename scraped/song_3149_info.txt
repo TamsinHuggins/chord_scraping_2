@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/regina-spektor/the-call-chords-679436",
+    "name": "Regina Spektor - The Call (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Regina Spektor"
+    },
+    "datePublished": "2008-05-19T20:00:01-04:00",
+    "dateModified": "2021-02-16T14:50:12-05:00",
+    "commentCount": 40,
+    "musicalKey": "Bb"
+}

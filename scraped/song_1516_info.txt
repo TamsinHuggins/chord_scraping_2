@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/ratatouille-le-festin-chords-747828",
+    "name": "Misc Cartoons - Ratatouille - Le Festin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2008-10-26T20:00:01-04:00",
+    "dateModified": "2023-11-03T16:21:13-04:00",
+    "commentCount": 24
+}

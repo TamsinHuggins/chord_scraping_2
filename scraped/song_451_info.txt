@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beabadoobee/coffee-chords-2247623",
+    "name": "Beabadoobee - Coffee (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "beabadoobee"
+    },
+    "datePublished": "2017-11-30T22:34:01-05:00",
+    "dateModified": "2020-06-09T08:05:17-04:00",
+    "commentCount": 33,
+    "musicalKey": "A"
+}

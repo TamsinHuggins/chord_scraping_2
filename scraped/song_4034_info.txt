@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alan-jackson/turn-your-eyes-upon-jesus-chords-699436",
+    "name": "Alan Jackson - Turn Your Eyes Upon Jesus (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alan Jackson"
+    },
+    "datePublished": "2008-07-04T20:00:01-04:00",
+    "dateModified": "2016-05-28T10:15:52-04:00",
+    "commentCount": 16
+}

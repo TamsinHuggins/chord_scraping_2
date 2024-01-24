@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/tell-me-why-chords-1088598",
+    "name": "Neil Young - Tell Me Why (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2011-08-29T20:00:01-04:00",
+    "dateModified": "2023-08-10T18:19:31-04:00",
+    "commentCount": 12
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/halleys-comet-chords-3812012",
+    "name": "Billie Eilish - Halleys Comet (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2021-07-29T15:49:47-04:00",
+    "dateModified": "2021-07-31T16:09:32-04:00",
+    "commentCount": 12,
+    "musicalKey": "Bb"
+}

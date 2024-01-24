@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/homesick-chords-4790522",
+    "name": "Noah Kahan - Homesick (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2023-05-25T05:47:55-04:00",
+    "dateModified": "2023-05-25T13:03:13-04:00",
+    "commentCount": 0
+}

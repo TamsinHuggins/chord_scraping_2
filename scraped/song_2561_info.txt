@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/strawberry-wine-chords-4385936",
+    "name": "Noah Kahan - Strawberry Wine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2022-10-14T22:21:32-04:00",
+    "dateModified": "2022-10-15T13:48:11-04:00",
+    "commentCount": 5
+}

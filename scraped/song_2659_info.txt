@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gracie-abrams/where-do-we-go-now-chords-4600541",
+    "name": "Gracie Abrams - Where Do We Go Now (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Gracie Abrams"
+    },
+    "datePublished": "2023-01-12T13:45:49-05:00",
+    "dateModified": "2023-01-12T18:45:50-05:00",
+    "commentCount": 5,
+    "musicalKey": "Gm"
+}

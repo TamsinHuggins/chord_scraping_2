@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mitski/your-best-american-girl-chords-1837595",
+    "name": "Mitski - Your Best American Girl (chords)",
+    "text": "Difficulty:  Tuning: D A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mitski"
+    },
+    "datePublished": "2016-04-21T05:56:17-04:00",
+    "dateModified": "2016-04-21T09:56:17-04:00",
+    "commentCount": 6
+}

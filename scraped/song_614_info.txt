@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bobby-mcferrin/dont-worry-be-happy-chords-675763",
+    "name": "Bobby Mcferrin - Dont Worry Be Happy (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bobby McFerrin"
+    },
+    "datePublished": "2008-05-11T20:00:01-04:00",
+    "dateModified": "2020-03-28T13:48:40-04:00",
+    "commentCount": 37,
+    "musicalKey": "G"
+}

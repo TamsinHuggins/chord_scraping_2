@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/father-to-a-son-chords-5110777",
+    "name": "Green Day - Father To A Son (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2024-01-19T03:17:11-05:00",
+    "dateModified": "2024-01-19T21:03:23-05:00",
+    "commentCount": 0
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/it-is-well-with-my-soul-chords-1735270",
+    "name": "Misc Praise Songs - It Is Well With My Soul (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Praise Songs"
+    },
+    "datePublished": "2015-05-05T06:11:47-04:00",
+    "dateModified": "2018-11-12T01:13:23-05:00",
+    "commentCount": 9
+}

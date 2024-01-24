@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sovereign-grace-music/he-will-hold-me-fast-chords-1903229",
+    "name": "Sovereign Grace Music - He Will Hold Me Fast (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Sovereign Grace Music"
+    },
+    "datePublished": "2016-11-13T21:49:00-05:00",
+    "dateModified": "2020-10-13T11:44:11-04:00",
+    "commentCount": 10
+}

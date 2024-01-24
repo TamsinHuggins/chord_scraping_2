@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/saturday-nights-alright-for-fighting-chords-586478",
+    "name": "Elton John - Saturday Nights Alright For Fighting (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2007-10-07T20:00:01-04:00",
+    "dateModified": "2019-07-11T02:08:40-04:00",
+    "commentCount": 9
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sabrina-carpenter/nonsense-chords-4271731",
+    "name": "Sabrina Carpenter - Nonsense (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Sabrina Carpenter"
+    },
+    "datePublished": "2022-07-14T16:02:27-04:00",
+    "dateModified": "2022-08-20T14:36:56-04:00",
+    "commentCount": 4
+}

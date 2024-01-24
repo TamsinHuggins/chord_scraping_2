@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/josh-meloy/porch-light-chords-4428377",
+    "name": "Josh Meloy - Porch Light (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Josh Meloy"
+    },
+    "datePublished": "2022-11-18T01:33:52-05:00",
+    "dateModified": "2022-12-11T07:01:04-05:00",
+    "commentCount": 0,
+    "musicalKey": "Db"
+}

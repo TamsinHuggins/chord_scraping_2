@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-mamas-the-papas/california-dreamin-chords-7560",
+    "name": "The Mamas & The Papas - California Dreamin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "The Mamas &amp; The Papas"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-12-18T22:39:00-05:00",
+    "commentCount": 50
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/anne-wilson/my-jesus-chords-3671384",
+    "name": "Anne Wilson - My Jesus (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F# Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Anne Wilson"
+    },
+    "datePublished": "2021-04-20T18:01:36-04:00",
+    "dateModified": "2021-04-21T09:20:12-04:00",
+    "commentCount": 19,
+    "musicalKey": "F#"
+}

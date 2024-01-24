@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/morgane-stapleton/you-are-my-sunshine-chords-1843946",
+    "name": "Morgane Stapleton - You Are My Sunshine (chords)",
+    "text": "Difficulty: beginner Tuning: D A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Morgane Stapleton"
+    },
+    "datePublished": "2016-05-12T05:25:51-04:00",
+    "dateModified": "2021-01-15T12:07:30-05:00",
+    "commentCount": 9,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eddie-vedder/hard-sun-chords-566461",
+    "name": "Eddie Vedder - Hard Sun (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Eddie Vedder"
+    },
+    "datePublished": "2007-08-19T20:00:01-04:00",
+    "dateModified": "2016-04-18T12:26:53-04:00",
+    "commentCount": 54
+}

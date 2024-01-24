@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tracy-chapman/give-me-one-reason-chords-1045138",
+    "name": "Tracy Chapman - Give Me One Reason (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Tracy Chapman"
+    },
+    "datePublished": "2011-04-13T20:00:01-04:00",
+    "dateModified": "2023-10-24T20:15:27-04:00",
+    "commentCount": 24
+}

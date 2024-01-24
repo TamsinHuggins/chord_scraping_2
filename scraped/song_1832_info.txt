@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/limp-bizkit/behind-blue-eyes-chords-104141",
+    "name": "Limp Bizkit - Behind Blue Eyes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Limp Bizkit"
+    },
+    "datePublished": "2004-02-08T19:00:00-05:00",
+    "dateModified": "2022-07-07T07:06:18-04:00",
+    "commentCount": 52
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sheryl-crow/strong-enough-chords-1503552",
+    "name": "Sheryl Crow - Strong Enough (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sheryl Crow"
+    },
+    "datePublished": "2014-07-25T04:38:57-04:00",
+    "dateModified": "2016-12-02T14:39:18-05:00",
+    "commentCount": 4
+}

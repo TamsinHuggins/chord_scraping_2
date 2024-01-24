@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dinesh-tharanga/ma-nubata-pemkale-chords-4075492",
+    "name": "Dinesh Tharanga - Ma Nubata Pemkale (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dinesh Tharanga"
+    },
+    "datePublished": "2022-02-16T13:44:42-05:00",
+    "dateModified": "2022-02-21T08:47:11-05:00",
+    "commentCount": 0,
+    "musicalKey": "F#m"
+}

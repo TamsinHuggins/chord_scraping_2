@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-church/under-the-milky-way-chords-141649",
+    "name": "The Church - Under The Milky Way (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Church"
+    },
+    "datePublished": "2004-10-15T20:00:00-04:00",
+    "dateModified": "2016-05-23T07:29:06-04:00",
+    "commentCount": 51
+}

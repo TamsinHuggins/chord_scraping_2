@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/yellow-chords-114080",
-    "name": "Coldplay - Yellow (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 4",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/smells-like-teen-spirit-chords-807883",
+    "name": "Nirvana - Smells Like Teen Spirit (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 1",
     "composer": {
         "@type": "Person",
-        "name": "Coldplay"
+        "name": "Nirvana"
     },
-    "datePublished": "2004-04-18T20:00:00-04:00",
-    "dateModified": "2020-05-21T00:49:50-04:00",
-    "commentCount": 251,
-    "musicalKey": "G"
+    "datePublished": "2009-03-31T20:00:01-04:00",
+    "dateModified": "2019-06-11T15:41:30-04:00",
+    "commentCount": 156,
+    "musicalKey": "E"
 }

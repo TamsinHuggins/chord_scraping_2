@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/maverick-city-music/promises-chords-3075005",
+    "name": "Maverick City Music - Promises (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Maverick City Music"
+    },
+    "datePublished": "2020-04-07T22:25:25-04:00",
+    "dateModified": "2020-04-18T21:00:56-04:00",
+    "commentCount": 22
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/udo-lindenberg/komet-chords-4611440",
+    "name": "Udo Lindenberg - Komet (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Udo Lindenberg"
+    },
+    "datePublished": "2023-01-20T13:12:39-05:00",
+    "dateModified": "2023-05-17T20:57:57-04:00",
+    "commentCount": 10,
+    "musicalKey": "C"
+}

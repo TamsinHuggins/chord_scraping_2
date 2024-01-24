@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/brooklyn-baby-chords-1492651",
+    "name": "Lana Del Rey - Brooklyn Baby (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2014-06-13T03:34:26-04:00",
+    "dateModified": "2021-05-25T06:58:02-04:00",
+    "commentCount": 15
+}

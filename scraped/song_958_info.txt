@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruce-springsteen/atlantic-city-chords-84414",
+    "name": "Bruce Springsteen - Atlantic City (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Fm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruce Springsteen"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2019-06-13T09:59:58-04:00",
+    "commentCount": 55,
+    "musicalKey": "Fm"
+}

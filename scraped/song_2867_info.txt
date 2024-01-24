@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-kushner/burn-chords-4255969",
+    "name": "David Kushner - Burn (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Kushner"
+    },
+    "datePublished": "2022-07-03T00:21:05-04:00",
+    "dateModified": "2022-11-18T01:43:08-05:00",
+    "commentCount": 0
+}

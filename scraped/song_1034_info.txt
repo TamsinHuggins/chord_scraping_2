@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/damien-rice/the-blowers-daughter-chords-149330",
+    "name": "Damien Rice - The Blowers Daughter (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Damien Rice"
+    },
+    "datePublished": "2004-12-01T19:00:00-05:00",
+    "dateModified": "2020-03-20T07:38:15-04:00",
+    "commentCount": 53
+}

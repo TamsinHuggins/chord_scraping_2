@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adrianne-lenker/zombie-girl-chords-3389471",
+    "name": "Adrianne Lenker - Zombie Girl (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 8",
+    "composer": {
+        "@type": "Person",
+        "name": "Adrianne Lenker"
+    },
+    "datePublished": "2020-10-23T22:53:43-04:00",
+    "dateModified": "2020-10-28T09:33:45-04:00",
+    "commentCount": 3
+}

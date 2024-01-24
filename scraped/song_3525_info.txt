@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/marilyn-manson/sweet-dreams-are-made-of-this-chords-1149587",
+    "name": "Marilyn Manson - Sweet Dreams Are Made Of This (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Marilyn Manson"
+    },
+    "datePublished": "2012-04-24T20:00:01-04:00",
+    "dateModified": "2020-09-08T12:38:44-04:00",
+    "commentCount": 16,
+    "musicalKey": "C"
+}

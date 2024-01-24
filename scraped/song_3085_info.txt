@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/boygenius/me-and-my-dog-chords-2456710",
+    "name": "Boygenius - Me And My Dog (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "boygenius"
+    },
+    "datePublished": "2018-08-24T23:03:45-04:00",
+    "dateModified": "2018-09-08T18:56:10-04:00",
+    "commentCount": 13
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/etta-james/id-rather-go-blind-chords-629500",
+    "name": "Etta James - Id Rather Go Blind (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Etta James"
+    },
+    "datePublished": "2008-01-21T19:00:01-05:00",
+    "dateModified": "2017-12-13T12:52:26-05:00",
+    "commentCount": 33
+}

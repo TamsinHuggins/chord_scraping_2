@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/big-thief/paul-chords-1869562",
+    "name": "Big Thief - Paul (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Big Thief"
+    },
+    "datePublished": "2016-08-24T08:00:49-04:00",
+    "dateModified": "2020-06-22T22:41:18-04:00",
+    "commentCount": 21
+}

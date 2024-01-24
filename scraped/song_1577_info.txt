@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/stop-crying-your-heart-out-chords-173535",
+    "name": "Oasis - Stop Crying Your Heart Out (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Oasis"
+    },
+    "datePublished": "2005-03-23T19:00:00-05:00",
+    "dateModified": "2016-05-06T16:09:29-04:00",
+    "commentCount": 6
+}

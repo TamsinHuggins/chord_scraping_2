@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/one-direction/history-chords-1778791",
+    "name": "One Direction - History (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Gb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "One Direction"
+    },
+    "datePublished": "2015-11-03T15:15:34-05:00",
+    "dateModified": "2020-04-14T20:02:46-04:00",
+    "commentCount": 23,
+    "musicalKey": "Gb"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/aaron-shust/you-are-my-all-in-all-chords-1180272",
+    "name": "Aaron Shust - You Are My All In All (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Aaron Shust"
+    },
+    "datePublished": "2012-09-04T20:00:01-04:00",
+    "dateModified": "2018-12-12T09:49:40-05:00",
+    "commentCount": 23,
+    "musicalKey": "G"
+}

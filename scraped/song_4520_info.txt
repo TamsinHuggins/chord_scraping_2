@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/steve-miller-band/take-the-money-and-run-chords-406297",
+    "name": "Steve Miller Band - Take The Money And Run (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Steve Miller Band"
+    },
+    "datePublished": "2006-08-27T20:00:01-04:00",
+    "dateModified": "2019-11-16T00:48:01-05:00",
+    "commentCount": 11
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dominic-fike/babydoll-chords-2937476",
+    "name": "Dominic Fike - Babydoll (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Gm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dominic Fike"
+    },
+    "datePublished": "2019-12-22T15:59:30-05:00",
+    "dateModified": "2021-02-24T04:28:05-05:00",
+    "commentCount": 9,
+    "musicalKey": "Gm"
+}

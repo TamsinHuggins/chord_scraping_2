@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mitski/last-words-of-a-shooting-star-chords-1720087",
+    "name": "Mitski - Last Words Of A Shooting Star (chords)",
+    "text": "Difficulty: beginner Tuning: D A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mitski"
+    },
+    "datePublished": "2015-03-14T03:25:40-04:00",
+    "dateModified": "2023-07-15T12:49:19-04:00",
+    "commentCount": 16,
+    "musicalKey": "D"
+}

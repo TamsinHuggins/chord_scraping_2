@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1011988",
+    "name": "Misc Musicals - Les Misérables - I Dreamed A Dream (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Musicals"
+    },
+    "datePublished": "2010-12-13T19:00:01-05:00",
+    "dateModified": "2022-05-06T16:15:28-04:00",
+    "commentCount": 31
+}

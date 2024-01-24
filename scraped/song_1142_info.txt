@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-marley/could-you-be-loved-chords-578407",
+    "name": "Bob Marley - Could You Be Loved (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Marley"
+    },
+    "datePublished": "2007-09-16T20:00:01-04:00",
+    "dateModified": "2022-09-13T20:51:00-04:00",
+    "commentCount": 13,
+    "musicalKey": "Bm"
+}

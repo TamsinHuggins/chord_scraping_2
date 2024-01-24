@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/mamma-mia-dancing-queen-chords-3217598",
+    "name": "Misc Soundtrack - Mamma Mia - Dancing Queen (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2020-06-24T14:50:32-04:00",
+    "dateModified": "2020-06-25T10:08:46-04:00",
+    "commentCount": 6
+}

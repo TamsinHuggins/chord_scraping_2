@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/on-a-plain-chords-1469158",
+    "name": "Nirvana - On A Plain (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2014-03-10T20:00:01-04:00",
+    "dateModified": "2023-11-18T01:42:25-05:00",
+    "commentCount": 14,
+    "musicalKey": "D"
+}

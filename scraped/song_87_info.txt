@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/tv-chords-4224094",
+    "name": "Billie Eilish - Tv (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2022-06-07T21:32:06-04:00",
+    "dateModified": "2023-06-13T03:48:09-04:00",
+    "commentCount": 26,
+    "musicalKey": "G"
+}

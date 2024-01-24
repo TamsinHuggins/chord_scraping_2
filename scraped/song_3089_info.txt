@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sabin-rai/ma-sansaar-jitne-chords-2531184",
+    "name": "Sabin Rai - Ma Sansaar Jitne (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sabin Rai"
+    },
+    "datePublished": "2018-11-30T04:46:26-05:00",
+    "dateModified": "2020-04-02T04:53:35-04:00",
+    "commentCount": 3,
+    "musicalKey": "E"
+}

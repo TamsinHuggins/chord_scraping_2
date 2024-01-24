@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/katy-perry/firework-chords-993007",
+    "name": "Katy Perry - Firework (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Katy Perry"
+    },
+    "datePublished": "2010-10-04T20:00:01-04:00",
+    "dateModified": "2019-12-09T13:05:33-05:00",
+    "commentCount": 71,
+    "musicalKey": "Ab"
+}

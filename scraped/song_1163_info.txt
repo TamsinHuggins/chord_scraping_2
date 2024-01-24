@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/3535055",
+    "name": "Miki Núñez - Escriurem Duet (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Miki Núñez"
+    },
+    "datePublished": "2021-01-26T12:41:48-05:00",
+    "dateModified": "2021-01-26T18:12:58-05:00",
+    "commentCount": 0,
+    "musicalKey": "G"
+}

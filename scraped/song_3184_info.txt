@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/christopher-cross/sailing-chords-1474668",
+    "name": "Christopher Cross - Sailing (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Christopher Cross"
+    },
+    "datePublished": "2014-04-09T20:00:01-04:00",
+    "dateModified": "2017-02-17T09:00:32-05:00",
+    "commentCount": 18
+}

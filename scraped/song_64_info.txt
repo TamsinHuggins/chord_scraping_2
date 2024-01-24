@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/a-ha/take-on-me-chords-1842621",
+    "name": "A-Ha - Take On Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "a-ha"
+    },
+    "datePublished": "2016-05-06T21:06:08-04:00",
+    "dateModified": "2024-01-14T09:10:35-05:00",
+    "commentCount": 50,
+    "musicalKey": "Bm"
+}

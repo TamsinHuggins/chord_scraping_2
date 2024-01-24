@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/ohio-chords-88516",
+    "name": "Neil Young - Ohio (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2016-07-11T10:35:08-04:00",
+    "commentCount": 13
+}

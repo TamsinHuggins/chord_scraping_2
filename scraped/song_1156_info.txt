@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alice-in-chains/down-in-a-hole-chords-969470",
+    "name": "Alice In Chains - Down In A Hole (chords)",
+    "text": "Difficulty: intermediate Tuning: Eb Ab Db Gb Bb Eb Key: Abm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alice in Chains"
+    },
+    "datePublished": "2010-07-18T20:00:01-04:00",
+    "dateModified": "2021-11-02T17:12:12-04:00",
+    "commentCount": 25,
+    "musicalKey": "Abm"
+}

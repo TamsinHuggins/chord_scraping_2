@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dave-fenley/stuck-on-you-chords-2808107",
+    "name": "Dave Fenley - Stuck On You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dave Fenley"
+    },
+    "datePublished": "2019-08-28T16:30:50-04:00",
+    "dateModified": "2020-10-23T22:22:10-04:00",
+    "commentCount": 16
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1085741",
+    "name": "Françoise Hardy - Tous Les Garçons Et Les Filles (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Françoise Hardy"
+    },
+    "datePublished": "2011-08-23T20:00:01-04:00",
+    "dateModified": "2021-07-28T10:14:21-04:00",
+    "commentCount": 0
+}

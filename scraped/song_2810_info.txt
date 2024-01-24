@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/miley-cyrus/butterfly-fly-away-chords-812396",
+    "name": "Miley Cyrus - Butterfly Fly Away (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Miley Cyrus"
+    },
+    "datePublished": "2009-04-12T20:00:01-04:00",
+    "dateModified": "2023-10-03T22:22:52-04:00",
+    "commentCount": 6
+}

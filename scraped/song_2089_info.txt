@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/clairo/bubble-gum-chords-2009259",
+    "name": "Clairo - Bubble Gum (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Clairo"
+    },
+    "datePublished": "2017-05-30T08:03:33-04:00",
+    "dateModified": "2017-05-30T12:03:32-04:00",
+    "commentCount": 35
+}

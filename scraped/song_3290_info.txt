@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruno-mars/grenade-chords-996462",
+    "name": "Bruno Mars - Grenade (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruno Mars"
+    },
+    "datePublished": "2010-10-17T20:00:01-04:00",
+    "dateModified": "2021-09-03T09:24:52-04:00",
+    "commentCount": 42
+}

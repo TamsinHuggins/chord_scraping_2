@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luis-fonsi/despacito-chords-1932541",
+    "name": "Luis Fonsi - Despacito (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Luis Fonsi"
+    },
+    "datePublished": "2017-01-16T10:30:40-05:00",
+    "dateModified": "2021-05-20T16:53:58-04:00",
+    "commentCount": 93,
+    "musicalKey": "Bm"
+}

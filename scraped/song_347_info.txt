@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-hunger-games-mockingjay-the-hanging-tree-chords-1682621",
+    "name": "Misc Soundtrack - The Hunger Games Mockingjay - The Hanging Tree (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2014-11-23T13:31:07-05:00",
+    "dateModified": "2023-11-18T16:44:46-05:00",
+    "commentCount": 38,
+    "musicalKey": "Am"
+}

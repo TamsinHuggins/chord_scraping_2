@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lomepal/trop-beau-chords-2542857",
+    "name": "Lomepal - Trop Beau (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lomepal"
+    },
+    "datePublished": "2018-12-12T12:34:29-05:00",
+    "dateModified": "2018-12-14T12:54:28-05:00",
+    "commentCount": 7,
+    "musicalKey": "Em"
+}

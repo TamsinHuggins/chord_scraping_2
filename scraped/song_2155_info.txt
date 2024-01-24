@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ella-eyre/we-dont-have-to-take-our-clothes-off-chords-1738027",
+    "name": "Ella Eyre - We Dont Have To Take Our Clothes Off (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Ella Eyre"
+    },
+    "datePublished": "2015-05-18T06:06:54-04:00",
+    "dateModified": "2018-12-08T09:59:03-05:00",
+    "commentCount": 13,
+    "musicalKey": "Ab"
+}

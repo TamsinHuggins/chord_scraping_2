@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/a-monster-in-paris-la-seine-and-i-chords-1164361",
+    "name": "Misc Cartoons - A Monster In Paris - La Seine And I (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2012-06-27T20:00:01-04:00",
+    "dateModified": "2022-03-04T01:32:02-05:00",
+    "commentCount": 12
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tove-lo/habits-stay-high-chords-1411696",
+    "name": "Tove Lo - Habits Stay High (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tove Lo"
+    },
+    "datePublished": "2013-08-13T20:00:01-04:00",
+    "dateModified": "2022-07-05T10:45:19-04:00",
+    "commentCount": 15
+}

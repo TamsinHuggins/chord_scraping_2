@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cavetown/lemon-boy-chords-2091749",
+    "name": "Cavetown - Lemon Boy (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "cavetown"
+    },
+    "datePublished": "2017-07-25T11:21:16-04:00",
+    "dateModified": "2020-03-21T12:23:47-04:00",
+    "commentCount": 33
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-smiths/please-please-please-let-me-get-what-i-want-chords-453858",
+    "name": "The Smiths - Please Please Please Let Me Get What I Want (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Smiths"
+    },
+    "datePublished": "2007-01-08T19:00:01-05:00",
+    "dateModified": "2023-11-19T05:36:08-05:00",
+    "commentCount": 42,
+    "musicalKey": "D"
+}

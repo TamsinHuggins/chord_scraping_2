@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bad-company/shooting-star-chords-1088511",
+    "name": "Bad Company - Shooting Star (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bad Company"
+    },
+    "datePublished": "2011-08-29T20:00:01-04:00",
+    "dateModified": "2023-12-06T23:28:31-05:00",
+    "commentCount": 36,
+    "musicalKey": "A"
+}

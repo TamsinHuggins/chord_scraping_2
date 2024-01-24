@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/el-dorado-chords-4589207",
+    "name": "Zach Bryan - El Dorado (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2023-01-04T06:01:12-05:00",
+    "dateModified": "2023-01-04T11:47:46-05:00",
+    "commentCount": 6
+}

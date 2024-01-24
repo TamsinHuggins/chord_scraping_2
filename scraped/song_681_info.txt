@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alan-walker/faded-chords-1791779",
+    "name": "Alan Walker - Faded (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Alan Walker"
+    },
+    "datePublished": "2015-12-13T12:49:46-05:00",
+    "dateModified": "2018-10-10T14:14:40-04:00",
+    "commentCount": 102,
+    "musicalKey": "Am"
+}

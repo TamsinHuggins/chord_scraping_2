@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/let-it-be-chords-60690",
-    "name": "The Beatles - Let It Be (chords)",
-    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/adele/rolling-in-the-deep-chords-1028320",
+    "name": "Adele - Rolling In The Deep (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Cm Capo: 3",
     "composer": {
         "@type": "Person",
-        "name": "The Beatles"
+        "name": "Adele"
     },
-    "datePublished": "2003-08-27T20:00:00-04:00",
-    "dateModified": "2022-02-21T14:23:39-05:00",
-    "commentCount": 86,
-    "musicalKey": "C"
+    "datePublished": "2011-02-10T19:00:01-05:00",
+    "dateModified": "2020-03-17T14:07:48-04:00",
+    "commentCount": 55,
+    "musicalKey": "Cm"
 }

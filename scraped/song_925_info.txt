@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-ezra/budapest-chords-1478115",
+    "name": "George Ezra - Budapest (chords)",
+    "text": "Difficulty:  Tuning: D G C F A D Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "George Ezra"
+    },
+    "datePublished": "2014-04-22T05:08:32-04:00",
+    "dateModified": "2018-03-19T10:57:06-04:00",
+    "commentCount": 43,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-band-of-heathens/hurricane-chords-1764778",
+    "name": "The Band Of Heathens - Hurricane (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Band of Heathens"
+    },
+    "datePublished": "2015-09-10T04:02:08-04:00",
+    "dateModified": "2018-04-07T07:25:52-04:00",
+    "commentCount": 27,
+    "musicalKey": "Am"
+}

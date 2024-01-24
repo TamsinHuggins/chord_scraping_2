@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/dark-paradise-chords-1128935",
+    "name": "Lana Del Rey - Dark Paradise (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2012-02-05T19:00:01-05:00",
+    "dateModified": "2016-05-12T12:26:01-04:00",
+    "commentCount": 11
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kevin-devine/you-are-my-sunshine-chords-388558",
+    "name": "Kevin Devine - You Are My Sunshine (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kevin Devine"
+    },
+    "datePublished": "2006-07-13T20:00:01-04:00",
+    "dateModified": "2016-04-12T13:21:55-04:00",
+    "commentCount": 21,
+    "musicalKey": "A"
+}

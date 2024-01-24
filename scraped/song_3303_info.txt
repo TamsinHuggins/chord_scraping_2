@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chicago/hard-to-say-im-sorry-chords-1423583",
+    "name": "Chicago - Hard To Say Im Sorry (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chicago"
+    },
+    "datePublished": "2013-10-08T20:00:01-04:00",
+    "dateModified": "2023-08-18T02:20:51-04:00",
+    "commentCount": 20
+}

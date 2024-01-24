@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blondie/call-me-chords-460294",
+    "name": "Blondie - Call Me (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blondie"
+    },
+    "datePublished": "2007-01-15T19:00:01-05:00",
+    "dateModified": "2019-03-03T20:25:06-05:00",
+    "commentCount": 3
+}

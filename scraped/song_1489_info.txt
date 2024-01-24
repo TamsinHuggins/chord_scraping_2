@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/usa-for-africa/we-are-the-world-chords-761927",
+    "name": "Usa For Africa - We Are The World (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "USA for Africa"
+    },
+    "datePublished": "2008-12-07T19:00:01-05:00",
+    "dateModified": "2020-03-28T13:37:16-04:00",
+    "commentCount": 11,
+    "musicalKey": "C"
+}

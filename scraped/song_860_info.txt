@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arlo-guthrie/city-of-new-orleans-chords-1044061",
+    "name": "Arlo Guthrie - City Of New Orleans (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Arlo Guthrie"
+    },
+    "datePublished": "2011-04-06T20:00:01-04:00",
+    "dateModified": "2022-03-23T23:00:49-04:00",
+    "commentCount": 36
+}

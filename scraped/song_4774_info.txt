@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-paxton/last-thing-on-my-mind-chords-1048620",
+    "name": "Tom Paxton - Last Thing On My Mind (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Paxton"
+    },
+    "datePublished": "2011-04-21T20:00:01-04:00",
+    "dateModified": "2023-08-09T22:26:42-04:00",
+    "commentCount": 21
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/my-chemical-romance/cancer-chords-426571",
+    "name": "My Chemical Romance - Cancer (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "My Chemical Romance"
+    },
+    "datePublished": "2006-10-22T20:00:01-04:00",
+    "dateModified": "2006-10-23T00:00:01-04:00",
+    "commentCount": 12
+}

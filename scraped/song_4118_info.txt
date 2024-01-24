@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-lee-roth/just-a-gigolo-i-aint-got-nobody-chords-1801056",
+    "name": "David Lee Roth - Just A Gigolo I Aint Got Nobody (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Lee Roth"
+    },
+    "datePublished": "2016-01-08T22:38:23-05:00",
+    "dateModified": "2017-11-03T02:39:12-04:00",
+    "commentCount": 2
+}

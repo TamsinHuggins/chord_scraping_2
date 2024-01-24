@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nico/these-days-chords-78145",
+    "name": "Nico - These Days (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Nico"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2016-06-04T11:47:53-04:00",
+    "commentCount": 11
+}

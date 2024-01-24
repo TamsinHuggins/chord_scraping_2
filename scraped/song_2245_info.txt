@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/two-ghosts-chords-1994911",
+    "name": "Harry Styles - Two Ghosts (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2017-05-11T22:08:12-04:00",
+    "dateModified": "2017-09-02T13:31:40-04:00",
+    "commentCount": 8,
+    "musicalKey": "E"
+}

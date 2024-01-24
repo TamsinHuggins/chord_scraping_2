@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neutral-milk-hotel/in-the-aeroplane-over-the-sea-chords-35827",
+    "name": "Neutral Milk Hotel - In The Aeroplane Over The Sea (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neutral Milk Hotel"
+    },
+    "datePublished": "2002-09-12T20:00:00-04:00",
+    "dateModified": "2020-09-22T10:06:32-04:00",
+    "commentCount": 88,
+    "musicalKey": "G"
+}

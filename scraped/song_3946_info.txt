@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/descendants-if-only-chords-1756723",
+    "name": "Misc Soundtrack - Descendants - If Only (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2015-08-02T03:52:43-04:00",
+    "dateModified": "2020-10-16T11:40:27-04:00",
+    "commentCount": 24
+}

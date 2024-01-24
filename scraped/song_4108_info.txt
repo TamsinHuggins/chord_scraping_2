@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michel-legrand/les-moulins-de-mon-coeur-chords-1706237",
+    "name": "Michel Legrand - Les Moulins De Mon Coeur (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michel Legrand"
+    },
+    "datePublished": "2015-01-28T06:56:37-05:00",
+    "dateModified": "2016-06-28T11:11:28-04:00",
+    "commentCount": 3
+}

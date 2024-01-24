@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/i-cant-get-no-satisfaction-chords-1046719",
+    "name": "The Rolling Stones - I Cant Get No Satisfaction (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2011-04-12T20:00:01-04:00",
+    "dateModified": "2023-06-04T00:12:14-04:00",
+    "commentCount": 20
+}

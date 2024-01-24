@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alvvays/next-of-kin-chords-1670081",
+    "name": "Alvvays - Next Of Kin (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alvvays"
+    },
+    "datePublished": "2014-10-11T01:43:45-04:00",
+    "dateModified": "2022-10-17T14:53:38-04:00",
+    "commentCount": 5
+}

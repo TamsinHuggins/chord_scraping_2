@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/peter-frampton/show-me-the-way-chords-1418764",
+    "name": "Peter Frampton - Show Me The Way (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Peter Frampton"
+    },
+    "datePublished": "2013-09-19T20:00:01-04:00",
+    "dateModified": "2016-12-18T01:00:35-05:00",
+    "commentCount": 13
+}

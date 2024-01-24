@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shaggy/angel-chords-2063",
+    "name": "Shaggy - Angel (chords)",
+    "text": "Difficulty:  Tuning: D G C F A D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Shaggy"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2017-05-21T17:45:21-04:00",
+    "commentCount": 18
+}

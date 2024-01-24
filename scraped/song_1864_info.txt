@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jefferson-airplane/white-rabbit-chords-10796",
+    "name": "Jefferson Airplane - White Rabbit (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Gb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jefferson Airplane"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2018-10-04T13:54:06-04:00",
+    "commentCount": 60,
+    "musicalKey": "Gb"
+}

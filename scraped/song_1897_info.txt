@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-lennon/imagine-chords-802043",
+    "name": "John Lennon - Imagine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Lennon"
+    },
+    "datePublished": "2009-03-16T20:00:01-04:00",
+    "dateModified": "2016-12-15T10:03:40-05:00",
+    "commentCount": 31,
+    "musicalKey": "C"
+}

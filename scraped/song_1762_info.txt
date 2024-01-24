@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/imagine-dragons/bones-chords-4105315",
+    "name": "Imagine Dragons - Bones (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Imagine Dragons"
+    },
+    "datePublished": "2022-03-11T00:18:19-05:00",
+    "dateModified": "2022-03-11T05:18:19-05:00",
+    "commentCount": 10
+}

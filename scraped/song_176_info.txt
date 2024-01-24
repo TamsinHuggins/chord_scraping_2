@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shania-twain/youre-still-the-one-chords-1345",
+    "name": "Shania Twain - Youre Still The One (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Shania Twain"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2018-06-06T12:44:42-04:00",
+    "commentCount": 30,
+    "musicalKey": "Eb"
+}

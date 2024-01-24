@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/talk/run-away-to-mars-chords-3778745",
+    "name": "Talk - Run Away To Mars (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "TALK"
+    },
+    "datePublished": "2021-07-04T07:15:25-04:00",
+    "dateModified": "2023-04-30T15:30:11-04:00",
+    "commentCount": 14
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/uriah-heep/lady-in-black-chords-87421",
+    "name": "Uriah Heep - Lady In Black (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Uriah Heep"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-05-12T17:25:23-04:00",
+    "commentCount": 8,
+    "musicalKey": "Am"
+}

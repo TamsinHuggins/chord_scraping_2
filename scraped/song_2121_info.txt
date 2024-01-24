@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/nice-dream-chords-126869",
+    "name": "Radiohead - Nice Dream (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Radiohead"
+    },
+    "datePublished": "2004-07-14T20:00:00-04:00",
+    "dateModified": "2020-03-16T08:53:16-04:00",
+    "commentCount": 32
+}

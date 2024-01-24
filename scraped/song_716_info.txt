@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paul-anka/put-your-head-on-my-shoulder-chords-853909",
+    "name": "Paul Anka - Put Your Head On My Shoulder (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Paul Anka"
+    },
+    "datePublished": "2009-07-28T20:00:01-04:00",
+    "dateModified": "2020-04-08T23:22:28-04:00",
+    "commentCount": 25,
+    "musicalKey": "G"
+}

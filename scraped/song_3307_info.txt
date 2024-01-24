@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/carmen-chords-1489945",
+    "name": "Lana Del Rey - Carmen (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 9",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2014-06-05T04:04:07-04:00",
+    "dateModified": "2020-12-15T21:41:36-05:00",
+    "commentCount": 3
+}

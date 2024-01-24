@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/randy-travis/just-a-closer-walk-with-thee-chords-2086017",
+    "name": "Randy Travis - Just A Closer Walk With Thee (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Randy Travis"
+    },
+    "datePublished": "2017-07-19T05:37:07-04:00",
+    "dateModified": "2023-06-26T15:53:50-04:00",
+    "commentCount": 9
+}

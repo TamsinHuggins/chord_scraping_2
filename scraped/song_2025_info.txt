@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/say-yes-to-heaven-chords-3773261",
+    "name": "Lana Del Rey - Say Yes To Heaven (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2021-06-30T01:58:56-04:00",
+    "dateModified": "2023-07-28T00:14:43-04:00",
+    "commentCount": 7,
+    "musicalKey": "F#m"
+}

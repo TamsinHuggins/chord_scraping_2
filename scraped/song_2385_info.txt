@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-maverick/fuentes-de-ortiz-chords-2469652",
+    "name": "Ed Maverick - Fuentes De Ortiz (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Maverick"
+    },
+    "datePublished": "2018-09-11T20:56:07-04:00",
+    "dateModified": "2018-09-14T11:19:36-04:00",
+    "commentCount": 8
+}

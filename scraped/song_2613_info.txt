@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mike-posner/i-took-a-pill-in-ibiza-chords-1784262",
+    "name": "Mike Posner - I Took A Pill In Ibiza (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Mike Posner"
+    },
+    "datePublished": "2015-12-02T03:42:37-05:00",
+    "dateModified": "2018-09-25T07:58:53-04:00",
+    "commentCount": 50
+}

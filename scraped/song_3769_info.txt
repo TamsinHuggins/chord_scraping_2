@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/max-max-schneider/its-you-chords-4342124",
+    "name": "Max (Max Schneider) - Its You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "MAX (Max Schneider)"
+    },
+    "datePublished": "2022-09-09T02:34:54-04:00",
+    "dateModified": "2023-03-09T17:43:24-05:00",
+    "commentCount": 7,
+    "musicalKey": "D"
+}

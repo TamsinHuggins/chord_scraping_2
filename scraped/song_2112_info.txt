@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arcade-fire/the-suburbs-chords-955435",
+    "name": "Arcade Fire - The Suburbs (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Arcade Fire"
+    },
+    "datePublished": "2010-06-02T20:00:01-04:00",
+    "dateModified": "2017-08-15T00:38:54-04:00",
+    "commentCount": 16
+}

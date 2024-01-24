@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-strait/i-can-still-make-cheyenne-chords-891317",
+    "name": "George Strait - I Can Still Make Cheyenne (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "George Strait"
+    },
+    "datePublished": "2009-11-08T19:00:01-05:00",
+    "dateModified": "2016-07-09T10:57:51-04:00",
+    "commentCount": 7
+}

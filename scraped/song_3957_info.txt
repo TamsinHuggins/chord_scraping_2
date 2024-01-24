@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-renzema/just-as-good-chords-3860936",
+    "name": "Chris Renzema - Just As Good (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Renzema"
+    },
+    "datePublished": "2021-09-04T08:25:29-04:00",
+    "dateModified": "2022-03-05T18:32:25-05:00",
+    "commentCount": 2
+}

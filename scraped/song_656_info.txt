@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/girl-from-the-north-country-chords-1087317",
+    "name": "Bob Dylan - Girl From The North Country (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2011-08-25T20:00:01-04:00",
+    "dateModified": "2022-05-09T22:02:14-04:00",
+    "commentCount": 27
+}

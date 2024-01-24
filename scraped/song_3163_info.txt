@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linkin-park/shadow-of-the-day-chords-657567",
+    "name": "Linkin Park - Shadow Of The Day (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Linkin Park"
+    },
+    "datePublished": "2008-03-27T20:00:01-04:00",
+    "dateModified": "2017-07-21T13:29:45-04:00",
+    "commentCount": 40,
+    "musicalKey": "Am"
+}

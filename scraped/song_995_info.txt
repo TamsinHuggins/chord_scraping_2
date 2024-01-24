@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/wouldve-couldve-shouldve-chords-4394312",
+    "name": "Taylor Swift - Wouldve Couldve Shouldve (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2022-10-21T12:02:56-04:00",
+    "dateModified": "2023-01-20T15:47:52-05:00",
+    "commentCount": 21,
+    "musicalKey": "C"
+}

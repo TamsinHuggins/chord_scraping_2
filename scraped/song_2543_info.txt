@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/suck-it-and-see-chords-1061874",
+    "name": "Arctic Monkeys - Suck It And See (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2011-06-01T20:00:01-04:00",
+    "dateModified": "2020-03-25T12:53:04-04:00",
+    "commentCount": 20
+}

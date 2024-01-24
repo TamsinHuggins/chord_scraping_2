@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/boygenius/not-strong-enough-chords-4668101",
+    "name": "Boygenius - Not Strong Enough (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "boygenius"
+    },
+    "datePublished": "2023-03-01T15:25:38-05:00",
+    "dateModified": "2023-07-26T13:35:30-04:00",
+    "commentCount": 7,
+    "musicalKey": "Am"
+}

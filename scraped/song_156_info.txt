@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/video-games-chords-1083902",
+    "name": "Lana Del Rey - Video Games (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2011-08-14T20:00:01-04:00",
+    "dateModified": "2020-03-28T13:49:58-04:00",
+    "commentCount": 19,
+    "musicalKey": "Em"
+}

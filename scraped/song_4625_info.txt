@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-combs/dive-chords-2371179",
+    "name": "Luke Combs - Dive (chords)",
+    "text": "Difficulty: intermediate Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Combs"
+    },
+    "datePublished": "2018-04-18T19:34:20-04:00",
+    "dateModified": "2018-04-19T09:33:37-04:00",
+    "commentCount": 10
+}

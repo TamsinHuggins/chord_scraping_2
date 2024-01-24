@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ray-charles/georgia-on-my-mind-chords-1164380",
+    "name": "Ray Charles - Georgia On My Mind (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ray Charles"
+    },
+    "datePublished": "2012-06-27T20:00:01-04:00",
+    "dateModified": "2021-04-27T17:10:34-04:00",
+    "commentCount": 24,
+    "musicalKey": "C"
+}

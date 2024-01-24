@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/duncan-laurence/arcade-chords-2628012",
+    "name": "Duncan Laurence - Arcade (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Duncan Laurence"
+    },
+    "datePublished": "2019-03-09T10:37:41-05:00",
+    "dateModified": "2019-05-22T20:08:20-04:00",
+    "commentCount": 35,
+    "musicalKey": "Am"
+}

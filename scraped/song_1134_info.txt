@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dani-and-lizzy/dancing-in-the-sky-chords-1423105",
+    "name": "Dani And Lizzy - Dancing In The Sky (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Dani And Lizzy"
+    },
+    "datePublished": "2013-10-07T20:00:01-04:00",
+    "dateModified": "2024-01-09T22:34:59-05:00",
+    "commentCount": 24
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mitski/francis-forever-chords-1746390",
+    "name": "Mitski - Francis Forever (chords)",
+    "text": "Difficulty:  Tuning: C# F# B E G# C# Key: C# Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mitski"
+    },
+    "datePublished": "2015-06-22T04:31:39-04:00",
+    "dateModified": "2023-03-17T07:08:48-04:00",
+    "commentCount": 11,
+    "musicalKey": "C#"
+}

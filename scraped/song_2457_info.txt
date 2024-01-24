@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jackson-browne/these-days-chords-62678",
+    "name": "Jackson Browne - These Days (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Jackson Browne"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-08-12T11:03:31-04:00",
+    "commentCount": 19,
+    "musicalKey": "F"
+}

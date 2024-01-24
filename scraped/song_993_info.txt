@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/miley-cyrus/angels-like-you-chords-3097463",
+    "name": "Miley Cyrus - Angels Like You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Miley Cyrus"
+    },
+    "datePublished": "2020-04-18T04:08:03-04:00",
+    "dateModified": "2021-03-19T22:52:58-04:00",
+    "commentCount": 12,
+    "musicalKey": "F"
+}

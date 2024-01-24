@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/logical-chords-4945516",
+    "name": "Olivia Rodrigo - Logical (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2023-09-07T17:25:02-04:00",
+    "dateModified": "2023-09-11T18:29:40-04:00",
+    "commentCount": 3,
+    "musicalKey": "G"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-white-stripes/were-going-to-be-friends-chords-22094",
+    "name": "The White Stripes - Were Going To Be Friends (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The White Stripes"
+    },
+    "datePublished": "2002-01-09T19:00:00-05:00",
+    "dateModified": "2023-12-30T23:14:37-05:00",
+    "commentCount": 31
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/commodores/easy-chords-1149783",
+    "name": "Commodores - Easy (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Commodores"
+    },
+    "datePublished": "2012-04-25T20:00:01-04:00",
+    "dateModified": "2019-10-19T01:16:34-04:00",
+    "commentCount": 16
+}

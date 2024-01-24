@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eslabon-armado/jugaste-y-sufri-chords-3839582",
+    "name": "Eslabon Armado - Jugaste Y Sufri (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eslabon Armado"
+    },
+    "datePublished": "2021-08-19T10:25:12-04:00",
+    "dateModified": "2022-05-17T15:22:38-04:00",
+    "commentCount": 4
+}

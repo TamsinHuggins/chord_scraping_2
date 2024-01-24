@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/train/drive-by-chords-1124915",
+    "name": "Train - Drive By (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Train"
+    },
+    "datePublished": "2012-01-22T19:00:01-05:00",
+    "dateModified": "2023-09-11T02:22:15-04:00",
+    "commentCount": 15
+}

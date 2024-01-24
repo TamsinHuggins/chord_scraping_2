@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/nothing-new-chords-3946046",
+    "name": "Taylor Swift - Nothing New (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2021-11-12T01:11:24-05:00",
+    "dateModified": "2021-11-15T06:35:01-05:00",
+    "commentCount": 39,
+    "musicalKey": "C"
+}

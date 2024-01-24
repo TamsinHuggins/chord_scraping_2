@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-children/itsy-bitsy-spider-chords-1685396",
+    "name": "Misc Children - Itsy Bitsy Spider (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Children"
+    },
+    "datePublished": "2014-12-01T04:01:20-05:00",
+    "dateModified": "2018-05-11T08:27:50-04:00",
+    "commentCount": 12,
+    "musicalKey": "G"
+}

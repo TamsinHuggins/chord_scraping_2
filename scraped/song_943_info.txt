@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blink-182/one-more-time-chords-4959520",
+    "name": "Blink-182 - One More Time (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blink-182"
+    },
+    "datePublished": "2023-09-19T02:18:27-04:00",
+    "dateModified": "2023-09-26T19:01:28-04:00",
+    "commentCount": 19,
+    "musicalKey": "D"
+}

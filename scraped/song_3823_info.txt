@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/justin-bieber/favorite-girl-chords-865467",
+    "name": "Justin Bieber - Favorite Girl (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Justin Bieber"
+    },
+    "datePublished": "2009-08-25T20:00:01-04:00",
+    "dateModified": "2016-06-16T09:03:35-04:00",
+    "commentCount": 17
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/slipknot/vermilion-pt-2-chords-261002",
+    "name": "Slipknot - Vermilion Pt 2 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Slipknot"
+    },
+    "datePublished": "2005-10-04T20:35:34-04:00",
+    "dateModified": "2018-10-11T01:05:32-04:00",
+    "commentCount": 23
+}

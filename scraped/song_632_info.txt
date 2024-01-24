@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beabadoobee/the-way-things-go-chords-4766552",
+    "name": "Beabadoobee - The Way Things Go (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "beabadoobee"
+    },
+    "datePublished": "2023-05-09T22:30:42-04:00",
+    "dateModified": "2023-07-22T17:24:44-04:00",
+    "commentCount": 4,
+    "musicalKey": "G"
+}

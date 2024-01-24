@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/5-seconds-of-summer/ghost-of-you-chords-2404347",
+    "name": "5 Seconds Of Summer - Ghost Of You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "5 Seconds Of Summer"
+    },
+    "datePublished": "2018-06-14T14:48:35-04:00",
+    "dateModified": "2018-06-20T12:40:05-04:00",
+    "commentCount": 18,
+    "musicalKey": "Bb"
+}

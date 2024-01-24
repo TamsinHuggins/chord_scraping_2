@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/watch-chords-2080463",
+    "name": "Billie Eilish - Watch (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2017-07-09T23:48:18-04:00",
+    "dateModified": "2018-12-10T11:26:48-05:00",
+    "commentCount": 22,
+    "musicalKey": "C"
+}

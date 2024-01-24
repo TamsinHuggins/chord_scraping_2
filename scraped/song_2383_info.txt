@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-fischer/this-city-chords-2718477",
+    "name": "Sam Fischer - This City (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Fischer"
+    },
+    "datePublished": "2019-06-07T15:59:07-04:00",
+    "dateModified": "2020-02-15T23:35:53-05:00",
+    "commentCount": 20,
+    "musicalKey": "E"
+}

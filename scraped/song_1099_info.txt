@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wings/band-on-the-run-chords-1872373",
+    "name": "Wings - Band On The Run (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Wings"
+    },
+    "datePublished": "2016-09-04T05:26:18-04:00",
+    "dateModified": "2023-04-10T21:50:11-04:00",
+    "commentCount": 15
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/vance-joy/georgia-chords-1518180",
+    "name": "Vance Joy - Georgia (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Abm Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Vance Joy"
+    },
+    "datePublished": "2014-09-07T15:21:03-04:00",
+    "dateModified": "2019-12-19T09:37:24-05:00",
+    "commentCount": 32,
+    "musicalKey": "Abm"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frou-frou/a-new-kind-of-love-chords-3628340",
+    "name": "Frou Frou - A New Kind Of Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Frou Frou"
+    },
+    "datePublished": "2021-03-25T00:13:02-04:00",
+    "dateModified": "2021-03-29T03:36:19-04:00",
+    "commentCount": 0
+}

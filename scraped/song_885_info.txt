@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-who/behind-blue-eyes-chords-90958",
+    "name": "The Who - Behind Blue Eyes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Who"
+    },
+    "datePublished": "2003-09-29T20:00:00-04:00",
+    "dateModified": "2016-04-29T10:13:55-04:00",
+    "commentCount": 63
+}

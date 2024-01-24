@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blink-182/first-date-chords-972766",
+    "name": "Blink-182 - First Date (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Blink-182"
+    },
+    "datePublished": "2010-07-29T20:00:01-04:00",
+    "dateModified": "2016-07-01T14:38:21-04:00",
+    "commentCount": 5
+}

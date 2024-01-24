@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rainbow/since-you-been-gone-chords-1243049",
+    "name": "Rainbow - Since You Been Gone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rainbow"
+    },
+    "datePublished": "2013-05-02T20:00:01-04:00",
+    "dateModified": "2013-05-03T00:00:01-04:00",
+    "commentCount": 1,
+    "musicalKey": "G"
+}

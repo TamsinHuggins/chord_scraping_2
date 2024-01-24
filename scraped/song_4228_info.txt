@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chet-baker/i-fall-in-love-too-easily-chords-2131393",
+    "name": "Chet Baker - I Fall In Love Too Easily (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chet Baker"
+    },
+    "datePublished": "2017-08-29T05:13:10-04:00",
+    "dateModified": "2020-03-16T08:54:05-04:00",
+    "commentCount": 5
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/myslovitz/dla-ciebie-chords-77222",
+    "name": "Myslovitz - Dla Ciebie (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Myslovitz"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-03-25T13:13:21-04:00",
+    "commentCount": 4
+}

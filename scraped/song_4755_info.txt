@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gavin-degraw/i-dont-want-to-be-chords-137019",
+    "name": "Gavin Degraw - I Dont Want To Be (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gavin DeGraw"
+    },
+    "datePublished": "2004-09-13T20:00:00-04:00",
+    "dateModified": "2016-06-29T12:25:42-04:00",
+    "commentCount": 9
+}

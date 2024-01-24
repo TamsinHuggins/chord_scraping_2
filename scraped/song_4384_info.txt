@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/happiness-chords-3461900",
+    "name": "Taylor Swift - Happiness (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-12-11T02:04:27-05:00",
+    "dateModified": "2021-01-06T10:47:31-05:00",
+    "commentCount": 18,
+    "musicalKey": "C"
+}

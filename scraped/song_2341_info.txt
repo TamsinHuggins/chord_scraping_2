@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creed/with-arms-wide-open-chords-23970",
+    "name": "Creed - With Arms Wide Open (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Creed"
+    },
+    "datePublished": "2002-02-18T19:00:00-05:00",
+    "dateModified": "2018-09-19T14:06:12-04:00",
+    "commentCount": 4,
+    "musicalKey": "C"
+}

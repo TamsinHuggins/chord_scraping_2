@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/orange-juice-chords-4386725",
+    "name": "Noah Kahan - Orange Juice (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2022-10-15T15:26:01-04:00",
+    "dateModified": "2022-10-16T18:37:32-04:00",
+    "commentCount": 3,
+    "musicalKey": "A"
+}

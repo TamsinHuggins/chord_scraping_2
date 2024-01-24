@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-allman-brothers-band/melissa-chords-125171",
+    "name": "The Allman Brothers Band - Melissa (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Allman Brothers Band"
+    },
+    "datePublished": "2004-07-04T20:00:00-04:00",
+    "dateModified": "2020-10-27T23:24:24-04:00",
+    "commentCount": 82
+}

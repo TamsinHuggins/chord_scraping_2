@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/amy-winehouse/rehab-chords-427641",
+    "name": "Amy Winehouse - Rehab (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Amy Winehouse"
+    },
+    "datePublished": "2006-10-25T20:00:01-04:00",
+    "dateModified": "2016-04-20T11:58:46-04:00",
+    "commentCount": 20
+}

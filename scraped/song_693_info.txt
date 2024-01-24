@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sza/snooze-chords-4457303",
+    "name": "Sza - Snooze (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "SZA"
+    },
+    "datePublished": "2022-12-11T07:00:19-05:00",
+    "dateModified": "2022-12-11T12:00:19-05:00",
+    "commentCount": 5,
+    "musicalKey": "Am"
+}

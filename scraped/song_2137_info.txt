@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/roxette/listen-to-your-heart-chords-82272",
+    "name": "Roxette - Listen To Your Heart (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Roxette"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-09-28T20:31:01-04:00",
+    "commentCount": 16
+}

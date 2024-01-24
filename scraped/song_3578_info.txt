@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lovejoy/one-day-chords-3700427",
+    "name": "Lovejoy - One Day (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lovejoy"
+    },
+    "datePublished": "2021-05-09T22:19:18-04:00",
+    "dateModified": "2021-05-13T16:48:53-04:00",
+    "commentCount": 34,
+    "musicalKey": "Db"
+}

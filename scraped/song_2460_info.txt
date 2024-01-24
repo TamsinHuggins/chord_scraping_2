@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linda-ronstadt/blue-bayou-chords-82196",
+    "name": "Linda Ronstadt - Blue Bayou (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Linda Ronstadt"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-08-23T02:15:05-04:00",
+    "commentCount": 7,
+    "musicalKey": "B"
+}

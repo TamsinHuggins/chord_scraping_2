@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-arthur/wrecking-ball-chords-1427006",
+    "name": "James Arthur - Wrecking Ball (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "James Arthur"
+    },
+    "datePublished": "2013-10-31T20:00:01-04:00",
+    "dateModified": "2016-09-20T13:29:44-04:00",
+    "commentCount": 7
+}

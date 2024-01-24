@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-jackson/you-are-not-alone-chords-657042",
+    "name": "Michael Jackson - You Are Not Alone (chords)",
+    "text": "Difficulty: intermediate Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Jackson"
+    },
+    "datePublished": "2008-03-26T20:00:01-04:00",
+    "dateModified": "2020-01-21T17:09:28-05:00",
+    "commentCount": 20
+}

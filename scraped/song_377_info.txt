@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-hunger-games-the-ballad-of-songbirds-and-snakes-pure-as-the-driven-snow-chords-5037739",
+    "name": "Misc Soundtrack - The Hunger Games The Ballad Of Songbirds And Snakes - Pure As The Driven Snow (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-11-20T22:59:34-05:00",
+    "dateModified": "2023-11-29T21:06:08-05:00",
+    "commentCount": 1,
+    "musicalKey": "G#m"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/julie-london/cry-me-a-river-chords-660546",
+    "name": "Julie London - Cry Me A River (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Julie London"
+    },
+    "datePublished": "2008-04-02T20:00:01-04:00",
+    "dateModified": "2018-09-03T12:26:42-04:00",
+    "commentCount": 8
+}

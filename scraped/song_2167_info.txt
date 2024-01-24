@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kari-jobe/the-blessing-chords-3051388",
+    "name": "Kari Jobe - The Blessing (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Kari Jobe"
+    },
+    "datePublished": "2020-03-27T16:33:47-04:00",
+    "dateModified": "2023-02-27T00:33:08-05:00",
+    "commentCount": 8,
+    "musicalKey": "G"
+}

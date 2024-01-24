@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dusty-springfield/i-only-want-to-be-with-you-chords-1047029",
+    "name": "Dusty Springfield - I Only Want To Be With You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dusty Springfield"
+    },
+    "datePublished": "2011-04-14T20:00:01-04:00",
+    "dateModified": "2023-12-28T17:37:35-05:00",
+    "commentCount": 10,
+    "musicalKey": "G"
+}

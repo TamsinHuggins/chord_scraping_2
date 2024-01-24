@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/when-emma-falls-in-love-chords-4857299",
+    "name": "Taylor Swift - When Emma Falls In Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2023-07-07T00:31:36-04:00",
+    "dateModified": "2023-07-10T14:36:53-04:00",
+    "commentCount": 5,
+    "musicalKey": "D"
+}

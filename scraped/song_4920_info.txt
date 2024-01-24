@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/barbie-what-was-i-made-for-chords-4871180",
+    "name": "Misc Soundtrack - Barbie - What Was I Made For (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-07-13T10:07:22-04:00",
+    "dateModified": "2023-07-17T16:44:32-04:00",
+    "commentCount": 31,
+    "musicalKey": "C"
+}

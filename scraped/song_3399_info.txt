@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jax/like-my-father-chords-3745148",
+    "name": "Jax - Like My Father (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jax"
+    },
+    "datePublished": "2021-06-09T12:54:06-04:00",
+    "dateModified": "2022-09-17T07:04:20-04:00",
+    "commentCount": 7
+}

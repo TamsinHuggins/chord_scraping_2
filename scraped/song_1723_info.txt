@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jim-croce/bad-bad-leroy-brown-chords-845987",
+    "name": "Jim Croce - Bad Bad Leroy Brown (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jim Croce"
+    },
+    "datePublished": "2009-07-08T20:00:01-04:00",
+    "dateModified": "2018-07-01T07:44:07-04:00",
+    "commentCount": 36
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lainey-wilson/heart-like-a-truck-chords-4199239",
+    "name": "Lainey Wilson - Heart Like A Truck (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lainey Wilson"
+    },
+    "datePublished": "2022-05-20T09:21:13-04:00",
+    "dateModified": "2023-04-30T18:24:38-04:00",
+    "commentCount": 6
+}

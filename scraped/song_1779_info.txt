@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/staind/outside-chords-641020",
+    "name": "Staind - Outside (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: Ebm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Staind"
+    },
+    "datePublished": "2008-02-19T19:00:01-05:00",
+    "dateModified": "2018-12-10T11:52:38-05:00",
+    "commentCount": 14,
+    "musicalKey": "Ebm"
+}

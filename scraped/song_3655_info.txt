@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bright-eyes/at-the-bottom-of-everything-chords-170213",
+    "name": "Bright Eyes - At The Bottom Of Everything (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bright Eyes"
+    },
+    "datePublished": "2005-03-08T19:00:00-05:00",
+    "dateModified": "2017-03-19T21:42:24-04:00",
+    "commentCount": 25
+}

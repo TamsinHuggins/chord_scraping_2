@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-dubliners/whiskey-in-the-jar-chords-764863",
+    "name": "The Dubliners - Whiskey In The Jar (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Dubliners"
+    },
+    "datePublished": "2008-12-07T19:00:01-05:00",
+    "dateModified": "2023-03-24T01:33:08-04:00",
+    "commentCount": 14,
+    "musicalKey": "C"
+}

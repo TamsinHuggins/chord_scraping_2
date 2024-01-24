@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/florence-the-machine/cosmic-love-chords-980714",
+    "name": "Florence + The Machine - Cosmic Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Florence + The Machine"
+    },
+    "datePublished": "2010-08-22T20:00:01-04:00",
+    "dateModified": "2016-09-23T13:19:37-04:00",
+    "commentCount": 11
+}

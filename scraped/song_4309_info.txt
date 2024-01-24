@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/robbie-williams/feel-chords-109563",
+    "name": "Robbie Williams - Feel (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Robbie Williams"
+    },
+    "datePublished": "2004-03-22T19:00:00-05:00",
+    "dateModified": "2016-08-06T11:25:42-04:00",
+    "commentCount": 3
+}

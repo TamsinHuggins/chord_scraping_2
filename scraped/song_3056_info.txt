@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wheatus/teenage-dirtbag-chords-1095720",
+    "name": "Wheatus - Teenage Dirtbag (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Wheatus"
+    },
+    "datePublished": "2011-09-26T20:00:01-04:00",
+    "dateModified": "2020-06-03T13:11:14-04:00",
+    "commentCount": 10
+}

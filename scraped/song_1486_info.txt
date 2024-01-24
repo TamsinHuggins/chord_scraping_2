@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/little-big-town/girl-crush-chords-1681054",
+    "name": "Little Big Town - Girl Crush (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Little Big Town"
+    },
+    "datePublished": "2014-11-19T03:16:13-05:00",
+    "dateModified": "2019-05-28T00:48:43-04:00",
+    "commentCount": 26,
+    "musicalKey": "C"
+}

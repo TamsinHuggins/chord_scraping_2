@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-pogues/dirty-old-town-chords-814642",
+    "name": "The Pogues - Dirty Old Town (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Pogues"
+    },
+    "datePublished": "2009-04-17T20:00:01-04:00",
+    "dateModified": "2016-04-12T13:59:26-04:00",
+    "commentCount": 13,
+    "musicalKey": "G"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/the-man-chords-2802896",
+    "name": "Taylor Swift - The Man (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2019-08-23T03:01:00-04:00",
+    "dateModified": "2019-08-23T07:01:00-04:00",
+    "commentCount": 7,
+    "musicalKey": "C"
+}

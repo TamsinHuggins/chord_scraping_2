@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/ring-of-fire-chords-63352",
+    "name": "Johnny Cash - Ring Of Fire (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-08-07T13:04:17-04:00",
+    "commentCount": 60,
+    "musicalKey": "G"
+}

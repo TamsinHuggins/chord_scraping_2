@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eric-clapton/wonderful-tonight-chords-666288",
+    "name": "Eric Clapton - Wonderful Tonight (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eric Clapton"
+    },
+    "datePublished": "2008-04-17T20:00:01-04:00",
+    "dateModified": "2020-12-09T17:54:18-05:00",
+    "commentCount": 63,
+    "musicalKey": "G"
+}

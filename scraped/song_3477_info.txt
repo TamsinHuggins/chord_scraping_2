@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-brown/its-a-mans-mans-mans-world-chords-1730108",
+    "name": "James Brown - Its A Mans Mans Mans World (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "James Brown"
+    },
+    "datePublished": "2015-04-17T05:32:55-04:00",
+    "dateModified": "2018-03-13T09:21:56-04:00",
+    "commentCount": 8
+}

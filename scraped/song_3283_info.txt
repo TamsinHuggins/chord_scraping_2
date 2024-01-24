@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phil-wickham/i-believe-chords-4857680",
+    "name": "Phil Wickham - I Believe (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phil Wickham"
+    },
+    "datePublished": "2023-07-07T06:46:07-04:00",
+    "dateModified": "2023-07-07T13:03:15-04:00",
+    "commentCount": 3,
+    "musicalKey": "D"
+}

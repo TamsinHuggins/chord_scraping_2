@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/90551",
+    "name": "José González - Heartbeats (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "José González"
+    },
+    "datePublished": "2003-09-25T20:00:00-04:00",
+    "dateModified": "2016-04-19T08:33:57-04:00",
+    "commentCount": 13
+}

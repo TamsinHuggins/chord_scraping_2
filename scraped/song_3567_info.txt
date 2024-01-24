@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cody-carnes/christ-be-magnified-chords-2947769",
+    "name": "Cody Carnes - Christ Be Magnified (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Cody Carnes"
+    },
+    "datePublished": "2020-01-02T13:28:27-05:00",
+    "dateModified": "2020-01-02T18:28:27-05:00",
+    "commentCount": 5,
+    "musicalKey": "A"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sara-bareilles/she-used-to-be-mine-chords-1909815",
+    "name": "Sara Bareilles - She Used To Be Mine (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Sara Bareilles"
+    },
+    "datePublished": "2016-12-15T05:30:28-05:00",
+    "dateModified": "2023-11-04T22:20:21-04:00",
+    "commentCount": 15
+}

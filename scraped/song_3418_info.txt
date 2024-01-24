@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/guts-chords-4945687",
+    "name": "Olivia Rodrigo - Guts (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2023-09-07T20:56:17-04:00",
+    "dateModified": "2023-09-08T11:54:08-04:00",
+    "commentCount": 6
+}

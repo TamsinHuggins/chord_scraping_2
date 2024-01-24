@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bellamy-brothers/let-your-love-flow-chords-1048884",
+    "name": "Bellamy Brothers - Let Your Love Flow (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bellamy Brothers"
+    },
+    "datePublished": "2011-04-25T20:00:01-04:00",
+    "dateModified": "2023-10-21T20:33:41-04:00",
+    "commentCount": 16
+}

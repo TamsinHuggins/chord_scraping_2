@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-ill-never-love-again-chords-2485011",
+    "name": "Misc Soundtrack - A Star Is Born - Ill Never Love Again (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2018-10-05T06:15:23-04:00",
+    "dateModified": "2020-08-06T14:17:05-04:00",
+    "commentCount": 18,
+    "musicalKey": "G"
+}

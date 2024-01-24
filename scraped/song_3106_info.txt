@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gracie-abrams/block-me-out-chords-4143841",
+    "name": "Gracie Abrams - Block Me Out (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Gracie Abrams"
+    },
+    "datePublished": "2022-04-08T00:26:16-04:00",
+    "dateModified": "2022-04-11T07:12:36-04:00",
+    "commentCount": 5,
+    "musicalKey": "Bb"
+}

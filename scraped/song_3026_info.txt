@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/popeye-bangladesh/neshar-bojha-chords-1853349",
+    "name": "Popeye (Bangladesh) - Neshar Bojha (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Popeye (Bangladesh)"
+    },
+    "datePublished": "2016-06-15T10:24:44-04:00",
+    "dateModified": "2018-08-18T20:30:35-04:00",
+    "commentCount": 5
+}

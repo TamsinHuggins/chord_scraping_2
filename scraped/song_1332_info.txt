@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/laal-singh-chaddha-tere-hawaale-chords-4704065",
+    "name": "Misc Soundtrack - Laal Singh Chaddha - Tere Hawaale (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-03-28T03:00:48-04:00",
+    "dateModified": "2023-03-29T11:27:51-04:00",
+    "commentCount": 0,
+    "musicalKey": "Em"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/doin-time-chords-2697171",
+    "name": "Lana Del Rey - Doin Time (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2019-05-17T13:57:58-04:00",
+    "dateModified": "2022-08-22T14:55:41-04:00",
+    "commentCount": 8,
+    "musicalKey": "Gm"
+}

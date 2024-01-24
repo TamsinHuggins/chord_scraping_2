@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/adore-you-chords-2917556",
+    "name": "Harry Styles - Adore You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Cm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2019-12-06T00:29:46-05:00",
+    "dateModified": "2020-03-01T03:01:58-05:00",
+    "commentCount": 19,
+    "musicalKey": "Cm"
+}

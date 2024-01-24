@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-children/old-macdonald-had-a-farm-chords-1716414",
+    "name": "Misc Children - Old Macdonald Had A Farm (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Children"
+    },
+    "datePublished": "2015-03-02T04:19:40-05:00",
+    "dateModified": "2020-12-09T10:49:20-05:00",
+    "commentCount": 7,
+    "musicalKey": "A"
+}

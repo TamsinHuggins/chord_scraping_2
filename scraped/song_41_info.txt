@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/christina-perri/a-thousand-years-chords-1101795",
+    "name": "Christina Perri - A Thousand Years (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Christina Perri"
+    },
+    "datePublished": "2011-10-19T20:00:01-04:00",
+    "dateModified": "2022-01-09T21:12:57-05:00",
+    "commentCount": 88,
+    "musicalKey": "Bb"
+}

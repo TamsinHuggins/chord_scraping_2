@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/spongebob-squarepants-beginning-theme-chords-1937167",
+    "name": "Misc Cartoons - Spongebob Squarepants - Beginning Theme (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2017-01-23T06:17:28-05:00",
+    "dateModified": "2017-01-23T11:17:28-05:00",
+    "commentCount": 6
+}

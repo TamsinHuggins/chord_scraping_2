@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mercyme/i-can-only-imagine-chords-1969725",
+    "name": "Mercyme - I Can Only Imagine (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "MercyMe"
+    },
+    "datePublished": "2017-03-30T04:05:15-04:00",
+    "dateModified": "2017-03-30T08:05:15-04:00",
+    "commentCount": 10
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/i-see-fire-chords-1430599",
+    "name": "Ed Sheeran - I See Fire (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bbm Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2013-11-07T19:00:01-05:00",
+    "dateModified": "2023-01-07T11:53:27-05:00",
+    "commentCount": 231,
+    "musicalKey": "Bbm"
+}

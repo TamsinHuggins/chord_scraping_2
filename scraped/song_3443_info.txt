@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/road-trippin-chords-1009501",
+    "name": "Red Hot Chili Peppers - Road Trippin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Red Hot Chili Peppers"
+    },
+    "datePublished": "2010-12-06T19:00:01-05:00",
+    "dateModified": "2016-05-27T14:41:18-04:00",
+    "commentCount": 16
+}

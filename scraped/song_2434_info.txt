@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/im-looking-through-you-chords-328663",
+    "name": "The Beatles - Im Looking Through You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2006-02-01T19:00:01-05:00",
+    "dateModified": "2016-05-17T09:35:59-04:00",
+    "commentCount": 20
+}

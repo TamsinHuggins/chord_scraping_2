@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/cant-buy-me-love-chords-353748",
+    "name": "The Beatles - Cant Buy Me Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2006-04-13T20:00:01-04:00",
+    "dateModified": "2020-02-11T11:41:56-05:00",
+    "commentCount": 29,
+    "musicalKey": "C"
+}

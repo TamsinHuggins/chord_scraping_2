@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cranberries/dreams-chords-1485486",
+    "name": "The Cranberries - Dreams (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cranberries"
+    },
+    "datePublished": "2014-05-18T17:47:36-04:00",
+    "dateModified": "2018-06-08T06:39:41-04:00",
+    "commentCount": 28,
+    "musicalKey": "E"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ulige-numre/frit-land-chords-1728237",
+    "name": "Ulige Numre - Frit Land (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Ulige Numre"
+    },
+    "datePublished": "2015-04-09T06:47:49-04:00",
+    "dateModified": "2016-05-22T12:52:57-04:00",
+    "commentCount": 11
+}

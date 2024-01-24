@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/merle-haggard/today-i-started-loving-you-again-chords-1406209",
+    "name": "Merle Haggard - Today I Started Loving You Again (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Merle Haggard"
+    },
+    "datePublished": "2013-07-24T20:00:01-04:00",
+    "dateModified": "2018-05-17T08:14:08-04:00",
+    "commentCount": 8
+}

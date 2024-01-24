@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-doors/riders-on-the-storm-chords-1051663",
+    "name": "The Doors - Riders On The Storm (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Doors"
+    },
+    "datePublished": "2011-05-10T20:00:01-04:00",
+    "dateModified": "2023-12-28T23:45:36-05:00",
+    "commentCount": 37,
+    "musicalKey": "Em"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bryan-adams/heaven-chords-20606",
+    "name": "Bryan Adams - Heaven (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bryan Adams"
+    },
+    "datePublished": "2001-11-26T19:00:00-05:00",
+    "dateModified": "2018-09-12T09:40:49-04:00",
+    "commentCount": 69,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sovereign-grace-music/before-the-throne-of-god-above-chords-1709070",
+    "name": "Sovereign Grace Music - Before The Throne Of God Above (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sovereign Grace Music"
+    },
+    "datePublished": "2015-02-05T04:26:21-05:00",
+    "dateModified": "2016-06-19T10:07:18-04:00",
+    "commentCount": 5
+}

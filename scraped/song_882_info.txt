@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hoobastank/the-reason-chords-1134949",
+    "name": "Hoobastank - The Reason (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Hoobastank"
+    },
+    "datePublished": "2012-03-01T19:00:01-05:00",
+    "dateModified": "2016-04-16T11:15:38-04:00",
+    "commentCount": 16
+}

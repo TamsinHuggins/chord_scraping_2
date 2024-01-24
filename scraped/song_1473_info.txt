@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ali-gatie/its-you-chords-2691828",
+    "name": "Ali Gatie - Its You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Ali Gatie"
+    },
+    "datePublished": "2019-05-11T21:11:26-04:00",
+    "dateModified": "2019-09-17T13:48:53-04:00",
+    "commentCount": 17,
+    "musicalKey": "Am"
+}

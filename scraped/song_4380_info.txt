@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-strokes/selfless-chords-3080315",
+    "name": "The Strokes - Selfless (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Strokes"
+    },
+    "datePublished": "2020-04-10T12:23:13-04:00",
+    "dateModified": "2020-04-11T15:01:36-04:00",
+    "commentCount": 8
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mac-demarco/chamber-of-reflection-chords-1726363",
+    "name": "Mac Demarco - Chamber Of Reflection (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mac DeMarco"
+    },
+    "datePublished": "2015-04-02T05:49:19-04:00",
+    "dateModified": "2016-06-16T09:36:05-04:00",
+    "commentCount": 16
+}

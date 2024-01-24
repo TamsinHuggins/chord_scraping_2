@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/toto/africa-chords-87063",
+    "name": "Toto - Africa (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Toto"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2018-09-14T13:19:43-04:00",
+    "commentCount": 77,
+    "musicalKey": "B"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/i-put-a-spell-on-you-chords-862974",
+    "name": "Creedence Clearwater Revival - I Put A Spell On You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Creedence Clearwater Revival"
+    },
+    "datePublished": "2009-08-20T20:00:01-04:00",
+    "dateModified": "2019-12-12T10:51:08-05:00",
+    "commentCount": 8,
+    "musicalKey": "Em"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/love-song-chords-2800064",
+    "name": "Lana Del Rey - Love Song (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2019-08-20T04:47:17-04:00",
+    "dateModified": "2019-11-01T06:22:48-04:00",
+    "commentCount": 7,
+    "musicalKey": "D"
+}

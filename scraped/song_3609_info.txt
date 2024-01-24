@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/halsey/sorry-chords-2018829",
+    "name": "Halsey - Sorry (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Halsey"
+    },
+    "datePublished": "2017-06-03T07:10:36-04:00",
+    "dateModified": "2018-03-23T13:34:24-04:00",
+    "commentCount": 27,
+    "musicalKey": "Bbm"
+}

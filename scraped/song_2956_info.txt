@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kristian-stanfill/jesus-paid-it-all-o-praise-the-one-chords-735983",
+    "name": "Kristian Stanfill - Jesus Paid It All O Praise The One (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Kristian Stanfill"
+    },
+    "datePublished": "2008-09-24T20:00:01-04:00",
+    "dateModified": "2018-11-15T19:33:34-05:00",
+    "commentCount": 21,
+    "musicalKey": "B"
+}

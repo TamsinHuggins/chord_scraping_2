@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ren-ren-gill/chalk-outlines-chords-3992173",
+    "name": "Ren (Ren Gill) - Chalk Outlines (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ren (Ren Gill)"
+    },
+    "datePublished": "2021-12-17T16:42:21-05:00",
+    "dateModified": "2021-12-18T13:07:30-05:00",
+    "commentCount": 5,
+    "musicalKey": "A"
+}

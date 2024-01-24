@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brooks-dunn/red-dirt-road-chords-1151332",
+    "name": "Brooks & Dunn - Red Dirt Road (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Brooks &amp; Dunn"
+    },
+    "datePublished": "2012-05-01T20:00:01-04:00",
+    "dateModified": "2022-02-10T11:46:55-05:00",
+    "commentCount": 12,
+    "musicalKey": "F"
+}

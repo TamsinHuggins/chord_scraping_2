@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tonic/if-you-could-only-see-chords-389994",
+    "name": "Tonic - If You Could Only See (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Tonic"
+    },
+    "datePublished": "2006-07-16T20:00:01-04:00",
+    "dateModified": "2017-08-17T13:32:25-04:00",
+    "commentCount": 32
+}

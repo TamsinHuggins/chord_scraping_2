@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tennessee-ernie-ford/sixteen-tons-chords-1721612",
+    "name": "Tennessee Ernie Ford - Sixteen Tons (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Tennessee Ernie Ford"
+    },
+    "datePublished": "2015-03-18T04:50:16-04:00",
+    "dateModified": "2021-02-01T23:42:27-05:00",
+    "commentCount": 31
+}

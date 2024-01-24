@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/i-should-have-known-better-chords-97380",
+    "name": "The Beatles - I Should Have Known Better (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2003-12-14T19:00:00-05:00",
+    "dateModified": "2021-05-09T01:04:30-04:00",
+    "commentCount": 29
+}

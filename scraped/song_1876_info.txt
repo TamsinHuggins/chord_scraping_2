@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/trust-in-god-chords-5033356",
+    "name": "Elevation Worship - Trust In God (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2023-11-17T12:16:56-05:00",
+    "dateModified": "2023-11-18T12:12:51-05:00",
+    "commentCount": 0,
+    "musicalKey": "C"
+}

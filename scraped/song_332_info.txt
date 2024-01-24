@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/right-where-you-left-me-chords-3474326",
+    "name": "Taylor Swift - Right Where You Left Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-12-18T20:43:50-05:00",
+    "dateModified": "2020-12-19T01:43:50-05:00",
+    "commentCount": 15,
+    "musicalKey": "Bb"
+}

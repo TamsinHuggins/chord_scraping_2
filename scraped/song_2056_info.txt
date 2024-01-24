@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wir-sind-helden/nur-ein-wort-chords-1802454",
+    "name": "Wir Sind Helden - Nur Ein Wort (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Wir sind Helden"
+    },
+    "datePublished": "2016-01-17T16:08:09-05:00",
+    "dateModified": "2018-10-04T05:27:37-04:00",
+    "commentCount": 5,
+    "musicalKey": "B"
+}

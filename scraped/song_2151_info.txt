@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blackstreet/no-diggity-chords-1229198",
+    "name": "Blackstreet - No Diggity (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Blackstreet"
+    },
+    "datePublished": "2013-03-10T20:00:01-04:00",
+    "dateModified": "2022-04-25T21:44:52-04:00",
+    "commentCount": 38
+}

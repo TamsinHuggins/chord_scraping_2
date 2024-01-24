@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/niki-nicole-zefanya/oceans-and-engines-chords-4262518",
+    "name": "Niki (Nicole Zefanya) - Oceans And Engines (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C# Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "NIKI (Nicole Zefanya)"
+    },
+    "datePublished": "2022-07-08T01:47:29-04:00",
+    "dateModified": "2022-07-08T11:16:03-04:00",
+    "commentCount": 0,
+    "musicalKey": "C#"
+}

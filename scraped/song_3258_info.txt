@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/zeher-woh-lamhe-woh-baatein-chords-1833530",
+    "name": "Misc Soundtrack - Zeher - Woh Lamhe Woh Baatein (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2016-04-08T07:43:50-04:00",
+    "dateModified": "2021-07-25T12:50:02-04:00",
+    "commentCount": 9
+}

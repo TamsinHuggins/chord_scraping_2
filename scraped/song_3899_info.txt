@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kenny-loggins/rainbow-connection-chords-22350",
+    "name": "Kenny Loggins - Rainbow Connection (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kenny Loggins"
+    },
+    "datePublished": "2002-01-16T19:00:00-05:00",
+    "dateModified": "2021-10-01T18:21:43-04:00",
+    "commentCount": 26
+}

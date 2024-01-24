@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-arthur/can-i-be-him-chords-1898933",
+    "name": "James Arthur - Can I Be Him (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "James Arthur"
+    },
+    "datePublished": "2016-10-27T21:47:43-04:00",
+    "dateModified": "2018-04-30T21:28:18-04:00",
+    "commentCount": 17,
+    "musicalKey": "A"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/cruel-summer-chords-2802752",
+    "name": "Taylor Swift - Cruel Summer (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2019-08-22T22:01:53-04:00",
+    "dateModified": "2022-07-25T16:09:48-04:00",
+    "commentCount": 19,
+    "musicalKey": "A"
+}

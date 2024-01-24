@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/miftah-zaman/chiro-odhora-chords-1926219",
+    "name": "Miftah Zaman - Chiro Odhora (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Miftah Zaman"
+    },
+    "datePublished": "2017-01-03T12:39:56-05:00",
+    "dateModified": "2016-12-31T16:02:23-05:00",
+    "commentCount": 2
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/frozen-2-into-the-unknown-chords-2904659",
+    "name": "Misc Cartoons - Frozen 2 - Into The Unknown (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D#m Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2019-11-24T19:57:03-05:00",
+    "dateModified": "2020-03-19T12:31:03-04:00",
+    "commentCount": 22,
+    "musicalKey": "D#m"
+}

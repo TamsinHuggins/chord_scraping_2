@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-bowie/five-years-chords-1506553",
+    "name": "David Bowie - Five Years (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Bowie"
+    },
+    "datePublished": "2014-07-31T04:50:27-04:00",
+    "dateModified": "2016-10-21T09:19:19-04:00",
+    "commentCount": 32
+}

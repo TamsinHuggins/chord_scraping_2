@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/scott-mckenzie/san-francisco-chords-193014",
+    "name": "Scott Mckenzie - San Francisco (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Scott McKenzie"
+    },
+    "datePublished": "2005-06-22T20:00:00-04:00",
+    "dateModified": "2017-06-15T12:12:21-04:00",
+    "commentCount": 29
+}

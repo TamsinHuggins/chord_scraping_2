@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lollipops/das-rote-pferd-chords-1469230",
+    "name": "Lollipops - Das Rote Pferd (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lollipops"
+    },
+    "datePublished": "2014-03-13T20:00:01-04:00",
+    "dateModified": "2019-09-18T08:21:01-04:00",
+    "commentCount": 2,
+    "musicalKey": "C"
+}

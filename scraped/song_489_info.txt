@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/imagine-dragons/demons-chords-1149539",
+    "name": "Imagine Dragons - Demons (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Imagine Dragons"
+    },
+    "datePublished": "2012-04-24T20:00:01-04:00",
+    "dateModified": "2018-10-25T12:58:46-04:00",
+    "commentCount": 137,
+    "musicalKey": "Eb"
+}

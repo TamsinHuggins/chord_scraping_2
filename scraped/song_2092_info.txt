@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-daughters-of-eve/hey-lover-chords-3074063",
+    "name": "The Daughters Of Eve - Hey Lover (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Daughters Of Eve"
+    },
+    "datePublished": "2020-04-07T12:36:09-04:00",
+    "dateModified": "2020-06-26T03:16:22-04:00",
+    "commentCount": 8,
+    "musicalKey": "Eb"
+}

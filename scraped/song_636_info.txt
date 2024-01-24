@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jack-johnson/better-together-chords-606852",
+    "name": "Jack Johnson - Better Together (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Jack Johnson"
+    },
+    "datePublished": "2007-11-27T19:00:01-05:00",
+    "dateModified": "2018-10-10T14:11:13-04:00",
+    "commentCount": 49,
+    "musicalKey": "C"
+}

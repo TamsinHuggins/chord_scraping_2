@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/killer-queen-chords-213412",
+    "name": "Queen - Killer Queen (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Cm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2005-09-20T20:00:00-04:00",
+    "dateModified": "2018-11-05T08:49:18-05:00",
+    "commentCount": 33,
+    "musicalKey": "Cm"
+}

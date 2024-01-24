@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sajjan-raj-vaidya/chitthi-bhitra-chords-2273905",
+    "name": "Sajjan Raj Vaidya - Chitthi Bhitra (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Sajjan Raj Vaidya"
+    },
+    "datePublished": "2018-01-05T00:43:05-05:00",
+    "dateModified": "2018-06-25T10:00:19-04:00",
+    "commentCount": 3
+}

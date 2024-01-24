@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-neighbourhood/sweater-weather-chords-1396767",
+    "name": "The Neighbourhood - Sweater Weather (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Neighbourhood"
+    },
+    "datePublished": "2013-06-16T20:00:01-04:00",
+    "dateModified": "2022-08-07T15:40:31-04:00",
+    "commentCount": 11
+}

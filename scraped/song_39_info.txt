@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/sophie-ellis-bextor/murder-on-the-dancefloor-chords-1836623",
-    "name": "Sophie Ellis-Bextor - Murder On The Dancefloor (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-always-remember-us-this-way-chords-2484211",
+    "name": "Misc Soundtrack - A Star Is Born - Always Remember Us This Way (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
     "composer": {
         "@type": "Person",
-        "name": "Sophie Ellis-Bextor"
+        "name": "Misc Soundtrack"
     },
-    "datePublished": "2016-04-18T05:36:20-04:00",
-    "dateModified": "2024-01-21T16:12:26-05:00",
-    "commentCount": 0,
-    "musicalKey": "E"
+    "datePublished": "2018-10-04T11:20:49-04:00",
+    "dateModified": "2021-03-22T13:00:48-04:00",
+    "commentCount": 85,
+    "musicalKey": "C"
 }

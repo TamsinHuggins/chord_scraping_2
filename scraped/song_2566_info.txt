@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/henry-moodie/pick-up-the-phone-chords-4838174",
+    "name": "Henry Moodie - Pick Up The Phone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Henry Moodie"
+    },
+    "datePublished": "2023-06-25T18:54:45-04:00",
+    "dateModified": "2023-06-26T13:47:25-04:00",
+    "commentCount": 1,
+    "musicalKey": "Eb"
+}

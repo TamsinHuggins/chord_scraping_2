@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/love-is-a-laserquest-chords-1059908",
+    "name": "Arctic Monkeys - Love Is A Laserquest (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2011-05-26T20:00:01-04:00",
+    "dateModified": "2020-09-17T22:48:50-04:00",
+    "commentCount": 31
+}

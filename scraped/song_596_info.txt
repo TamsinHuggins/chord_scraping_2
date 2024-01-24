@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joy-again/looking-out-for-you-chords-1863147",
+    "name": "Joy Again - Looking Out For You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Joy Again"
+    },
+    "datePublished": "2016-07-27T03:48:15-04:00",
+    "dateModified": "2021-07-10T21:39:48-04:00",
+    "commentCount": 28
+}

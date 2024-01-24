@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/all-too-well-10-minute-version-chords-3946031",
+    "name": "Taylor Swift - All Too Well 10 Minute Version (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2021-11-12T00:46:34-05:00",
+    "dateModified": "2021-11-18T16:48:30-05:00",
+    "commentCount": 18,
+    "musicalKey": "C"
+}

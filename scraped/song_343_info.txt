@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/funeral-chords-2150411",
+    "name": "Phoebe Bridgers - Funeral (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Phoebe Bridgers"
+    },
+    "datePublished": "2017-09-15T04:09:30-04:00",
+    "dateModified": "2022-06-22T16:03:45-04:00",
+    "commentCount": 24,
+    "musicalKey": "B"
+}

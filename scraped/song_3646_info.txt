@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/gods-gonna-cut-you-down-chords-480325",
+    "name": "Johnny Cash - Gods Gonna Cut You Down (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2007-03-01T19:00:01-05:00",
+    "dateModified": "2016-05-13T12:43:08-04:00",
+    "commentCount": 16
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mac-demarco/this-old-dog-chords-1961087",
+    "name": "Mac Demarco - This Old Dog (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Mac DeMarco"
+    },
+    "datePublished": "2017-03-11T05:54:21-05:00",
+    "dateModified": "2017-03-11T10:54:21-05:00",
+    "commentCount": 5
+}

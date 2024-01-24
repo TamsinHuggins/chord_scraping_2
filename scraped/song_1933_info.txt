@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-connells/74-75-chords-15799",
+    "name": "The Connells - 74-75 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Connells"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2018-08-20T19:55:13-04:00",
+    "commentCount": 20,
+    "musicalKey": "F"
+}

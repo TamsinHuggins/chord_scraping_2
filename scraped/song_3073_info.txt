@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-flaming-lips/do-you-realize-chords-50449",
+    "name": "The Flaming Lips - Do You Realize (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Flaming Lips"
+    },
+    "datePublished": "2003-04-24T20:00:00-04:00",
+    "dateModified": "2018-10-08T10:15:20-04:00",
+    "commentCount": 17,
+    "musicalKey": "C"
+}

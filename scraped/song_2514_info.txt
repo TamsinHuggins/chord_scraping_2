@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/muse/hysteria-chords-117949",
+    "name": "Muse - Hysteria (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Muse"
+    },
+    "datePublished": "2004-05-17T20:00:00-04:00",
+    "dateModified": "2019-04-10T10:04:48-04:00",
+    "commentCount": 16
+}

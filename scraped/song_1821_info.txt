@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hank-williams-jr-/family-tradition-chords-1682664",
+    "name": "Hank Williams Jr. - Family Tradition (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hank Williams Jr."
+    },
+    "datePublished": "2014-11-23T06:58:26-05:00",
+    "dateModified": "2024-01-15T15:05:11-05:00",
+    "commentCount": 13
+}

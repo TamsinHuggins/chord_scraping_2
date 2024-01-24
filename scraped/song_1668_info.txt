@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-musicals/hamilton-burn-chords-1789256",
+    "name": "Misc Musicals - Hamilton - Burn (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Musicals"
+    },
+    "datePublished": "2015-12-12T22:04:22-05:00",
+    "dateModified": "2021-04-16T05:02:22-04:00",
+    "commentCount": 29,
+    "musicalKey": "Bm"
+}

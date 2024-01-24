@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruce-springsteen/the-river-chords-344754",
+    "name": "Bruce Springsteen - The River (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruce Springsteen"
+    },
+    "datePublished": "2006-03-19T19:00:01-05:00",
+    "dateModified": "2023-05-08T20:48:53-04:00",
+    "commentCount": 32,
+    "musicalKey": "Em"
+}

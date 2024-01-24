@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/matilda-chords-4197361",
+    "name": "Harry Styles - Matilda (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2022-05-18T20:01:25-04:00",
+    "dateModified": "2022-05-23T17:01:00-04:00",
+    "commentCount": 15,
+    "musicalKey": "D"
+}

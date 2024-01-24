@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eddie-vedder/guaranteed-chords-588676",
+    "name": "Eddie Vedder - Guaranteed (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eddie Vedder"
+    },
+    "datePublished": "2007-10-12T20:00:01-04:00",
+    "dateModified": "2018-01-15T21:05:06-05:00",
+    "commentCount": 23
+}

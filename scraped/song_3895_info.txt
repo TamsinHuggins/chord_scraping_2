@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sting/fragile-chords-108942",
+    "name": "Sting - Fragile (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sting"
+    },
+    "datePublished": "2004-03-15T19:00:00-05:00",
+    "dateModified": "2022-02-15T08:03:57-05:00",
+    "commentCount": 8
+}

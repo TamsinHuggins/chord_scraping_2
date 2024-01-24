@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rivermaya/youll-be-safe-here-chords-152108",
+    "name": "Rivermaya - Youll Be Safe Here (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rivermaya"
+    },
+    "datePublished": "2004-12-15T19:00:00-05:00",
+    "dateModified": "2023-10-21T18:01:44-04:00",
+    "commentCount": 15,
+    "musicalKey": "Am"
+}

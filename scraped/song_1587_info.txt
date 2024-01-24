@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/the-jungle-book-i-wanna-be-like-you-chords-1681233",
+    "name": "Misc Cartoons - The Jungle Book - I Wanna Be Like You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2014-11-17T12:57:40-05:00",
+    "dateModified": "2022-04-09T19:29:26-04:00",
+    "commentCount": 34,
+    "musicalKey": "E"
+}

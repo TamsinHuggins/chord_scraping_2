@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-doobie-brothers/long-train-runnin-chords-1514222",
+    "name": "The Doobie Brothers - Long Train Runnin (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Doobie Brothers"
+    },
+    "datePublished": "2014-08-25T10:35:40-04:00",
+    "dateModified": "2016-05-26T12:41:11-04:00",
+    "commentCount": 8
+}

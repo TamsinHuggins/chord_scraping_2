@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/scott-street-chords-2178011",
+    "name": "Phoebe Bridgers - Scott Street (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Phoebe Bridgers"
+    },
+    "datePublished": "2017-10-02T19:39:13-04:00",
+    "dateModified": "2018-08-03T03:01:54-04:00",
+    "commentCount": 5
+}

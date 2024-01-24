@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/almost-sweet-music-chords-2576823",
+    "name": "Hozier - Almost Sweet Music (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hozier"
+    },
+    "datePublished": "2019-01-17T19:45:12-05:00",
+    "dateModified": "2021-10-26T22:38:14-04:00",
+    "commentCount": 6
+}

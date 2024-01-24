@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ne-yo/so-sick-chords-969280",
+    "name": "Ne-Yo - So Sick (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Ne-Yo"
+    },
+    "datePublished": "2010-07-20T20:00:01-04:00",
+    "dateModified": "2021-02-28T02:34:27-05:00",
+    "commentCount": 4
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jesus-culture/set-a-fire-chords-1401291",
+    "name": "Jesus Culture - Set A Fire (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jesus Culture"
+    },
+    "datePublished": "2013-07-10T20:00:01-04:00",
+    "dateModified": "2020-03-25T13:26:43-04:00",
+    "commentCount": 8,
+    "musicalKey": "G"
+}

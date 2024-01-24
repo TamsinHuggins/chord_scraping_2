@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-velvet-underground/after-hours-chords-628",
+    "name": "The Velvet Underground - After Hours (chords)",
+    "text": "Difficulty:  Tuning: D G C F A D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Velvet Underground"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2016-05-16T09:45:25-04:00",
+    "commentCount": 34
+}

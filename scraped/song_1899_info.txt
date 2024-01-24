@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eva-cassidy/fields-of-gold-chords-564599",
+    "name": "Eva Cassidy - Fields Of Gold (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Eva Cassidy"
+    },
+    "datePublished": "2007-08-16T20:00:01-04:00",
+    "dateModified": "2017-02-12T19:31:48-05:00",
+    "commentCount": 17
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grand-funk-railroad/im-your-captain-closer-to-home-chords-881914",
+    "name": "Grand Funk Railroad - Im Your Captain Closer To Home (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Grand Funk Railroad"
+    },
+    "datePublished": "2009-10-13T20:00:01-04:00",
+    "dateModified": "2020-12-03T03:10:19-05:00",
+    "commentCount": 9
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gracie-abrams/friend-chords-3247763",
+    "name": "Gracie Abrams - Friend (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Gracie Abrams"
+    },
+    "datePublished": "2020-07-14T13:06:52-04:00",
+    "dateModified": "2020-07-16T16:37:49-04:00",
+    "commentCount": 8,
+    "musicalKey": "C"
+}

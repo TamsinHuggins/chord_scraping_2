@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jimmy-eat-world/the-middle-chords-872107",
+    "name": "Jimmy Eat World - The Middle (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jimmy Eat World"
+    },
+    "datePublished": "2009-09-13T20:00:01-04:00",
+    "dateModified": "2019-05-22T23:09:45-04:00",
+    "commentCount": 40
+}

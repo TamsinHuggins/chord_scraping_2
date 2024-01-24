@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cage-the-elephant/cigarette-daydreams-chords-2409841",
+    "name": "Cage The Elephant - Cigarette Daydreams (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Cage the Elephant"
+    },
+    "datePublished": "2018-06-24T18:45:52-04:00",
+    "dateModified": "2018-06-27T09:00:41-04:00",
+    "commentCount": 17
+}

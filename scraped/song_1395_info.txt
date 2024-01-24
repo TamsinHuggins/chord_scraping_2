@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beabadoobee/a-night-to-remember-chords-4996468",
+    "name": "Beabadoobee - A Night To Remember (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Gm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "beabadoobee"
+    },
+    "datePublished": "2023-10-20T04:14:15-04:00",
+    "dateModified": "2023-10-20T13:41:18-04:00",
+    "commentCount": 3,
+    "musicalKey": "Gm"
+}

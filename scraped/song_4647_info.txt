@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/glass-animals/heat-waves-chords-3482357",
+    "name": "Glass Animals - Heat Waves (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Glass Animals"
+    },
+    "datePublished": "2020-12-23T19:14:36-05:00",
+    "dateModified": "2020-12-24T08:45:23-05:00",
+    "commentCount": 19
+}

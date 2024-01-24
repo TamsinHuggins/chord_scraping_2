@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-bay/hold-back-the-river-chords-1713310",
+    "name": "James Bay - Hold Back The River (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "James Bay"
+    },
+    "datePublished": "2015-02-19T02:40:51-05:00",
+    "dateModified": "2016-04-09T13:34:06-04:00",
+    "commentCount": 5
+}

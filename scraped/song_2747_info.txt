@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/death-by-a-thousand-cuts-chords-2802824",
+    "name": "Taylor Swift - Death By A Thousand Cuts (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2019-08-23T00:12:00-04:00",
+    "dateModified": "2019-12-30T07:55:42-05:00",
+    "commentCount": 23,
+    "musicalKey": "E"
+}

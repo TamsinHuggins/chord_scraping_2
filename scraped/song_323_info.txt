@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bo-burnham/that-funny-feeling-chords-3731324",
+    "name": "Bo Burnham - That Funny Feeling (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Bo Burnham"
+    },
+    "datePublished": "2021-05-30T16:45:46-04:00",
+    "dateModified": "2021-06-11T11:32:35-04:00",
+    "commentCount": 44,
+    "musicalKey": "E"
+}

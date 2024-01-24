@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/deftones/cherry-waves-chords-841811",
+    "name": "Deftones - Cherry Waves (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Deftones"
+    },
+    "datePublished": "2009-06-28T20:00:01-04:00",
+    "dateModified": "2017-02-04T10:11:10-05:00",
+    "commentCount": 2
+}

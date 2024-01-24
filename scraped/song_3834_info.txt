@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mcfly/all-about-you-chords-161889",
+    "name": "Mcfly - All About You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "McFly"
+    },
+    "datePublished": "2005-02-01T19:00:00-05:00",
+    "dateModified": "2018-10-12T10:18:22-04:00",
+    "commentCount": 49
+}

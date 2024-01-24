@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/who-you-say-i-am-chords-2240451",
+    "name": "Hillsong Worship - Who You Say I Am (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Worship"
+    },
+    "datePublished": "2017-11-22T13:35:32-05:00",
+    "dateModified": "2019-03-17T01:54:51-04:00",
+    "commentCount": 51,
+    "musicalKey": "G"
+}

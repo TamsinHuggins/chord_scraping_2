@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/agent-vinod-raabta-chords-1179968",
+    "name": "Misc Soundtrack - Agent Vinod - Raabta (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2012-09-03T20:00:01-04:00",
+    "dateModified": "2021-04-10T23:57:21-04:00",
+    "commentCount": 11
+}

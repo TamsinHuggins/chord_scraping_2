@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/the-man-who-sold-the-world-chords-651988",
+    "name": "Nirvana - The Man Who Sold The World (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2008-03-16T20:00:01-04:00",
+    "dateModified": "2023-04-17T19:41:18-04:00",
+    "commentCount": 59,
+    "musicalKey": "C#m"
+}

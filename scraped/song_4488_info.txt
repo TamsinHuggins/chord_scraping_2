@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/no-doubt/its-my-life-chords-104198",
+    "name": "No Doubt - Its My Life (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "No Doubt"
+    },
+    "datePublished": "2004-02-09T19:00:00-05:00",
+    "dateModified": "2018-03-17T10:12:45-04:00",
+    "commentCount": 10
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shiloh-dynasty/losing-interest-chords-2911190",
+    "name": "Shiloh Dynasty - Losing Interest (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Shiloh Dynasty"
+    },
+    "datePublished": "2019-12-01T08:07:38-05:00",
+    "dateModified": "2019-12-06T12:36:36-05:00",
+    "commentCount": 3,
+    "musicalKey": "C"
+}

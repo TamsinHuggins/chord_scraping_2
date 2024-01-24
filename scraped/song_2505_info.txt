@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/my-chemical-romance/helena-chords-1032412",
+    "name": "My Chemical Romance - Helena (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "My Chemical Romance"
+    },
+    "datePublished": "2011-03-02T19:00:01-05:00",
+    "dateModified": "2021-03-19T14:54:13-04:00",
+    "commentCount": 38,
+    "musicalKey": "C#m"
+}

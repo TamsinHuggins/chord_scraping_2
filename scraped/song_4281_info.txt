@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-doors/break-on-through-to-the-other-side-chords-2496159",
+    "name": "The Doors - Break On Through To The Other Side (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Doors"
+    },
+    "datePublished": "2018-10-18T10:14:45-04:00",
+    "dateModified": "2022-08-03T17:58:37-04:00",
+    "commentCount": 4,
+    "musicalKey": "Em"
+}

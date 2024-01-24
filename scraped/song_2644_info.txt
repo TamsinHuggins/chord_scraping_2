@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tv-girl/lovers-rock-chords-3068075",
+    "name": "Tv Girl - Lovers Rock (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "TV Girl"
+    },
+    "datePublished": "2020-04-04T14:45:38-04:00",
+    "dateModified": "2020-04-06T10:34:59-04:00",
+    "commentCount": 5,
+    "musicalKey": "Eb"
+}

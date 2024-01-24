@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-television/the-witcher-toss-a-coin-to-your-witcher-chords-2935904",
+    "name": "Misc Television - The Witcher - Toss A Coin To Your Witcher (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Television"
+    },
+    "datePublished": "2019-12-21T10:03:01-05:00",
+    "dateModified": "2020-11-04T17:59:58-05:00",
+    "commentCount": 54,
+    "musicalKey": "Am"
+}

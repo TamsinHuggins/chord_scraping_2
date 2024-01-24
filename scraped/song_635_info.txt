@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-mayer/gravity-chords-641307",
+    "name": "John Mayer - Gravity (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Mayer"
+    },
+    "datePublished": "2009-07-30T07:11:39-04:00",
+    "dateModified": "2019-05-31T20:08:41-04:00",
+    "commentCount": 60,
+    "musicalKey": "C"
+}

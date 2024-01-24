@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lily-allen/smile-chords-2256815",
+    "name": "Lily Allen - Smile (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lily Allen"
+    },
+    "datePublished": "2017-12-13T11:32:44-05:00",
+    "dateModified": "2017-12-14T09:30:21-05:00",
+    "commentCount": 3,
+    "musicalKey": "F"
+}

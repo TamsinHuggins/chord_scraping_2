@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shinedown/simple-man-chords-149924",
+    "name": "Shinedown - Simple Man (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Shinedown"
+    },
+    "datePublished": "2004-12-05T19:00:00-05:00",
+    "dateModified": "2020-05-08T12:44:23-04:00",
+    "commentCount": 60
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/drivers-license-chords-3504560",
+    "name": "Olivia Rodrigo - Drivers License (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2021-01-08T02:41:05-05:00",
+    "dateModified": "2021-08-15T19:42:12-04:00",
+    "commentCount": 77,
+    "musicalKey": "Bb"
+}

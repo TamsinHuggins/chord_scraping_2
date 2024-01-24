@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bon-jovi/its-my-life-chords-951538",
+    "name": "Bon Jovi - Its My Life (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bon Jovi"
+    },
+    "datePublished": "2010-05-23T20:00:01-04:00",
+    "dateModified": "2020-09-30T10:36:13-04:00",
+    "commentCount": 23,
+    "musicalKey": "Am"
+}

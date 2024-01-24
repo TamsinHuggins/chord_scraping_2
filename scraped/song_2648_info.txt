@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/let-you-down-chords-2821910",
+    "name": "Zach Bryan - Let You Down (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2019-09-10T18:22:15-04:00",
+    "dateModified": "2019-09-11T11:35:05-04:00",
+    "commentCount": 7,
+    "musicalKey": "Em"
+}

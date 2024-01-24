@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-petty/free-fallin-chords-1172575",
+    "name": "Tom Petty - Free Fallin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Petty"
+    },
+    "datePublished": "2012-08-01T20:00:01-04:00",
+    "dateModified": "2021-03-31T12:01:41-04:00",
+    "commentCount": 52,
+    "musicalKey": "F"
+}

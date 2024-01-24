@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cranberries/zombie-chords-1046265",
+    "name": "The Cranberries - Zombie (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cranberries"
+    },
+    "datePublished": "2011-04-10T20:00:01-04:00",
+    "dateModified": "2018-09-26T21:55:56-04:00",
+    "commentCount": 4
+}

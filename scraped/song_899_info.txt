@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/chiquitita-chords-1044057",
+    "name": "Abba - Chiquitita (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2011-04-06T20:00:01-04:00",
+    "dateModified": "2023-09-27T18:25:23-04:00",
+    "commentCount": 9
+}

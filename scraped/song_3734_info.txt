@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alec-benjamin/if-we-have-each-other-chords-2436943",
+    "name": "Alec Benjamin - If We Have Each Other (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Alec Benjamin"
+    },
+    "datePublished": "2018-07-27T22:22:39-04:00",
+    "dateModified": "2018-07-28T15:28:08-04:00",
+    "commentCount": 21,
+    "musicalKey": "C"
+}

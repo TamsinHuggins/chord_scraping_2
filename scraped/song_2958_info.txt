@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/yiruma/river-flows-in-you-chords-1098185",
+    "name": "Yiruma - River Flows In You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Yiruma"
+    },
+    "datePublished": "2011-10-05T20:00:01-04:00",
+    "dateModified": "2022-10-14T21:20:36-04:00",
+    "commentCount": 3,
+    "musicalKey": "F#m"
+}

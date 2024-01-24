@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bright-eyes/first-day-of-my-life-chords-154240",
+    "name": "Bright Eyes - First Day Of My Life (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bright Eyes"
+    },
+    "datePublished": "2004-12-27T19:00:00-05:00",
+    "dateModified": "2024-01-12T10:45:14-05:00",
+    "commentCount": 106,
+    "musicalKey": "C"
+}

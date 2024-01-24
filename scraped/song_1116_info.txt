@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/because-he-lives-chords-1085979",
+    "name": "Misc Praise Songs - Because He Lives (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Praise Songs"
+    },
+    "datePublished": "2011-08-30T20:00:01-04:00",
+    "dateModified": "2018-04-02T07:12:01-04:00",
+    "commentCount": 14,
+    "musicalKey": "G"
+}

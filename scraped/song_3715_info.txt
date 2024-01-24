@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/foo-fighters/wheels-chords-894460",
+    "name": "Foo Fighters - Wheels (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Foo Fighters"
+    },
+    "datePublished": "2009-11-19T19:00:01-05:00",
+    "dateModified": "2021-02-02T14:15:38-05:00",
+    "commentCount": 23,
+    "musicalKey": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paul-simon/50-ways-to-leave-your-lover-chords-1507685",
+    "name": "Paul Simon - 50 Ways To Leave Your Lover (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Paul Simon"
+    },
+    "datePublished": "2014-08-06T04:27:24-04:00",
+    "dateModified": "2021-05-31T17:47:11-04:00",
+    "commentCount": 30,
+    "musicalKey": "Em"
+}

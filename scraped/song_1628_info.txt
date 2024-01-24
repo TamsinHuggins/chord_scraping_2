@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joan-osborne/one-of-us-chords-1051018",
+    "name": "Joan Osborne - One Of Us (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Joan Osborne"
+    },
+    "datePublished": "2011-04-28T20:00:01-04:00",
+    "dateModified": "2022-06-25T21:02:41-04:00",
+    "commentCount": 8
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/garth-brooks/if-tomorrow-never-comes-chords-62607",
+    "name": "Garth Brooks - If Tomorrow Never Comes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Garth Brooks"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-12-10T11:56:34-05:00",
+    "commentCount": 13
+}

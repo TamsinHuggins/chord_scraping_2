@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/my-iron-lung-chords-1481117",
+    "name": "Radiohead - My Iron Lung (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Radiohead"
+    },
+    "datePublished": "2014-05-01T23:36:35-04:00",
+    "dateModified": "2021-02-24T17:21:28-05:00",
+    "commentCount": 13
+}

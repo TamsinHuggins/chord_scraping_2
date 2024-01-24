@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/great-is-thy-faithfulness-chords-1013215",
+    "name": "Misc Praise Songs - Great Is Thy Faithfulness (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Praise Songs"
+    },
+    "datePublished": "2010-12-21T19:00:01-05:00",
+    "dateModified": "2019-09-05T20:22:25-04:00",
+    "commentCount": 27
+}

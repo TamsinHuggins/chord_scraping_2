@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adele/skyfall-chords-1186720",
+    "name": "Adele - Skyfall (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Adele"
+    },
+    "datePublished": "2012-10-07T20:00:01-04:00",
+    "dateModified": "2016-04-11T13:30:03-04:00",
+    "commentCount": 27
+}

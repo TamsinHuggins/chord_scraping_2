@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/edwin-mccain/ill-be-chords-332557",
+    "name": "Edwin Mccain - Ill Be (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Edwin McCain"
+    },
+    "datePublished": "2006-02-12T19:00:01-05:00",
+    "dateModified": "2023-03-15T12:28:54-04:00",
+    "commentCount": 25
+}

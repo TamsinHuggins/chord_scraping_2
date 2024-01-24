@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laura-branigan/self-control-chords-660754",
+    "name": "Laura Branigan - Self Control (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laura Branigan"
+    },
+    "datePublished": "2008-04-03T20:00:01-04:00",
+    "dateModified": "2016-07-15T10:59:28-04:00",
+    "commentCount": 10
+}

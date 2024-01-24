@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adele/i-drink-wine-chords-3951020",
+    "name": "Adele - I Drink Wine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Adele"
+    },
+    "datePublished": "2021-11-15T14:31:47-05:00",
+    "dateModified": "2022-01-13T20:24:01-05:00",
+    "commentCount": 14
+}

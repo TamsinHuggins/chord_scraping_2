@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mac-demarco/still-beating-chords-2002543",
+    "name": "Mac Demarco - Still Beating (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Mac DeMarco"
+    },
+    "datePublished": "2017-05-22T05:40:42-04:00",
+    "dateModified": "2018-03-21T11:35:35-04:00",
+    "commentCount": 21,
+    "musicalKey": "F"
+}

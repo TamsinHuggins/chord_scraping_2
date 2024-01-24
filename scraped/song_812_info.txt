@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/basket-case-chords-104038",
+    "name": "Green Day - Basket Case (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2004-02-08T19:00:00-05:00",
+    "dateModified": "2018-09-29T11:21:40-04:00",
+    "commentCount": 50
+}

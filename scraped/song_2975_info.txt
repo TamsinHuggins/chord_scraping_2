@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/faye-webster/right-side-of-my-neck-chords-3254279",
+    "name": "Faye Webster - Right Side Of My Neck (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Faye Webster"
+    },
+    "datePublished": "2020-07-19T04:45:21-04:00",
+    "dateModified": "2022-09-08T21:49:56-04:00",
+    "commentCount": 5,
+    "musicalKey": "Db"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/corinne-bailey-rae/put-your-records-on-chords-1079862",
+    "name": "Corinne Bailey Rae - Put Your Records On (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Corinne Bailey Rae"
+    },
+    "datePublished": "2011-07-31T20:00:01-04:00",
+    "dateModified": "2020-07-18T09:13:23-04:00",
+    "commentCount": 68,
+    "musicalKey": "A"
+}

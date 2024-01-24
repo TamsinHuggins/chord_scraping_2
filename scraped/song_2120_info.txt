@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/peter-paul-and-mary/where-have-all-the-flowers-gone-chords-383230",
+    "name": "Peter, Paul And Mary - Where Have All The Flowers Gone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Peter, Paul and Mary"
+    },
+    "datePublished": "2006-06-29T20:00:01-04:00",
+    "dateModified": "2016-05-16T13:53:36-04:00",
+    "commentCount": 39
+}

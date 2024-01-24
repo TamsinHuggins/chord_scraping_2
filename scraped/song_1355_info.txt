@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linda-ronstadt/long-long-time-chords-799262",
+    "name": "Linda Ronstadt - Long Long Time (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Linda Ronstadt"
+    },
+    "datePublished": "2009-03-06T19:00:01-05:00",
+    "dateModified": "2023-02-01T15:51:46-05:00",
+    "commentCount": 8,
+    "musicalKey": "F#m"
+}

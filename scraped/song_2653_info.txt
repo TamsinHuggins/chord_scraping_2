@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/warren-zeiders/ride-the-lightning-chords-3766925",
+    "name": "Warren Zeiders - Ride The Lightning (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Warren Zeiders"
+    },
+    "datePublished": "2021-06-25T11:02:10-04:00",
+    "dateModified": "2022-05-17T12:39:20-04:00",
+    "commentCount": 15
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sovereign-grace-music/behold-our-god-chords-1144792",
+    "name": "Sovereign Grace Music - Behold Our God (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sovereign Grace Music"
+    },
+    "datePublished": "2012-04-08T20:00:01-04:00",
+    "dateModified": "2017-05-18T00:41:09-04:00",
+    "commentCount": 7
+}

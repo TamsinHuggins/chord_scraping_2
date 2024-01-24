@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rick-springfield/jessies-girl-chords-1421203",
+    "name": "Rick Springfield - Jessies Girl (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rick Springfield"
+    },
+    "datePublished": "2013-09-26T20:00:01-04:00",
+    "dateModified": "2016-05-12T11:47:05-04:00",
+    "commentCount": 2
+}

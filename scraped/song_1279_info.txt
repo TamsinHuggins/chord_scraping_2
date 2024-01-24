@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phil-wickham/living-hope-chords-2355357",
+    "name": "Phil Wickham - Living Hope (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Phil Wickham"
+    },
+    "datePublished": "2018-03-30T09:57:25-04:00",
+    "dateModified": "2020-05-31T09:58:02-04:00",
+    "commentCount": 25,
+    "musicalKey": "Eb"
+}

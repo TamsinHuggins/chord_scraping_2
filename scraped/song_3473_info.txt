@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elliott-smith/ballad-of-big-nothing-chords-1054254",
+    "name": "Elliott Smith - Ballad Of Big Nothing (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elliott Smith"
+    },
+    "datePublished": "2011-05-10T20:00:01-04:00",
+    "dateModified": "2019-02-08T14:23:40-05:00",
+    "commentCount": 10
+}

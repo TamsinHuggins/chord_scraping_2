@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/beauty-and-the-beast-theme-chords-716788",
+    "name": "Misc Cartoons - Beauty And The Beast Theme (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2008-08-14T20:00:01-04:00",
+    "dateModified": "2023-06-15T23:35:34-04:00",
+    "commentCount": 13
+}

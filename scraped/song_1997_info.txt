@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-lennon/working-class-hero-chords-9344",
+    "name": "John Lennon - Working Class Hero (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Lennon"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2021-12-28T12:37:06-05:00",
+    "commentCount": 39,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tyler-childers/charleston-girl-chords-2042817",
+    "name": "Tyler Childers - Charleston Girl (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Tyler Childers"
+    },
+    "datePublished": "2017-06-13T17:57:23-04:00",
+    "dateModified": "2020-08-08T21:00:09-04:00",
+    "commentCount": 16
+}

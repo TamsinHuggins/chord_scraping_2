@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/walk-the-moon/shut-up-and-dance-chords-1673689",
+    "name": "Walk The Moon - Shut Up And Dance (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "WALK THE MOON"
+    },
+    "datePublished": "2014-10-24T05:26:42-04:00",
+    "dateModified": "2020-09-26T22:59:45-04:00",
+    "commentCount": 20
+}

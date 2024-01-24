@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/danger-dan/das-ist-alles-von-der-kunstfreiheit-gedeckt-chords-3631922",
+    "name": "Danger Dan - Das Ist Alles Von Der Kunstfreiheit Gedeckt (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Danger Dan"
+    },
+    "datePublished": "2021-03-27T10:59:43-04:00",
+    "dateModified": "2021-04-22T18:05:25-04:00",
+    "commentCount": 8,
+    "musicalKey": "G#m"
+}

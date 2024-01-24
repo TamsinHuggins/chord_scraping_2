@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-dubliners/the-wild-rover-chords-52968",
+    "name": "The Dubliners - The Wild Rover (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Dubliners"
+    },
+    "datePublished": "2003-06-02T20:00:00-04:00",
+    "dateModified": "2021-03-19T15:41:12-04:00",
+    "commentCount": 15,
+    "musicalKey": "G"
+}

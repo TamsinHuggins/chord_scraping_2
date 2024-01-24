@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/townes-van-zandt/ill-be-here-in-the-morning-chords-1954205",
+    "name": "Townes Van Zandt - Ill Be Here In The Morning (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Townes Van Zandt"
+    },
+    "datePublished": "2017-02-26T06:38:59-05:00",
+    "dateModified": "2017-02-26T17:54:15-05:00",
+    "commentCount": 8
+}

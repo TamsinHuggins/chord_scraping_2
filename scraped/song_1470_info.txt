@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/peter-paul-and-mary/puff-the-magic-dragon-chords-7412",
+    "name": "Peter, Paul And Mary - Puff The Magic Dragon (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Peter, Paul and Mary"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-10-07T19:36:08-04:00",
+    "commentCount": 9
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tyler-childers/rock-salt-and-nails-chords-2076069",
+    "name": "Tyler Childers - Rock Salt And Nails (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tyler Childers"
+    },
+    "datePublished": "2017-07-03T05:07:11-04:00",
+    "dateModified": "2020-02-17T19:16:58-05:00",
+    "commentCount": 9
+}

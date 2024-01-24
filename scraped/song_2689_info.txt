@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/henri-salvador/jardin-dhiver-chords-2202243",
+    "name": "Henri Salvador - Jardin Dhiver (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Henri Salvador"
+    },
+    "datePublished": "2017-10-14T05:04:21-04:00",
+    "dateModified": "2018-12-09T10:04:07-05:00",
+    "commentCount": 2
+}

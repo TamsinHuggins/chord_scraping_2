@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/libianca/people-chords-4584017",
+    "name": "Libianca - People (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Libianca"
+    },
+    "datePublished": "2022-12-31T00:06:49-05:00",
+    "dateModified": "2022-12-31T14:54:50-05:00",
+    "commentCount": 1
+}

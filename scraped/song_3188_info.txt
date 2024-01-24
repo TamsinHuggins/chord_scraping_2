@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eddie-cochran/summertime-blues-chords-1053542",
+    "name": "Eddie Cochran - Summertime Blues (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eddie Cochran"
+    },
+    "datePublished": "2011-05-10T20:00:01-04:00",
+    "dateModified": "2022-11-14T22:26:09-05:00",
+    "commentCount": 9
+}

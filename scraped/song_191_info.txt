@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adele/all-i-ask-chords-1782459",
+    "name": "Adele - All I Ask (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Adele"
+    },
+    "datePublished": "2015-11-17T14:23:27-05:00",
+    "dateModified": "2020-02-11T12:44:39-05:00",
+    "commentCount": 38,
+    "musicalKey": "C"
+}

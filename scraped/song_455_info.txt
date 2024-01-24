@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-band/the-weight-chords-61592",
+    "name": "The Band - The Weight (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Band"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2019-09-20T14:33:48-04:00",
+    "commentCount": 86,
+    "musicalKey": "A"
+}

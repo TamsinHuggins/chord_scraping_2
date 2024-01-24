@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/aloe-blacc/i-need-a-dollar-chords-940222",
+    "name": "Aloe Blacc - I Need A Dollar (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Aloe Blacc"
+    },
+    "datePublished": "2010-04-13T20:00:01-04:00",
+    "dateModified": "2016-04-25T12:56:25-04:00",
+    "commentCount": 9
+}

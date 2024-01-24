@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jeff-buckley/hallelujah-chords-27336",
+    "name": "Jeff Buckley - Hallelujah (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Jeff Buckley"
+    },
+    "datePublished": "2002-04-09T20:00:00-04:00",
+    "dateModified": "2018-10-09T10:47:31-04:00",
+    "commentCount": 68,
+    "musicalKey": "Db"
+}

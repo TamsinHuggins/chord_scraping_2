@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/deftones/please-please-please-let-me-get-what-i-want-chords-4016884",
+    "name": "Deftones - Please Please Please Let Me Get What I Want (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Deftones"
+    },
+    "datePublished": "2022-01-06T00:48:46-05:00",
+    "dateModified": "2022-01-09T00:36:38-05:00",
+    "commentCount": 0,
+    "musicalKey": "D"
+}

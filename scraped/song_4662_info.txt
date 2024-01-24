@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/conan-gray/people-watching-chords-3792962",
+    "name": "Conan Gray - People Watching (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Conan Gray"
+    },
+    "datePublished": "2021-07-15T03:12:23-04:00",
+    "dateModified": "2022-01-18T03:20:14-05:00",
+    "commentCount": 6,
+    "musicalKey": "Dm"
+}

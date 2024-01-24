@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/now-and-then-chords-5013544",
+    "name": "The Beatles - Now And Then (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2023-11-02T10:39:55-04:00",
+    "dateModified": "2023-11-10T02:58:20-05:00",
+    "commentCount": 44,
+    "musicalKey": "Am"
+}

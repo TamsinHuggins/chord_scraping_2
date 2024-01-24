@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/anuv-jain/gul-chords-3794159",
+    "name": "Anuv Jain - Gul (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Anuv Jain"
+    },
+    "datePublished": "2021-07-15T23:10:32-04:00",
+    "dateModified": "2021-07-17T01:49:36-04:00",
+    "commentCount": 4,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bethel-music/it-is-well-chords-1478340",
+    "name": "Bethel Music - It Is Well (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bethel Music"
+    },
+    "datePublished": "2014-04-22T00:32:32-04:00",
+    "dateModified": "2019-09-24T19:20:26-04:00",
+    "commentCount": 30
+}

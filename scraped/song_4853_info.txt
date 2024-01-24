@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/roberta-flack/the-first-time-ever-i-saw-your-face-chords-1188265",
+    "name": "Roberta Flack - The First Time Ever I Saw Your Face (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Roberta Flack"
+    },
+    "datePublished": "2012-10-14T20:00:01-04:00",
+    "dateModified": "2020-10-05T13:42:06-04:00",
+    "commentCount": 10,
+    "musicalKey": "Dm"
+}

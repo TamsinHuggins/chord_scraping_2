@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shawn-mendes/mercy-chords-1868114",
+    "name": "Shawn Mendes - Mercy (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Shawn Mendes"
+    },
+    "datePublished": "2016-08-18T03:16:58-04:00",
+    "dateModified": "2020-12-20T05:36:55-05:00",
+    "commentCount": 50,
+    "musicalKey": "Em"
+}

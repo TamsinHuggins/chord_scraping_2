@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-lumineers/flowers-in-your-hair-chords-1148201",
+    "name": "The Lumineers - Flowers In Your Hair (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Lumineers"
+    },
+    "datePublished": "2012-04-18T20:00:01-04:00",
+    "dateModified": "2023-07-04T20:47:02-04:00",
+    "commentCount": 28
+}

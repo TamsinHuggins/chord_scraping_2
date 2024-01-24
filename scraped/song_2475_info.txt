@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sabin-rai/sundarta-ko-timi-chords-3816470",
+    "name": "Sabin Rai - Sundarta Ko Timi (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sabin Rai"
+    },
+    "datePublished": "2021-08-02T01:23:47-04:00",
+    "dateModified": "2021-08-03T02:15:34-04:00",
+    "commentCount": 0,
+    "musicalKey": "G"
+}

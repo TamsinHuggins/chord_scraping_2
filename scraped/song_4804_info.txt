@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/the-masterplan-chords-2124917",
+    "name": "Oasis - The Masterplan (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Oasis"
+    },
+    "datePublished": "2017-08-28T04:58:13-04:00",
+    "dateModified": "2023-09-27T14:07:27-04:00",
+    "commentCount": 2
+}

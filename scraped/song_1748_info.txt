@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/roberta-flack/killing-me-softly-with-his-song-chords-68506",
+    "name": "Roberta Flack - Killing Me Softly With His Song (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Fm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Roberta Flack"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-07-28T17:07:12-04:00",
+    "commentCount": 44,
+    "musicalKey": "Fm"
+}

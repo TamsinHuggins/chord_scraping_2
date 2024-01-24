@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sophie-ellis-bextor/murder-on-the-dancefloor-chords-809382",
+    "name": "Sophie Ellis-Bextor - Murder On The Dancefloor (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sophie Ellis-Bextor"
+    },
+    "datePublished": "2009-04-03T20:00:01-04:00",
+    "dateModified": "2016-12-16T07:59:10-05:00",
+    "commentCount": 2
+}

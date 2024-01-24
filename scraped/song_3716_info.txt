@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simple-plan/perfect-chords-512954",
+    "name": "Simple Plan - Perfect (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Simple Plan"
+    },
+    "datePublished": "2007-05-07T20:00:01-04:00",
+    "dateModified": "2016-06-09T16:18:42-04:00",
+    "commentCount": 18
+}

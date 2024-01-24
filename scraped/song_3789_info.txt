@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/israel-new-breed/alpha-and-omega-chords-2635242",
+    "name": "Israel & New Breed - Alpha And Omega (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Israel &amp; New Breed"
+    },
+    "datePublished": "2019-03-17T09:00:04-04:00",
+    "dateModified": "2019-03-19T15:43:10-04:00",
+    "commentCount": 1
+}

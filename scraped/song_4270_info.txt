@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/twisted-sister/were-not-gonna-take-it-chords-1163174",
+    "name": "Twisted Sister - Were Not Gonna Take It (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Twisted Sister"
+    },
+    "datePublished": "2012-06-24T20:00:01-04:00",
+    "dateModified": "2016-10-21T21:30:05-04:00",
+    "commentCount": 9
+}

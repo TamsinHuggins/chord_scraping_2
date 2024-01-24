@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/one-direction/one-thing-chords-1109844",
+    "name": "One Direction - One Thing (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "One Direction"
+    },
+    "datePublished": "2011-11-20T19:00:01-05:00",
+    "dateModified": "2020-07-24T14:03:26-04:00",
+    "commentCount": 46,
+    "musicalKey": "D"
+}

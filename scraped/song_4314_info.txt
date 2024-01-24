@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-taylor/country-road-chords-86666",
+    "name": "James Taylor - Country Road (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "James Taylor"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2019-11-08T08:46:53-05:00",
+    "commentCount": 17
+}

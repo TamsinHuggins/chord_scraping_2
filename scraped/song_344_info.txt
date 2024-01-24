@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/stick-season-chords-4979680",
+    "name": "Olivia Rodrigo - Stick Season (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2023-10-05T22:13:07-04:00",
+    "dateModified": "2023-10-06T10:28:05-04:00",
+    "commentCount": 2,
+    "musicalKey": "C"
+}

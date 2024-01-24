@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eurythmics/here-comes-the-rain-again-chords-1061737",
+    "name": "Eurythmics - Here Comes The Rain Again (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eurythmics"
+    },
+    "datePublished": "2011-06-06T20:00:01-04:00",
+    "dateModified": "2023-08-10T18:10:43-04:00",
+    "commentCount": 7
+}

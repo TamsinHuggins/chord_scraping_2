@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rex-orange-county/happiness-chords-2162363",
+    "name": "Rex Orange County - Happiness (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rex Orange County"
+    },
+    "datePublished": "2017-09-25T05:18:13-04:00",
+    "dateModified": "2023-10-16T17:03:03-04:00",
+    "commentCount": 15,
+    "musicalKey": "F"
+}

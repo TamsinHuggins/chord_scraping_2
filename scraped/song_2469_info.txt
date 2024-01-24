@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-fender/hypersonic-missiles-chords-2627709",
+    "name": "Sam Fender - Hypersonic Missiles (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Fender"
+    },
+    "datePublished": "2019-03-09T05:16:53-05:00",
+    "dateModified": "2022-03-21T20:16:52-04:00",
+    "commentCount": 15,
+    "musicalKey": "E"
+}

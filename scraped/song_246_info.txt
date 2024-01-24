@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/the-boxer-chords-83970",
+    "name": "Simon & Garfunkel - The Boxer (chords)",
+    "text": "Difficulty: intermediate Tuning: Eb Ab Db Gb Bb Eb Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Simon &amp; Garfunkel"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-08-24T05:13:21-04:00",
+    "commentCount": 46,
+    "musicalKey": "B"
+}

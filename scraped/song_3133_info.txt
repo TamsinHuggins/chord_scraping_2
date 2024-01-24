@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/new-radicals/you-get-what-you-give-chords-1056685",
+    "name": "New Radicals - You Get What You Give (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "New Radicals"
+    },
+    "datePublished": "2011-05-16T20:00:01-04:00",
+    "dateModified": "2021-10-04T19:28:59-04:00",
+    "commentCount": 10,
+    "musicalKey": "A"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gipsy-kings/volare-chords-632498",
+    "name": "Gipsy Kings - Volare (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gipsy Kings"
+    },
+    "datePublished": "2008-01-29T19:00:01-05:00",
+    "dateModified": "2023-02-25T12:34:34-05:00",
+    "commentCount": 7
+}

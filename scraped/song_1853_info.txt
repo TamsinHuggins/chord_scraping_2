@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pearl-jam/alive-chords-157086",
+    "name": "Pearl Jam - Alive (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pearl Jam"
+    },
+    "datePublished": "2005-01-10T19:00:00-05:00",
+    "dateModified": "2016-05-06T12:47:08-04:00",
+    "commentCount": 9
+}

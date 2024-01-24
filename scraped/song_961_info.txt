@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/america/sister-golden-hair-chords-39425",
+    "name": "America - Sister Golden Hair (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "America"
+    },
+    "datePublished": "2002-11-18T19:00:00-05:00",
+    "dateModified": "2016-05-12T11:32:47-04:00",
+    "commentCount": 63
+}

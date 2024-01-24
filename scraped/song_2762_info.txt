@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/that-funny-feeling-chords-3896612",
+    "name": "Phoebe Bridgers - That Funny Feeling (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Phoebe Bridgers"
+    },
+    "datePublished": "2021-10-02T23:04:35-04:00",
+    "dateModified": "2022-12-29T06:07:31-05:00",
+    "commentCount": 5
+}

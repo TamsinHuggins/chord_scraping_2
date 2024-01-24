@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/oasis/dont-look-back-in-anger-chords-6097",
-    "name": "Oasis - Dont Look Back In Anger (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/something-chords-335727",
+    "name": "The Beatles - Something (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
     "composer": {
         "@type": "Person",
-        "name": "Oasis"
+        "name": "The Beatles"
     },
-    "datePublished": "2001-10-30T19:00:00-05:00",
-    "dateModified": "2023-10-20T14:19:08-04:00",
-    "commentCount": 212,
+    "datePublished": "2006-02-21T19:00:01-05:00",
+    "dateModified": "2021-10-28T11:11:53-04:00",
+    "commentCount": 76,
     "musicalKey": "C"
 }

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/do-it-again-chords-1873702",
+    "name": "Elevation Worship - Do It Again (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2016-09-09T05:30:59-04:00",
+    "dateModified": "2020-03-17T18:10:37-04:00",
+    "commentCount": 31,
+    "musicalKey": "Bb"
+}

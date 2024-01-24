@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/aladdin-speechless-chords-2708337",
+    "name": "Misc Soundtrack - Aladdin - Speechless (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2019-05-28T09:43:26-04:00",
+    "dateModified": "2020-02-04T14:59:22-05:00",
+    "commentCount": 30,
+    "musicalKey": "F#m"
+}

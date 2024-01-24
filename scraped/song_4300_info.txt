@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/all-time-low/dear-maria-count-me-in-chords-586075",
+    "name": "All Time Low - Dear Maria Count Me In (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "All Time Low"
+    },
+    "datePublished": "2007-10-07T20:00:01-04:00",
+    "dateModified": "2016-05-12T09:30:37-04:00",
+    "commentCount": 29
+}

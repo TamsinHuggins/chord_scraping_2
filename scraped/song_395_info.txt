@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/oklahoma-smokeshow-chords-4272574",
+    "name": "Zach Bryan - Oklahoma Smokeshow (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2022-07-15T09:57:51-04:00",
+    "dateModified": "2023-07-27T21:09:40-04:00",
+    "commentCount": 6,
+    "musicalKey": "Ab"
+}

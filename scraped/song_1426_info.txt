@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sabrina-carpenter/feather-chords-4688417",
+    "name": "Sabrina Carpenter - Feather (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sabrina Carpenter"
+    },
+    "datePublished": "2023-03-16T19:43:23-04:00",
+    "dateModified": "2023-03-16T23:43:23-04:00",
+    "commentCount": 1
+}

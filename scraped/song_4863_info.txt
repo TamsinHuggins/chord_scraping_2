@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/van-morrison/brown-eyed-girl-chords-8332",
+    "name": "Van Morrison - Brown Eyed Girl (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Van Morrison"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2018-09-17T12:26:12-04:00",
+    "commentCount": 42,
+    "musicalKey": "G"
+}

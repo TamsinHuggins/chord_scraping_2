@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wyatt-flores/please-dont-go-chords-4607000",
+    "name": "Wyatt Flores - Please Dont Go (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Wyatt Flores"
+    },
+    "datePublished": "2023-01-17T08:28:16-05:00",
+    "dateModified": "2023-03-20T23:16:51-04:00",
+    "commentCount": 1
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/golden-earring/radar-love-chords-1408161",
+    "name": "Golden Earring - Radar Love (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Golden Earring"
+    },
+    "datePublished": "2013-07-31T20:00:01-04:00",
+    "dateModified": "2020-02-13T00:29:29-05:00",
+    "commentCount": 15
+}

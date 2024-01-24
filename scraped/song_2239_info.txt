@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-kiwanuka/cold-little-heart-chords-1889941",
+    "name": "Michael Kiwanuka - Cold Little Heart (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Kiwanuka"
+    },
+    "datePublished": "2016-10-13T15:43:45-04:00",
+    "dateModified": "2018-01-16T10:30:57-05:00",
+    "commentCount": 24
+}

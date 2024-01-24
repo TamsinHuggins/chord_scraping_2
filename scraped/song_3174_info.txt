@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kaleo/i-cant-go-on-without-you-chords-1774845",
+    "name": "Kaleo - I Cant Go On Without You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Kaleo"
+    },
+    "datePublished": "2015-10-26T23:56:29-04:00",
+    "dateModified": "2020-12-27T03:12:59-05:00",
+    "commentCount": 25,
+    "musicalKey": "Eb"
+}

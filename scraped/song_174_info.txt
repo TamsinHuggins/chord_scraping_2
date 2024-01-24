@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/lacy-chords-4945474",
+    "name": "Olivia Rodrigo - Lacy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2023-09-07T16:47:18-04:00",
+    "dateModified": "2023-09-11T18:27:45-04:00",
+    "commentCount": 10,
+    "musicalKey": "Eb"
+}

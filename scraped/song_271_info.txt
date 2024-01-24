@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sunkissed-lola/pasilyo-chords-4460201",
+    "name": "Sunkissed Lola - Pasilyo (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "SunKissed Lola"
+    },
+    "datePublished": "2022-12-13T03:38:57-05:00",
+    "dateModified": "2022-12-22T16:17:00-05:00",
+    "commentCount": 8,
+    "musicalKey": "D"
+}

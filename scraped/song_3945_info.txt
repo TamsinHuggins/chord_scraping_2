@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/crying-lightning-chords-875366",
+    "name": "Arctic Monkeys - Crying Lightning (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2009-09-22T20:00:01-04:00",
+    "dateModified": "2020-08-29T10:52:13-04:00",
+    "commentCount": 15
+}

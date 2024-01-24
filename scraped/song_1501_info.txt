@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linkin-park/what-ive-done-chords-746410",
+    "name": "Linkin Park - What Ive Done (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Linkin Park"
+    },
+    "datePublished": "2008-10-21T20:00:01-04:00",
+    "dateModified": "2017-07-21T13:25:04-04:00",
+    "commentCount": 56,
+    "musicalKey": "Em"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-seger-the-silver-bullet-band/turn-the-page-chords-2166139",
+    "name": "Bob Seger & The Silver Bullet Band - Turn The Page (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Seger &amp; The Silver Bullet Band"
+    },
+    "datePublished": "2017-09-27T02:26:48-04:00",
+    "dateModified": "2021-03-31T12:28:58-04:00",
+    "commentCount": 28,
+    "musicalKey": "Em"
+}

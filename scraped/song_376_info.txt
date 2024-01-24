@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/d4vd/here-with-me-chords-4355918",
+    "name": "D4Vd - Here With Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "d4vd"
+    },
+    "datePublished": "2022-09-19T21:28:28-04:00",
+    "dateModified": "2023-01-12T09:34:28-05:00",
+    "commentCount": 14,
+    "musicalKey": "D"
+}

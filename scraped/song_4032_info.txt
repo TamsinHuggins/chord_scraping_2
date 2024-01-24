@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lissie/when-im-alone-chords-948988",
+    "name": "Lissie - When Im Alone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Lissie"
+    },
+    "datePublished": "2010-05-12T20:00:01-04:00",
+    "dateModified": "2016-11-14T12:33:50-05:00",
+    "commentCount": 15
+}

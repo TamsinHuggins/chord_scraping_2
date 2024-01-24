@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/dear-prudence-chords-17240",
+    "name": "The Beatles - Dear Prudence (chords)",
+    "text": "Difficulty:  Tuning: D A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-07-03T06:06:55-04:00",
+    "commentCount": 9
+}

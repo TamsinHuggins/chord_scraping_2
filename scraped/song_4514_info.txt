@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/a-boy-named-sue-chords-501978",
+    "name": "Johnny Cash - A Boy Named Sue (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2007-04-12T20:00:01-04:00",
+    "dateModified": "2018-12-04T11:28:10-05:00",
+    "commentCount": 20,
+    "musicalKey": "Bb"
+}

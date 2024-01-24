@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-children/baa-baa-black-sheep-chords-1885973",
+    "name": "Misc Children - Baa Baa Black Sheep (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Children"
+    },
+    "datePublished": "2016-10-09T15:53:09-04:00",
+    "dateModified": "2020-12-09T11:02:25-05:00",
+    "commentCount": 6,
+    "musicalKey": "G"
+}

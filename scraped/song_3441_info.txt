@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/dirty-dancing-ive-had-the-time-of-my-life-chords-1087634",
+    "name": "Misc Soundtrack - Dirty Dancing - Ive Had The Time Of My Life (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2011-08-28T20:00:01-04:00",
+    "dateModified": "2022-06-26T19:47:48-04:00",
+    "commentCount": 9,
+    "musicalKey": "E"
+}

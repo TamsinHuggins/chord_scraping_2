@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-seger-the-silver-bullet-band/against-the-wind-chords-1124006",
+    "name": "Bob Seger & The Silver Bullet Band - Against The Wind (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Seger &amp; The Silver Bullet Band"
+    },
+    "datePublished": "2012-01-16T09:25:16-05:00",
+    "dateModified": "2023-08-10T17:53:52-04:00",
+    "commentCount": 7
+}

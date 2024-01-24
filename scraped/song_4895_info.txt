@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oasis/champagne-supernova-chords-6091",
+    "name": "Oasis - Champagne Supernova (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Oasis"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2023-11-10T20:53:35-05:00",
+    "commentCount": 12,
+    "musicalKey": "A"
+}

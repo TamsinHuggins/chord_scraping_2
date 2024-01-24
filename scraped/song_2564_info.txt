@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hozier/eat-your-young-chords-4688627",
+    "name": "Hozier - Eat Your Young (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Hozier"
+    },
+    "datePublished": "2023-03-17T00:41:31-04:00",
+    "dateModified": "2023-03-17T22:26:00-04:00",
+    "commentCount": 10,
+    "musicalKey": "Gm"
+}

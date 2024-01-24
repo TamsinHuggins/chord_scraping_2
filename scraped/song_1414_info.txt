@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/west-coast-chords-1476802",
+    "name": "Lana Del Rey - West Coast (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2014-04-18T03:53:18-04:00",
+    "dateModified": "2016-05-11T11:47:58-04:00",
+    "commentCount": 19
+}

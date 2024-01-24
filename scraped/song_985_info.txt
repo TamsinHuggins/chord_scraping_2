@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-bowie/moonage-daydream-chords-526295",
+    "name": "David Bowie - Moonage Daydream (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Bowie"
+    },
+    "datePublished": "2007-05-31T20:00:01-04:00",
+    "dateModified": "2021-09-17T08:45:29-04:00",
+    "commentCount": 37
+}

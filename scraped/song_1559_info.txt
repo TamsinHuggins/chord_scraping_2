@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/morgan-wallen/whiskey-glasses-chords-1900851",
+    "name": "Morgan Wallen - Whiskey Glasses (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: Gb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Morgan Wallen"
+    },
+    "datePublished": "2016-11-04T08:37:59-04:00",
+    "dateModified": "2021-03-09T04:11:08-05:00",
+    "commentCount": 16,
+    "musicalKey": "Gb"
+}

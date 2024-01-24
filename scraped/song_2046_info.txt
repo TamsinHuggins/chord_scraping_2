@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bon-iver/for-emma-chords-822704",
+    "name": "Bon Iver - For Emma (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bon Iver"
+    },
+    "datePublished": "2009-05-11T20:00:01-04:00",
+    "dateModified": "2017-09-12T18:29:34-04:00",
+    "commentCount": 9
+}

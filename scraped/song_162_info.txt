@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gary-jules/mad-world-chords-97039",
+    "name": "Gary Jules - Mad World (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Fm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Gary Jules"
+    },
+    "datePublished": "2003-12-09T19:00:00-05:00",
+    "dateModified": "2020-10-20T02:42:57-04:00",
+    "commentCount": 117,
+    "musicalKey": "Fm"
+}

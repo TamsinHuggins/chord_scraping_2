@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-1975/sex-chords-1238896",
+    "name": "The 1975 - Sex (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "The 1975"
+    },
+    "datePublished": "2013-04-15T20:00:01-04:00",
+    "dateModified": "2018-10-26T22:13:03-04:00",
+    "commentCount": 18
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-television/friends-smelly-cat-chords-62745",
+    "name": "Misc Television - Friends - Smelly Cat (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Television"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-05-28T16:04:23-04:00",
+    "commentCount": 14,
+    "musicalKey": "F"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brian-hyland/sealed-with-a-kiss-chords-1052069",
+    "name": "Brian Hyland - Sealed With A Kiss (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Brian Hyland"
+    },
+    "datePublished": "2011-05-09T20:00:01-04:00",
+    "dateModified": "2023-07-05T19:32:15-04:00",
+    "commentCount": 20
+}

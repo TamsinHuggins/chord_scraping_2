@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fun-/we-are-young-chords-1114550",
+    "name": "Fun. - We Are Young (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Fun."
+    },
+    "datePublished": "2011-12-13T19:00:01-05:00",
+    "dateModified": "2021-03-11T15:38:22-05:00",
+    "commentCount": 25,
+    "musicalKey": "F"
+}

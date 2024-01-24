@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stone-sour/bother-chords-42206",
+    "name": "Stone Sour - Bother (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Stone Sour"
+    },
+    "datePublished": "2002-12-29T19:00:00-05:00",
+    "dateModified": "2021-10-25T09:02:42-04:00",
+    "commentCount": 32
+}

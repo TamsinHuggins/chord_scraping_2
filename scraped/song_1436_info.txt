@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-united/lead-me-to-the-cross-chords-492449",
+    "name": "Hillsong United - Lead Me To The Cross (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong United"
+    },
+    "datePublished": "2007-03-25T20:00:01-04:00",
+    "dateModified": "2019-11-01T08:43:12-04:00",
+    "commentCount": 25
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-jackson/thriller-chords-212734",
+    "name": "Michael Jackson - Thriller (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Jackson"
+    },
+    "datePublished": "2005-09-18T20:00:00-04:00",
+    "dateModified": "2019-12-12T10:42:48-05:00",
+    "commentCount": 30,
+    "musicalKey": "C#m"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/first-aid-kit/emmylou-chords-1125712",
+    "name": "First Aid Kit - Emmylou (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "First Aid Kit"
+    },
+    "datePublished": "2012-01-24T19:00:01-05:00",
+    "dateModified": "2020-07-22T03:03:27-04:00",
+    "commentCount": 23
+}

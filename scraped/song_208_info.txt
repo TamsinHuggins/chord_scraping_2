@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/praise-chords-4780226",
+    "name": "Elevation Worship - Praise (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2023-05-19T01:47:59-04:00",
+    "dateModified": "2023-10-17T19:58:55-04:00",
+    "commentCount": 7,
+    "musicalKey": "A"
+}

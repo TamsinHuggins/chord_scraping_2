@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gungor/beautiful-things-chords-974919",
+    "name": "Gungor - Beautiful Things (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gungor"
+    },
+    "datePublished": "2010-08-03T20:00:01-04:00",
+    "dateModified": "2016-05-12T11:55:47-04:00",
+    "commentCount": 10
+}

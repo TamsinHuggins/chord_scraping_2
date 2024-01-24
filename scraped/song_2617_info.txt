@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cyndi-lauper/true-colors-chords-582222",
+    "name": "Cyndi Lauper - True Colors (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cyndi Lauper"
+    },
+    "datePublished": "2007-09-26T20:00:01-04:00",
+    "dateModified": "2021-06-27T09:51:23-04:00",
+    "commentCount": 26,
+    "musicalKey": "Am"
+}

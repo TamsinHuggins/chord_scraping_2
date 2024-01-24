@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/swing-low-sweet-chariot-chords-636559",
+    "name": "Misc Traditional - Swing Low Sweet Chariot (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2008-02-06T19:00:01-05:00",
+    "dateModified": "2016-05-20T12:27:05-04:00",
+    "commentCount": 10
+}

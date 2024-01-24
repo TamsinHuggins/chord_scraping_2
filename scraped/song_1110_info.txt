@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/she-calls-me-back-chords-4983721",
+    "name": "Noah Kahan - She Calls Me Back (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2023-10-09T04:45:06-04:00",
+    "dateModified": "2023-10-09T23:29:48-04:00",
+    "commentCount": 0
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/steely-dan/only-a-fool-would-say-that-chords-84143",
+    "name": "Steely Dan - Only A Fool Would Say That (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Steely Dan"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2016-12-23T11:03:44-05:00",
+    "commentCount": 13
+}

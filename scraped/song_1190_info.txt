@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/king-of-kings-chords-2761663",
+    "name": "Hillsong Worship - King Of Kings (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Worship"
+    },
+    "datePublished": "2019-07-12T02:58:33-04:00",
+    "dateModified": "2020-03-18T11:31:52-04:00",
+    "commentCount": 13,
+    "musicalKey": "D"
+}

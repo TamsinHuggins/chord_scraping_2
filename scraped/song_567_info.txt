@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/heart/crazy-on-you-chords-32922",
+    "name": "Heart - Crazy On You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Heart"
+    },
+    "datePublished": "2002-07-11T20:00:00-04:00",
+    "dateModified": "2016-05-12T12:35:40-04:00",
+    "commentCount": 28
+}

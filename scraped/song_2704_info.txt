@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/the-only-living-boy-in-new-york-chords-471042",
+    "name": "Simon & Garfunkel - The Only Living Boy In New York (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Simon &amp; Garfunkel"
+    },
+    "datePublished": "2007-02-08T19:00:01-05:00",
+    "dateModified": "2021-09-06T22:45:56-04:00",
+    "commentCount": 25,
+    "musicalKey": "B"
+}

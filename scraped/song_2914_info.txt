@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brooks-dunn/boot-scootin-boogie-chords-62571",
+    "name": "Brooks & Dunn - Boot Scootin Boogie (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Brooks &amp; Dunn"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-12-29T09:32:51-05:00",
+    "commentCount": 7
+}

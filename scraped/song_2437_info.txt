@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/i-wont-back-down-chords-63362",
+    "name": "Johnny Cash - I Wont Back Down (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-05-07T22:50:13-04:00",
+    "commentCount": 27
+}

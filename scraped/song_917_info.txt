@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/brain-stew-chords-1502149",
+    "name": "Green Day - Brain Stew (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2014-07-14T04:46:05-04:00",
+    "dateModified": "2018-05-18T07:53:24-04:00",
+    "commentCount": 3
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cranberries/sunday-chords-38155",
+    "name": "The Cranberries - Sunday (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cranberries"
+    },
+    "datePublished": "2002-10-28T19:00:00-05:00",
+    "dateModified": "2024-01-03T01:33:50-05:00",
+    "commentCount": 5
+}

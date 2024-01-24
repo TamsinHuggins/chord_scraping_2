@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-chamling-rai/mutu-dekhin-chords-4960711",
+    "name": "John Chamling Rai - Mutu Dekhin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "John Chamling Rai"
+    },
+    "datePublished": "2023-09-20T04:05:02-04:00",
+    "dateModified": "2023-09-23T14:17:20-04:00",
+    "commentCount": 0
+}

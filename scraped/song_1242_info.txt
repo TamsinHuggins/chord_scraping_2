@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kailash-kher/saiyyan-chords-1083872",
+    "name": "Kailash Kher - Saiyyan (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kailash Kher"
+    },
+    "datePublished": "2011-08-15T20:00:01-04:00",
+    "dateModified": "2016-06-16T13:30:39-04:00",
+    "commentCount": 19
+}

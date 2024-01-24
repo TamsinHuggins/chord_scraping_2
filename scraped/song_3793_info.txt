@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/panic-at-the-disco/northern-downpour-chords-655784",
+    "name": "Panic! At The Disco - Northern Downpour (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Panic! At the Disco"
+    },
+    "datePublished": "2008-03-25T20:00:01-04:00",
+    "dateModified": "2019-02-04T19:41:25-05:00",
+    "commentCount": 55
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/daniel-caesar/superpowers-chords-4741094",
+    "name": "Daniel Caesar - Superpowers (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Daniel Caesar"
+    },
+    "datePublished": "2023-04-24T23:07:59-04:00",
+    "dateModified": "2023-04-25T14:10:57-04:00",
+    "commentCount": 0,
+    "musicalKey": "D"
+}

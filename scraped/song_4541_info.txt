@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/sacrifice-chords-978610",
+    "name": "Elton John - Sacrifice (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2010-08-15T20:00:01-04:00",
+    "dateModified": "2023-01-19T18:45:23-05:00",
+    "commentCount": 16
+}

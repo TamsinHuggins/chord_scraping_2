@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nathan-evans/wellerman-chords-3530237",
+    "name": "Nathan Evans - Wellerman (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Nathan Evans"
+    },
+    "datePublished": "2021-01-23T15:21:56-05:00",
+    "dateModified": "2021-03-13T03:39:24-05:00",
+    "commentCount": 20
+}

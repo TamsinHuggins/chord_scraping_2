@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eagles/hotel-california-chords-520827",
+    "name": "Eagles - Hotel California (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eagles"
+    },
+    "datePublished": "2007-05-21T20:00:01-04:00",
+    "dateModified": "2018-08-29T06:21:45-04:00",
+    "commentCount": 49
+}

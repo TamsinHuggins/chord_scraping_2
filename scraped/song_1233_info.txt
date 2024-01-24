@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/sos-chords-18444",
+    "name": "Abba - Sos (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2019-06-14T11:54:52-04:00",
+    "commentCount": 8,
+    "musicalKey": "Dm"
+}

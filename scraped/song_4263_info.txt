@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/i-feel-fine-chords-849785",
+    "name": "The Beatles - I Feel Fine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2009-07-17T20:00:01-04:00",
+    "dateModified": "2016-05-27T14:09:21-04:00",
+    "commentCount": 3
+}

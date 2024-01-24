@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fools-garden/lemon-tree-chords-145589",
+    "name": "Fool's Garden - Lemon Tree (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Fm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Fool&#039;s Garden"
+    },
+    "datePublished": "2004-11-10T19:00:00-05:00",
+    "dateModified": "2020-09-15T11:58:42-04:00",
+    "commentCount": 21,
+    "musicalKey": "Fm"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/guy-clark/la-freeway-chords-1498477",
+    "name": "Guy Clark - La Freeway (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Guy Clark"
+    },
+    "datePublished": "2014-07-02T05:08:09-04:00",
+    "dateModified": "2019-12-20T01:21:58-05:00",
+    "commentCount": 10
+}

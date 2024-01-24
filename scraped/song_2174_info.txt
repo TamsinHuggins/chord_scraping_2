@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-children/we-got-to-celebrate-our-differences-chords-4345664",
+    "name": "Misc Children - We Got To Celebrate Our Differences (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Children"
+    },
+    "datePublished": "2022-09-11T20:08:46-04:00",
+    "dateModified": "2022-09-14T09:35:53-04:00",
+    "commentCount": 10
+}

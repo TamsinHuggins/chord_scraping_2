@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bullet-for-my-valentine/tears-dont-fall-chords-1190885",
+    "name": "Bullet For My Valentine - Tears Dont Fall (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Bullet For My Valentine"
+    },
+    "datePublished": "2012-10-24T20:00:01-04:00",
+    "dateModified": "2019-09-28T20:22:38-04:00",
+    "commentCount": 10
+}

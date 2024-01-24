@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-clash/train-in-vain-chords-105457",
+    "name": "The Clash - Train In Vain (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Clash"
+    },
+    "datePublished": "2004-02-16T19:00:00-05:00",
+    "dateModified": "2017-07-15T03:56:12-04:00",
+    "commentCount": 10,
+    "musicalKey": "D"
+}

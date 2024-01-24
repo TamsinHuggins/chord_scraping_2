@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kent/utan-dina-andetag-chords-586167",
+    "name": "Kent - Utan Dina Andetag (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kent"
+    },
+    "datePublished": "2007-10-07T20:00:01-04:00",
+    "dateModified": "2020-07-06T19:45:40-04:00",
+    "commentCount": 9
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/myles-erlick/growing-old-with-you-chords-4993456",
+    "name": "Myles Erlick - Growing Old With You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Myles Erlick"
+    },
+    "datePublished": "2023-10-17T12:05:38-04:00",
+    "dateModified": "2023-10-17T16:28:10-04:00",
+    "commentCount": 1,
+    "musicalKey": "A"
+}

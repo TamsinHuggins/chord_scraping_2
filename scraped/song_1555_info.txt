@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1018193",
+    "name": "Udo Jürgens - Griechischer Wein (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Cm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Udo Jürgens"
+    },
+    "datePublished": "2011-01-04T19:00:01-05:00",
+    "dateModified": "2019-10-24T19:57:33-04:00",
+    "commentCount": 11,
+    "musicalKey": "Cm"
+}

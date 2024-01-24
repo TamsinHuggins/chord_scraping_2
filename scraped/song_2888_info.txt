@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/molly-malone-chords-816941",
+    "name": "Misc Traditional - Molly Malone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2009-04-23T20:00:01-04:00",
+    "dateModified": "2021-03-17T13:01:31-04:00",
+    "commentCount": 6,
+    "musicalKey": "C"
+}

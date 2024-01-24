@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-marcagi/scared-to-start-chords-5102575",
+    "name": "Michael Marcagi - Scared To Start (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Marcagi"
+    },
+    "datePublished": "2024-01-13T05:45:07-05:00",
+    "dateModified": "2024-01-13T14:14:59-05:00",
+    "commentCount": 0,
+    "musicalKey": "Em"
+}

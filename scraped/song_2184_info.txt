@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/adventure-time-remember-you-chords-1189388",
+    "name": "Misc Cartoons - Adventure Time - Remember You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2012-10-17T20:00:01-04:00",
+    "dateModified": "2021-08-24T16:47:42-04:00",
+    "commentCount": 15,
+    "musicalKey": "C"
+}

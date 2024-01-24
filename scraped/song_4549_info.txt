@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fleetwood-mac/need-your-love-so-bad-chords-1475494",
+    "name": "Fleetwood Mac - Need Your Love So Bad (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fleetwood Mac"
+    },
+    "datePublished": "2014-04-09T20:00:01-04:00",
+    "dateModified": "2018-10-04T12:06:27-04:00",
+    "commentCount": 6
+}

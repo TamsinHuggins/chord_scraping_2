@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/parokya-ni-edgar/gitara-chords-207183",
+    "name": "Parokya Ni Edgar - Gitara (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Parokya ni Edgar"
+    },
+    "datePublished": "2005-08-21T20:00:00-04:00",
+    "dateModified": "2022-07-31T16:07:08-04:00",
+    "commentCount": 21,
+    "musicalKey": "G"
+}

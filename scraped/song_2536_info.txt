@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/marvin-gaye/whats-going-on-chords-1070400",
+    "name": "Marvin Gaye - Whats Going On (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Marvin Gaye"
+    },
+    "datePublished": "2011-06-27T20:00:01-04:00",
+    "dateModified": "2016-10-22T12:44:26-04:00",
+    "commentCount": 2
+}

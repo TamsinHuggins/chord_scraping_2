@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bryan-adams/run-to-you-chords-1413482",
+    "name": "Bryan Adams - Run To You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Bryan Adams"
+    },
+    "datePublished": "2013-08-26T20:00:01-04:00",
+    "dateModified": "2021-03-19T20:36:30-04:00",
+    "commentCount": 35
+}

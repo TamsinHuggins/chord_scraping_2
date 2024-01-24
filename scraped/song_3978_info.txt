@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/wonka-pure-imagination-chords-5060641",
+    "name": "Misc Soundtrack - Wonka - Pure Imagination (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-12-09T02:58:40-05:00",
+    "dateModified": "2023-12-09T07:58:41-05:00",
+    "commentCount": 2
+}

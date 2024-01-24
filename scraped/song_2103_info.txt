@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-rai/farkanna-hola-chords-5026393",
+    "name": "John Rai - Farkanna Hola (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Rai"
+    },
+    "datePublished": "2023-11-11T23:18:36-05:00",
+    "dateModified": "2023-11-15T12:37:50-05:00",
+    "commentCount": 0
+}

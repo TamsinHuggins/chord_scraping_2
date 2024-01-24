@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/traveling-wilburys/end-of-the-line-chords-536426",
+    "name": "Traveling Wilburys - End Of The Line (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Traveling Wilburys"
+    },
+    "datePublished": "2007-06-29T20:00:01-04:00",
+    "dateModified": "2024-01-11T10:22:29-05:00",
+    "commentCount": 38
+}

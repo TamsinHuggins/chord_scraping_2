@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/drake/hold-on-were-going-home-chords-1412015",
+    "name": "Drake - Hold On Were Going Home (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Drake"
+    },
+    "datePublished": "2013-08-19T20:00:01-04:00",
+    "dateModified": "2016-04-13T14:21:00-04:00",
+    "commentCount": 26
+}

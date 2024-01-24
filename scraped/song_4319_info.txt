@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grateful-dead/scarlet-begonias-chords-12360",
+    "name": "Grateful Dead - Scarlet Begonias (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Grateful Dead"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2019-03-18T13:27:32-04:00",
+    "commentCount": 17
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dilaw/uhaw-chords-4577891",
+    "name": "Dilaw - Uhaw (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dilaw"
+    },
+    "datePublished": "2022-12-26T00:34:21-05:00",
+    "dateModified": "2022-12-26T11:03:09-05:00",
+    "commentCount": 2,
+    "musicalKey": "Bb"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/white-chords-1890059",
+    "name": "The Beatles - White (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2016-10-14T02:45:43-04:00",
+    "dateModified": "2020-03-16T08:53:58-04:00",
+    "commentCount": 11
+}

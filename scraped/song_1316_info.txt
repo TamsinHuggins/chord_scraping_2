@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bon-iver/roslyn-chords-4947613",
+    "name": "Bon Iver - Roslyn (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Cm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bon Iver"
+    },
+    "datePublished": "2023-09-09T09:24:01-04:00",
+    "dateModified": "2023-09-09T17:00:10-04:00",
+    "commentCount": 0,
+    "musicalKey": "Cm"
+}

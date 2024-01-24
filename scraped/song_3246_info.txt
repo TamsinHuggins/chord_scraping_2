@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tv-girl/blue-hair-chords-2386317",
+    "name": "Tv Girl - Blue Hair (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "TV Girl"
+    },
+    "datePublished": "2018-05-17T11:11:32-04:00",
+    "dateModified": "2018-05-17T15:11:56-04:00",
+    "commentCount": 0,
+    "musicalKey": "E"
+}

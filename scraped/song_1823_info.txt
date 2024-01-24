@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/lake-of-fire-chords-893605",
+    "name": "Nirvana - Lake Of Fire (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2009-11-16T19:00:01-05:00",
+    "dateModified": "2016-06-15T11:53:08-04:00",
+    "commentCount": 18
+}

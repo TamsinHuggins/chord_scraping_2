@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/i-give-you-my-heart-chords-186981",
+    "name": "Hillsong Worship - I Give You My Heart (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Worship"
+    },
+    "datePublished": "2005-05-25T20:00:00-04:00",
+    "dateModified": "2020-04-10T08:42:51-04:00",
+    "commentCount": 13
+}

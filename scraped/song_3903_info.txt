@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-hollies/he-aint-heavy-hes-my-brother-chords-983978",
+    "name": "The Hollies - He Aint Heavy Hes My Brother (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Hollies"
+    },
+    "datePublished": "2010-09-02T20:00:01-04:00",
+    "dateModified": "2020-05-06T23:23:07-04:00",
+    "commentCount": 19
+}

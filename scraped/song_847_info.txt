@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gilbert-osullivan/alone-again-naturally-chords-1858355",
+    "name": "Gilbert O'sullivan - Alone Again Naturally (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gilbert O&#039;Sullivan"
+    },
+    "datePublished": "2016-07-12T11:21:55-04:00",
+    "dateModified": "2016-07-12T15:21:55-04:00",
+    "commentCount": 13
+}

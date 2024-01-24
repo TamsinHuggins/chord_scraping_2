@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-pogues/a-pair-of-brown-eyes-chords-1758956",
+    "name": "The Pogues - A Pair Of Brown Eyes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Pogues"
+    },
+    "datePublished": "2015-08-16T04:16:47-04:00",
+    "dateModified": "2017-02-14T07:44:15-05:00",
+    "commentCount": 6
+}

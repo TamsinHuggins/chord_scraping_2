@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neutral-milk-hotel/holland-1945-chords-261689",
+    "name": "Neutral Milk Hotel - Holland 1945 (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neutral Milk Hotel"
+    },
+    "datePublished": "2005-10-06T20:18:05-04:00",
+    "dateModified": "2017-07-04T04:36:45-04:00",
+    "commentCount": 13
+}

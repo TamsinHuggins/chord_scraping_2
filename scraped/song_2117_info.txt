@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/o-praise-the-name-chords-1719677",
+    "name": "Hillsong Worship - O Praise The Name (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Worship"
+    },
+    "datePublished": "2015-03-12T09:35:23-04:00",
+    "dateModified": "2021-11-29T20:58:37-05:00",
+    "commentCount": 20,
+    "musicalKey": "C"
+}

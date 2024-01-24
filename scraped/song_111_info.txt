@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/backstreet-boys/i-want-it-that-way-chords-827123",
+    "name": "Backstreet Boys - I Want It That Way (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Backstreet Boys"
+    },
+    "datePublished": "2009-05-20T20:00:01-04:00",
+    "dateModified": "2020-08-21T21:14:32-04:00",
+    "commentCount": 54,
+    "musicalKey": "F#m"
+}

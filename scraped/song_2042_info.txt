@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/x-ambassadors/renegades-chords-1731876",
+    "name": "X Ambassadors - Renegades (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "X Ambassadors"
+    },
+    "datePublished": "2015-04-21T09:20:06-04:00",
+    "dateModified": "2018-03-22T15:45:19-04:00",
+    "commentCount": 51,
+    "musicalKey": "Bm"
+}

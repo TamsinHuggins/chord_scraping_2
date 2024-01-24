@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jelly-roll-us-nashville-tn/need-a-favor-chords-4454660",
+    "name": "Jelly Roll (Us, Nashville, Tn) - Need A Favor (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Jelly Roll (US, Nashville, TN)"
+    },
+    "datePublished": "2022-12-09T09:51:41-05:00",
+    "dateModified": "2023-06-10T12:33:58-04:00",
+    "commentCount": 5
+}

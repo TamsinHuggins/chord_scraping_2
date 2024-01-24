@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/suzie-q-chords-64069",
+    "name": "Creedence Clearwater Revival - Suzie Q (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Creedence Clearwater Revival"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2016-06-25T09:15:09-04:00",
+    "commentCount": 2
+}

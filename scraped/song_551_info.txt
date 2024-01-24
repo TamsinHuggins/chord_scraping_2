@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/foster-the-people/pumped-up-kicks-chords-1098165",
+    "name": "Foster The People - Pumped Up Kicks (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Foster the People"
+    },
+    "datePublished": "2011-10-05T20:00:01-04:00",
+    "dateModified": "2021-03-13T17:23:22-05:00",
+    "commentCount": 38,
+    "musicalKey": "Bm"
+}

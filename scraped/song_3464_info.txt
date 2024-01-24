@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gillian-welch/look-at-miss-ohio-chords-1089277",
+    "name": "Gillian Welch - Look At Miss Ohio (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gillian Welch"
+    },
+    "datePublished": "2011-08-31T20:00:01-04:00",
+    "dateModified": "2011-09-01T00:00:01-04:00",
+    "commentCount": 18
+}

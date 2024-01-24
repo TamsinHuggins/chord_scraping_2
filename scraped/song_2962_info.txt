@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-hobbit-misty-mountains-chords-1714574",
+    "name": "Misc Soundtrack - The Hobbit - Misty Mountains (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2015-03-02T02:31:44-05:00",
+    "dateModified": "2020-12-01T00:33:35-05:00",
+    "commentCount": 9,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/darlene-zschech/worthy-is-the-lamb-chords-138642",
+    "name": "Darlene Zschech - Worthy Is The Lamb (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Darlene Zschech"
+    },
+    "datePublished": "2004-09-25T20:00:00-04:00",
+    "dateModified": "2018-03-29T06:50:09-04:00",
+    "commentCount": 13,
+    "musicalKey": "Em"
+}

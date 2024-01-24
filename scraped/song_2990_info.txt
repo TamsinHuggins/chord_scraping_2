@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dilu-beats/numba-ha-chords-4677644",
+    "name": "Dilu Beats - Numba Ha (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "DILU Beats"
+    },
+    "datePublished": "2023-03-08T22:09:53-05:00",
+    "dateModified": "2023-03-11T16:35:54-05:00",
+    "commentCount": 6,
+    "musicalKey": "Em"
+}

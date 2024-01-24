@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/morgan-wallen/cover-me-up-chords-2655975",
+    "name": "Morgan Wallen - Cover Me Up (chords)",
+    "text": "Difficulty: beginner Tuning: D A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Morgan Wallen"
+    },
+    "datePublished": "2019-04-06T09:36:51-04:00",
+    "dateModified": "2020-04-25T21:33:26-04:00",
+    "commentCount": 37,
+    "musicalKey": "D"
+}

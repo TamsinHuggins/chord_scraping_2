@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paul-kelly-and-the-coloured-girls/dumb-things-chords-1672471",
+    "name": "Paul Kelly And The Coloured Girls - Dumb Things (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Paul Kelly and the Coloured Girls"
+    },
+    "datePublished": "2014-10-22T05:32:07-04:00",
+    "dateModified": "2020-04-10T13:15:55-04:00",
+    "commentCount": 14
+}

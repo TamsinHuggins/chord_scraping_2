@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/everywhere-everything-chords-4394909",
+    "name": "Noah Kahan - Everywhere Everything (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2022-10-21T22:01:06-04:00",
+    "dateModified": "2023-03-29T08:13:07-04:00",
+    "commentCount": 1
+}

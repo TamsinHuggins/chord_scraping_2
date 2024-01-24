@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/matt-maeson/hallucinogenics-chords-2362281",
+    "name": "Matt Maeson - Hallucinogenics (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Matt Maeson"
+    },
+    "datePublished": "2018-04-06T11:01:40-04:00",
+    "dateModified": "2021-01-25T21:20:09-05:00",
+    "commentCount": 15
+}

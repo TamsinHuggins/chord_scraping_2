@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/madonna/material-girl-chords-396883",
+    "name": "Madonna - Material Girl (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Madonna"
+    },
+    "datePublished": "2006-08-02T20:00:01-04:00",
+    "dateModified": "2018-11-22T09:06:51-05:00",
+    "commentCount": 8
+}

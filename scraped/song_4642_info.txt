@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/falling-chords-3124001",
+    "name": "Harry Styles - Falling (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2020-05-01T08:31:40-04:00",
+    "dateModified": "2021-01-02T15:53:16-05:00",
+    "commentCount": 14,
+    "musicalKey": "C"
+}

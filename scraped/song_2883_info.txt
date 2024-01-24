@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-stapleton/tennessee-whiskey-chords-1758387",
+    "name": "Chris Stapleton - Tennessee Whiskey (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Stapleton"
+    },
+    "datePublished": "2015-08-11T14:18:44-04:00",
+    "dateModified": "2016-06-28T10:09:18-04:00",
+    "commentCount": 8
+}

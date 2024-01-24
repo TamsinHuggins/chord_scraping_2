@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4564766",
+    "name": "Reneé Rapp - Bruises (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Reneé Rapp"
+    },
+    "datePublished": "2022-12-15T18:43:51-05:00",
+    "dateModified": "2022-12-16T14:01:14-05:00",
+    "commentCount": 2
+}

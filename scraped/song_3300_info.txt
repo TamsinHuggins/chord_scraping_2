@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/a-day-to-remember/if-it-means-a-lot-to-you-chords-781980",
+    "name": "A Day To Remember - If It Means A Lot To You (chords)",
+    "text": "Difficulty:  Tuning: D G C F A D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "A Day to Remember"
+    },
+    "datePublished": "2009-01-21T19:00:01-05:00",
+    "dateModified": "2023-04-29T10:34:45-04:00",
+    "commentCount": 104
+}

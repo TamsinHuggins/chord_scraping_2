@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cranberries/linger-chords-2140009",
+    "name": "The Cranberries - Linger (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cranberries"
+    },
+    "datePublished": "2017-09-06T03:53:54-04:00",
+    "dateModified": "2019-11-03T12:32:31-05:00",
+    "commentCount": 7
+}

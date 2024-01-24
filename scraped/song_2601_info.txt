@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cat-stevens-yusuf-islam/the-first-cut-is-the-deepest-chords-393971",
+    "name": "Cat Stevens (Yusuf Islam) - The First Cut Is The Deepest (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cat Stevens (Yusuf Islam)"
+    },
+    "datePublished": "2006-07-25T20:00:01-04:00",
+    "dateModified": "2023-12-25T23:55:57-05:00",
+    "commentCount": 17
+}

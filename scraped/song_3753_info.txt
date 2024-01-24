@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/khalid/new-normal-chords-3803030",
+    "name": "Khalid - New Normal (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Khalid"
+    },
+    "datePublished": "2021-07-22T14:38:19-04:00",
+    "dateModified": "2021-07-23T11:59:04-04:00",
+    "commentCount": 1
+}

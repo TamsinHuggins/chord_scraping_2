@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/labi-siffre/bless-the-telephone-chords-1814395",
+    "name": "Labi Siffre - Bless The Telephone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Labi Siffre"
+    },
+    "datePublished": "2016-02-12T22:25:15-05:00",
+    "dateModified": "2016-02-13T03:25:15-05:00",
+    "commentCount": 4
+}

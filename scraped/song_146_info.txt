@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/505-chords-538427",
+    "name": "Arctic Monkeys - 505 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2007-06-24T20:00:01-04:00",
+    "dateModified": "2021-09-07T10:02:37-04:00",
+    "commentCount": 41,
+    "musicalKey": "Em"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/5023756",
+    "name": "Måneskin - Valentine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Måneskin"
+    },
+    "datePublished": "2023-11-09T19:16:04-05:00",
+    "dateModified": "2023-11-10T00:16:04-05:00",
+    "commentCount": 0
+}

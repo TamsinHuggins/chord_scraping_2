@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/free-as-a-bird-chords-17415",
+    "name": "The Beatles - Free As A Bird (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2022-05-13T14:11:00-04:00",
+    "commentCount": 30
+}

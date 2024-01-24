@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/soundgarden/blow-up-the-outside-world-chords-84054",
+    "name": "Soundgarden - Blow Up The Outside World (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Soundgarden"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-03-20T20:40:47-04:00",
+    "commentCount": 14
+}

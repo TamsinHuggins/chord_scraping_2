@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joji/slow-dancing-in-the-dark-chords-2470894",
+    "name": "Joji - Slow Dancing In The Dark (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Joji"
+    },
+    "datePublished": "2018-09-13T17:21:29-04:00",
+    "dateModified": "2020-03-18T10:39:22-04:00",
+    "commentCount": 23,
+    "musicalKey": "Eb"
+}

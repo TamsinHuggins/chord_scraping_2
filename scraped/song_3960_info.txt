@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/highway-boys-chords-4124980",
+    "name": "Zach Bryan - Highway Boys (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2022-03-25T07:40:26-04:00",
+    "dateModified": "2023-01-26T10:42:18-05:00",
+    "commentCount": 3
+}

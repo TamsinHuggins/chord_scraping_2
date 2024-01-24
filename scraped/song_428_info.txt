@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cyndi-lauper/time-after-time-chords-212085",
+    "name": "Cyndi Lauper - Time After Time (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cyndi Lauper"
+    },
+    "datePublished": "2005-09-14T20:00:00-04:00",
+    "dateModified": "2016-04-13T12:03:08-04:00",
+    "commentCount": 22,
+    "musicalKey": "F"
+}

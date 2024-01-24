@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/don-williams/tulsa-time-chords-843453",
+    "name": "Don Williams - Tulsa Time (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 9",
+    "composer": {
+        "@type": "Person",
+        "name": "Don Williams"
+    },
+    "datePublished": "2009-07-01T20:00:01-04:00",
+    "dateModified": "2023-01-02T10:33:14-05:00",
+    "commentCount": 11,
+    "musicalKey": "E"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/1920-evil-returns-uska-hi-banana-chords-2459090",
+    "name": "Misc Soundtrack - 1920 Evil Returns - Uska Hi Banana (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2018-08-28T09:49:47-04:00",
+    "dateModified": "2020-12-26T23:54:30-05:00",
+    "commentCount": 2,
+    "musicalKey": "Am"
+}

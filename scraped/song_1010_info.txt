@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jimi-hendrix/all-along-the-watchtower-chords-810679",
+    "name": "Jimi Hendrix - All Along The Watchtower (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Cm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jimi Hendrix"
+    },
+    "datePublished": "2009-04-07T20:00:01-04:00",
+    "dateModified": "2019-10-10T22:07:29-04:00",
+    "commentCount": 37,
+    "musicalKey": "Cm"
+}

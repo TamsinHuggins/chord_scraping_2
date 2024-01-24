@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linda-ronstadt/youre-no-good-chords-572027",
+    "name": "Linda Ronstadt - Youre No Good (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Linda Ronstadt"
+    },
+    "datePublished": "2007-08-31T20:00:01-04:00",
+    "dateModified": "2016-07-07T09:34:44-04:00",
+    "commentCount": 16
+}

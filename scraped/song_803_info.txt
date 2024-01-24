@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-twilight-saga-new-moon-rosyln-chords-908282",
+    "name": "Misc Soundtrack - The Twilight Saga New Moon - Rosyln (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2010-01-05T19:00:01-05:00",
+    "dateModified": "2023-05-08T04:58:50-04:00",
+    "commentCount": 23
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/death-cab-for-cutie/soul-meets-body-chords-341776",
+    "name": "Death Cab For Cutie - Soul Meets Body (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Death Cab for Cutie"
+    },
+    "datePublished": "2006-03-09T19:00:01-05:00",
+    "dateModified": "2016-05-21T09:26:20-04:00",
+    "commentCount": 25
+}

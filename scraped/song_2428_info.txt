@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lonestar/amazed-chords-199454",
+    "name": "Lonestar - Amazed (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Lonestar"
+    },
+    "datePublished": "2005-07-20T20:00:00-04:00",
+    "dateModified": "2019-02-14T10:15:43-05:00",
+    "commentCount": 33
+}

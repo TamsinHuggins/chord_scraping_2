@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-white-stripes/fell-in-love-with-a-girl-chords-174859",
+    "name": "The White Stripes - Fell In Love With A Girl (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The White Stripes"
+    },
+    "datePublished": "2005-03-28T19:00:00-05:00",
+    "dateModified": "2016-05-12T09:09:54-04:00",
+    "commentCount": 25
+}

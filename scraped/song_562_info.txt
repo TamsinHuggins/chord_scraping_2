@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/anuv-jain/alag-aasmaan-chords-3272030",
+    "name": "Anuv Jain - Alag Aasmaan (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Anuv Jain"
+    },
+    "datePublished": "2020-07-31T05:15:58-04:00",
+    "dateModified": "2020-08-07T08:37:47-04:00",
+    "commentCount": 13,
+    "musicalKey": "C"
+}

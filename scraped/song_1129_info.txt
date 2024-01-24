@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/whitney-houston/i-have-nothing-chords-582822",
+    "name": "Whitney Houston - I Have Nothing (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Whitney Houston"
+    },
+    "datePublished": "2007-09-27T20:00:01-04:00",
+    "dateModified": "2023-11-29T18:46:26-05:00",
+    "commentCount": 12
+}

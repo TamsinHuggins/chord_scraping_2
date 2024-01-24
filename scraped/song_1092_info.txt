@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/day-tripper-chords-1061419",
+    "name": "The Beatles - Day Tripper (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2011-05-29T20:00:01-04:00",
+    "dateModified": "2023-12-23T17:37:38-05:00",
+    "commentCount": 20
+}

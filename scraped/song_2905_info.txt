@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/louis-armstrong/cheek-to-cheek-chords-814054",
+    "name": "Louis Armstrong - Cheek To Cheek (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Louis Armstrong"
+    },
+    "datePublished": "2009-04-16T20:00:01-04:00",
+    "dateModified": "2016-06-18T11:42:18-04:00",
+    "commentCount": 6
+}

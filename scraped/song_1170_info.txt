@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alan-jackson/remember-when-chords-377957",
+    "name": "Alan Jackson - Remember When (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alan Jackson"
+    },
+    "datePublished": "2006-06-15T20:00:01-04:00",
+    "dateModified": "2020-10-24T07:44:39-04:00",
+    "commentCount": 51
+}

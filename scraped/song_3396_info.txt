@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-television/julie-and-the-phantoms-unsaid-emily-chords-3333752",
+    "name": "Misc Television - Julie And The Phantoms - Unsaid Emily (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Television"
+    },
+    "datePublished": "2020-09-12T15:06:08-04:00",
+    "dateModified": "2020-10-08T22:10:41-04:00",
+    "commentCount": 16,
+    "musicalKey": "E"
+}

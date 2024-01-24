@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/otherside-chords-983702",
+    "name": "Red Hot Chili Peppers - Otherside (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Red Hot Chili Peppers"
+    },
+    "datePublished": "2010-08-31T20:00:01-04:00",
+    "dateModified": "2019-01-23T13:28:41-05:00",
+    "commentCount": 19,
+    "musicalKey": "Am"
+}

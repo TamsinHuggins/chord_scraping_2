@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/im-so-tired-chords-1047380",
+    "name": "The Beatles - Im So Tired (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2011-04-14T20:00:01-04:00",
+    "dateModified": "2023-12-05T22:51:44-05:00",
+    "commentCount": 29,
+    "musicalKey": "A"
+}

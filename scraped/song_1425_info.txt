@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gracie-abrams/mess-it-up-chords-3696086",
+    "name": "Gracie Abrams - Mess It Up (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gracie Abrams"
+    },
+    "datePublished": "2021-05-07T02:16:18-04:00",
+    "dateModified": "2021-05-13T20:50:26-04:00",
+    "commentCount": 3,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/the-great-gig-in-the-sky-chords-1286991",
+    "name": "Pink Floyd - The Great Gig In The Sky (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2006-06-15T20:00:01-04:00",
+    "dateModified": "2020-01-23T08:12:40-05:00",
+    "commentCount": 5
+}

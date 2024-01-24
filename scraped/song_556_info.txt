@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/snow-hey-oh-chords-497382",
+    "name": "Red Hot Chili Peppers - Snow Hey Oh (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Abm Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Red Hot Chili Peppers"
+    },
+    "datePublished": "2007-04-04T20:00:01-04:00",
+    "dateModified": "2021-04-30T23:34:01-04:00",
+    "commentCount": 50,
+    "musicalKey": "Abm"
+}

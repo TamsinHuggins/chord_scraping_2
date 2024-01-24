@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/talking-heads/psycho-killer-chords-435224",
+    "name": "Talking Heads - Psycho Killer (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Talking Heads"
+    },
+    "datePublished": "2006-11-14T19:00:01-05:00",
+    "dateModified": "2020-08-15T22:43:15-04:00",
+    "commentCount": 12
+}

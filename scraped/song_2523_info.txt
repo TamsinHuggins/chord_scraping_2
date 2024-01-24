@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/heart/barracuda-chords-600697",
+    "name": "Heart - Barracuda (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Heart"
+    },
+    "datePublished": "2007-11-11T19:00:01-05:00",
+    "dateModified": "2020-07-21T03:28:40-04:00",
+    "commentCount": 8
+}

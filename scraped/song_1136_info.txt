@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/clairo/sofia-chords-2776162",
+    "name": "Clairo - Sofia (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Clairo"
+    },
+    "datePublished": "2019-07-26T20:55:08-04:00",
+    "dateModified": "2022-06-06T07:35:05-04:00",
+    "commentCount": 38,
+    "musicalKey": "F"
+}

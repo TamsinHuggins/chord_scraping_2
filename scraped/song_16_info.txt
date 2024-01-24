@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/viva-la-vida-chords-675427",
-    "name": "Coldplay - Viva La Vida (chords)",
-    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/your-song-chords-29113",
+    "name": "Elton John - Your Song (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 1",
     "composer": {
         "@type": "Person",
-        "name": "Coldplay"
+        "name": "Elton John"
     },
-    "datePublished": "2008-05-11T20:00:01-04:00",
-    "dateModified": "2020-08-06T11:03:35-04:00",
-    "commentCount": 268,
-    "musicalKey": "Ab"
+    "datePublished": "2002-05-02T20:00:00-04:00",
+    "dateModified": "2021-11-03T22:11:39-04:00",
+    "commentCount": 105,
+    "musicalKey": "Eb"
 }

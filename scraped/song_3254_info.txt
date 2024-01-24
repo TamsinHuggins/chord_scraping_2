@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-crane-wives/the-moon-will-sing-chords-2955830",
+    "name": "The Crane Wives - The Moon Will Sing (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Crane Wives"
+    },
+    "datePublished": "2020-01-11T04:13:05-05:00",
+    "dateModified": "2020-01-11T12:04:37-05:00",
+    "commentCount": 3,
+    "musicalKey": "C#m"
+}

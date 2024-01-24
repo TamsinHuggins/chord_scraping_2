@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/thirty-seconds-to-mars/the-kill-chords-390605",
+    "name": "Thirty Seconds To Mars - The Kill (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Thirty Seconds To Mars"
+    },
+    "datePublished": "2006-07-18T20:00:01-04:00",
+    "dateModified": "2018-02-24T08:18:50-05:00",
+    "commentCount": 37
+}

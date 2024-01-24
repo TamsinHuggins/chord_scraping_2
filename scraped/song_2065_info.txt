@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/badfinger/baby-blue-chords-508585",
+    "name": "Badfinger - Baby Blue (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Badfinger"
+    },
+    "datePublished": "2007-04-25T20:00:01-04:00",
+    "dateModified": "2023-11-30T22:23:51-05:00",
+    "commentCount": 25
+}

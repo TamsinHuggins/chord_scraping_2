@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/ruby-tuesday-chords-4041",
+    "name": "The Rolling Stones - Ruby Tuesday (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2018-09-22T12:04:16-04:00",
+    "commentCount": 52
+}

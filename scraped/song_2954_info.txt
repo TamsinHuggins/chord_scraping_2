@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/slipknot/snuff-chords-1724416",
+    "name": "Slipknot - Snuff (chords)",
+    "text": "Difficulty: beginner Tuning: C# F# B E G# C# Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Slipknot"
+    },
+    "datePublished": "2015-03-27T00:03:01-04:00",
+    "dateModified": "2019-10-01T11:38:55-04:00",
+    "commentCount": 15
+}

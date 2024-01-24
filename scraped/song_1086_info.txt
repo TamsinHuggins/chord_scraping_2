@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-ink-spots/i-dont-want-to-set-the-world-on-fire-chords-1429946",
+    "name": "The Ink Spots - I Dont Want To Set The World On Fire (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Ink Spots"
+    },
+    "datePublished": "2013-11-24T19:00:01-05:00",
+    "dateModified": "2022-03-24T16:24:11-04:00",
+    "commentCount": 25,
+    "musicalKey": "F"
+}

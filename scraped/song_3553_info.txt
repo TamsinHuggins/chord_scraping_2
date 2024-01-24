@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/craig-campbell/outskirts-of-heaven-chords-1813250",
+    "name": "Craig Campbell - Outskirts Of Heaven (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Craig Campbell"
+    },
+    "datePublished": "2016-02-09T05:10:10-05:00",
+    "dateModified": "2021-05-07T21:17:13-04:00",
+    "commentCount": 8
+}

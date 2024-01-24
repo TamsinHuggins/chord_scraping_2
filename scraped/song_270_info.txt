@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/enchanted-chords-999172",
+    "name": "Taylor Swift - Enchanted (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2010-10-26T20:00:01-04:00",
+    "dateModified": "2021-12-27T23:41:00-05:00",
+    "commentCount": 16,
+    "musicalKey": "Ab"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-mayer/new-light-chords-2382751",
+    "name": "John Mayer - New Light (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Mayer"
+    },
+    "datePublished": "2018-05-10T19:08:01-04:00",
+    "dateModified": "2022-07-31T01:14:25-04:00",
+    "commentCount": 16,
+    "musicalKey": "G"
+}

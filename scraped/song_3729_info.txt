@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/high-school-musical-what-ive-been-looking-for-chords-377840",
+    "name": "Misc Soundtrack - High School Musical - What Ive Been Looking For (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2006-06-15T20:00:01-04:00",
+    "dateModified": "2021-03-23T16:37:06-04:00",
+    "commentCount": 7
+}

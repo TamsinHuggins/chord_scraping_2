@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/hurt-somebody-chords-2174621",
+    "name": "Noah Kahan - Hurt Somebody (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2017-09-30T10:46:00-04:00",
+    "dateModified": "2019-06-15T06:09:46-04:00",
+    "commentCount": 17,
+    "musicalKey": "C"
+}

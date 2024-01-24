@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-replacements/cant-hardly-wait-chords-2247457",
+    "name": "The Replacements - Cant Hardly Wait (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Replacements"
+    },
+    "datePublished": "2017-11-30T14:53:14-05:00",
+    "dateModified": "2017-12-01T09:05:31-05:00",
+    "commentCount": 8
+}

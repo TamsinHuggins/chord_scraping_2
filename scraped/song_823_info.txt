@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/disturbed/the-sound-of-silence-chords-1762333",
+    "name": "Disturbed - The Sound Of Silence (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Disturbed"
+    },
+    "datePublished": "2015-08-26T05:31:24-04:00",
+    "dateModified": "2019-03-12T22:25:51-04:00",
+    "commentCount": 62,
+    "musicalKey": "F#m"
+}

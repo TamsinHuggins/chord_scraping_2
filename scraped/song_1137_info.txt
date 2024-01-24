@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/bad-habits-chords-3766352",
+    "name": "Ed Sheeran - Bad Habits (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2021-06-25T00:07:08-04:00",
+    "dateModified": "2022-05-27T12:13:33-04:00",
+    "commentCount": 13,
+    "musicalKey": "Bm"
+}

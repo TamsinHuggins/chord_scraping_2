@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tracy-chapman/baby-can-i-hold-you-chords-105719",
+    "name": "Tracy Chapman - Baby Can I Hold You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tracy Chapman"
+    },
+    "datePublished": "2004-02-18T19:00:00-05:00",
+    "dateModified": "2019-03-06T22:28:33-05:00",
+    "commentCount": 27
+}

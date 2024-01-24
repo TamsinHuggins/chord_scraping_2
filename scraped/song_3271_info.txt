@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/68-fastback-chords-4199344",
+    "name": "Zach Bryan - 68 Fastback (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2022-05-20T10:39:03-04:00",
+    "dateModified": "2022-05-20T15:07:57-04:00",
+    "commentCount": 3
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lola-amour/fallen-chords-3779075",
+    "name": "Lola Amour - Fallen (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lola Amour"
+    },
+    "datePublished": "2021-07-04T10:30:21-04:00",
+    "dateModified": "2023-07-14T18:31:33-04:00",
+    "commentCount": 4,
+    "musicalKey": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rihanna/love-on-the-brain-chords-1809471",
+    "name": "Rihanna - Love On The Brain (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rihanna"
+    },
+    "datePublished": "2016-01-28T01:39:08-05:00",
+    "dateModified": "2020-04-28T11:22:07-04:00",
+    "commentCount": 13,
+    "musicalKey": "G"
+}

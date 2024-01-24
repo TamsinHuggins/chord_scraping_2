@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/rocky-raccoon-chords-1051718",
+    "name": "The Beatles - Rocky Raccoon (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2011-05-05T20:00:01-04:00",
+    "dateModified": "2022-07-25T15:26:45-04:00",
+    "commentCount": 13,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-stapleton/broken-halos-chords-1981245",
+    "name": "Chris Stapleton - Broken Halos (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Stapleton"
+    },
+    "datePublished": "2017-04-15T00:10:22-04:00",
+    "dateModified": "2020-02-26T22:39:06-05:00",
+    "commentCount": 76,
+    "musicalKey": "Ab"
+}

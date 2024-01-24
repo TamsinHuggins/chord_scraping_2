@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/outkast/hey-ya-chords-90698",
+    "name": "Outkast - Hey Ya (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "OutKast"
+    },
+    "datePublished": "2003-09-28T20:00:00-04:00",
+    "dateModified": "2021-06-08T15:18:37-04:00",
+    "commentCount": 70,
+    "musicalKey": "G"
+}

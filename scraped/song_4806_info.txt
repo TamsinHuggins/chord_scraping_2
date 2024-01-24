@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/money-chords-43461",
+    "name": "Pink Floyd - Money (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2003-01-14T19:00:00-05:00",
+    "dateModified": "2018-07-16T11:59:10-04:00",
+    "commentCount": 2
+}

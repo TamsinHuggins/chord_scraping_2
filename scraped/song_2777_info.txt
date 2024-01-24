@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/humbe/fantasmas-chords-5050813",
+    "name": "Humbe - Fantasmas (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Humbe"
+    },
+    "datePublished": "2023-12-01T13:03:50-05:00",
+    "dateModified": "2023-12-04T17:33:29-05:00",
+    "commentCount": 0
+}

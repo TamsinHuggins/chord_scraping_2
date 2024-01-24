@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4689713",
+    "name": "Rels B - Lo Que Hay X Aquí (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rels B"
+    },
+    "datePublished": "2023-03-17T19:05:07-04:00",
+    "dateModified": "2023-03-19T17:19:37-04:00",
+    "commentCount": 1
+}

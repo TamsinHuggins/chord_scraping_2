@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gram-parsons/hickory-wind-chords-1421592",
+    "name": "Gram Parsons - Hickory Wind (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gram Parsons"
+    },
+    "datePublished": "2013-10-01T20:00:01-04:00",
+    "dateModified": "2016-09-17T12:31:12-04:00",
+    "commentCount": 3
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/dawns-chords-4435304",
+    "name": "Zach Bryan - Dawns (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2022-11-23T13:51:25-05:00",
+    "dateModified": "2023-10-23T11:25:05-04:00",
+    "commentCount": 3,
+    "musicalKey": "F"
+}

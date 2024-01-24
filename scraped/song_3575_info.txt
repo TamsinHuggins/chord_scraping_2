@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/loathe-uk/is-it-really-you-chords-3426884",
+    "name": "Loathe (Uk) - Is It Really You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Loathe (UK)"
+    },
+    "datePublished": "2020-11-17T19:28:57-05:00",
+    "dateModified": "2020-11-18T11:06:15-05:00",
+    "commentCount": 1,
+    "musicalKey": "A"
+}

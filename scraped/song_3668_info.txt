@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/van-morrison/days-like-this-chords-1203987",
+    "name": "Van Morrison - Days Like This (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Van Morrison"
+    },
+    "datePublished": "2013-01-08T19:00:01-05:00",
+    "dateModified": "2016-06-29T09:33:58-04:00",
+    "commentCount": 10
+}

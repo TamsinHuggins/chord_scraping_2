@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alphaville/forever-young-chords-1131576",
+    "name": "Alphaville - Forever Young (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alphaville"
+    },
+    "datePublished": "2012-02-20T19:00:01-05:00",
+    "dateModified": "2017-12-26T15:25:04-05:00",
+    "commentCount": 26
+}

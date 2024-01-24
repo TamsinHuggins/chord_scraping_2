@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/gold-rush-chords-3462080",
+    "name": "Taylor Swift - Gold Rush (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-12-11T06:11:35-05:00",
+    "dateModified": "2020-12-12T01:12:14-05:00",
+    "commentCount": 11,
+    "musicalKey": "A"
+}

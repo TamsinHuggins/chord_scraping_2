@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-brown/i-got-you-i-feel-good-chords-524057",
+    "name": "James Brown - I Got You I Feel Good (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "James Brown"
+    },
+    "datePublished": "2007-05-27T20:00:01-04:00",
+    "dateModified": "2020-02-27T13:37:57-05:00",
+    "commentCount": 5,
+    "musicalKey": "D"
+}

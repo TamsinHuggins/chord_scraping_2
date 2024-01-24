@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/pennyroyal-tea-chords-46245",
+    "name": "Nirvana - Pennyroyal Tea (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2003-02-23T19:00:00-05:00",
+    "dateModified": "2022-09-10T20:33:37-04:00",
+    "commentCount": 23
+}

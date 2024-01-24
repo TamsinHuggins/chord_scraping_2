@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elliott-smith/2-45-am-chords-192734",
+    "name": "Elliott Smith - 2 45 Am (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elliott Smith"
+    },
+    "datePublished": "2005-06-21T20:00:00-04:00",
+    "dateModified": "2018-10-23T12:22:35-04:00",
+    "commentCount": 20
+}

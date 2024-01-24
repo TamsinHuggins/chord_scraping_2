@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/ultraviolence-chords-1511629",
+    "name": "Lana Del Rey - Ultraviolence (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2014-08-19T00:12:06-04:00",
+    "dateModified": "2016-10-31T09:49:14-04:00",
+    "commentCount": 5
+}

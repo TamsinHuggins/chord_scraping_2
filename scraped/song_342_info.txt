@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tyler-childers/lady-may-chords-2099981",
+    "name": "Tyler Childers - Lady May (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Tyler Childers"
+    },
+    "datePublished": "2017-08-04T05:31:36-04:00",
+    "dateModified": "2017-08-04T09:31:36-04:00",
+    "commentCount": 20
+}

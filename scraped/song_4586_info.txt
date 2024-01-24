@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jethro-tull/aqualung-chords-1042732",
+    "name": "Jethro Tull - Aqualung (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Jethro Tull"
+    },
+    "datePublished": "2011-03-31T20:00:01-04:00",
+    "dateModified": "2023-06-28T22:38:45-04:00",
+    "commentCount": 22
+}

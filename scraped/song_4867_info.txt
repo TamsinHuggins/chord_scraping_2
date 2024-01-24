@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/bella-ciao-chords-1839756",
+    "name": "Misc Traditional - Bella Ciao (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2016-04-28T10:49:43-04:00",
+    "dateModified": "2020-03-28T13:37:46-04:00",
+    "commentCount": 65,
+    "musicalKey": "Am"
+}

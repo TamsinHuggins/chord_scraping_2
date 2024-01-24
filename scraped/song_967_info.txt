@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/one-direction/you-and-i-chords-1433419",
+    "name": "One Direction - You And I (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "One Direction"
+    },
+    "datePublished": "2013-11-17T19:00:01-05:00",
+    "dateModified": "2021-04-26T20:21:01-04:00",
+    "commentCount": 44,
+    "musicalKey": "Gb"
+}

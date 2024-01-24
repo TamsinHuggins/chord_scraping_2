@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/christina-aguilera/hurt-chords-431444",
+    "name": "Christina Aguilera - Hurt (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Christina Aguilera"
+    },
+    "datePublished": "2006-11-05T19:00:01-05:00",
+    "dateModified": "2020-06-27T06:56:34-04:00",
+    "commentCount": 28
+}

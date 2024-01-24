@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/charity-gayle/i-speak-jesus-chords-3899225",
+    "name": "Charity Gayle - I Speak Jesus (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Charity Gayle"
+    },
+    "datePublished": "2021-10-04T20:44:00-04:00",
+    "dateModified": "2023-10-17T19:48:57-04:00",
+    "commentCount": 3,
+    "musicalKey": "E"
+}

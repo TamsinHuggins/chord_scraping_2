@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sarah-kang/once-in-a-moon-chords-4126051",
+    "name": "Sarah Kang - Once In A Moon (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sarah Kang"
+    },
+    "datePublished": "2022-03-26T03:43:50-04:00",
+    "dateModified": "2022-06-18T10:04:02-04:00",
+    "commentCount": 1
+}

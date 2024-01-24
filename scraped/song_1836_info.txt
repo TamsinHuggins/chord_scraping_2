@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/cotton-fields-chords-64080",
+    "name": "Creedence Clearwater Revival - Cotton Fields (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Creedence Clearwater Revival"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2016-10-15T12:40:48-04:00",
+    "commentCount": 18
+}

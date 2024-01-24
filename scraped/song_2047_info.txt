@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/feels-like-we-only-go-backwards-chords-1483136",
+    "name": "Arctic Monkeys - Feels Like We Only Go Backwards (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2014-05-10T12:41:24-04:00",
+    "dateModified": "2016-04-09T13:54:24-04:00",
+    "commentCount": 26
+}

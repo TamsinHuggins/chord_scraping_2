@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/amy-winehouse/valerie-chords-1836069",
+    "name": "Amy Winehouse - Valerie (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Amy Winehouse"
+    },
+    "datePublished": "2016-04-16T05:29:57-04:00",
+    "dateModified": "2023-03-07T19:52:05-05:00",
+    "commentCount": 15,
+    "musicalKey": "Eb"
+}

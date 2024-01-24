@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-lumineers/cleopatra-chords-1829193",
+    "name": "The Lumineers - Cleopatra (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Lumineers"
+    },
+    "datePublished": "2016-03-25T16:56:06-04:00",
+    "dateModified": "2018-12-11T09:28:42-05:00",
+    "commentCount": 46
+}

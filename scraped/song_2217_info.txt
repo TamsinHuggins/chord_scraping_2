@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/travie-mccoy/billionaire-chords-960137",
+    "name": "Travie Mccoy - Billionaire (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 9",
+    "composer": {
+        "@type": "Person",
+        "name": "Travie McCoy"
+    },
+    "datePublished": "2010-06-17T20:00:01-04:00",
+    "dateModified": "2020-07-26T21:41:12-04:00",
+    "commentCount": 11
+}

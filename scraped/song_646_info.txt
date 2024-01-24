@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/another-brick-in-the-wall-part-2-chords-554491",
+    "name": "Pink Floyd - Another Brick In The Wall Part 2 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2007-07-25T20:00:01-04:00",
+    "dateModified": "2020-02-20T11:55:29-05:00",
+    "commentCount": 41,
+    "musicalKey": "Dm"
+}

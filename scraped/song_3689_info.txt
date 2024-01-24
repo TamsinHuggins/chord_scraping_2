@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/emerson-lake-palmer/lucky-man-chords-1049324",
+    "name": "Emerson, Lake & Palmer - Lucky Man (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Emerson, Lake &amp; Palmer"
+    },
+    "datePublished": "2011-04-26T20:00:01-04:00",
+    "dateModified": "2023-12-26T19:27:29-05:00",
+    "commentCount": 40,
+    "musicalKey": "G"
+}

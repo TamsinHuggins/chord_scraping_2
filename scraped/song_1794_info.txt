@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bread/everything-i-own-chords-1044786",
+    "name": "Bread - Everything I Own (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bread"
+    },
+    "datePublished": "2011-04-06T20:00:01-04:00",
+    "dateModified": "2023-05-01T21:35:07-04:00",
+    "commentCount": 29
+}

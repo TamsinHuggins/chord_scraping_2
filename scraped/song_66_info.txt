@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/animal-pehle-bhi-main-chords-5055976",
+    "name": "Misc Soundtrack - Animal - Pehle Bhi Main (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-12-05T02:13:06-05:00",
+    "dateModified": "2024-01-06T00:55:22-05:00",
+    "commentCount": 6,
+    "musicalKey": "Bbm"
+}

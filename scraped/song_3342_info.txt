@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/britney-spears/oops-i-did-it-again-chords-1080834",
+    "name": "Britney Spears - Oops I Did It Again (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Britney Spears"
+    },
+    "datePublished": "2011-08-03T20:00:01-04:00",
+    "dateModified": "2016-05-10T09:30:25-04:00",
+    "commentCount": 7
+}

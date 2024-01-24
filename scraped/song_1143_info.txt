@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/blue-jeans-chords-1095078",
+    "name": "Lana Del Rey - Blue Jeans (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2011-09-22T20:00:01-04:00",
+    "dateModified": "2020-04-29T01:27:46-04:00",
+    "commentCount": 32
+}

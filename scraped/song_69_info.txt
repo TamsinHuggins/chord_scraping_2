@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brandon-lake/gratitude-chords-3721607",
+    "name": "Brandon Lake - Gratitude (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Brandon Lake"
+    },
+    "datePublished": "2021-05-23T20:09:26-04:00",
+    "dateModified": "2023-11-28T22:01:31-05:00",
+    "commentCount": 8,
+    "musicalKey": "E"
+}

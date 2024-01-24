@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dmas/believe-chords-1900295",
+    "name": "Dma's - Believe (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "DMA&#039;s"
+    },
+    "datePublished": "2016-11-01T07:58:59-04:00",
+    "dateModified": "2016-11-01T11:58:59-04:00",
+    "commentCount": 4
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/waiting-room-chords-2643036",
+    "name": "Phoebe Bridgers - Waiting Room (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Phoebe Bridgers"
+    },
+    "datePublished": "2019-03-24T16:36:44-04:00",
+    "dateModified": "2019-04-08T13:32:23-04:00",
+    "commentCount": 8,
+    "musicalKey": "Db"
+}

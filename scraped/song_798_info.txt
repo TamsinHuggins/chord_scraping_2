@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eagle-eye-cherry/save-tonight-chords-14172",
+    "name": "Eagle-Eye Cherry - Save Tonight (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eagle-Eye Cherry"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2019-11-26T12:02:33-05:00",
+    "commentCount": 57,
+    "musicalKey": "Am"
+}

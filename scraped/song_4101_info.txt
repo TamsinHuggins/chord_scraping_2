@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/carpenters/yesterday-once-more-chords-1888570",
+    "name": "Carpenters - Yesterday Once More (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Carpenters"
+    },
+    "datePublished": "2016-10-12T03:03:31-04:00",
+    "dateModified": "2021-04-28T08:31:48-04:00",
+    "commentCount": 13
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-box-tops/the-letter-chords-165348",
+    "name": "The Box Tops - The Letter (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Box Tops"
+    },
+    "datePublished": "2005-02-16T19:00:00-05:00",
+    "dateModified": "2021-03-19T15:07:32-04:00",
+    "commentCount": 11
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alex-sierra/little-do-you-know-chords-1503387",
+    "name": "Alex & Sierra - Little Do You Know (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alex &amp; Sierra"
+    },
+    "datePublished": "2014-07-18T02:22:32-04:00",
+    "dateModified": "2021-07-18T12:57:01-04:00",
+    "commentCount": 75,
+    "musicalKey": "Am"
+}

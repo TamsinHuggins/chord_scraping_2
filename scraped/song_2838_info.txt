@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bee-gees/more-than-a-woman-chords-2082037",
+    "name": "Bee Gees - More Than A Woman (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bee Gees"
+    },
+    "datePublished": "2017-07-17T08:03:46-04:00",
+    "dateModified": "2017-07-17T12:03:46-04:00",
+    "commentCount": 3
+}

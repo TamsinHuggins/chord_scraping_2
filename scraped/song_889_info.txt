@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creed/one-last-breath-chords-26891",
+    "name": "Creed - One Last Breath (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Creed"
+    },
+    "datePublished": "2002-04-05T19:00:00-05:00",
+    "dateModified": "2023-01-24T13:40:49-05:00",
+    "commentCount": 39
+}

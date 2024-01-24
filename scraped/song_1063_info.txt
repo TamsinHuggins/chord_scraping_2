@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stone-temple-pilots/interstate-love-song-chords-881060",
+    "name": "Stone Temple Pilots - Interstate Love Song (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stone Temple Pilots"
+    },
+    "datePublished": "2009-10-07T20:00:01-04:00",
+    "dateModified": "2022-04-11T17:26:09-04:00",
+    "commentCount": 22,
+    "musicalKey": "C#m"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/trolls-band-together-better-place-chords-4971202",
+    "name": "Misc Cartoons - Trolls Band Together - Better Place (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2023-09-28T22:23:37-04:00",
+    "dateModified": "2023-10-22T06:59:24-04:00",
+    "commentCount": 1
+}

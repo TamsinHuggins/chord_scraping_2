@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/coldplay/everglow-chords-1785810",
+    "name": "Coldplay - Everglow (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Coldplay"
+    },
+    "datePublished": "2015-11-26T23:19:42-05:00",
+    "dateModified": "2020-06-03T03:48:17-04:00",
+    "commentCount": 31,
+    "musicalKey": "C#m"
+}

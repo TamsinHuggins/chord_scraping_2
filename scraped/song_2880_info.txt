@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/khalid/location-chords-1952459",
+    "name": "Khalid - Location (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Khalid"
+    },
+    "datePublished": "2017-02-22T08:51:22-05:00",
+    "dateModified": "2021-01-18T20:57:33-05:00",
+    "commentCount": 39
+}

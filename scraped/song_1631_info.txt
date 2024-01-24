@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/daniel-powter/bad-day-chords-202343",
+    "name": "Daniel Powter - Bad Day (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Daniel Powter"
+    },
+    "datePublished": "2005-08-01T20:00:00-04:00",
+    "dateModified": "2018-09-08T11:20:04-04:00",
+    "commentCount": 67
+}

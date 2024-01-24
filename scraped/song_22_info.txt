@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/stephen-sanchez/until-i-found-you-chords-3860363",
-    "name": "Stephen Sanchez - Until I Found You (chords)",
-    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 3",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/love-story-chords-730809",
+    "name": "Taylor Swift - Love Story (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
     "composer": {
         "@type": "Person",
-        "name": "Stephen Sanchez"
+        "name": "Taylor Swift"
     },
-    "datePublished": "2021-09-03T20:48:45-04:00",
-    "dateModified": "2023-01-16T17:19:10-05:00",
-    "commentCount": 40,
-    "musicalKey": "Bb"
+    "datePublished": "2008-09-09T20:00:01-04:00",
+    "dateModified": "2023-09-06T15:15:30-04:00",
+    "commentCount": 154,
+    "musicalKey": "D"
 }

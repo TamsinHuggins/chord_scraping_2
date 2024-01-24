@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beach-weather/sex-drugs-etc-chords-2737914",
+    "name": "Beach Weather - Sex Drugs Etc (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Beach Weather"
+    },
+    "datePublished": "2019-06-21T21:16:00-04:00",
+    "dateModified": "2019-06-22T01:18:57-04:00",
+    "commentCount": 11,
+    "musicalKey": "G"
+}

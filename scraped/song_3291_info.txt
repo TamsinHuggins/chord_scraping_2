@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/cortez-the-killer-chords-1708123",
+    "name": "Neil Young - Cortez The Killer (chords)",
+    "text": "Difficulty: beginner Tuning: D A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2015-02-02T10:02:22-05:00",
+    "dateModified": "2018-12-17T23:22:00-05:00",
+    "commentCount": 21,
+    "musicalKey": "Em"
+}

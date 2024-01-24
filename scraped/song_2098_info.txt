@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/rehnaa-hai-tere-dil-mein-zara-zara-chords-1711548",
+    "name": "Misc Soundtrack - Rehnaa Hai Tere Dil Mein - Zara Zara (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Bm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2015-02-18T02:25:56-05:00",
+    "dateModified": "2023-03-28T16:24:10-04:00",
+    "commentCount": 15,
+    "musicalKey": "Bm"
+}

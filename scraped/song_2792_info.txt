@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kris-kristofferson/loving-her-was-easier-chords-73410",
+    "name": "Kris Kristofferson - Loving Her Was Easier (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Kris Kristofferson"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2019-09-30T06:02:22-04:00",
+    "commentCount": 17
+}

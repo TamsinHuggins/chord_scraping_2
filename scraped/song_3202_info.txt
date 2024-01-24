@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joe-cocker/unchain-my-heart-chords-531059",
+    "name": "Joe Cocker - Unchain My Heart (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Joe Cocker"
+    },
+    "datePublished": "2007-06-10T20:00:01-04:00",
+    "dateModified": "2018-02-13T22:19:35-05:00",
+    "commentCount": 7
+}

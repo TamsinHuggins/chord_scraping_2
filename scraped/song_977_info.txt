@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/tenerife-sea-chords-1496492",
+    "name": "Ed Sheeran - Tenerife Sea (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2014-06-25T05:37:29-04:00",
+    "dateModified": "2020-03-24T13:10:28-04:00",
+    "commentCount": 27,
+    "musicalKey": "Ab"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/toby-keith/dont-let-the-old-man-in-chords-2547849",
+    "name": "Toby Keith - Dont Let The Old Man In (chords)",
+    "text": "Difficulty: intermediate Tuning: D A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Toby Keith"
+    },
+    "datePublished": "2018-12-17T18:07:19-05:00",
+    "dateModified": "2018-12-18T11:22:32-05:00",
+    "commentCount": 28,
+    "musicalKey": "D"
+}

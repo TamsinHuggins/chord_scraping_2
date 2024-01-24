@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/black-sabbath/changes-chords-185791",
+    "name": "Black Sabbath - Changes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Black Sabbath"
+    },
+    "datePublished": "2005-05-20T20:00:00-04:00",
+    "dateModified": "2016-07-02T12:59:23-04:00",
+    "commentCount": 12
+}

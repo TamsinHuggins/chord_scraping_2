@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adele/turning-tables-chords-1027578",
+    "name": "Adele - Turning Tables (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Adele"
+    },
+    "datePublished": "2011-02-10T19:00:01-05:00",
+    "dateModified": "2016-04-09T10:12:25-04:00",
+    "commentCount": 25
+}

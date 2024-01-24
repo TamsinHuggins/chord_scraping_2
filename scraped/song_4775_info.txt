@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/first-aid-kit/the-lions-roar-chords-1099865",
+    "name": "First Aid Kit - The Lions Roar (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "First Aid Kit"
+    },
+    "datePublished": "2011-10-12T20:00:01-04:00",
+    "dateModified": "2016-05-16T14:20:10-04:00",
+    "commentCount": 7,
+    "musicalKey": "Am"
+}

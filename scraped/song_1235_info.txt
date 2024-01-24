@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mr-big/to-be-with-you-chords-38105",
+    "name": "Mr. Big - To Be With You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mr. Big"
+    },
+    "datePublished": "2002-10-28T19:00:00-05:00",
+    "dateModified": "2021-12-01T00:33:05-05:00",
+    "commentCount": 52,
+    "musicalKey": "E"
+}

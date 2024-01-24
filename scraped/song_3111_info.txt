@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jeremy-riddle/his-name-is-jesus-chords-4415891",
+    "name": "Jeremy Riddle - His Name Is Jesus (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jeremy Riddle"
+    },
+    "datePublished": "2022-11-07T23:07:10-05:00",
+    "dateModified": "2022-11-08T13:48:57-05:00",
+    "commentCount": 4
+}

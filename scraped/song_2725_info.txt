@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stevie-wonder/sir-duke-chords-258845",
+    "name": "Stevie Wonder - Sir Duke (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stevie Wonder"
+    },
+    "datePublished": "2005-09-26T04:11:03-04:00",
+    "dateModified": "2016-05-19T14:22:33-04:00",
+    "commentCount": 9
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/young-blood-chords-1974119",
+    "name": "Noah Kahan - Young Blood (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2017-04-03T05:35:30-04:00",
+    "dateModified": "2020-06-20T11:03:57-04:00",
+    "commentCount": 16
+}

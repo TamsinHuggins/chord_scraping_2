@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/3-idiots-give-me-some-sunshine-chords-909099",
+    "name": "Misc Soundtrack - 3 Idiots - Give Me Some Sunshine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2010-01-04T19:00:01-05:00",
+    "dateModified": "2023-05-15T18:02:00-04:00",
+    "commentCount": 17
+}

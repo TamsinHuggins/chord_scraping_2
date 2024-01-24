@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-diamond/sweet-caroline-chords-1053578",
+    "name": "Neil Diamond - Sweet Caroline (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: B Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Diamond"
+    },
+    "datePublished": "2011-05-16T20:00:01-04:00",
+    "dateModified": "2023-10-03T20:53:42-04:00",
+    "commentCount": 47,
+    "musicalKey": "B"
+}

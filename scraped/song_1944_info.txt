@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/lay-lady-lay-chords-135659",
+    "name": "Bob Dylan - Lay Lady Lay (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2004-09-04T20:00:00-04:00",
+    "dateModified": "2020-09-29T00:30:26-04:00",
+    "commentCount": 28
+}

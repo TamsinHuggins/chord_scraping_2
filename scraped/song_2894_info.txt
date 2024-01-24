@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ariana-grande/dangerous-woman-chords-1823499",
+    "name": "Ariana Grande - Dangerous Woman (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ariana Grande"
+    },
+    "datePublished": "2016-03-11T00:18:18-05:00",
+    "dateModified": "2019-02-11T12:44:20-05:00",
+    "commentCount": 17
+}

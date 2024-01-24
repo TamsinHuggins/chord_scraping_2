@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1838966",
+    "name": "Beyoncé - Daddy Lessons (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Beyoncé"
+    },
+    "datePublished": "2016-04-25T00:31:50-04:00",
+    "dateModified": "2021-04-02T08:19:23-04:00",
+    "commentCount": 12,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-tomlin/amazing-grace-my-chains-are-gone-chords-510843",
+    "name": "Chris Tomlin - Amazing Grace My Chains Are Gone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Tomlin"
+    },
+    "datePublished": "2007-04-30T20:00:01-04:00",
+    "dateModified": "2017-04-23T20:47:49-04:00",
+    "commentCount": 31
+}

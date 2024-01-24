@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-corries/the-wild-mountain-thyme-chords-1161659",
+    "name": "The Corries - The Wild Mountain Thyme (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 8",
+    "composer": {
+        "@type": "Person",
+        "name": "The Corries"
+    },
+    "datePublished": "2012-06-17T20:00:01-04:00",
+    "dateModified": "2016-06-08T12:06:19-04:00",
+    "commentCount": 12
+}

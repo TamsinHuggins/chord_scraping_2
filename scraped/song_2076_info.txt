@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/22-chords-1189512",
+    "name": "Taylor Swift - 22 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2012-10-18T20:00:01-04:00",
+    "dateModified": "2021-11-13T16:10:54-05:00",
+    "commentCount": 59,
+    "musicalKey": "G"
+}

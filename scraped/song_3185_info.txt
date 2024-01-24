@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ub40/red-red-wine-chords-201815",
+    "name": "Ub40 - Red Red Wine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "UB40"
+    },
+    "datePublished": "2005-07-29T20:00:00-04:00",
+    "dateModified": "2016-05-10T07:17:37-04:00",
+    "commentCount": 24
+}

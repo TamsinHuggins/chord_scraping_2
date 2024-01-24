@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-doors/light-my-fire-chords-1092216",
+    "name": "The Doors - Light My Fire (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Doors"
+    },
+    "datePublished": "2011-09-11T20:00:01-04:00",
+    "dateModified": "2022-10-03T22:10:47-04:00",
+    "commentCount": 29,
+    "musicalKey": "G"
+}

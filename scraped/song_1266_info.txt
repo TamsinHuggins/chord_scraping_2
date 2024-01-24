@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/live/lightning-crashes-chords-513068",
+    "name": "Live - Lightning Crashes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Live"
+    },
+    "datePublished": "2007-05-06T20:00:01-04:00",
+    "dateModified": "2021-10-04T19:38:12-04:00",
+    "commentCount": 53,
+    "musicalKey": "B"
+}

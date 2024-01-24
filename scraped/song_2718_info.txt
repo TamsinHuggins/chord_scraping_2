@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/redbone/come-and-get-your-love-chords-1471019",
+    "name": "Redbone - Come And Get Your Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Redbone"
+    },
+    "datePublished": "2014-03-19T20:00:01-04:00",
+    "dateModified": "2020-01-09T03:48:32-05:00",
+    "commentCount": 20
+}

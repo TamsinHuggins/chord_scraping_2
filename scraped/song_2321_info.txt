@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shonar-bangla-circus/epitaph-chords-3380954",
+    "name": "Shonar Bangla Circus - Epitaph (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Shonar Bangla Circus"
+    },
+    "datePublished": "2020-10-18T00:11:40-04:00",
+    "dateModified": "2020-10-21T07:32:46-04:00",
+    "commentCount": 0
+}

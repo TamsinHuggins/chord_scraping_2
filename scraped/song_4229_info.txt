@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/demi-lovato/skyscraper-chords-1074608",
+    "name": "Demi Lovato - Skyscraper (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Demi Lovato"
+    },
+    "datePublished": "2011-07-12T20:00:01-04:00",
+    "dateModified": "2020-03-05T22:39:01-05:00",
+    "commentCount": 20
+}

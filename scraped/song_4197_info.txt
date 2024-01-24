@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/vance-joy/mess-is-mine-chords-1501146",
+    "name": "Vance Joy - Mess Is Mine (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Vance Joy"
+    },
+    "datePublished": "2014-07-10T16:08:00-04:00",
+    "dateModified": "2019-12-19T09:32:29-05:00",
+    "commentCount": 29,
+    "musicalKey": "Em"
+}

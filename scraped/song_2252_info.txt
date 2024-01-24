@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/ride-chords-1204706",
+    "name": "Lana Del Rey - Ride (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2012-12-31T05:36:04-05:00",
+    "dateModified": "2016-09-23T12:03:16-04:00",
+    "commentCount": 13
+}

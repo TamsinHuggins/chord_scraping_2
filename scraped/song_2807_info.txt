@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/estelle/american-boy-chords-1227810",
+    "name": "Estelle - American Boy (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Estelle"
+    },
+    "datePublished": "2013-03-03T19:00:01-05:00",
+    "dateModified": "2019-11-25T23:23:08-05:00",
+    "commentCount": 12
+}

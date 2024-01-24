@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4711379",
+    "name": "Zaho De Sagazan - La Symphonie Des Éclairs (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zaho de Sagazan"
+    },
+    "datePublished": "2023-04-02T12:39:29-04:00",
+    "dateModified": "2023-04-08T09:00:51-04:00",
+    "commentCount": 1
+}

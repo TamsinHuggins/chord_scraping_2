@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alex-g-sandy-alex-g/sarah-chords-1711513",
+    "name": "Alex G ((Sandy) Alex G) - Sarah (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alex G ((Sandy) Alex G)"
+    },
+    "datePublished": "2015-02-12T02:48:35-05:00",
+    "dateModified": "2022-12-22T00:45:31-05:00",
+    "commentCount": 9
+}

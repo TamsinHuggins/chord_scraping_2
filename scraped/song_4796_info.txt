@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/you-cant-do-that-chords-1089771",
+    "name": "The Beatles - You Cant Do That (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2011-09-01T20:00:01-04:00",
+    "dateModified": "2023-08-08T18:43:22-04:00",
+    "commentCount": 17
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/come-as-you-are-chords-1202432",
+    "name": "Nirvana - Come As You Are (chords)",
+    "text": "Difficulty: beginner Tuning: D G C F A D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2012-12-20T19:00:01-05:00",
+    "dateModified": "2021-10-11T00:17:26-04:00",
+    "commentCount": 34
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phil-collins/in-the-air-tonight-chords-15811",
+    "name": "Phil Collins - In The Air Tonight (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phil Collins"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2018-09-14T23:57:40-04:00",
+    "commentCount": 33,
+    "musicalKey": "Dm"
+}

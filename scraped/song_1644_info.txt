@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fleetwood-mac/songbird-chords-1053301",
+    "name": "Fleetwood Mac - Songbird (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Fleetwood Mac"
+    },
+    "datePublished": "2011-05-11T20:00:01-04:00",
+    "dateModified": "2023-11-29T22:34:19-05:00",
+    "commentCount": 28,
+    "musicalKey": "F"
+}

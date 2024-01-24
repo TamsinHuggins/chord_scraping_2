@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-kooks/seaside-chords-426370",
+    "name": "The Kooks - Seaside (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D#m Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Kooks"
+    },
+    "datePublished": "2006-10-23T20:00:01-04:00",
+    "dateModified": "2020-09-22T10:08:33-04:00",
+    "commentCount": 47,
+    "musicalKey": "D#m"
+}

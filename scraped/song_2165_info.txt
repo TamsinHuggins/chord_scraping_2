@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/slander-us/love-is-gone-chords-3266909",
+    "name": "Slander (Us) - Love Is Gone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "SLANDER (US)"
+    },
+    "datePublished": "2020-07-27T14:38:45-04:00",
+    "dateModified": "2022-02-20T21:29:57-05:00",
+    "commentCount": 12,
+    "musicalKey": "Eb"
+}

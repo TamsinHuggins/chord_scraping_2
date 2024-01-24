@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/knockin-on-heavens-door-chords-66587",
+    "name": "Bob Dylan - Knockin On Heavens Door (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-02-22T20:01:04-05:00",
+    "commentCount": 21,
+    "musicalKey": "G"
+}

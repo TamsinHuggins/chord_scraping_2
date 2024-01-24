@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-hallyday/je-te-promets-chords-1107944",
+    "name": "Johnny Hallyday - Je Te Promets (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Hallyday"
+    },
+    "datePublished": "2011-11-14T19:00:01-05:00",
+    "dateModified": "2016-11-02T09:11:34-04:00",
+    "commentCount": 6,
+    "musicalKey": "C"
+}

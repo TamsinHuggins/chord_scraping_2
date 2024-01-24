@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/o-brother-where-art-thou-i-am-a-man-of-constant-sorrow-chords-1113648",
+    "name": "Misc Soundtrack - O Brother Where Art Thou - I Am A Man Of Constant Sorrow (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2011-12-05T19:00:01-05:00",
+    "dateModified": "2022-12-11T19:09:02-05:00",
+    "commentCount": 38
+}

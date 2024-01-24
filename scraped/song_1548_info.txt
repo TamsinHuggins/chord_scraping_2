@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stevie-wonder/superstition-chords-258837",
+    "name": "Stevie Wonder - Superstition (chords)",
+    "text": "Difficulty: intermediate Tuning: Eb Ab Db Gb Bb Eb Key: Ebm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stevie Wonder"
+    },
+    "datePublished": "2005-09-26T04:11:03-04:00",
+    "dateModified": "2021-05-14T11:00:48-04:00",
+    "commentCount": 4,
+    "musicalKey": "Ebm"
+}

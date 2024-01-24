@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-police/every-breath-you-take-chords-1087239",
+    "name": "The Police - Every Breath You Take (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Police"
+    },
+    "datePublished": "2011-08-25T20:00:01-04:00",
+    "dateModified": "2023-10-19T22:55:07-04:00",
+    "commentCount": 58,
+    "musicalKey": "Ab"
+}

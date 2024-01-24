@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/heart-of-gold-chords-56555",
+    "name": "Neil Young - Heart Of Gold (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2003-07-20T20:00:00-04:00",
+    "dateModified": "2020-03-25T11:43:13-04:00",
+    "commentCount": 56,
+    "musicalKey": "Em"
+}

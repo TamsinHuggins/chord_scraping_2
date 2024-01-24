@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phil-wickham/house-of-the-lord-chords-3641219",
+    "name": "Phil Wickham - House Of The Lord (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Phil Wickham"
+    },
+    "datePublished": "2021-04-02T02:47:17-04:00",
+    "dateModified": "2021-04-04T03:10:07-04:00",
+    "commentCount": 3,
+    "musicalKey": "Bb"
+}

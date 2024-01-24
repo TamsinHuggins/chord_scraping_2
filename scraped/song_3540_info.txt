@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billy-idol/rebel-yell-chords-938266",
+    "name": "Billy Idol - Rebel Yell (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billy Idol"
+    },
+    "datePublished": "2010-04-08T20:00:01-04:00",
+    "dateModified": "2016-06-22T10:51:50-04:00",
+    "commentCount": 4
+}

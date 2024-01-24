@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cyndi-lauper/girls-just-want-to-have-fun-chords-95644",
+    "name": "Cyndi Lauper - Girls Just Want To Have Fun (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Cyndi Lauper"
+    },
+    "datePublished": "2003-11-24T19:00:00-05:00",
+    "dateModified": "2019-03-13T00:00:08-04:00",
+    "commentCount": 8
+}

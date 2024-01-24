@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/goo-goo-dolls/name-chords-1506700",
+    "name": "Goo Goo Dolls - Name (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Goo Goo Dolls"
+    },
+    "datePublished": "2014-08-01T04:32:59-04:00",
+    "dateModified": "2021-11-08T11:43:17-05:00",
+    "commentCount": 29
+}

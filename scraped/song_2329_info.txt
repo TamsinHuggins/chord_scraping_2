@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bailey-zimmerman/religiously-chords-4688711",
+    "name": "Bailey Zimmerman - Religiously (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bailey Zimmerman"
+    },
+    "datePublished": "2023-03-17T02:14:22-04:00",
+    "dateModified": "2023-05-07T13:31:04-04:00",
+    "commentCount": 3,
+    "musicalKey": "Db"
+}

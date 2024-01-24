@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-black-crowes/she-talks-to-angels-chords-34983",
+    "name": "The Black Crowes - She Talks To Angels (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Black Crowes"
+    },
+    "datePublished": "2002-08-05T20:00:00-04:00",
+    "dateModified": "2020-05-31T20:14:23-04:00",
+    "commentCount": 29
+}

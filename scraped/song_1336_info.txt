@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-lumineers/stubborn-love-chords-1144923",
+    "name": "The Lumineers - Stubborn Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "The Lumineers"
+    },
+    "datePublished": "2012-04-10T20:00:01-04:00",
+    "dateModified": "2016-04-09T15:54:21-04:00",
+    "commentCount": 42
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sting/englishman-in-new-york-chords-2220",
+    "name": "Sting - Englishman In New York (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sting"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-01-28T12:24:09-05:00",
+    "commentCount": 15,
+    "musicalKey": "Bm"
+}

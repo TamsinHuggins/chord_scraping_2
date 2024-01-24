@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/poco/one-tear-at-a-time-chords-5116609",
+    "name": "Poco - One Tear At A Time (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Poco"
+    },
+    "datePublished": "2024-01-23T09:53:09-05:00",
+    "dateModified": "2024-01-23T15:03:02-05:00",
+    "commentCount": 0,
+    "musicalKey": "E"
+}

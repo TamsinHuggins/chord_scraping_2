@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-children/pinkfong-baby-shark-chords-2496414",
+    "name": "Misc Children - Pinkfong - Baby Shark (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Children"
+    },
+    "datePublished": "2018-10-18T17:46:18-04:00",
+    "dateModified": "2018-10-27T11:46:13-04:00",
+    "commentCount": 7,
+    "musicalKey": "G"
+}

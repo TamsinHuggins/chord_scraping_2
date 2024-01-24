@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/linkin-park/the-messenger-chords-985940",
+    "name": "Linkin Park - The Messenger (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Linkin Park"
+    },
+    "datePublished": "2010-09-08T20:00:01-04:00",
+    "dateModified": "2020-08-25T09:58:46-04:00",
+    "commentCount": 60,
+    "musicalKey": "G"
+}

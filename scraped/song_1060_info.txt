@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/cornerstone-chords-853930",
+    "name": "Arctic Monkeys - Cornerstone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2009-07-29T20:00:01-04:00",
+    "dateModified": "2017-07-15T07:43:47-04:00",
+    "commentCount": 40,
+    "musicalKey": "A"
+}

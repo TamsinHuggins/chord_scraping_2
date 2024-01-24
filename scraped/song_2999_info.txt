@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/christina-aguilera/beautiful-chords-885946",
+    "name": "Christina Aguilera - Beautiful (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Christina Aguilera"
+    },
+    "datePublished": "2009-10-25T20:00:01-04:00",
+    "dateModified": "2020-03-11T13:01:35-04:00",
+    "commentCount": 9,
+    "musicalKey": "D"
+}

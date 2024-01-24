@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-lennon/just-like-starting-over-chords-156779",
+    "name": "John Lennon - Just Like Starting Over (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Lennon"
+    },
+    "datePublished": "2005-01-09T19:00:00-05:00",
+    "dateModified": "2019-10-08T09:58:36-04:00",
+    "commentCount": 167,
+    "musicalKey": "A"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noel-harrison/windmills-of-your-mind-chords-70718",
+    "name": "Noel Harrison - Windmills Of Your Mind (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Noel Harrison"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2016-07-04T11:55:34-04:00",
+    "commentCount": 20
+}

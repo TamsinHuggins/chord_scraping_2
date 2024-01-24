@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ghost/mary-on-a-cross-chords-2825666",
+    "name": "Ghost - Mary On A Cross (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Ghost"
+    },
+    "datePublished": "2019-09-14T10:34:51-04:00",
+    "dateModified": "2022-10-15T17:06:05-04:00",
+    "commentCount": 16,
+    "musicalKey": "G#m"
+}

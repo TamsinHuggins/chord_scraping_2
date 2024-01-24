@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/counting-crows/accidentally-in-love-chords-128241",
+    "name": "Counting Crows - Accidentally In Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Counting Crows"
+    },
+    "datePublished": "2004-07-22T20:00:00-04:00",
+    "dateModified": "2021-11-08T17:06:01-05:00",
+    "commentCount": 65
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/demi-lovato/anyone-chords-2971376",
+    "name": "Demi Lovato - Anyone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Demi Lovato"
+    },
+    "datePublished": "2020-01-26T22:26:42-05:00",
+    "dateModified": "2021-03-07T21:21:49-05:00",
+    "commentCount": 5,
+    "musicalKey": "B"
+}

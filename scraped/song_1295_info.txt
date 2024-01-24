@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bobby-caldwell/what-you-wont-do-for-love-chords-64306",
+    "name": "Bobby Caldwell - What You Wont Do For Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bobby Caldwell"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2016-07-15T12:30:47-04:00",
+    "commentCount": 20
+}

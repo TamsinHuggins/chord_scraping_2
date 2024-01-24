@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/radio-ga-ga-chords-722646",
+    "name": "Queen - Radio Ga Ga (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2008-08-20T20:00:01-04:00",
+    "dateModified": "2017-05-10T23:29:33-04:00",
+    "commentCount": 10
+}

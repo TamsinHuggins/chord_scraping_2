@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/burt-bacharach/this-guys-in-love-with-you-chords-61493",
+    "name": "Burt Bacharach - This Guys In Love With You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Burt Bacharach"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-02-11T15:36:36-05:00",
+    "commentCount": 28,
+    "musicalKey": "Db"
+}

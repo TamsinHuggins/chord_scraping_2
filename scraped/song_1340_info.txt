@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dani-california-chords-351326",
+    "name": "Red Hot Chili Peppers - Dani California (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Red Hot Chili Peppers"
+    },
+    "datePublished": "2006-04-07T20:00:01-04:00",
+    "dateModified": "2018-09-20T04:29:49-04:00",
+    "commentCount": 68
+}

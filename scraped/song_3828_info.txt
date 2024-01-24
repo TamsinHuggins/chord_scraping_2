@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fitz-and-the-tantrums/out-of-my-league-chords-1401040",
+    "name": "Fitz And The Tantrums - Out Of My League (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fitz and The Tantrums"
+    },
+    "datePublished": "2013-07-11T20:00:01-04:00",
+    "dateModified": "2016-08-09T13:04:11-04:00",
+    "commentCount": 11
+}

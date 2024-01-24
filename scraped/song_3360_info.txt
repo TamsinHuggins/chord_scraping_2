@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hank-williams/lost-highway-chords-877798",
+    "name": "Hank Williams - Lost Highway (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hank Williams"
+    },
+    "datePublished": "2009-09-28T20:00:01-04:00",
+    "dateModified": "2016-06-27T09:37:15-04:00",
+    "commentCount": 9
+}

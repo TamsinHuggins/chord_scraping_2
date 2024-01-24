@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-last-dinner-party/nothing-matters-chords-4740680",
+    "name": "The Last Dinner Party - Nothing Matters (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Last Dinner Party"
+    },
+    "datePublished": "2023-04-24T14:57:02-04:00",
+    "dateModified": "2023-04-25T11:00:52-04:00",
+    "commentCount": 4
+}

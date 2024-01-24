@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kenya-grace/strangers-chords-4941973",
+    "name": "Kenya Grace - Strangers (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kenya Grace"
+    },
+    "datePublished": "2023-09-04T14:02:03-04:00",
+    "dateModified": "2023-09-12T16:25:55-04:00",
+    "commentCount": 1
+}

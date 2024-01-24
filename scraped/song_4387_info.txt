@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zack-tabudlo/binibini-chords-3653915",
+    "name": "Zack Tabudlo - Binibini (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zack Tabudlo"
+    },
+    "datePublished": "2021-04-09T15:26:49-04:00",
+    "dateModified": "2023-07-14T18:28:50-04:00",
+    "commentCount": 14,
+    "musicalKey": "F"
+}

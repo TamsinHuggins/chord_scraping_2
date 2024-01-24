@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/led-zeppelin/whole-lotta-love-chords-1982467",
+    "name": "Led Zeppelin - Whole Lotta Love (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Led Zeppelin"
+    },
+    "datePublished": "2017-04-17T03:30:43-04:00",
+    "dateModified": "2021-05-26T05:11:50-04:00",
+    "commentCount": 11
+}

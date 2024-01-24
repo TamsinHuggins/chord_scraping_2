@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/did-you-know-that-theres-a-tunnel-under-ocean-blvd-chords-4452119",
+    "name": "Lana Del Rey - Did You Know That Theres A Tunnel Under Ocean Blvd (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2022-12-07T11:50:25-05:00",
+    "dateModified": "2022-12-09T16:45:46-05:00",
+    "commentCount": 4
+}

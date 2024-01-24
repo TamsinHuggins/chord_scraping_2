@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-combs/fast-car-chords-4699448",
+    "name": "Luke Combs - Fast Car (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Combs"
+    },
+    "datePublished": "2023-03-24T22:13:47-04:00",
+    "dateModified": "2023-03-29T18:32:25-04:00",
+    "commentCount": 9
+}

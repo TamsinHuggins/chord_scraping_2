@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-diamond/i-am-i-said-chords-763132",
+    "name": "Neil Diamond - I Am I Said (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Diamond"
+    },
+    "datePublished": "2008-12-03T19:00:01-05:00",
+    "dateModified": "2015-03-27T03:09:13-04:00",
+    "commentCount": 5
+}

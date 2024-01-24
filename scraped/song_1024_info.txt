@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bright-eyes/lua-chords-391832",
+    "name": "Bright Eyes - Lua (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Bright Eyes"
+    },
+    "datePublished": "2006-07-21T20:00:01-04:00",
+    "dateModified": "2020-03-26T12:23:31-04:00",
+    "commentCount": 45
+}

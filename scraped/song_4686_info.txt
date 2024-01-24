@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-japanese-house/sunshine-baby-chords-4786328",
+    "name": "The Japanese House - Sunshine Baby (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Japanese House"
+    },
+    "datePublished": "2023-05-22T15:11:33-04:00",
+    "dateModified": "2023-05-24T13:53:46-04:00",
+    "commentCount": 0
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/evan-honer/jersey-giant-chords-4645997",
+    "name": "Evan Honer - Jersey Giant (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Evan Honer"
+    },
+    "datePublished": "2023-02-14T02:03:48-05:00",
+    "dateModified": "2023-10-12T21:27:18-04:00",
+    "commentCount": 6
+}

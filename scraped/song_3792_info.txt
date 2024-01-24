@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kavinsky/nightcall-chords-1095763",
+    "name": "Kavinsky - Nightcall (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kavinsky"
+    },
+    "datePublished": "2011-09-25T20:00:01-04:00",
+    "dateModified": "2016-05-12T11:41:55-04:00",
+    "commentCount": 7
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/don-mclean/vincent-chords-1746508",
+    "name": "Don Mclean - Vincent (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Don McLean"
+    },
+    "datePublished": "2015-06-22T06:32:56-04:00",
+    "dateModified": "2023-06-22T20:34:42-04:00",
+    "commentCount": 42,
+    "musicalKey": "G"
+}

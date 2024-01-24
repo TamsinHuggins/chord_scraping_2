@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-chords-202512",
+    "name": "The Beatles - And I Love Her (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2004-12-31T19:00:00-05:00",
+    "dateModified": "2018-09-21T10:57:11-04:00",
+    "commentCount": 24
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beabadoobee/lovesong-chords-4207090",
+    "name": "Beabadoobee - Lovesong (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "beabadoobee"
+    },
+    "datePublished": "2022-05-26T00:22:37-04:00",
+    "dateModified": "2022-06-02T07:39:37-04:00",
+    "commentCount": 7
+}

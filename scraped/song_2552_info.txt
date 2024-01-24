@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jorja-smith/blue-lights-chords-2723457",
+    "name": "Jorja Smith - Blue Lights (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Jorja Smith"
+    },
+    "datePublished": "2019-06-11T14:57:03-04:00",
+    "dateModified": "2019-06-11T18:58:29-04:00",
+    "commentCount": 1,
+    "musicalKey": "F"
+}

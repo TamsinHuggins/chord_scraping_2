@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/pirates-of-the-caribbean-hoist-the-colours-chords-1152785",
+    "name": "Misc Soundtrack - Pirates Of The Caribbean - Hoist The Colours (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2012-05-08T20:00:01-04:00",
+    "dateModified": "2019-12-18T06:06:39-05:00",
+    "commentCount": 3
+}

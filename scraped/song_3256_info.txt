@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/2977571",
+    "name": "Elley Duhé - Middle Of The Night (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elley Duhé"
+    },
+    "datePublished": "2020-02-02T04:46:14-05:00",
+    "dateModified": "2020-02-03T12:56:23-05:00",
+    "commentCount": 3
+}

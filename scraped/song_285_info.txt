@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/audrey-hepburn/moon-river-chords-1788365",
+    "name": "Audrey Hepburn - Moon River (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Audrey Hepburn"
+    },
+    "datePublished": "2015-12-04T09:51:19-05:00",
+    "dateModified": "2020-12-13T15:06:43-05:00",
+    "commentCount": 41,
+    "musicalKey": "G"
+}

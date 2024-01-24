@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/eight-days-a-week-chords-848333",
+    "name": "The Beatles - Eight Days A Week (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2009-07-14T20:00:01-04:00",
+    "dateModified": "2021-02-14T00:34:31-05:00",
+    "commentCount": 63
+}

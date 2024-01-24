@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jimi-hendrix/bold-as-love-chords-740177",
+    "name": "Jimi Hendrix - Bold As Love (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jimi Hendrix"
+    },
+    "datePublished": "2008-10-06T20:00:01-04:00",
+    "dateModified": "2016-06-23T11:48:23-04:00",
+    "commentCount": 10,
+    "musicalKey": "A"
+}

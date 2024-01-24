@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/slut-chords-5005567",
+    "name": "Taylor Swift - Slut (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2023-10-27T00:05:50-04:00",
+    "dateModified": "2023-11-26T21:02:15-05:00",
+    "commentCount": 1,
+    "musicalKey": "D"
+}

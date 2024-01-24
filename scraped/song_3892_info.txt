@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-harrison/give-me-love-give-me-peace-on-earth-chords-140844",
+    "name": "George Harrison - Give Me Love Give Me Peace On Earth (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "George Harrison"
+    },
+    "datePublished": "2004-10-11T20:00:00-04:00",
+    "dateModified": "2022-04-23T07:52:31-04:00",
+    "commentCount": 10
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grace-vanderwaal/i-dont-know-my-name-chords-1853764",
+    "name": "Grace Vanderwaal - I Dont Know My Name (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Grace VanderWaal"
+    },
+    "datePublished": "2016-06-15T10:49:08-04:00",
+    "dateModified": "2018-06-21T21:52:17-04:00",
+    "commentCount": 68,
+    "musicalKey": "C"
+}

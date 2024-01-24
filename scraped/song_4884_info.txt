@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/aladdin-a-whole-new-world-chords-171361",
+    "name": "Misc Cartoons - Aladdin - A Whole New World (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2005-03-13T19:00:00-05:00",
+    "dateModified": "2019-05-10T12:20:54-04:00",
+    "commentCount": 37,
+    "musicalKey": "D"
+}

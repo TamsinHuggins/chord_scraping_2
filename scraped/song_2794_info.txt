@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/orange-and-lemons/hanggang-kailan-chords-190069",
+    "name": "Orange And Lemons - Hanggang Kailan (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Orange and Lemons"
+    },
+    "datePublished": "2005-06-08T20:00:00-04:00",
+    "dateModified": "2024-01-08T16:10:06-05:00",
+    "commentCount": 15,
+    "musicalKey": "F"
+}

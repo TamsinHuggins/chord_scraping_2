@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/penny-lane-chords-1087974",
+    "name": "The Beatles - Penny Lane (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: B Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2011-08-28T20:00:01-04:00",
+    "dateModified": "2022-07-24T21:08:35-04:00",
+    "commentCount": 36,
+    "musicalKey": "B"
+}

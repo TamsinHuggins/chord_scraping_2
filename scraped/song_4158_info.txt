@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/leith-ross/well-never-have-sex-chords-3903566",
+    "name": "Leith Ross - Well Never Have Sex (chords)",
+    "text": "Difficulty:  Tuning: D A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Leith Ross"
+    },
+    "datePublished": "2021-10-08T12:52:01-04:00",
+    "dateModified": "2021-10-09T15:13:23-04:00",
+    "commentCount": 0,
+    "musicalKey": "D"
+}

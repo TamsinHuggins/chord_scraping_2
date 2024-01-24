@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/hey-jude-chords-1061739",
+    "name": "The Beatles - Hey Jude (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2011-05-30T20:00:01-04:00",
+    "dateModified": "2023-12-28T21:34:05-05:00",
+    "commentCount": 141,
+    "musicalKey": "F"
+}

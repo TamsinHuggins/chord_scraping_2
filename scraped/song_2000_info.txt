@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/down-by-the-river-chords-1044692",
+    "name": "Neil Young - Down By The River (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2011-04-12T20:00:01-04:00",
+    "dateModified": "2023-12-18T22:15:21-05:00",
+    "commentCount": 17,
+    "musicalKey": "Em"
+}

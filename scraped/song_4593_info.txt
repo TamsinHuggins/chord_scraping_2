@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/canned-heat/going-up-the-country-chords-1087336",
+    "name": "Canned Heat - Going Up The Country (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Canned Heat"
+    },
+    "datePublished": "2011-08-25T20:00:01-04:00",
+    "dateModified": "2023-10-13T22:27:44-04:00",
+    "commentCount": 22
+}

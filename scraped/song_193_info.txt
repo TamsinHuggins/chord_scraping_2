@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/niall-horan/this-town-chords-1879128",
+    "name": "Niall Horan - This Town (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Niall Horan"
+    },
+    "datePublished": "2016-09-29T18:44:25-04:00",
+    "dateModified": "2019-08-24T11:34:15-04:00",
+    "commentCount": 74,
+    "musicalKey": "C"
+}

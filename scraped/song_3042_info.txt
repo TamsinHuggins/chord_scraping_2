@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/the-midnight-special-chords-1050571",
+    "name": "Creedence Clearwater Revival - The Midnight Special (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Creedence Clearwater Revival"
+    },
+    "datePublished": "2011-04-26T20:00:01-04:00",
+    "dateModified": "2023-05-16T21:27:23-04:00",
+    "commentCount": 16
+}

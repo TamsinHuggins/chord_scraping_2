@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mitski/washing-machine-heart-chords-2449627",
+    "name": "Mitski - Washing Machine Heart (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mitski"
+    },
+    "datePublished": "2018-08-14T08:06:40-04:00",
+    "dateModified": "2021-06-08T19:34:14-04:00",
+    "commentCount": 7,
+    "musicalKey": "F#m"
+}

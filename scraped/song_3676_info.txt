@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-jackson/human-nature-chords-212731",
+    "name": "Michael Jackson - Human Nature (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Jackson"
+    },
+    "datePublished": "2005-09-18T20:00:00-04:00",
+    "dateModified": "2016-04-25T10:28:47-04:00",
+    "commentCount": 24
+}

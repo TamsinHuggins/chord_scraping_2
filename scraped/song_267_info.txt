@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sia/snowman-chords-2233623",
+    "name": "Sia - Snowman (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Sia"
+    },
+    "datePublished": "2017-11-13T07:58:37-05:00",
+    "dateModified": "2021-12-26T13:44:14-05:00",
+    "commentCount": 38,
+    "musicalKey": "Db"
+}

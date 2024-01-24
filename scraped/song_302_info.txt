@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bill-withers/lean-on-me-chords-150987",
+    "name": "Bill Withers - Lean On Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bill Withers"
+    },
+    "datePublished": "2004-12-12T19:00:00-05:00",
+    "dateModified": "2021-12-10T01:19:09-05:00",
+    "commentCount": 104,
+    "musicalKey": "C"
+}

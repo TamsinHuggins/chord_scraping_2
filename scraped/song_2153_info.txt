@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dr-dog/whered-all-the-time-go-chords-945193",
+    "name": "Dr. Dog - Whered All The Time Go (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dr. Dog"
+    },
+    "datePublished": "2010-04-29T20:00:01-04:00",
+    "dateModified": "2010-04-30T00:00:01-04:00",
+    "commentCount": 7
+}

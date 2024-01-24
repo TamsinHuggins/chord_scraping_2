@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rahat-fateh-ali-khan/o-re-piya-chords-1772112",
+    "name": "Rahat Fateh Ali Khan - O Re Piya (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Rahat Fateh Ali Khan"
+    },
+    "datePublished": "2015-10-12T18:17:14-04:00",
+    "dateModified": "2022-08-21T14:57:06-04:00",
+    "commentCount": 2,
+    "musicalKey": "Bm"
+}

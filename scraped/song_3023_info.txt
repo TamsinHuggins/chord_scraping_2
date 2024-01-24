@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-flynn/the-water-chords-958506",
+    "name": "Johnny Flynn - The Water (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Flynn"
+    },
+    "datePublished": "2010-06-14T20:00:01-04:00",
+    "dateModified": "2018-10-23T10:01:03-04:00",
+    "commentCount": 6,
+    "musicalKey": "C"
+}

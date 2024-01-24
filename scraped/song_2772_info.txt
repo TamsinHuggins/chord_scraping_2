@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-kushner/daylight-chords-4685168",
+    "name": "David Kushner - Daylight (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Kushner"
+    },
+    "datePublished": "2023-03-14T09:55:58-04:00",
+    "dateModified": "2023-08-09T00:33:07-04:00",
+    "commentCount": 3,
+    "musicalKey": "F"
+}

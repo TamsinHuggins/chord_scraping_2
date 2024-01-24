@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alessia-cara/how-far-ill-go-chords-1905507",
+    "name": "Alessia Cara - How Far Ill Go (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Alessia Cara"
+    },
+    "datePublished": "2016-11-28T07:27:53-05:00",
+    "dateModified": "2021-06-03T12:03:32-04:00",
+    "commentCount": 89,
+    "musicalKey": "C"
+}

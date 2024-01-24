@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bee-gees/to-love-somebody-chords-1088898",
+    "name": "Bee Gees - To Love Somebody (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bee Gees"
+    },
+    "datePublished": "2011-08-30T20:00:01-04:00",
+    "dateModified": "2023-02-05T21:00:46-05:00",
+    "commentCount": 5
+}

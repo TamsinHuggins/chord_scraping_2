@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/evanescence/my-immortal-chords-92618",
+    "name": "Evanescence - My Immortal (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Evanescence"
+    },
+    "datePublished": "2003-10-22T20:00:00-04:00",
+    "dateModified": "2018-08-29T05:41:13-04:00",
+    "commentCount": 74
+}

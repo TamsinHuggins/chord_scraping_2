@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pj-morton/how-deep-is-your-love-chords-2497758",
+    "name": "Pj Morton - How Deep Is Your Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "PJ Morton"
+    },
+    "datePublished": "2018-10-20T13:58:56-04:00",
+    "dateModified": "2019-05-10T20:10:24-04:00",
+    "commentCount": 1,
+    "musicalKey": "B"
+}

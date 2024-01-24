@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/boyce-avenue/diamonds-chords-4291778",
+    "name": "Boyce Avenue - Diamonds (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Boyce Avenue"
+    },
+    "datePublished": "2022-07-30T14:31:58-04:00",
+    "dateModified": "2022-08-07T21:04:33-04:00",
+    "commentCount": 0,
+    "musicalKey": "C"
+}

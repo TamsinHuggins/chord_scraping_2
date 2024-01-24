@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-mountain-goats/no-children-chords-1494435",
+    "name": "The Mountain Goats - No Children (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Mountain Goats"
+    },
+    "datePublished": "2014-06-19T16:05:29-04:00",
+    "dateModified": "2022-07-27T13:51:13-04:00",
+    "commentCount": 8
+}

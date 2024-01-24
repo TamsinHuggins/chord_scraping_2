@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/give-thanks-with-a-grateful-heart-chords-1098126",
+    "name": "Misc Praise Songs - Give Thanks With A Grateful Heart (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Praise Songs"
+    },
+    "datePublished": "2011-10-05T20:00:01-04:00",
+    "dateModified": "2023-11-11T19:29:39-05:00",
+    "commentCount": 7,
+    "musicalKey": "C"
+}

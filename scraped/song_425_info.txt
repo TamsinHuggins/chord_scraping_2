@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-petty-and-the-heartbreakers/mary-janes-last-dance-chords-205804",
+    "name": "Tom Petty And The Heartbreakers - Mary Janes Last Dance (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Petty and The Heartbreakers"
+    },
+    "datePublished": "2005-08-14T20:00:00-04:00",
+    "dateModified": "2023-09-29T13:11:55-04:00",
+    "commentCount": 66,
+    "musicalKey": "Am"
+}

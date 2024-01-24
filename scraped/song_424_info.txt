@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elliott-smith/between-the-bars-chords-364836",
+    "name": "Elliott Smith - Between The Bars (chords)",
+    "text": "Difficulty:  Tuning: D G C F A D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elliott Smith"
+    },
+    "datePublished": "2006-05-12T20:00:01-04:00",
+    "dateModified": "2016-07-23T09:35:41-04:00",
+    "commentCount": 34
+}

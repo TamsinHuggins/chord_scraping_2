@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/5073643",
+    "name": "Reneé Rapp - Not My Fault (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Reneé Rapp"
+    },
+    "datePublished": "2023-12-19T02:53:42-05:00",
+    "dateModified": "2023-12-19T07:53:42-05:00",
+    "commentCount": 2
+}

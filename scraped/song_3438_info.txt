@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/video-games-chords-1095327",
+    "name": "Lana Del Rey - Video Games (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2011-09-25T20:00:01-04:00",
+    "dateModified": "2018-02-27T16:10:16-05:00",
+    "commentCount": 20
+}

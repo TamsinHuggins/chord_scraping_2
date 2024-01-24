@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tyler-childers/whitehouse-road-chords-1993557",
+    "name": "Tyler Childers - Whitehouse Road (chords)",
+    "text": "Difficulty: beginner Tuning: D A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Tyler Childers"
+    },
+    "datePublished": "2017-05-08T19:31:40-04:00",
+    "dateModified": "2023-01-28T22:34:22-05:00",
+    "commentCount": 49
+}

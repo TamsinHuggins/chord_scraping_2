@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/cecilia-chords-931605",
+    "name": "Simon & Garfunkel - Cecilia (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Simon &amp; Garfunkel"
+    },
+    "datePublished": "2010-03-16T20:00:01-04:00",
+    "dateModified": "2019-12-19T11:05:50-05:00",
+    "commentCount": 16,
+    "musicalKey": "B"
+}

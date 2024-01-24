@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/176990",
+    "name": "Charles Aznavour - La Bohème (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Fm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Charles Aznavour"
+    },
+    "datePublished": "2005-04-07T20:00:00-04:00",
+    "dateModified": "2018-10-02T07:44:32-04:00",
+    "commentCount": 5,
+    "musicalKey": "Fm"
+}

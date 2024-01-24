@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tim-buckley/song-to-the-siren-chords-371382",
+    "name": "Tim Buckley - Song To The Siren (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Tim Buckley"
+    },
+    "datePublished": "2006-05-29T20:00:01-04:00",
+    "dateModified": "2016-06-07T15:13:49-04:00",
+    "commentCount": 16
+}

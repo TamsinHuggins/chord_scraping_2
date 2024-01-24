@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dnce/cake-by-the-ocean-chords-1768993",
+    "name": "Dnce - Cake By The Ocean (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "DNCE"
+    },
+    "datePublished": "2015-09-23T03:27:37-04:00",
+    "dateModified": "2016-07-07T14:33:53-04:00",
+    "commentCount": 43
+}

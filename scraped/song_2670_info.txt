@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neutral-milk-hotel/oh-comely-chords-261688",
+    "name": "Neutral Milk Hotel - Oh Comely (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neutral Milk Hotel"
+    },
+    "datePublished": "2005-10-06T20:18:05-04:00",
+    "dateModified": "2020-01-21T21:43:36-05:00",
+    "commentCount": 32
+}

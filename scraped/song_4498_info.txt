@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lenka/the-show-chords-809905",
+    "name": "Lenka - The Show (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lenka"
+    },
+    "datePublished": "2009-04-06T20:00:01-04:00",
+    "dateModified": "2018-07-25T06:18:32-04:00",
+    "commentCount": 27
+}

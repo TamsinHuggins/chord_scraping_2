@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gregory-alan-isakov/san-luis-chords-2484519",
+    "name": "Gregory Alan Isakov - San Luis (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Gregory Alan Isakov"
+    },
+    "datePublished": "2018-10-05T03:42:17-04:00",
+    "dateModified": "2020-01-06T04:05:14-05:00",
+    "commentCount": 16,
+    "musicalKey": "C"
+}

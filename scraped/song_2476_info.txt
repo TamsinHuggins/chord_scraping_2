@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bailey-zimmerman/fall-in-love-chords-4068376",
+    "name": "Bailey Zimmerman - Fall In Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Bailey Zimmerman"
+    },
+    "datePublished": "2022-02-11T09:50:45-05:00",
+    "dateModified": "2022-11-30T10:45:53-05:00",
+    "commentCount": 7
+}

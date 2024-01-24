@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joan-osborne/one-of-us-chords-630197",
+    "name": "Joan Osborne - One Of Us (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F#m Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Joan Osborne"
+    },
+    "datePublished": "2008-01-22T19:00:01-05:00",
+    "dateModified": "2019-12-09T13:22:50-05:00",
+    "commentCount": 32,
+    "musicalKey": "F#m"
+}

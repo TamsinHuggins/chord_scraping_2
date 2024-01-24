@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/the-man-comes-around-chords-860606",
+    "name": "Johnny Cash - The Man Comes Around (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2009-08-14T20:00:01-04:00",
+    "dateModified": "2019-05-12T11:05:45-04:00",
+    "commentCount": 19
+}

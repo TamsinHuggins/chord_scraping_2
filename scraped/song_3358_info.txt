@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/steve-miller-band/jet-airliner-chords-109405",
+    "name": "Steve Miller Band - Jet Airliner (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Steve Miller Band"
+    },
+    "datePublished": "2004-03-18T19:00:00-05:00",
+    "dateModified": "2019-12-02T07:32:44-05:00",
+    "commentCount": 21
+}

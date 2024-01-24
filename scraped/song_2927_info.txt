@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/million-dollar-man-chords-1237024",
+    "name": "Lana Del Rey - Million Dollar Man (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2013-04-08T20:00:01-04:00",
+    "dateModified": "2018-07-30T08:39:46-04:00",
+    "commentCount": 13
+}

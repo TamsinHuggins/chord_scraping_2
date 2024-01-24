@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mitski/a-pearl-chords-2451639",
+    "name": "Mitski - A Pearl (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mitski"
+    },
+    "datePublished": "2018-08-17T19:31:37-04:00",
+    "dateModified": "2018-08-23T23:49:57-04:00",
+    "commentCount": 9,
+    "musicalKey": "Eb"
+}

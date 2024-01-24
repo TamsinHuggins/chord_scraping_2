@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/happy-birthday-chords-1068195",
+    "name": "Misc Traditional - Happy Birthday (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2011-06-20T20:00:01-04:00",
+    "dateModified": "2020-02-03T23:05:17-05:00",
+    "commentCount": 41,
+    "musicalKey": "A"
+}

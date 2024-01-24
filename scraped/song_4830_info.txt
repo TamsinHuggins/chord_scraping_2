@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-smashing-pumpkins/bullet-with-butterfly-wings-chords-92367",
+    "name": "The Smashing Pumpkins - Bullet With Butterfly Wings (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Smashing Pumpkins"
+    },
+    "datePublished": "2003-10-21T20:00:00-04:00",
+    "dateModified": "2016-06-25T11:06:26-04:00",
+    "commentCount": 4
+}

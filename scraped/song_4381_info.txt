@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/faye-webster/in-a-good-way-chords-3110717",
+    "name": "Faye Webster - In A Good Way (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Faye Webster"
+    },
+    "datePublished": "2020-04-24T17:51:40-04:00",
+    "dateModified": "2022-07-02T13:02:42-04:00",
+    "commentCount": 1
+}

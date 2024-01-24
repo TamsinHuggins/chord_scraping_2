@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/vineyard-music/holy-and-anointed-one-chords-277712",
+    "name": "Vineyard Music - Holy And Anointed One (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Vineyard Music"
+    },
+    "datePublished": "2005-12-09T19:00:01-05:00",
+    "dateModified": "2016-06-21T11:58:05-04:00",
+    "commentCount": 6
+}

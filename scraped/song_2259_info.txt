@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johann-pachelbel/canon-in-d-chords-1092203",
+    "name": "Johann Pachelbel - Canon In D (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johann Pachelbel"
+    },
+    "datePublished": "2011-09-10T12:09:40-04:00",
+    "dateModified": "2023-12-15T23:51:20-05:00",
+    "commentCount": 18,
+    "musicalKey": "D"
+}

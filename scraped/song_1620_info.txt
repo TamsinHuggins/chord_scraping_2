@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/conan-gray/memories-chords-4152721",
+    "name": "Conan Gray - Memories (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Conan Gray"
+    },
+    "datePublished": "2022-04-14T11:22:38-04:00",
+    "dateModified": "2022-04-18T01:50:17-04:00",
+    "commentCount": 8,
+    "musicalKey": "B"
+}

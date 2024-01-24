@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sublime/what-i-got-chords-2553",
+    "name": "Sublime - What I Got (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sublime"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2023-05-29T20:46:00-04:00",
+    "commentCount": 32,
+    "musicalKey": "D"
+}

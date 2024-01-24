@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simple-plan/im-just-a-kid-chords-722974",
+    "name": "Simple Plan - Im Just A Kid (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Simple Plan"
+    },
+    "datePublished": "2008-08-21T20:00:01-04:00",
+    "dateModified": "2020-11-03T05:44:31-05:00",
+    "commentCount": 25
+}

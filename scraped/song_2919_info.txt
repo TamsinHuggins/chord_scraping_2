@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alan-jackson/drive-for-daddy-gene-chords-921418",
+    "name": "Alan Jackson - Drive For Daddy Gene (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Alan Jackson"
+    },
+    "datePublished": "2010-02-14T19:00:01-05:00",
+    "dateModified": "2019-06-13T10:15:22-04:00",
+    "commentCount": 10,
+    "musicalKey": "B"
+}

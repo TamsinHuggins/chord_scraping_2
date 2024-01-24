@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noel-gallaghers-high-flying-birds/dead-in-the-water-chords-2239705",
+    "name": "Noel Gallagher's High Flying Birds - Dead In The Water (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Noel Gallagher&#039;s High Flying Birds"
+    },
+    "datePublished": "2017-11-21T17:27:40-05:00",
+    "dateModified": "2017-11-23T21:20:56-05:00",
+    "commentCount": 35,
+    "musicalKey": "Em"
+}

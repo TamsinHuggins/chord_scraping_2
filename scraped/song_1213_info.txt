@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bobby-hebb/sunny-chords-70791",
+    "name": "Bobby Hebb - Sunny (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bobby Hebb"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2022-07-23T12:06:39-04:00",
+    "commentCount": 13,
+    "musicalKey": "Em"
+}

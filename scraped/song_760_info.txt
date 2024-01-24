@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/grease-hopelessly-devoted-to-you-chords-78008",
+    "name": "Misc Soundtrack - Grease - Hopelessly Devoted To You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-01-09T17:26:25-05:00",
+    "commentCount": 23,
+    "musicalKey": "Dm"
+}

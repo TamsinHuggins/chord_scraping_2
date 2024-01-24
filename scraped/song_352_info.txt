@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/youre-gonna-go-far-chords-4783079",
+    "name": "Noah Kahan - Youre Gonna Go Far (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2023-05-21T06:39:48-04:00",
+    "dateModified": "2023-08-22T02:59:46-04:00",
+    "commentCount": 5
+}

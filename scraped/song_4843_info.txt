@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/scorpions/rock-you-like-a-hurricane-chords-668765",
+    "name": "Scorpions - Rock You Like A Hurricane (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Scorpions"
+    },
+    "datePublished": "2008-04-23T20:00:01-04:00",
+    "dateModified": "2023-01-28T01:23:15-05:00",
+    "commentCount": 13,
+    "musicalKey": "Em"
+}

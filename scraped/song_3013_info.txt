@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/belle-and-sebastian/piazza-new-york-catcher-chords-476509",
+    "name": "Belle And Sebastian - Piazza New York Catcher (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Belle and Sebastian"
+    },
+    "datePublished": "2007-02-20T19:00:01-05:00",
+    "dateModified": "2016-05-16T13:46:13-04:00",
+    "commentCount": 32
+}

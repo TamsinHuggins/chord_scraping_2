@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/air-supply/making-love-out-of-nothing-at-all-chords-768710",
+    "name": "Air Supply - Making Love Out Of Nothing At All (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Air Supply"
+    },
+    "datePublished": "2008-12-16T19:00:01-05:00",
+    "dateModified": "2016-05-27T09:59:53-04:00",
+    "commentCount": 6
+}

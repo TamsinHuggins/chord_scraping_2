@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dixie-chicks/travelin-soldier-chords-1408876",
+    "name": "Dixie Chicks - Travelin Soldier (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Dixie Chicks"
+    },
+    "datePublished": "2013-08-05T20:00:01-04:00",
+    "dateModified": "2016-08-16T19:56:55-04:00",
+    "commentCount": 7
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/matt-gilman/to-worship-you-i-live-chords-1251189",
+    "name": "Matt Gilman - To Worship You I Live (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Matt Gilman"
+    },
+    "datePublished": "2013-06-23T20:00:01-04:00",
+    "dateModified": "2016-07-04T08:45:41-04:00",
+    "commentCount": 5
+}

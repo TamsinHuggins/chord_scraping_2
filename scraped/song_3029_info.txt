@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/the-jungle-book-the-bare-necessities-chords-1690152",
+    "name": "Misc Cartoons - The Jungle Book - The Bare Necessities (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2014-12-14T14:59:00-05:00",
+    "dateModified": "2019-09-06T03:54:34-04:00",
+    "commentCount": 4
+}

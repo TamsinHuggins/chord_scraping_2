@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/onerepublic/i-aint-worried-chords-4312637",
+    "name": "Onerepublic - I Aint Worried (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "OneRepublic"
+    },
+    "datePublished": "2022-08-16T07:42:36-04:00",
+    "dateModified": "2022-10-09T06:36:08-04:00",
+    "commentCount": 6,
+    "musicalKey": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/only-ones-who-know-chords-508516",
+    "name": "Arctic Monkeys - Only Ones Who Know (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2007-04-25T20:00:01-04:00",
+    "dateModified": "2022-02-13T19:23:32-05:00",
+    "commentCount": 32,
+    "musicalKey": "F"
+}

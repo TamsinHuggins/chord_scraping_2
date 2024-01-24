@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/3-doors-down/here-without-you-chords-131323",
+    "name": "3 Doors Down - Here Without You (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: Bbm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "3 Doors Down"
+    },
+    "datePublished": "2004-08-09T20:00:00-04:00",
+    "dateModified": "2020-05-07T08:38:31-04:00",
+    "commentCount": 93,
+    "musicalKey": "Bbm"
+}

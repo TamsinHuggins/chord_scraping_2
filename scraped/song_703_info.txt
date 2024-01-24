@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-chords-667667",
+    "name": "Jimi Hendrix - Hey Joe (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jimi Hendrix"
+    },
+    "datePublished": "2008-04-20T20:00:01-04:00",
+    "dateModified": "2020-08-11T10:20:31-04:00",
+    "commentCount": 38,
+    "musicalKey": "G"
+}

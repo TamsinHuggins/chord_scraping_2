@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/duffy/mercy-chords-1188425",
+    "name": "Duffy - Mercy (chords)",
+    "text": "Difficulty: beginner Tuning: D G D G B D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Duffy"
+    },
+    "datePublished": "2012-10-16T20:00:01-04:00",
+    "dateModified": "2016-06-24T11:59:45-04:00",
+    "commentCount": 3
+}

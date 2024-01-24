@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/regina-spektor/two-birds-chords-921754",
+    "name": "Regina Spektor - Two Birds (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Regina Spektor"
+    },
+    "datePublished": "2010-02-15T19:00:01-05:00",
+    "dateModified": "2017-12-28T23:56:28-05:00",
+    "commentCount": 8
+}

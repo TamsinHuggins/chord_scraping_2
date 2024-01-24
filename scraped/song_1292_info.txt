@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stealers-wheel/stuck-in-the-middle-with-you-chords-85774",
+    "name": "Stealers Wheel - Stuck In The Middle With You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stealers Wheel"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-06-24T22:24:16-04:00",
+    "commentCount": 7
+}

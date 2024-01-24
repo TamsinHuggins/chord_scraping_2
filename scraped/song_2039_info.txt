@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/wonka-for-a-moment-chords-5060695",
+    "name": "Misc Soundtrack - Wonka - For A Moment (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-12-09T04:20:22-05:00",
+    "dateModified": "2023-12-09T09:20:23-05:00",
+    "commentCount": 0
+}

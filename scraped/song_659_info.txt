@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/albert-e-brumley/ill-fly-away-chords-815083",
+    "name": "Albert E. Brumley - Ill Fly Away (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Albert E. Brumley"
+    },
+    "datePublished": "2009-04-20T20:00:01-04:00",
+    "dateModified": "2020-01-04T12:42:56-05:00",
+    "commentCount": 31,
+    "musicalKey": "G"
+}

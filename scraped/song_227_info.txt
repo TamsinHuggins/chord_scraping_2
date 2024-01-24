@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/calum-scott/dancing-on-my-own-chords-1835574",
+    "name": "Calum Scott - Dancing On My Own (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Calum Scott"
+    },
+    "datePublished": "2016-04-14T04:03:52-04:00",
+    "dateModified": "2020-04-07T18:10:03-04:00",
+    "commentCount": 65,
+    "musicalKey": "C"
+}

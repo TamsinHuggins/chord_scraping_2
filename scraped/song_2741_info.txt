@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/freya-ridings/lost-without-you-chords-2319697",
+    "name": "Freya Ridings - Lost Without You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Freya Ridings"
+    },
+    "datePublished": "2018-02-15T16:07:00-05:00",
+    "dateModified": "2018-07-30T07:51:35-04:00",
+    "commentCount": 12
+}

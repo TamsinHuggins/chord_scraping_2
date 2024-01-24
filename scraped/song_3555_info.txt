@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/high-school-musical-breaking-free-chords-334142",
+    "name": "Misc Soundtrack - High School Musical - Breaking Free (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2006-02-17T19:00:01-05:00",
+    "dateModified": "2021-02-15T06:55:38-05:00",
+    "commentCount": 16
+}

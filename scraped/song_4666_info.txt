@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/arcadia-chords-3862130",
+    "name": "Lana Del Rey - Arcadia (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2021-09-05T06:10:53-04:00",
+    "dateModified": "2021-09-08T17:45:29-04:00",
+    "commentCount": 2,
+    "musicalKey": "Bb"
+}

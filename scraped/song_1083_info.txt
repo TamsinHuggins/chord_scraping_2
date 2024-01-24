@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/teenage-dream-chords-4945525",
+    "name": "Olivia Rodrigo - Teenage Dream (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2023-09-07T17:37:56-04:00",
+    "dateModified": "2023-11-11T03:09:29-05:00",
+    "commentCount": 8,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/charles-aznavour/emmenez-moi-chords-1766656",
+    "name": "Charles Aznavour - Emmenez-Moi (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Charles Aznavour"
+    },
+    "datePublished": "2015-09-22T15:59:04-04:00",
+    "dateModified": "2015-09-22T19:59:04-04:00",
+    "commentCount": 6
+}

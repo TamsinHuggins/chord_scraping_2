@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hank-williams-jr-/weatherman-chords-2121253",
+    "name": "Hank Williams Jr. - Weatherman (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Hank Williams Jr."
+    },
+    "datePublished": "2017-08-24T03:20:43-04:00",
+    "dateModified": "2021-03-18T23:51:07-04:00",
+    "commentCount": 3
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lit/my-own-worst-enemy-chords-950238",
+    "name": "Lit - My Own Worst Enemy (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lit"
+    },
+    "datePublished": "2010-05-17T20:00:01-04:00",
+    "dateModified": "2016-07-13T12:22:35-04:00",
+    "commentCount": 7
+}

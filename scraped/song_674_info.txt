@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/all-you-need-is-love-chords-878481",
+    "name": "The Beatles - All You Need Is Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2009-09-30T20:00:01-04:00",
+    "dateModified": "2020-03-04T12:18:08-05:00",
+    "commentCount": 35,
+    "musicalKey": "G"
+}

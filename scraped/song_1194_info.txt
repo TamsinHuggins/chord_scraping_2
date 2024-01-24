@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/northern-attitude-chords-4353359",
+    "name": "Noah Kahan - Northern Attitude (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2022-09-18T01:14:28-04:00",
+    "dateModified": "2023-11-18T22:19:15-05:00",
+    "commentCount": 1
+}

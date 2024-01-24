@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cat-stevens-yusuf-islam/peace-train-chords-1051310",
+    "name": "Cat Stevens (Yusuf Islam) - Peace Train (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Cat Stevens (Yusuf Islam)"
+    },
+    "datePublished": "2011-04-26T20:00:01-04:00",
+    "dateModified": "2023-11-02T22:31:49-04:00",
+    "commentCount": 13
+}

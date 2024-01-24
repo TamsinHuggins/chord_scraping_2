@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/dilwale-janam-janam-chords-1789451",
+    "name": "Misc Soundtrack - Dilwale - Janam Janam (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2015-12-16T02:42:38-05:00",
+    "dateModified": "2021-10-15T12:19:54-04:00",
+    "commentCount": 15
+}

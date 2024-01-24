@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/morgan-wallen/wasted-on-you-chords-3317630",
+    "name": "Morgan Wallen - Wasted On You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Morgan Wallen"
+    },
+    "datePublished": "2020-09-01T02:29:39-04:00",
+    "dateModified": "2021-01-13T16:40:55-05:00",
+    "commentCount": 12,
+    "musicalKey": "Bm"
+}

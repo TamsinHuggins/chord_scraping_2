@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/guns-n-roses/knockin-on-heavens-door-chords-1097849",
+    "name": "Guns N' Roses - Knockin On Heavens Door (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Guns N&#039; Roses"
+    },
+    "datePublished": "2011-10-04T20:00:01-04:00",
+    "dateModified": "2022-02-02T21:09:28-05:00",
+    "commentCount": 25,
+    "musicalKey": "G"
+}

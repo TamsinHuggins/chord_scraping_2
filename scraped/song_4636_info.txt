@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beabadoobee/apple-cider-chords-2714877",
+    "name": "Beabadoobee - Apple Cider (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "beabadoobee"
+    },
+    "datePublished": "2019-06-03T23:24:00-04:00",
+    "dateModified": "2019-06-07T11:49:20-04:00",
+    "commentCount": 1
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/homeward-bound-chords-836418",
+    "name": "Simon & Garfunkel - Homeward Bound (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Simon &amp; Garfunkel"
+    },
+    "datePublished": "2009-06-12T20:00:01-04:00",
+    "dateModified": "2022-09-14T03:00:04-04:00",
+    "commentCount": 27,
+    "musicalKey": "Bb"
+}

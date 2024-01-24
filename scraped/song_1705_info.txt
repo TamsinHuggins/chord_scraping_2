@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/delicate-chords-2230835",
+    "name": "Taylor Swift - Delicate (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2017-11-09T13:10:58-05:00",
+    "dateModified": "2020-03-19T12:23:09-04:00",
+    "commentCount": 23,
+    "musicalKey": "C"
+}

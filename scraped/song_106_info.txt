@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/extreme/more-than-words-chords-14087",
+    "name": "Extreme - More Than Words (chords)",
+    "text": "Difficulty: intermediate Tuning: Eb Ab Db Gb Bb Eb Key: F# Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Extreme"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2021-12-26T06:13:15-05:00",
+    "commentCount": 112,
+    "musicalKey": "F#"
+}

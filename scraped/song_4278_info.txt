@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/bad-moon-rising-chords-1242785",
+    "name": "Creedence Clearwater Revival - Bad Moon Rising (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Creedence Clearwater Revival"
+    },
+    "datePublished": "2013-05-01T20:00:01-04:00",
+    "dateModified": "2013-05-02T00:00:01-04:00",
+    "commentCount": 6
+}

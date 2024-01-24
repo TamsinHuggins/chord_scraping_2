@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/ghost-riders-in-the-sky-chords-954916",
+    "name": "Johnny Cash - Ghost Riders In The Sky (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2010-06-03T20:00:01-04:00",
+    "dateModified": "2023-08-10T02:51:46-04:00",
+    "commentCount": 39
+}

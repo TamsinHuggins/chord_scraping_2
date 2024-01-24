@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruce-springsteen/dancing-in-the-dark-chords-1087212",
+    "name": "Bruce Springsteen - Dancing In The Dark (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruce Springsteen"
+    },
+    "datePublished": "2011-08-25T20:00:01-04:00",
+    "dateModified": "2023-05-17T20:46:45-04:00",
+    "commentCount": 44,
+    "musicalKey": "B"
+}

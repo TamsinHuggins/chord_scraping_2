@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/last-kiss-chords-998039",
+    "name": "Taylor Swift - Last Kiss (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2010-10-26T20:00:01-04:00",
+    "dateModified": "2023-07-08T17:47:19-04:00",
+    "commentCount": 37,
+    "musicalKey": "Bb"
+}

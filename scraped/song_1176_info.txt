@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/iron-maiden/wasted-years-chords-1777157",
+    "name": "Iron Maiden - Wasted Years (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Iron Maiden"
+    },
+    "datePublished": "2015-10-28T02:26:36-04:00",
+    "dateModified": "2021-06-08T15:27:36-04:00",
+    "commentCount": 24,
+    "musicalKey": "Em"
+}

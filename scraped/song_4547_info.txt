@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sarah-mclachlan/angel-chords-830070",
+    "name": "Sarah Mclachlan - Angel (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sarah McLachlan"
+    },
+    "datePublished": "2009-05-28T20:00:01-04:00",
+    "dateModified": "2021-09-14T07:50:54-04:00",
+    "commentCount": 28
+}

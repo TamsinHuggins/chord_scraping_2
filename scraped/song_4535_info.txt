@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-zombies/time-of-the-season-chords-1088903",
+    "name": "The Zombies - Time Of The Season (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Db Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Zombies"
+    },
+    "datePublished": "2011-08-30T20:00:01-04:00",
+    "dateModified": "2023-01-23T18:43:11-05:00",
+    "commentCount": 14,
+    "musicalKey": "Db"
+}

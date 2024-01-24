@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/the-power-of-your-love-chords-186983",
+    "name": "Hillsong Worship - The Power Of Your Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Worship"
+    },
+    "datePublished": "2005-05-25T20:00:00-04:00",
+    "dateModified": "2023-02-12T15:36:21-05:00",
+    "commentCount": 17,
+    "musicalKey": "G"
+}

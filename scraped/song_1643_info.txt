@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/katrina-and-the-waves/walking-on-sunshine-chords-595283",
+    "name": "Katrina And The Waves - Walking On Sunshine (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Katrina and the Waves"
+    },
+    "datePublished": "2007-10-29T20:00:01-04:00",
+    "dateModified": "2021-01-26T15:20:15-05:00",
+    "commentCount": 18,
+    "musicalKey": "Bb"
+}

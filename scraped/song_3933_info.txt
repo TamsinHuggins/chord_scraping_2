@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/december-avenue/huling-sandali-chords-2656311",
+    "name": "December Avenue - Huling Sandali (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "December Avenue"
+    },
+    "datePublished": "2019-04-06T16:04:12-04:00",
+    "dateModified": "2022-07-03T14:30:03-04:00",
+    "commentCount": 7,
+    "musicalKey": "E"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bryan-martin/we-ride-chords-4407560",
+    "name": "Bryan Martin - We Ride (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bryan Martin"
+    },
+    "datePublished": "2022-11-01T09:42:58-04:00",
+    "dateModified": "2023-01-27T01:05:07-05:00",
+    "commentCount": 3
+}

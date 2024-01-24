@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ffh/because-of-who-you-are-chords-271843",
+    "name": "Ffh - Because Of Who You Are (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "FFH"
+    },
+    "datePublished": "2005-11-15T19:00:01-05:00",
+    "dateModified": "2016-06-21T11:57:43-04:00",
+    "commentCount": 4
+}

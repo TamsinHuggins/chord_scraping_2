@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-longest-johns/wellerman-chords-3182162",
+    "name": "The Longest Johns - Wellerman (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Longest Johns"
+    },
+    "datePublished": "2020-06-03T06:45:18-04:00",
+    "dateModified": "2020-12-16T21:39:49-05:00",
+    "commentCount": 40,
+    "musicalKey": "Am"
+}

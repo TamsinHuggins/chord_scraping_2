@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/no-time-to-die-chords-2991266",
+    "name": "Billie Eilish - No Time To Die (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2020-02-13T21:09:28-05:00",
+    "dateModified": "2021-01-19T20:44:30-05:00",
+    "commentCount": 59,
+    "musicalKey": "Em"
+}

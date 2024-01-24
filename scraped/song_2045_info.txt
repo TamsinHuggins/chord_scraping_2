@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/spongebob-squarepants-ripped-pants-chords-655517",
+    "name": "Misc Cartoons - Spongebob Squarepants - Ripped Pants (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2008-03-24T20:00:01-04:00",
+    "dateModified": "2018-12-18T08:42:02-05:00",
+    "commentCount": 27,
+    "musicalKey": "C"
+}

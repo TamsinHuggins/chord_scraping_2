@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/if-i-fell-chords-17288",
+    "name": "The Beatles - If I Fell (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ebm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2022-08-18T07:46:46-04:00",
+    "commentCount": 82,
+    "musicalKey": "Ebm"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/green-green-grass-of-home-chords-964117",
+    "name": "Johnny Cash - Green Green Grass Of Home (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2010-07-01T20:00:01-04:00",
+    "dateModified": "2016-07-26T10:22:23-04:00",
+    "commentCount": 11
+}

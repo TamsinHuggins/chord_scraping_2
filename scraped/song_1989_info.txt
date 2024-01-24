@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-tokens/the-lion-sleeps-tonight-chords-1074694",
+    "name": "The Tokens - The Lion Sleeps Tonight (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Tokens"
+    },
+    "datePublished": "2011-07-13T20:00:01-04:00",
+    "dateModified": "2020-10-04T03:38:28-04:00",
+    "commentCount": 12
+}

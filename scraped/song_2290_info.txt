@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/celine-dion/my-heart-will-go-on-chords-14976",
+    "name": "Celine Dion - My Heart Will Go On (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Celine Dion"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2022-11-22T00:00:25-05:00",
+    "commentCount": 20
+}

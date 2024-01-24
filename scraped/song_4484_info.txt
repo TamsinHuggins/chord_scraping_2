@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kool-the-gang/celebration-chords-1022256",
+    "name": "Kool & The Gang - Celebration (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Kool &amp; the Gang"
+    },
+    "datePublished": "2011-01-24T19:00:01-05:00",
+    "dateModified": "2021-10-15T07:37:21-04:00",
+    "commentCount": 19,
+    "musicalKey": "Ab"
+}

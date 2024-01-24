@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dilaw/uhaw-tayong-lahat-chords-4612418",
+    "name": "Dilaw - Uhaw Tayong Lahat (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Dilaw"
+    },
+    "datePublished": "2023-01-21T09:39:30-05:00",
+    "dateModified": "2023-01-21T14:51:48-05:00",
+    "commentCount": 0,
+    "musicalKey": "G"
+}

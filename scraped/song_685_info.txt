@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queen/we-are-the-champions-chords-55346",
+    "name": "Queen - We Are The Champions (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Cm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Queen"
+    },
+    "datePublished": "2003-07-06T20:00:00-04:00",
+    "dateModified": "2018-11-03T10:03:56-04:00",
+    "commentCount": 15,
+    "musicalKey": "Cm"
+}

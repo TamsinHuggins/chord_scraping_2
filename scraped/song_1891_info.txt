@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jerry-jeff-walker/mr-bojangles-chords-755252",
+    "name": "Jerry Jeff Walker - Mr Bojangles (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Jerry Jeff Walker"
+    },
+    "datePublished": "2008-11-12T19:00:01-05:00",
+    "dateModified": "2022-06-04T15:11:40-04:00",
+    "commentCount": 31,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-smith/fire-on-fire-chords-2551065",
+    "name": "Sam Smith - Fire On Fire (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Smith"
+    },
+    "datePublished": "2018-12-21T03:27:44-05:00",
+    "dateModified": "2020-02-14T23:54:55-05:00",
+    "commentCount": 19
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beabadoobee/tired-chords-2945111",
+    "name": "Beabadoobee - Tired (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "beabadoobee"
+    },
+    "datePublished": "2019-12-30T09:25:28-05:00",
+    "dateModified": "2020-10-30T06:11:41-04:00",
+    "commentCount": 8
+}

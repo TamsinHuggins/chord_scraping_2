@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sza/nobody-gets-me-chords-4454243",
+    "name": "Sza - Nobody Gets Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "SZA"
+    },
+    "datePublished": "2022-12-09T00:16:40-05:00",
+    "dateModified": "2023-01-21T15:42:52-05:00",
+    "commentCount": 15,
+    "musicalKey": "G"
+}

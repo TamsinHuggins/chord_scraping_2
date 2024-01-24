@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/todd-rundgren/i-saw-the-light-chords-538783",
+    "name": "Todd Rundgren - I Saw The Light (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Todd Rundgren"
+    },
+    "datePublished": "2007-06-29T20:00:01-04:00",
+    "dateModified": "2016-06-20T11:54:17-04:00",
+    "commentCount": 33
+}

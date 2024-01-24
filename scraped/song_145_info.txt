@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/led-zeppelin/stairway-to-heaven-chords-1088573",
+    "name": "Led Zeppelin - Stairway To Heaven (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Led Zeppelin"
+    },
+    "datePublished": "2011-08-29T20:00:01-04:00",
+    "dateModified": "2023-06-30T20:53:01-04:00",
+    "commentCount": 96,
+    "musicalKey": "Am"
+}

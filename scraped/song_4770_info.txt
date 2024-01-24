@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/turnpike-troubadours/diamonds-and-gasoline-chords-1828936",
+    "name": "Turnpike Troubadours - Diamonds And Gasoline (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Turnpike Troubadours"
+    },
+    "datePublished": "2016-03-25T08:15:40-04:00",
+    "dateModified": "2021-01-18T13:59:25-05:00",
+    "commentCount": 8
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/guns-n-roses/dont-cry-chords-337150",
+    "name": "Guns N' Roses - Dont Cry (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Guns N&#039; Roses"
+    },
+    "datePublished": "2006-02-26T19:00:01-05:00",
+    "dateModified": "2019-08-11T21:52:20-04:00",
+    "commentCount": 56
+}

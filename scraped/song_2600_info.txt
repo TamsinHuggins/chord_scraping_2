@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/ill-follow-the-sun-chords-96199",
+    "name": "The Beatles - Ill Follow The Sun (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2003-11-30T19:00:00-05:00",
+    "dateModified": "2022-08-25T10:26:49-04:00",
+    "commentCount": 26
+}

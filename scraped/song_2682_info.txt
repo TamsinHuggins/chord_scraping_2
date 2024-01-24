@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mumford-sons/come-thou-fount-of-every-blessing-chords-1016638",
+    "name": "Mumford & Sons - Come Thou Fount Of Every Blessing (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Mumford &amp; Sons"
+    },
+    "datePublished": "2011-01-12T19:00:01-05:00",
+    "dateModified": "2016-04-15T13:01:30-04:00",
+    "commentCount": 26
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/plain-white-ts/hey-there-delilah-chords-368170",
+    "name": "Plain White T's - Hey There Delilah (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Plain White T&#039;s"
+    },
+    "datePublished": "2006-05-21T20:00:01-04:00",
+    "dateModified": "2018-11-06T11:54:14-05:00",
+    "commentCount": 65,
+    "musicalKey": "D"
+}

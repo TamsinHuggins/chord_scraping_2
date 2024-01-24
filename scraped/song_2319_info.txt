@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paul-baloche/lord-i-lift-your-name-on-high-chords-196902",
+    "name": "Paul Baloche - Lord I Lift Your Name On High (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Paul Baloche"
+    },
+    "datePublished": "2005-07-10T20:00:00-04:00",
+    "dateModified": "2020-07-14T08:42:13-04:00",
+    "commentCount": 12
+}

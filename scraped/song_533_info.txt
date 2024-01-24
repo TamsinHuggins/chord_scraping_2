@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brooks-dunn/neon-moon-chords-584043",
+    "name": "Brooks & Dunn - Neon Moon (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Brooks &amp; Dunn"
+    },
+    "datePublished": "2007-09-30T20:00:01-04:00",
+    "dateModified": "2020-02-28T18:12:03-05:00",
+    "commentCount": 34
+}

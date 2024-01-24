@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/flatland-cavalry/sleeping-alone-chords-3424190",
+    "name": "Flatland Cavalry - Sleeping Alone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Flatland Cavalry"
+    },
+    "datePublished": "2020-11-15T23:44:31-05:00",
+    "dateModified": "2020-11-16T19:48:55-05:00",
+    "commentCount": 1
+}

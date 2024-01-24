@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pnk/just-give-me-a-reason-chords-1183088",
+    "name": "P!Nk - Just Give Me A Reason (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "P!nk"
+    },
+    "datePublished": "2012-09-18T20:00:01-04:00",
+    "dateModified": "2020-03-19T12:20:28-04:00",
+    "commentCount": 134,
+    "musicalKey": "G"
+}

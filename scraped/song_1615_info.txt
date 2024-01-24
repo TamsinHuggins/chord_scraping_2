@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adam-sandler/grow-old-with-you-chords-3391",
+    "name": "Adam Sandler - Grow Old With You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Adam Sandler"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2017-08-21T13:21:28-04:00",
+    "commentCount": 61,
+    "musicalKey": "A"
+}

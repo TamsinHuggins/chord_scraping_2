@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/bennie-and-the-jets-chords-474727",
+    "name": "Elton John - Bennie And The Jets (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2007-02-16T19:00:01-05:00",
+    "dateModified": "2016-05-19T08:55:38-04:00",
+    "commentCount": 12
+}

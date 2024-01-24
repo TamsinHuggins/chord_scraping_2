@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/here-comes-the-sun-chords-566611",
+    "name": "The Beatles - Here Comes The Sun (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2007-08-20T20:00:01-04:00",
+    "dateModified": "2019-01-11T09:30:00-05:00",
+    "commentCount": 34,
+    "musicalKey": "A"
+}

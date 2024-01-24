@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lukas-graham/love-someone-chords-2448139",
+    "name": "Lukas Graham - Love Someone (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lukas Graham"
+    },
+    "datePublished": "2018-08-12T09:44:34-04:00",
+    "dateModified": "2018-09-22T08:54:28-04:00",
+    "commentCount": 33,
+    "musicalKey": "C"
+}

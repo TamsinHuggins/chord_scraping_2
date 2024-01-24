@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eagles/tequila-sunrise-chords-199062",
+    "name": "Eagles - Tequila Sunrise (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eagles"
+    },
+    "datePublished": "2005-07-18T20:00:00-04:00",
+    "dateModified": "2018-12-26T07:52:42-05:00",
+    "commentCount": 71
+}

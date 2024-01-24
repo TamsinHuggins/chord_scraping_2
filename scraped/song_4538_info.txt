@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/only-love-can-break-your-heart-chords-865950",
+    "name": "Neil Young - Only Love Can Break Your Heart (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2009-08-26T20:00:01-04:00",
+    "dateModified": "2016-06-11T11:06:26-04:00",
+    "commentCount": 15
+}

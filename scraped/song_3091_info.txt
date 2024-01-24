@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/beach-bunny/prom-queen-chords-2651205",
+    "name": "Beach Bunny - Prom Queen (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Beach Bunny"
+    },
+    "datePublished": "2019-04-01T12:52:51-04:00",
+    "dateModified": "2020-07-27T06:48:09-04:00",
+    "commentCount": 47,
+    "musicalKey": "G"
+}

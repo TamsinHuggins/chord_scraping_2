@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/childish-gambino/redbone-chords-1905186",
+    "name": "Childish Gambino - Redbone (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Childish Gambino"
+    },
+    "datePublished": "2016-11-26T12:05:54-05:00",
+    "dateModified": "2018-10-15T13:39:21-04:00",
+    "commentCount": 30,
+    "musicalKey": "D#m"
+}

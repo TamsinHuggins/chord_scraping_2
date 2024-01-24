@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-evans/always-remember-us-this-way-chords-2901617",
+    "name": "Luke Evans - Always Remember Us This Way (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Evans"
+    },
+    "datePublished": "2019-11-22T11:18:23-05:00",
+    "dateModified": "2023-09-03T15:49:57-04:00",
+    "commentCount": 9
+}

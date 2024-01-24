@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jackson-browne/doctor-my-eyes-chords-181431",
+    "name": "Jackson Browne - Doctor My Eyes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Jackson Browne"
+    },
+    "datePublished": "2005-04-29T20:00:00-04:00",
+    "dateModified": "2016-06-07T08:52:09-04:00",
+    "commentCount": 21,
+    "musicalKey": "F"
+}

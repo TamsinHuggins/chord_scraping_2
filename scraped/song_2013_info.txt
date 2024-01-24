@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-verve/lucky-man-chords-805554",
+    "name": "The Verve - Lucky Man (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Verve"
+    },
+    "datePublished": "2009-03-24T20:00:01-04:00",
+    "dateModified": "2018-02-26T13:44:08-05:00",
+    "commentCount": 24
+}

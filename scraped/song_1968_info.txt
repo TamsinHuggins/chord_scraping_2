@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dwell-songs/abide-chords-3652037",
+    "name": "Dwell Songs - Abide (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Dwell Songs"
+    },
+    "datePublished": "2021-04-08T13:18:20-04:00",
+    "dateModified": "2021-04-10T18:18:38-04:00",
+    "commentCount": 0,
+    "musicalKey": "B"
+}

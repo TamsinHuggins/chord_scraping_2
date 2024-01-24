@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/oh-me-chords-21783",
+    "name": "Nirvana - Oh Me (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2002-01-03T19:00:00-05:00",
+    "dateModified": "2016-07-11T14:11:16-04:00",
+    "commentCount": 22
+}

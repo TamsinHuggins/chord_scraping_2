@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/ticket-to-ride-chords-1088894",
+    "name": "The Beatles - Ticket To Ride (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2011-08-30T20:00:01-04:00",
+    "dateModified": "2023-12-17T19:41:02-05:00",
+    "commentCount": 24,
+    "musicalKey": "A"
+}

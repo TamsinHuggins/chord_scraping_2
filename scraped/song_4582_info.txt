@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/whitney-houston/greatest-love-of-all-chords-432366",
+    "name": "Whitney Houston - Greatest Love Of All (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Whitney Houston"
+    },
+    "datePublished": "2006-11-07T19:00:01-05:00",
+    "dateModified": "2021-07-28T15:31:44-04:00",
+    "commentCount": 9,
+    "musicalKey": "A"
+}

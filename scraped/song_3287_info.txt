@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alan-jackson/livin-on-love-chords-201404",
+    "name": "Alan Jackson - Livin On Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alan Jackson"
+    },
+    "datePublished": "2005-07-28T20:00:00-04:00",
+    "dateModified": "2016-06-27T17:27:56-04:00",
+    "commentCount": 22
+}

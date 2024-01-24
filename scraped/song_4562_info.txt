@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sia/cheap-thrills-chords-1797669",
+    "name": "Sia - Cheap Thrills (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Sia"
+    },
+    "datePublished": "2015-12-22T02:48:34-05:00",
+    "dateModified": "2020-03-24T14:21:30-04:00",
+    "commentCount": 16,
+    "musicalKey": "Em"
+}

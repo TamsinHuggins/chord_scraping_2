@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-cars/just-what-i-needed-chords-1146418",
+    "name": "The Cars - Just What I Needed (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Cars"
+    },
+    "datePublished": "2012-04-12T20:00:01-04:00",
+    "dateModified": "2019-09-17T13:45:58-04:00",
+    "commentCount": 26,
+    "musicalKey": "E"
+}

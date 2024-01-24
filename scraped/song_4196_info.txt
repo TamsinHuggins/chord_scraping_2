@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-united/man-of-sorrows-chords-1426090",
+    "name": "Hillsong United - Man Of Sorrows (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong United"
+    },
+    "datePublished": "2013-10-22T20:00:01-04:00",
+    "dateModified": "2020-04-15T07:57:53-04:00",
+    "commentCount": 30,
+    "musicalKey": "Bb"
+}

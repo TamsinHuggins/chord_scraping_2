@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-smith/writings-on-the-wall-chords-1769608",
+    "name": "Sam Smith - Writings On The Wall (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Smith"
+    },
+    "datePublished": "2015-09-25T00:02:01-04:00",
+    "dateModified": "2021-01-22T00:36:46-05:00",
+    "commentCount": 21
+}

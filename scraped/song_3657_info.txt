@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fleetwood-mac/never-going-back-again-chords-2808698",
+    "name": "Fleetwood Mac - Never Going Back Again (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fleetwood Mac"
+    },
+    "datePublished": "2019-08-29T10:28:54-04:00",
+    "dateModified": "2023-06-19T14:49:21-04:00",
+    "commentCount": 7
+}

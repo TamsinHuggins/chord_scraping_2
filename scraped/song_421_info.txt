@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/roy-orbison/oh-pretty-woman-chords-32331",
+    "name": "Roy Orbison - Oh Pretty Woman (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Roy Orbison"
+    },
+    "datePublished": "2002-07-27T20:00:00-04:00",
+    "dateModified": "2017-12-13T01:00:13-05:00",
+    "commentCount": 26
+}

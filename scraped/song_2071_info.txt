@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-bowie/rock-n-roll-suicide-chords-61256",
+    "name": "David Bowie - Rock N Roll Suicide (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Bowie"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-01-11T15:32:46-05:00",
+    "commentCount": 25,
+    "musicalKey": "C"
+}

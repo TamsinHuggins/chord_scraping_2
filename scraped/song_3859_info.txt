@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-diamond/song-sung-blue-chords-1053300",
+    "name": "Neil Diamond - Song Sung Blue (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Diamond"
+    },
+    "datePublished": "2011-05-02T20:00:01-04:00",
+    "dateModified": "2023-12-22T22:37:38-05:00",
+    "commentCount": 11,
+    "musicalKey": "C"
+}

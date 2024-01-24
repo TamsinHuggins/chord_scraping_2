@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lynyrd-skynyrd/call-me-the-breeze-chords-851290",
+    "name": "Lynyrd Skynyrd - Call Me The Breeze (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lynyrd Skynyrd"
+    },
+    "datePublished": "2009-07-21T20:00:01-04:00",
+    "dateModified": "2016-06-30T08:01:41-04:00",
+    "commentCount": 2
+}

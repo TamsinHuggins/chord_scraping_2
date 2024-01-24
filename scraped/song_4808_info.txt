@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/high-hopes-chords-1407550",
+    "name": "Pink Floyd - High Hopes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2013-07-30T20:00:01-04:00",
+    "dateModified": "2020-11-17T20:54:42-05:00",
+    "commentCount": 7
+}

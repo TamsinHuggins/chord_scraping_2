@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/supertramp/the-logical-song-chords-91439",
+    "name": "Supertramp - The Logical Song (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Supertramp"
+    },
+    "datePublished": "2003-10-07T20:00:00-04:00",
+    "dateModified": "2023-10-23T01:53:19-04:00",
+    "commentCount": 27
+}

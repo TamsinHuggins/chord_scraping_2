@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/crosby-stills-nash-young/almost-cut-my-hair-chords-1475488",
+    "name": "Crosby, Stills, Nash & Young - Almost Cut My Hair (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Crosby, Stills, Nash &amp; Young"
+    },
+    "datePublished": "2014-04-09T20:00:01-04:00",
+    "dateModified": "2023-01-21T15:33:17-05:00",
+    "commentCount": 16,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/when-the-sun-goes-down-chords-274267",
+    "name": "Arctic Monkeys - When The Sun Goes Down (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2005-11-25T19:00:01-05:00",
+    "dateModified": "2019-06-11T04:59:44-04:00",
+    "commentCount": 50
+}

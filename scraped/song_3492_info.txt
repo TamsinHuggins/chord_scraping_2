@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/crash-test-dummies/mmm-mmm-mmm-mmm-chords-64014",
+    "name": "Crash Test Dummies - Mmm Mmm Mmm Mmm (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Crash Test Dummies"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2022-07-25T15:46:02-04:00",
+    "commentCount": 15
+}

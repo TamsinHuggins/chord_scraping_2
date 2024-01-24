@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/the-archer-chords-2773345",
+    "name": "Taylor Swift - The Archer (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2019-07-23T17:58:04-04:00",
+    "dateModified": "2019-08-05T05:35:57-04:00",
+    "commentCount": 11,
+    "musicalKey": "C"
+}

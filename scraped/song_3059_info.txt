@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/duran-duran/hungry-like-the-wolf-chords-1048297",
+    "name": "Duran Duran - Hungry Like The Wolf (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Duran Duran"
+    },
+    "datePublished": "2011-04-17T20:00:01-04:00",
+    "dateModified": "2021-06-10T12:40:57-04:00",
+    "commentCount": 8
+}

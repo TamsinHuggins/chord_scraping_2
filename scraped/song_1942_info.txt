@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/188005",
+    "name": "Michael Bublé - Home (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Bublé"
+    },
+    "datePublished": "2005-05-30T20:00:00-04:00",
+    "dateModified": "2020-03-28T13:48:05-04:00",
+    "commentCount": 29,
+    "musicalKey": "G"
+}

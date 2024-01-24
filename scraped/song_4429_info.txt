@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/seiler-und-speer/ham-kummst-chords-1697589",
+    "name": "Seiler Und Speer - Ham Kummst (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Seiler und Speer"
+    },
+    "datePublished": "2015-01-05T11:19:26-05:00",
+    "dateModified": "2021-06-01T14:14:33-04:00",
+    "commentCount": 13
+}

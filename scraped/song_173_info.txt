@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/adele/easy-on-me-chords-3911342",
+    "name": "Adele - Easy On Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Adele"
+    },
+    "datePublished": "2021-10-14T19:10:46-04:00",
+    "dateModified": "2021-10-17T16:19:43-04:00",
+    "commentCount": 50,
+    "musicalKey": "F"
+}

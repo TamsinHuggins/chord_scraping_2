@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/side-a/forevermore-chords-486754",
+    "name": "Side A - Forevermore (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Side A"
+    },
+    "datePublished": "2007-03-15T20:00:01-04:00",
+    "dateModified": "2018-11-12T09:43:13-05:00",
+    "commentCount": 12
+}

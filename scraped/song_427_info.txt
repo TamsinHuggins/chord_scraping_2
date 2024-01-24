@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/the-times-they-are-a-changin-chords-14943",
+    "name": "Bob Dylan - The Times They Are A-Changin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-01-28T06:36:03-05:00",
+    "commentCount": 62,
+    "musicalKey": "G"
+}

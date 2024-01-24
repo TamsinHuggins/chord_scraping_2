@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/long-as-i-can-see-the-light-chords-819137",
+    "name": "Creedence Clearwater Revival - Long As I Can See The Light (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Creedence Clearwater Revival"
+    },
+    "datePublished": "2009-04-29T20:00:01-04:00",
+    "dateModified": "2023-08-06T22:12:38-04:00",
+    "commentCount": 16
+}

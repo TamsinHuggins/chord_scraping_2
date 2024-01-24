@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lola-amour/raining-in-manila-chords-4819865",
+    "name": "Lola Amour - Raining In Manila (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Lola Amour"
+    },
+    "datePublished": "2023-06-14T03:47:23-04:00",
+    "dateModified": "2023-07-17T16:44:51-04:00",
+    "commentCount": 2,
+    "musicalKey": "B"
+}

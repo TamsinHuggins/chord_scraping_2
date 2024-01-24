@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eddie-vedder/society-chords-984278",
+    "name": "Eddie Vedder - Society (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Eddie Vedder"
+    },
+    "datePublished": "2010-09-02T20:00:01-04:00",
+    "dateModified": "2016-06-14T10:04:03-04:00",
+    "commentCount": 8
+}

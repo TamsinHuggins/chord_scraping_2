@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/751634",
+    "name": "Die Ärzte - Junge (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Die Ärzte"
+    },
+    "datePublished": "2008-11-04T19:00:01-05:00",
+    "dateModified": "2019-06-24T22:47:12-04:00",
+    "commentCount": 3
+}

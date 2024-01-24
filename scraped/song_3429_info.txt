@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ross-lynch/on-my-own-chords-1743915",
+    "name": "Ross Lynch - On My Own (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ross Lynch"
+    },
+    "datePublished": "2015-06-11T06:09:47-04:00",
+    "dateModified": "2016-06-17T07:48:57-04:00",
+    "commentCount": 16
+}

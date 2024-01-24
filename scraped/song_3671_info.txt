@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lynyrd-skynyrd/gimme-three-steps-chords-9362",
+    "name": "Lynyrd Skynyrd - Gimme Three Steps (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lynyrd Skynyrd"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2018-06-22T00:26:39-04:00",
+    "commentCount": 19
+}

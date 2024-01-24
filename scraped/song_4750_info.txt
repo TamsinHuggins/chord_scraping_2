@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-mccoys/hang-on-sloopy-chords-1045502",
+    "name": "The Mccoys - Hang On Sloopy (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The McCoys"
+    },
+    "datePublished": "2011-04-11T20:00:01-04:00",
+    "dateModified": "2023-04-09T03:51:04-04:00",
+    "commentCount": 11
+}

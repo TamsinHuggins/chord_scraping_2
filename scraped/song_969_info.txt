@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/seven-chords-3261308",
+    "name": "Taylor Swift - Seven (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-07-24T00:48:48-04:00",
+    "dateModified": "2020-07-25T13:34:15-04:00",
+    "commentCount": 22,
+    "musicalKey": "E"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/o-come-to-the-altar-chords-1757938",
+    "name": "Elevation Worship - O Come To The Altar (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2015-08-12T04:15:53-04:00",
+    "dateModified": "2023-09-01T08:11:05-04:00",
+    "commentCount": 121,
+    "musicalKey": "B"
+}

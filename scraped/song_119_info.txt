@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-denver/leaving-on-a-jet-plane-chords-32979",
+    "name": "John Denver - Leaving On A Jet Plane (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Denver"
+    },
+    "datePublished": "2002-07-11T20:00:00-04:00",
+    "dateModified": "2022-03-17T09:24:04-04:00",
+    "commentCount": 72,
+    "musicalKey": "G"
+}

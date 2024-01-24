@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/im-a-mess-chords-1495063",
+    "name": "Ed Sheeran - Im A Mess (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Cm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2014-06-20T12:27:59-04:00",
+    "dateModified": "2018-10-11T11:21:46-04:00",
+    "commentCount": 59,
+    "musicalKey": "Cm"
+}

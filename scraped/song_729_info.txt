@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/andra-day/rise-up-chords-1763927",
+    "name": "Andra Day - Rise Up (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Andra Day"
+    },
+    "datePublished": "2015-09-06T22:44:23-04:00",
+    "dateModified": "2018-03-09T19:53:56-05:00",
+    "commentCount": 32,
+    "musicalKey": "C"
+}

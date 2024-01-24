@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/dunki-o-maahi-chords-5064001",
+    "name": "Misc Soundtrack - Dunki - O Maahi (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-12-11T10:46:33-05:00",
+    "dateModified": "2023-12-12T11:41:03-05:00",
+    "commentCount": 0,
+    "musicalKey": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/cinderella-a-dream-is-a-wish-your-heart-makes-chords-1743394",
+    "name": "Misc Cartoons - Cinderella - A Dream Is A Wish Your Heart Makes (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2015-06-09T06:14:14-04:00",
+    "dateModified": "2020-07-14T11:53:54-04:00",
+    "commentCount": 15,
+    "musicalKey": "G"
+}

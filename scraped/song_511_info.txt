@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alex-g-sandy-alex-g/pretend-chords-2613297",
+    "name": "Alex G ((Sandy) Alex G) - Pretend (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alex G ((Sandy) Alex G)"
+    },
+    "datePublished": "2019-02-22T22:33:54-05:00",
+    "dateModified": "2019-02-25T13:38:23-05:00",
+    "commentCount": 10,
+    "musicalKey": "A"
+}

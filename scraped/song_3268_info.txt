@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lizzy-mcalpine/erase-me-chords-3954074",
+    "name": "Lizzy Mcalpine - Erase Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lizzy McAlpine"
+    },
+    "datePublished": "2021-11-17T19:47:37-05:00",
+    "dateModified": "2021-12-15T23:39:38-05:00",
+    "commentCount": 8,
+    "musicalKey": "F#m"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/broken-vessels-amazing-grace-chords-1486963",
+    "name": "Hillsong Worship - Broken Vessels Amazing Grace (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hillsong Worship"
+    },
+    "datePublished": "2014-05-24T05:23:46-04:00",
+    "dateModified": "2022-03-04T09:32:51-05:00",
+    "commentCount": 41,
+    "musicalKey": "G"
+}

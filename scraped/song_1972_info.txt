@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/more-than-able-chords-4700456",
+    "name": "Elevation Worship - More Than Able (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2023-03-25T17:13:09-04:00",
+    "dateModified": "2023-03-25T21:24:00-04:00",
+    "commentCount": 2,
+    "musicalKey": "Eb"
+}

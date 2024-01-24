@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-chords-876381",
+    "name": "Red Hot Chili Peppers - Under The Bridge (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Red Hot Chili Peppers"
+    },
+    "datePublished": "2009-09-24T20:00:01-04:00",
+    "dateModified": "2018-12-07T21:16:37-05:00",
+    "commentCount": 22
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sportfreunde-stiller/ein-kompliment-chords-873999",
+    "name": "Sportfreunde Stiller - Ein Kompliment (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sportfreunde Stiller"
+    },
+    "datePublished": "2009-09-17T20:00:01-04:00",
+    "dateModified": "2016-05-16T12:58:48-04:00",
+    "commentCount": 6
+}

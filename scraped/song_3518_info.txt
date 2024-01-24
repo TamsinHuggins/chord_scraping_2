@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-de-burgh/the-lady-in-red-chords-29118",
+    "name": "Chris De Burgh - The Lady In Red (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris de Burgh"
+    },
+    "datePublished": "2002-05-02T20:00:00-04:00",
+    "dateModified": "2023-09-23T06:44:07-04:00",
+    "commentCount": 31
+}

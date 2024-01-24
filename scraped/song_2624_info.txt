@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beach-boys/kokomo-chords-705135",
+    "name": "The Beach Boys - Kokomo (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beach Boys"
+    },
+    "datePublished": "2008-07-16T20:00:01-04:00",
+    "dateModified": "2018-07-20T00:18:10-04:00",
+    "commentCount": 12
+}

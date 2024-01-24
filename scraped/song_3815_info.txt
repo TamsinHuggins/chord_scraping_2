@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hollow-coves/coastline-chords-2040407",
+    "name": "Hollow Coves - Coastline (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hollow Coves"
+    },
+    "datePublished": "2017-06-12T20:09:27-04:00",
+    "dateModified": "2017-06-13T00:09:23-04:00",
+    "commentCount": 5
+}

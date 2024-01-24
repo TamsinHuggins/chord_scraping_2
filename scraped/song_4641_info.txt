@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/official-hige-dandism/pretender-chords-2852537",
+    "name": "Official Hige Dandism - Pretender (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Official HIGE DANdism"
+    },
+    "datePublished": "2019-10-10T10:51:45-04:00",
+    "dateModified": "2020-03-03T16:07:27-05:00",
+    "commentCount": 8,
+    "musicalKey": "G"
+}

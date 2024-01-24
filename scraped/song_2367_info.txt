@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kate-bush/wuthering-heights-chords-967076",
+    "name": "Kate Bush - Wuthering Heights (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kate Bush"
+    },
+    "datePublished": "2010-07-12T20:00:01-04:00",
+    "dateModified": "2023-02-08T20:48:00-05:00",
+    "commentCount": 18
+}

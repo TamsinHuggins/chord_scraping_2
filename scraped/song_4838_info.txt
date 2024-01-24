@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ricky-martin/livin-la-vida-loca-chords-514517",
+    "name": "Ricky Martin - Livin La Vida Loca (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ricky Martin"
+    },
+    "datePublished": "2007-05-07T20:00:01-04:00",
+    "dateModified": "2016-07-01T10:46:52-04:00",
+    "commentCount": 8
+}

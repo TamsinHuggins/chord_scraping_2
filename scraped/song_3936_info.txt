@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/paw-patrol-theme-song-chords-2693391",
+    "name": "Misc Cartoons - Paw Patrol Theme Song (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2019-05-13T11:44:57-04:00",
+    "dateModified": "2020-01-06T01:59:52-05:00",
+    "commentCount": 4,
+    "musicalKey": "A"
+}

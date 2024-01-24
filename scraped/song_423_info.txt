@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-television/high-school-musical-all-i-want-chords-2956232",
+    "name": "Misc Television - High School Musical - All I Want (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Television"
+    },
+    "datePublished": "2020-01-11T11:59:20-05:00",
+    "dateModified": "2020-05-21T10:25:40-04:00",
+    "commentCount": 12,
+    "musicalKey": "C"
+}

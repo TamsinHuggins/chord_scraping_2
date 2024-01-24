@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/peter-frampton/baby-i-love-your-way-chords-844704",
+    "name": "Peter Frampton - Baby I Love Your Way (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Peter Frampton"
+    },
+    "datePublished": "2009-07-07T20:00:01-04:00",
+    "dateModified": "2019-04-26T20:35:15-04:00",
+    "commentCount": 30,
+    "musicalKey": "G"
+}

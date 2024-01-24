@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jayesslee/payphone-chords-1247239",
+    "name": "Jayesslee - Payphone (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jayesslee"
+    },
+    "datePublished": "2013-05-15T20:00:01-04:00",
+    "dateModified": "2022-04-14T15:00:56-04:00",
+    "commentCount": 8,
+    "musicalKey": "C"
+}

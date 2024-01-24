@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hank-williams/lovesick-blues-chords-278609",
+    "name": "Hank Williams - Lovesick Blues (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Hank Williams"
+    },
+    "datePublished": "2005-12-12T19:00:01-05:00",
+    "dateModified": "2023-08-20T05:20:53-04:00",
+    "commentCount": 11,
+    "musicalKey": "F"
+}

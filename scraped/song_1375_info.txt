@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-christmas/jingle-bells-chords-273336",
+    "name": "Misc Christmas - Jingle Bells (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Christmas"
+    },
+    "datePublished": "2005-11-21T19:00:01-05:00",
+    "dateModified": "2020-11-06T14:16:25-05:00",
+    "commentCount": 98,
+    "musicalKey": "G"
+}

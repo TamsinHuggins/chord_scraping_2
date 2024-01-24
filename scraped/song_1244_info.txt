@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/morgan-wallen/chasin-you-chords-2379859",
+    "name": "Morgan Wallen - Chasin You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Morgan Wallen"
+    },
+    "datePublished": "2018-05-05T00:15:20-04:00",
+    "dateModified": "2021-12-23T00:30:26-05:00",
+    "commentCount": 20,
+    "musicalKey": "G"
+}

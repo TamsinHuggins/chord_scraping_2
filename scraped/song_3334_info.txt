@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/america/all-my-life-chords-455791",
+    "name": "America - All My Life (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "America"
+    },
+    "datePublished": "2007-01-05T19:00:01-05:00",
+    "dateModified": "2016-07-20T07:56:38-04:00",
+    "commentCount": 10
+}

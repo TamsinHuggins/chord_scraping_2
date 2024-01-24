@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/michael-w-smith/agnus-dei-chords-979012",
+    "name": "Michael W. Smith - Agnus Dei (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael W. Smith"
+    },
+    "datePublished": "2010-08-16T20:00:01-04:00",
+    "dateModified": "2016-08-04T13:10:50-04:00",
+    "commentCount": 7
+}

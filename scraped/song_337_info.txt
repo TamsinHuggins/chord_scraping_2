@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/youre-on-your-own-kid-chords-4393385",
+    "name": "Taylor Swift - Youre On Your Own Kid (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2022-10-20T20:24:44-04:00",
+    "dateModified": "2022-10-21T09:08:35-04:00",
+    "commentCount": 11,
+    "musicalKey": "D"
+}

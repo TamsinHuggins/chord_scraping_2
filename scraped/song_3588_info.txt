@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/where-the-crawdads-sing-carolina-chords-4245097",
+    "name": "Misc Soundtrack - Where The Crawdads Sing - Carolina (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2022-06-24T00:12:10-04:00",
+    "dateModified": "2022-06-26T15:40:23-04:00",
+    "commentCount": 11,
+    "musicalKey": "Bm"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nathan-evans/heather-on-the-hill-chords-5092678",
+    "name": "Nathan Evans - Heather On The Hill (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nathan Evans"
+    },
+    "datePublished": "2024-01-05T11:03:17-05:00",
+    "dateModified": "2024-01-06T01:12:36-05:00",
+    "commentCount": 2,
+    "musicalKey": "F"
+}

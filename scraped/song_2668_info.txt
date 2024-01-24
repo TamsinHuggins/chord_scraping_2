@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paramore/aint-it-fun-chords-1234782",
+    "name": "Paramore - Aint It Fun (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Paramore"
+    },
+    "datePublished": "2013-04-10T20:00:01-04:00",
+    "dateModified": "2018-12-11T12:20:00-05:00",
+    "commentCount": 7,
+    "musicalKey": "C#m"
+}

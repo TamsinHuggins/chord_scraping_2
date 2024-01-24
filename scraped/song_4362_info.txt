@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-vincent-iii/next-to-you-chords-2430187",
+    "name": "John Vincent Iii - Next To You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Vincent III"
+    },
+    "datePublished": "2018-07-20T03:57:26-04:00",
+    "dateModified": "2018-07-23T12:25:07-04:00",
+    "commentCount": 4,
+    "musicalKey": "G"
+}

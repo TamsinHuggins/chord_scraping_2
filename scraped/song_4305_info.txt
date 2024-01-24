@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-denver/thank-god-im-a-country-boy-chords-1683444",
+    "name": "John Denver - Thank God Im A Country Boy (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Denver"
+    },
+    "datePublished": "2014-11-25T02:39:28-05:00",
+    "dateModified": "2021-07-13T21:53:09-04:00",
+    "commentCount": 10
+}

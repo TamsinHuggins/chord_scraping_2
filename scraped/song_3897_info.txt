@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beach-boys/surfer-girl-chords-60634",
+    "name": "The Beach Boys - Surfer Girl (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beach Boys"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-02-27T05:24:14-05:00",
+    "commentCount": 30,
+    "musicalKey": "D"
+}

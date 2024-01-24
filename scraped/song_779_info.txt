@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/randy-travis/forever-and-ever-amen-chords-87134",
+    "name": "Randy Travis - Forever And Ever Amen (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Randy Travis"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2019-02-20T23:10:51-05:00",
+    "commentCount": 41
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/aladdin-arabian-nights-chords-776061",
+    "name": "Misc Cartoons - Aladdin - Arabian Nights (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2009-01-05T19:00:01-05:00",
+    "dateModified": "2020-12-27T18:50:13-05:00",
+    "commentCount": 20,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/everything-has-changed-chords-2666664",
+    "name": "Taylor Swift - Everything Has Changed (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2019-04-16T23:21:17-04:00",
+    "dateModified": "2020-12-19T15:33:02-05:00",
+    "commentCount": 1,
+    "musicalKey": "G"
+}

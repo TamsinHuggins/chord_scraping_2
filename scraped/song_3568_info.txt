@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mac-miller/good-news-chords-2955638",
+    "name": "Mac Miller - Good News (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mac Miller"
+    },
+    "datePublished": "2020-01-10T21:05:36-05:00",
+    "dateModified": "2020-01-13T22:26:39-05:00",
+    "commentCount": 12,
+    "musicalKey": "E"
+}

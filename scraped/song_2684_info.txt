@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alex-turner/stuck-on-the-puzzle-chords-1037373",
+    "name": "Alex Turner - Stuck On The Puzzle (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alex Turner"
+    },
+    "datePublished": "2011-03-15T20:00:01-04:00",
+    "dateModified": "2017-11-08T02:18:19-05:00",
+    "commentCount": 22
+}

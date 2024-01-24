@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/happier-chords-1956585",
+    "name": "Ed Sheeran - Happier (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2017-03-02T06:08:38-05:00",
+    "dateModified": "2020-04-14T01:13:23-04:00",
+    "commentCount": 102,
+    "musicalKey": "Am"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laufey/california-and-me-chords-4836866",
+    "name": "Laufey - California And Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laufey"
+    },
+    "datePublished": "2023-06-24T20:47:22-04:00",
+    "dateModified": "2023-08-28T11:38:30-04:00",
+    "commentCount": 1,
+    "musicalKey": "E"
+}

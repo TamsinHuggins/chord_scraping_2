@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/joseph-vincent/cant-take-my-eyes-off-you-chords-1883548",
+    "name": "Joseph Vincent - Cant Take My Eyes Off You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C# Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Joseph Vincent"
+    },
+    "datePublished": "2016-10-04T03:08:02-04:00",
+    "dateModified": "2022-11-30T01:20:48-05:00",
+    "commentCount": 38,
+    "musicalKey": "C#"
+}

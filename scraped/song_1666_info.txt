@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/forest-blakk/if-you-love-her-chords-3392243",
+    "name": "Forest Blakk - If You Love Her (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Forest Blakk"
+    },
+    "datePublished": "2020-10-25T14:18:08-04:00",
+    "dateModified": "2020-10-26T09:48:45-04:00",
+    "commentCount": 5,
+    "musicalKey": "C"
+}

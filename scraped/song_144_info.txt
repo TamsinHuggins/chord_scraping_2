@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-odell/black-friday-chords-4933759",
+    "name": "Tom Odell - Black Friday (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Odell"
+    },
+    "datePublished": "2023-08-28T12:53:02-04:00",
+    "dateModified": "2023-08-28T23:19:48-04:00",
+    "commentCount": 2
+}

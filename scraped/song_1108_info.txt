@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/2982386",
+    "name": "Jeremias (Germany) - Grüne Augen Lügen Nicht (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "JEREMIAS (Germany)"
+    },
+    "datePublished": "2020-02-06T07:12:44-05:00",
+    "dateModified": "2020-02-27T12:18:45-05:00",
+    "commentCount": 0,
+    "musicalKey": "G"
+}

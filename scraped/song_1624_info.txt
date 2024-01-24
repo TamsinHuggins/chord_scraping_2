@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rend-collective/my-lighthouse-chords-1411322",
+    "name": "Rend Collective - My Lighthouse (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rend Collective"
+    },
+    "datePublished": "2013-08-12T20:00:01-04:00",
+    "dateModified": "2016-04-25T10:25:14-04:00",
+    "commentCount": 29
+}

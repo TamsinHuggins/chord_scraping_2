@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/let-the-light-in-chords-4697618",
+    "name": "Lana Del Rey - Let The Light In (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2023-03-23T17:52:01-04:00",
+    "dateModified": "2023-07-20T14:47:07-04:00",
+    "commentCount": 36,
+    "musicalKey": "A"
+}

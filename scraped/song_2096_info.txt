@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/celeste-uk/strange-chords-2844713",
+    "name": "Celeste (Uk) - Strange (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Celeste (UK)"
+    },
+    "datePublished": "2019-10-02T08:47:54-04:00",
+    "dateModified": "2020-02-14T15:49:09-05:00",
+    "commentCount": 3,
+    "musicalKey": "D"
+}

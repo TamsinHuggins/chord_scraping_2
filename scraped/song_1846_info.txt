@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/let-it-be-chords-1890073",
+    "name": "The Beatles - Let It Be (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2016-10-14T02:44:20-04:00",
+    "dateModified": "2016-10-14T06:44:20-04:00",
+    "commentCount": 6,
+    "musicalKey": "C"
+}

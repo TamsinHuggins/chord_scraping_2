@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/francis-cabrel/la-corrida-chords-995197",
+    "name": "Francis Cabrel - La Corrida (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Francis Cabrel"
+    },
+    "datePublished": "2010-10-13T20:00:01-04:00",
+    "dateModified": "2018-10-25T08:36:54-04:00",
+    "commentCount": 3
+}

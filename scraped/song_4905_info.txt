@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/idontwannabeyouanymore-chords-2089655",
+    "name": "Billie Eilish - Idontwannabeyouanymore (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2017-07-22T10:01:19-04:00",
+    "dateModified": "2019-06-21T00:05:57-04:00",
+    "commentCount": 67,
+    "musicalKey": "C"
+}

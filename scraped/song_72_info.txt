@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bethel-music/goodness-of-god-chords-2423013",
+    "name": "Bethel Music - Goodness Of God (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bethel Music"
+    },
+    "datePublished": "2018-07-11T23:44:16-04:00",
+    "dateModified": "2024-01-15T08:48:30-05:00",
+    "commentCount": 34,
+    "musicalKey": "G"
+}

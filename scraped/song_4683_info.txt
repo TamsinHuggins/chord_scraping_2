@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-television/daisy-jones-and-the-six-let-me-down-easy-chords-4671770",
+    "name": "Misc Television - Daisy Jones And The Six - Let Me Down Easy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Television"
+    },
+    "datePublished": "2023-03-04T09:03:11-05:00",
+    "dateModified": "2023-04-10T12:05:27-04:00",
+    "commentCount": 4
+}

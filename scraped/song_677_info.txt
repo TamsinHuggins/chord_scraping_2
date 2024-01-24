@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tones-and-i/dance-monkey-chords-2787730",
+    "name": "Tones And I - Dance Monkey (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tones And I"
+    },
+    "datePublished": "2019-08-07T04:28:26-04:00",
+    "dateModified": "2022-06-06T11:10:13-04:00",
+    "commentCount": 51,
+    "musicalKey": "F#m"
+}

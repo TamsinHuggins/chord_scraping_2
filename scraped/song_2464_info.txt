@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gerry-cinnamon/belter-chords-2193349",
+    "name": "Gerry Cinnamon - Belter (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Gerry Cinnamon"
+    },
+    "datePublished": "2017-10-09T07:27:15-04:00",
+    "dateModified": "2021-06-23T22:15:59-04:00",
+    "commentCount": 13,
+    "musicalKey": "Am"
+}

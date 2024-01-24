@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/one-direction/right-now-chords-1434012",
+    "name": "One Direction - Right Now (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Cm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "One Direction"
+    },
+    "datePublished": "2013-11-21T19:00:01-05:00",
+    "dateModified": "2022-11-05T15:33:48-04:00",
+    "commentCount": 3,
+    "musicalKey": "Cm"
+}

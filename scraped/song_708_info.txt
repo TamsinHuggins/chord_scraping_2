@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-muppet-movie-rainbow-connection-chords-1181285",
+    "name": "Misc Soundtrack - The Muppet Movie - Rainbow Connection (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2012-09-09T20:00:01-04:00",
+    "dateModified": "2020-05-24T18:11:26-04:00",
+    "commentCount": 31,
+    "musicalKey": "G"
+}

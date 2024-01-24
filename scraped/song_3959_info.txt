@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/hemlock-society-jawl-phoring-chords-1159917",
+    "name": "Misc Soundtrack - Hemlock Society - Jawl Phoring (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2012-06-07T20:00:01-04:00",
+    "dateModified": "2022-01-09T07:33:06-05:00",
+    "commentCount": 5
+}

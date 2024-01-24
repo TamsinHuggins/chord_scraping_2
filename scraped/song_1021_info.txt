@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/shape-of-you-chords-1928431",
+    "name": "Ed Sheeran - Shape Of You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2017-01-05T23:48:51-05:00",
+    "dateModified": "2021-11-22T21:03:27-05:00",
+    "commentCount": 87,
+    "musicalKey": "C#m"
+}

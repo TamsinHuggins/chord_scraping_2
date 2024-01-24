@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/foo-fighters/big-me-chords-663250",
+    "name": "Foo Fighters - Big Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Foo Fighters"
+    },
+    "datePublished": "2008-04-09T20:00:01-04:00",
+    "dateModified": "2021-11-10T00:41:54-05:00",
+    "commentCount": 45,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-marley/one-love-people-get-ready-chords-641253",
+    "name": "Bob Marley - One Love People Get Ready (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Marley"
+    },
+    "datePublished": "2008-02-17T19:00:01-05:00",
+    "dateModified": "2016-04-19T11:53:03-04:00",
+    "commentCount": 18
+}

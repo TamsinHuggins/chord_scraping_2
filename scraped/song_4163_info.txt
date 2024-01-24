@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shawn-mendes/itll-be-okay-chords-3971284",
+    "name": "Shawn Mendes - Itll Be Okay (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Shawn Mendes"
+    },
+    "datePublished": "2021-12-01T19:08:27-05:00",
+    "dateModified": "2021-12-09T14:54:47-05:00",
+    "commentCount": 3,
+    "musicalKey": "C"
+}

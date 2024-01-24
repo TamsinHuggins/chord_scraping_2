@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-allman-brothers-band/ramblin-man-chords-1916057",
+    "name": "The Allman Brothers Band - Ramblin Man (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Allman Brothers Band"
+    },
+    "datePublished": "2016-12-21T08:25:52-05:00",
+    "dateModified": "2016-12-21T13:25:14-05:00",
+    "commentCount": 4
+}

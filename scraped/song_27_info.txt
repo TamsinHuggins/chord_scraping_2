@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/the-cranberries/linger-chords-612578",
-    "name": "The Cranberries - Linger (chords)",
-    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-bowie/space-oddity-chords-105869",
+    "name": "David Bowie - Space Oddity (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
     "composer": {
         "@type": "Person",
-        "name": "The Cranberries"
+        "name": "David Bowie"
     },
-    "datePublished": "2007-12-11T19:00:01-05:00",
-    "dateModified": "2023-06-28T04:00:27-04:00",
-    "commentCount": 62,
-    "musicalKey": "D"
+    "datePublished": "2004-02-19T19:00:00-05:00",
+    "dateModified": "2022-06-08T23:45:38-04:00",
+    "commentCount": 164,
+    "musicalKey": "C"
 }

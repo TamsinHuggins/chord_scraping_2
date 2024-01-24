@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alanis-morissette/head-over-feet-chords-49979",
+    "name": "Alanis Morissette - Head Over Feet (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alanis Morissette"
+    },
+    "datePublished": "2003-04-17T20:00:00-04:00",
+    "dateModified": "2016-05-17T09:30:53-04:00",
+    "commentCount": 19
+}

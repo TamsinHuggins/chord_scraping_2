@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rick-astley/never-gonna-give-you-up-chords-521741",
+    "name": "Rick Astley - Never Gonna Give You Up (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Rick Astley"
+    },
+    "datePublished": "2007-05-22T20:00:01-04:00",
+    "dateModified": "2017-12-06T20:03:48-05:00",
+    "commentCount": 47
+}

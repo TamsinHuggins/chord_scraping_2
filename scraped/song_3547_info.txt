@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/blackbear/idfc-chords-1740383",
+    "name": "Blackbear - Idfc (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "blackbear"
+    },
+    "datePublished": "2015-05-27T06:46:29-04:00",
+    "dateModified": "2018-05-14T08:23:56-04:00",
+    "commentCount": 41
+}

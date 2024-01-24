@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nino-ferrer/le-sud-chords-1130703",
+    "name": "Nino Ferrer - Le Sud (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Nino Ferrer"
+    },
+    "datePublished": "2012-02-13T19:00:01-05:00",
+    "dateModified": "2018-05-21T14:21:27-04:00",
+    "commentCount": 4
+}

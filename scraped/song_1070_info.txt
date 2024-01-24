@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-jackson-5/i-want-you-back-chords-844690",
+    "name": "The Jackson 5 - I Want You Back (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "The Jackson 5"
+    },
+    "datePublished": "2009-07-06T20:00:01-04:00",
+    "dateModified": "2018-03-23T13:33:47-04:00",
+    "commentCount": 30,
+    "musicalKey": "Ab"
+}

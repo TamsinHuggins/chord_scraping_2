@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/shinedown/a-symptom-of-being-human-chords-4271920",
+    "name": "Shinedown - A Symptom Of Being Human (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Shinedown"
+    },
+    "datePublished": "2022-07-14T18:05:34-04:00",
+    "dateModified": "2022-08-11T19:46:22-04:00",
+    "commentCount": 3,
+    "musicalKey": "C"
+}

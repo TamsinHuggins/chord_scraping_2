@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/colleen-ballinger/hi-toxic-gossip-train-chords-4842566",
+    "name": "Colleen Ballinger - Hi Toxic Gossip Train (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Colleen Ballinger"
+    },
+    "datePublished": "2023-06-29T03:48:24-04:00",
+    "dateModified": "2023-07-01T00:29:57-04:00",
+    "commentCount": 70,
+    "musicalKey": "G"
+}

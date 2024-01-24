@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/black-panther-wakanda-forever-lift-me-up-chords-4402346",
+    "name": "Misc Soundtrack - Black Panther Wakanda Forever - Lift Me Up (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2022-10-28T00:27:37-04:00",
+    "dateModified": "2022-10-28T07:37:03-04:00",
+    "commentCount": 6,
+    "musicalKey": "A"
+}

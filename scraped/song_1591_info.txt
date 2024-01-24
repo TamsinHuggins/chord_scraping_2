@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/basement/covet-chords-1768660",
+    "name": "Basement - Covet (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Basement"
+    },
+    "datePublished": "2015-09-21T04:06:05-04:00",
+    "dateModified": "2023-12-19T15:20:54-05:00",
+    "commentCount": 6
+}

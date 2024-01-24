@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/influence-music/spirit-lead-me-chords-2458548",
+    "name": "Influence Music - Spirit Lead Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Influence Music"
+    },
+    "datePublished": "2018-08-27T15:17:01-04:00",
+    "dateModified": "2020-04-07T18:15:37-04:00",
+    "commentCount": 6
+}

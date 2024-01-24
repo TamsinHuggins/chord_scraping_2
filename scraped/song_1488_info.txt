@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/florence-the-machine/dog-days-are-over-chords-908502",
+    "name": "Florence + The Machine - Dog Days Are Over (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Florence + The Machine"
+    },
+    "datePublished": "2010-01-05T19:00:01-05:00",
+    "dateModified": "2021-01-01T12:51:07-05:00",
+    "commentCount": 33
+}

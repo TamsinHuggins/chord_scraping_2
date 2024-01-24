@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/foo-fighters/walk-chords-1048360",
+    "name": "Foo Fighters - Walk (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Dm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Foo Fighters"
+    },
+    "datePublished": "2011-04-18T20:00:01-04:00",
+    "dateModified": "2018-12-11T12:22:18-05:00",
+    "commentCount": 19,
+    "musicalKey": "Dm"
+}

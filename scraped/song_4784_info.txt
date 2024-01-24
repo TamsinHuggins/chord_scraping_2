@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elvis-presley/all-shook-up-chords-1042638",
+    "name": "Elvis Presley - All Shook Up (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Elvis Presley"
+    },
+    "datePublished": "2011-03-31T20:00:01-04:00",
+    "dateModified": "2016-06-25T11:35:29-04:00",
+    "commentCount": 15
+}

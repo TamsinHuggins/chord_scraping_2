@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/evermore-chords-3461822",
+    "name": "Taylor Swift - Evermore (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-12-11T00:50:27-05:00",
+    "dateModified": "2020-12-16T16:19:05-05:00",
+    "commentCount": 16,
+    "musicalKey": "C"
+}

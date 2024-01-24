@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/noah-kahan/paul-revere-chords-4812827",
+    "name": "Noah Kahan - Paul Revere (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Noah Kahan"
+    },
+    "datePublished": "2023-06-09T01:12:21-04:00",
+    "dateModified": "2023-06-09T05:12:21-04:00",
+    "commentCount": 3,
+    "musicalKey": "D"
+}

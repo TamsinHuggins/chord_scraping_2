@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruno-mars/count-on-me-chords-958496",
+    "name": "Bruno Mars - Count On Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruno Mars"
+    },
+    "datePublished": "2010-06-13T20:00:01-04:00",
+    "dateModified": "2017-07-18T14:11:58-04:00",
+    "commentCount": 113,
+    "musicalKey": "C"
+}

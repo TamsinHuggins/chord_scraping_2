@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/green-day/strange-days-are-here-to-stay-chords-5110621",
+    "name": "Green Day - Strange Days Are Here To Stay (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Green Day"
+    },
+    "datePublished": "2024-01-19T00:07:20-05:00",
+    "dateModified": "2024-01-19T11:16:08-05:00",
+    "commentCount": 5,
+    "musicalKey": "E"
+}

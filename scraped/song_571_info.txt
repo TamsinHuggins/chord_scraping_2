@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-mayer/slow-dancing-in-a-burning-room-chords-706621",
+    "name": "John Mayer - Slow Dancing In A Burning Room (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Mayer"
+    },
+    "datePublished": "2009-08-08T04:28:45-04:00",
+    "dateModified": "2020-01-31T07:43:33-05:00",
+    "commentCount": 54,
+    "musicalKey": "C#m"
+}

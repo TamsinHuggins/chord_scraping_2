@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/twenty-one-pilots/stressed-out-chords-1733581",
+    "name": "Twenty One Pilots - Stressed Out (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "twenty one pilots"
+    },
+    "datePublished": "2015-04-27T17:43:36-04:00",
+    "dateModified": "2018-10-11T13:09:24-04:00",
+    "commentCount": 62,
+    "musicalKey": "Am"
+}

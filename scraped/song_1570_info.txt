@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dean-lewis/waves-chords-1899241",
+    "name": "Dean Lewis - Waves (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Dean Lewis"
+    },
+    "datePublished": "2016-11-01T16:12:45-04:00",
+    "dateModified": "2023-05-06T10:19:57-04:00",
+    "commentCount": 38,
+    "musicalKey": "D"
+}

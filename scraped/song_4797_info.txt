@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/acdc/hells-bells-chords-2245939",
+    "name": "Ac/Dc - Hells Bells (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "AC/DC"
+    },
+    "datePublished": "2017-11-29T09:55:07-05:00",
+    "dateModified": "2018-04-26T10:15:27-04:00",
+    "commentCount": 2,
+    "musicalKey": "Am"
+}

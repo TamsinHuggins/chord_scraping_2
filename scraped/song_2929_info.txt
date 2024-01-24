@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/start-me-up-chords-1716983",
+    "name": "The Rolling Stones - Start Me Up (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2015-03-03T02:24:51-05:00",
+    "dateModified": "2018-03-21T17:49:36-04:00",
+    "commentCount": 3,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mitski/i-want-you-chords-1900962",
+    "name": "Mitski - I Want You (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mitski"
+    },
+    "datePublished": "2016-11-05T11:37:22-04:00",
+    "dateModified": "2021-12-16T14:28:03-05:00",
+    "commentCount": 9
+}

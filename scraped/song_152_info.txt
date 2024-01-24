@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/heading-south-chords-2825888",
+    "name": "Zach Bryan - Heading South (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2019-09-14T13:40:20-04:00",
+    "dateModified": "2022-04-08T05:43:41-04:00",
+    "commentCount": 25
+}

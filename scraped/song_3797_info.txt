@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/adventure-time-theme-chords-1003146",
+    "name": "Misc Cartoons - Adventure Time Theme (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2010-11-11T19:00:01-05:00",
+    "dateModified": "2020-05-21T07:53:15-04:00",
+    "commentCount": 29
+}

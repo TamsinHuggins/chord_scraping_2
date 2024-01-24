@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/neil-young/my-my-hey-hey-out-of-the-blue-chords-700572",
+    "name": "Neil Young - My My Hey Hey Out Of The Blue (chords)",
+    "text": "Difficulty: beginner Tuning: D G C F A D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Neil Young"
+    },
+    "datePublished": "2008-07-06T20:00:01-04:00",
+    "dateModified": "2018-03-08T03:35:17-05:00",
+    "commentCount": 28
+}

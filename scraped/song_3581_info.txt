@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/upperroom/give-me-jesus-chords-3840338",
+    "name": "Upperroom - Give Me Jesus (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "UPPERROOM"
+    },
+    "datePublished": "2021-08-19T22:36:35-04:00",
+    "dateModified": "2021-09-06T20:57:23-04:00",
+    "commentCount": 1
+}

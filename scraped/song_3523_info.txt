@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frank-ocean/godspeed-chords-1894358",
+    "name": "Frank Ocean - Godspeed (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F# Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Frank Ocean"
+    },
+    "datePublished": "2016-10-16T15:33:22-04:00",
+    "dateModified": "2020-11-18T14:53:49-05:00",
+    "commentCount": 4,
+    "musicalKey": "F#"
+}

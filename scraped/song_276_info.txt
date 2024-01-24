@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sam-smith/im-not-the-only-one-chords-1489018",
+    "name": "Sam Smith - Im Not The Only One (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sam Smith"
+    },
+    "datePublished": "2014-06-03T03:04:41-04:00",
+    "dateModified": "2018-11-29T11:48:56-05:00",
+    "commentCount": 90,
+    "musicalKey": "F"
+}

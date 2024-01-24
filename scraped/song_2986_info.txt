@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kxllswxtch/waste-chords-4367153",
+    "name": "Kxllswxtch - Waste (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kxllswxtch"
+    },
+    "datePublished": "2022-09-29T13:54:03-04:00",
+    "dateModified": "2022-09-30T14:08:41-04:00",
+    "commentCount": 4
+}

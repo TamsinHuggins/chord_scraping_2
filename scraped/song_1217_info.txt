@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/snow-chords-2834404",
+    "name": "Zach Bryan - Snow (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2019-09-22T20:47:40-04:00",
+    "dateModified": "2019-09-23T14:59:13-04:00",
+    "commentCount": 5
+}

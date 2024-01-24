@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-combs/where-the-wild-things-are-chords-4698512",
+    "name": "Luke Combs - Where The Wild Things Are (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Combs"
+    },
+    "datePublished": "2023-03-24T08:37:22-04:00",
+    "dateModified": "2023-05-21T11:26:52-04:00",
+    "commentCount": 4,
+    "musicalKey": "Eb"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/delaney-bailey/js-lullaby-darlin-id-wait-for-you-chords-3998065",
+    "name": "Delaney Bailey - Js Lullaby Darlin Id Wait For You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Delaney Bailey"
+    },
+    "datePublished": "2021-12-22T00:36:48-05:00",
+    "dateModified": "2022-01-17T18:34:06-05:00",
+    "commentCount": 5
+}

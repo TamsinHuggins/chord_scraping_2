@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/warren-zevon/werewolves-of-london-chords-1088946",
+    "name": "Warren Zevon - Werewolves Of London (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Warren Zevon"
+    },
+    "datePublished": "2011-08-30T20:00:01-04:00",
+    "dateModified": "2023-03-14T21:19:48-04:00",
+    "commentCount": 19,
+    "musicalKey": "D"
+}

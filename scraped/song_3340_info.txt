@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-bowie/lets-dance-chords-1492669",
+    "name": "David Bowie - Lets Dance (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "David Bowie"
+    },
+    "datePublished": "2014-06-13T13:29:39-04:00",
+    "dateModified": "2019-07-18T09:56:55-04:00",
+    "commentCount": 24
+}

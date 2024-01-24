@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rosa-linn/snap-chords-4151533",
+    "name": "Rosa Linn - Snap (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Rosa Linn"
+    },
+    "datePublished": "2022-04-13T13:32:35-04:00",
+    "dateModified": "2022-04-14T04:59:05-04:00",
+    "commentCount": 1,
+    "musicalKey": "Am"
+}

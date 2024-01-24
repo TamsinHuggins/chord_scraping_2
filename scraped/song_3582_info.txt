@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/ae-dil-hai-mushkil-title-track-chords-1871806",
+    "name": "Misc Soundtrack - Ae Dil Hai Mushkil Title Track (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ebm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2016-09-02T03:23:15-04:00",
+    "dateModified": "2021-07-01T17:06:38-04:00",
+    "commentCount": 17,
+    "musicalKey": "Ebm"
+}

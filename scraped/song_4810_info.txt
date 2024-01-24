@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/r-e-m-/strange-currencies-chords-1094294",
+    "name": "R.e.m. - Strange Currencies (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "R.E.M."
+    },
+    "datePublished": "2011-09-22T20:00:01-04:00",
+    "dateModified": "2017-01-27T14:15:27-05:00",
+    "commentCount": 6
+}

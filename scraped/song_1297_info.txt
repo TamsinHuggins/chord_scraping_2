@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/goo-goo-dolls/iris-chords-35540",
+    "name": "Goo Goo Dolls - Iris (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Goo Goo Dolls"
+    },
+    "datePublished": "2002-09-12T20:00:00-04:00",
+    "dateModified": "2019-06-19T21:57:34-04:00",
+    "commentCount": 41
+}

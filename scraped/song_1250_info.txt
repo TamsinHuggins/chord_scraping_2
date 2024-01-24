@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bailey-zimmerman/rock-and-a-hard-place-chords-4227010",
+    "name": "Bailey Zimmerman - Rock And A Hard Place (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bailey Zimmerman"
+    },
+    "datePublished": "2022-06-10T06:23:11-04:00",
+    "dateModified": "2023-06-09T16:09:19-04:00",
+    "commentCount": 6
+}

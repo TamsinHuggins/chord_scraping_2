@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/afterglow-chords-3477983",
+    "name": "Ed Sheeran - Afterglow (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Ed Sheeran"
+    },
+    "datePublished": "2020-12-21T06:40:41-05:00",
+    "dateModified": "2021-02-13T22:23:48-05:00",
+    "commentCount": 50,
+    "musicalKey": "B"
+}

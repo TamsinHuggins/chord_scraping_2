@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/train/hey-soul-sister-chords-884388",
+    "name": "Train - Hey Soul Sister (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Train"
+    },
+    "datePublished": "2009-10-21T20:00:01-04:00",
+    "dateModified": "2022-09-13T00:23:09-04:00",
+    "commentCount": 213,
+    "musicalKey": "E"
+}

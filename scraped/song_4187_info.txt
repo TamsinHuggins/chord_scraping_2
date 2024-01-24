@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tate-mcrae/plastic-palm-trees-chords-5060215",
+    "name": "Tate Mcrae - Plastic Palm Trees (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tate McRae"
+    },
+    "datePublished": "2023-12-08T14:52:17-05:00",
+    "dateModified": "2023-12-08T21:15:34-05:00",
+    "commentCount": 0,
+    "musicalKey": "Eb"
+}

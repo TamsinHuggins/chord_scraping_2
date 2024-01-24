@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-lumineers/ho-hey-chords-1047662",
+    "name": "The Lumineers - Ho Hey (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Lumineers"
+    },
+    "datePublished": "2011-04-17T20:00:01-04:00",
+    "dateModified": "2019-02-04T09:27:50-05:00",
+    "commentCount": 13,
+    "musicalKey": "C"
+}

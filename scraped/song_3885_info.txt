@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stevie-wonder/signed-sealed-delivered-im-yours-chords-1240604",
+    "name": "Stevie Wonder - Signed Sealed Delivered Im Yours (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stevie Wonder"
+    },
+    "datePublished": "2013-04-22T20:00:01-04:00",
+    "dateModified": "2016-07-05T12:39:29-04:00",
+    "commentCount": 3
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/pinocchio-when-you-wish-upon-a-star-chords-1104666",
+    "name": "Misc Cartoons - Pinocchio - When You Wish Upon A Star (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2011-10-31T20:00:01-04:00",
+    "dateModified": "2020-07-14T11:57:44-04:00",
+    "commentCount": 13,
+    "musicalKey": "G"
+}

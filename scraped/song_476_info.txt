@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1446000",
+    "name": "Michael Bublé - Feeling Good (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ebm Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Michael Bublé"
+    },
+    "datePublished": "2013-12-18T19:00:01-05:00",
+    "dateModified": "2020-02-14T00:49:36-05:00",
+    "commentCount": 8,
+    "musicalKey": "Ebm"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/nirvana/rape-me-chords-841026",
+    "name": "Nirvana - Rape Me (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Nirvana"
+    },
+    "datePublished": "2009-06-25T20:00:01-04:00",
+    "dateModified": "2022-04-26T07:17:04-04:00",
+    "commentCount": 40
+}

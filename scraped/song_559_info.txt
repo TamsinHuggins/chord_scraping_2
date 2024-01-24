@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ricky-montgomery/line-without-a-hook-chords-1830299",
+    "name": "Ricky Montgomery - Line Without A Hook (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Ricky Montgomery"
+    },
+    "datePublished": "2016-03-31T04:58:42-04:00",
+    "dateModified": "2020-11-14T13:11:46-05:00",
+    "commentCount": 43,
+    "musicalKey": "Ab"
+}

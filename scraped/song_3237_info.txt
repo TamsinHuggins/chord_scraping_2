@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/umberto-tozzi/ti-amo-chords-1494912",
+    "name": "Umberto Tozzi - Ti Amo (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Umberto Tozzi"
+    },
+    "datePublished": "2014-06-20T04:33:15-04:00",
+    "dateModified": "2020-04-29T12:14:04-04:00",
+    "commentCount": 3
+}

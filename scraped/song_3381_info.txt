@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-weeknd/call-out-my-name-chords-2354751",
+    "name": "The Weeknd - Call Out My Name (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "The Weeknd"
+    },
+    "datePublished": "2018-03-30T00:49:22-04:00",
+    "dateModified": "2018-03-31T06:21:58-04:00",
+    "commentCount": 13,
+    "musicalKey": "D#m"
+}

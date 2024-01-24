@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/kansas/carry-on-wayward-son-chords-72959",
+    "name": "Kansas - Carry On Wayward Son (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Kansas"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2018-10-16T16:20:28-04:00",
+    "commentCount": 33,
+    "musicalKey": "Em"
+}

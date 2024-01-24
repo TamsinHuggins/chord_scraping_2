@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/cornelia-street-chords-2802899",
+    "name": "Taylor Swift - Cornelia Street (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2019-08-23T03:08:20-04:00",
+    "dateModified": "2020-06-19T14:03:57-04:00",
+    "commentCount": 26,
+    "musicalKey": "C"
+}

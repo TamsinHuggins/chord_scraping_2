@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/dont-think-twice-its-all-right-chords-178850",
+    "name": "Bob Dylan - Dont Think Twice Its All Right (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2005-04-17T20:00:00-04:00",
+    "dateModified": "2021-06-08T22:35:42-04:00",
+    "commentCount": 92,
+    "musicalKey": "C"
+}

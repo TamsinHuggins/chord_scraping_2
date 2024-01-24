@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/iron-wine/call-it-dreaming-chords-2034101",
+    "name": "Iron & Wine - Call It Dreaming (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Iron &amp; Wine"
+    },
+    "datePublished": "2017-06-09T04:01:33-04:00",
+    "dateModified": "2017-07-02T19:54:12-04:00",
+    "commentCount": 13
+}

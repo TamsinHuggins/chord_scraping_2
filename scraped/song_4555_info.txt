@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/dancing-queen-chords-355672",
+    "name": "Abba - Dancing Queen (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2006-04-18T20:00:01-04:00",
+    "dateModified": "2023-05-24T10:42:13-04:00",
+    "commentCount": 3
+}

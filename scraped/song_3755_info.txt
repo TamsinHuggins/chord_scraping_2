@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-killer-teri-yaadon-mein-chords-2776270",
+    "name": "Misc Soundtrack - The Killer - Teri Yaadon Mein (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2019-07-27T01:59:03-04:00",
+    "dateModified": "2021-10-05T09:29:23-04:00",
+    "commentCount": 0
+}

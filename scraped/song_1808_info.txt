@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/ae-dil-hai-mushkil-channa-mereya-chords-1879445",
+    "name": "Misc Soundtrack - Ae Dil Hai Mushkil - Channa Mereya (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2016-10-01T02:29:26-04:00",
+    "dateModified": "2021-09-14T21:12:00-04:00",
+    "commentCount": 22
+}

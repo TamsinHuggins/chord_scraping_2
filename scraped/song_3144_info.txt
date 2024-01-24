@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/metallica/the-unforgiven-ii-chords-98209",
+    "name": "Metallica - The Unforgiven Ii (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Metallica"
+    },
+    "datePublished": "2003-12-21T19:00:00-05:00",
+    "dateModified": "2016-05-18T09:45:58-04:00",
+    "commentCount": 12
+}

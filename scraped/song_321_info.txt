@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jack-johnson/banana-pancakes-chords-970463",
+    "name": "Jack Johnson - Banana Pancakes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jack Johnson"
+    },
+    "datePublished": "2010-07-22T20:00:01-04:00",
+    "dateModified": "2018-03-23T13:59:35-04:00",
+    "commentCount": 27,
+    "musicalKey": "G"
+}

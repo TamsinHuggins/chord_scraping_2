@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/twenty-one-pilots/cant-help-falling-in-love-chords-1759927",
+    "name": "Twenty One Pilots - Cant Help Falling In Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "twenty one pilots"
+    },
+    "datePublished": "2015-08-19T03:44:07-04:00",
+    "dateModified": "2016-08-05T19:23:59-04:00",
+    "commentCount": 20
+}

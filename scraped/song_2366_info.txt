@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tom-petty-and-the-heartbreakers/the-waiting-chords-781369",
+    "name": "Tom Petty And The Heartbreakers - The Waiting (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Tom Petty and The Heartbreakers"
+    },
+    "datePublished": "2009-01-27T19:00:01-05:00",
+    "dateModified": "2019-10-01T21:35:50-04:00",
+    "commentCount": 23,
+    "musicalKey": "G"
+}

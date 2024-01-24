@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/xxxtentacion/jocelyn-flores-chords-2127269",
+    "name": "Xxxtentacion - Jocelyn Flores (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Cm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "XXXTENTACION"
+    },
+    "datePublished": "2017-08-28T04:48:47-04:00",
+    "dateModified": "2019-12-19T11:20:24-05:00",
+    "commentCount": 62,
+    "musicalKey": "Cm"
+}

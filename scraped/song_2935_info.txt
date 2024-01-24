@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/brad-paisley/im-gonna-miss-her-chords-188530",
+    "name": "Brad Paisley - Im Gonna Miss Her (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Brad Paisley"
+    },
+    "datePublished": "2005-06-01T20:00:00-04:00",
+    "dateModified": "2016-07-15T10:25:57-04:00",
+    "commentCount": 23
+}

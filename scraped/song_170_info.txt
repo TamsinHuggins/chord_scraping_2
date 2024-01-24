@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alicia-keys/if-i-aint-got-you-chords-111683",
+    "name": "Alicia Keys - If I Aint Got You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alicia Keys"
+    },
+    "datePublished": "2004-04-05T20:00:00-04:00",
+    "dateModified": "2021-11-11T13:38:58-05:00",
+    "commentCount": 42,
+    "musicalKey": "G"
+}

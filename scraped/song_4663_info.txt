@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/3841478",
+    "name": "Lea - Wenn Du Mich Lässt (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 9",
+    "composer": {
+        "@type": "Person",
+        "name": "LEA"
+    },
+    "datePublished": "2021-08-20T16:25:29-04:00",
+    "dateModified": "2021-08-21T13:06:55-04:00",
+    "commentCount": 2,
+    "musicalKey": "G"
+}

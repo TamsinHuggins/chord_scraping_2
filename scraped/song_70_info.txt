@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bee-gees/how-deep-is-your-love-chords-1191900",
+    "name": "Bee Gees - How Deep Is Your Love (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bee Gees"
+    },
+    "datePublished": "2012-10-29T20:00:01-04:00",
+    "dateModified": "2020-08-17T10:36:14-04:00",
+    "commentCount": 47,
+    "musicalKey": "Eb"
+}

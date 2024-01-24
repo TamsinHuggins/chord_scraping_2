@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-axis-of-awesome/4-chords-chords-965337",
+    "name": "The Axis Of Awesome - 4 Chords (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Axis of Awesome"
+    },
+    "datePublished": "2010-07-07T20:00:01-04:00",
+    "dateModified": "2016-04-16T12:15:15-04:00",
+    "commentCount": 13
+}

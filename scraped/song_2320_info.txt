@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/luke-combs/forever-after-all-chords-3388115",
+    "name": "Luke Combs - Forever After All (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: C Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Luke Combs"
+    },
+    "datePublished": "2020-10-23T02:07:30-04:00",
+    "dateModified": "2020-10-31T04:35:03-04:00",
+    "commentCount": 20,
+    "musicalKey": "C"
+}

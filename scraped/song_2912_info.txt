@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alec-benjamin/the-water-fountain-chords-1865691",
+    "name": "Alec Benjamin - The Water Fountain (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Alec Benjamin"
+    },
+    "datePublished": "2016-08-07T19:57:11-04:00",
+    "dateModified": "2021-10-30T11:18:07-04:00",
+    "commentCount": 17,
+    "musicalKey": "Db"
+}

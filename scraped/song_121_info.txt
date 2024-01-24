@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/in-my-life-chords-531847",
+    "name": "The Beatles - In My Life (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2007-06-10T20:00:01-04:00",
+    "dateModified": "2021-04-11T20:33:37-04:00",
+    "commentCount": 50,
+    "musicalKey": "A"
+}

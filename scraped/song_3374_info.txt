@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phil-wickham/youre-beautiful-chords-831625",
+    "name": "Phil Wickham - Youre Beautiful (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Phil Wickham"
+    },
+    "datePublished": "2009-06-02T20:00:01-04:00",
+    "dateModified": "2009-06-03T00:00:01-04:00",
+    "commentCount": 10
+}

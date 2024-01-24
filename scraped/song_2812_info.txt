@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/big-star/thirteen-chords-1444186",
+    "name": "Big Star - Thirteen (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Big Star"
+    },
+    "datePublished": "2013-12-04T19:00:01-05:00",
+    "dateModified": "2016-05-13T12:15:03-04:00",
+    "commentCount": 12
+}

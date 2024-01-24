@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/goodbye-yellow-brick-road-chords-10735",
+    "name": "Elton John - Goodbye Yellow Brick Road (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2019-05-29T09:54:04-04:00",
+    "commentCount": 54,
+    "musicalKey": "F"
+}

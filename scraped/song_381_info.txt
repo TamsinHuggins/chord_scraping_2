@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/willie-nelson/always-on-my-mind-chords-77919",
+    "name": "Willie Nelson - Always On My Mind (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Willie Nelson"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-09-14T01:35:15-04:00",
+    "commentCount": 54,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/one-direction/fools-gold-chords-1678199",
+    "name": "One Direction - Fools Gold (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "One Direction"
+    },
+    "datePublished": "2014-11-07T15:16:21-05:00",
+    "dateModified": "2020-11-27T23:27:12-05:00",
+    "commentCount": 9
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/miley-cyrus/jaded-chords-4678901",
+    "name": "Miley Cyrus - Jaded (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Miley Cyrus"
+    },
+    "datePublished": "2023-03-09T18:06:35-05:00",
+    "dateModified": "2023-05-03T06:29:38-04:00",
+    "commentCount": 0
+}

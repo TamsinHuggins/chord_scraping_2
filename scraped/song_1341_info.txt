@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lady-gaga/paparazzi-chords-762806",
+    "name": "Lady Gaga - Paparazzi (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Cm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Lady Gaga"
+    },
+    "datePublished": "2008-12-02T19:00:01-05:00",
+    "dateModified": "2021-01-14T20:54:50-05:00",
+    "commentCount": 21,
+    "musicalKey": "Cm"
+}

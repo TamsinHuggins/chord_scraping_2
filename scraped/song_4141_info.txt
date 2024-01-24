@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/given-fuyu-no-hanashi-chords-2818097",
+    "name": "Misc Cartoons - Given - Fuyu No Hanashi (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2019-09-07T08:18:50-04:00",
+    "dateModified": "2021-02-05T17:49:43-05:00",
+    "commentCount": 20,
+    "musicalKey": "F"
+}

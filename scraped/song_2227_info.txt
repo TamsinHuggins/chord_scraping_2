@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cody-johnson/til-you-cant-chords-3747458",
+    "name": "Cody Johnson - Til You Cant (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Cody Johnson"
+    },
+    "datePublished": "2021-06-11T06:24:07-04:00",
+    "dateModified": "2023-01-02T16:51:44-05:00",
+    "commentCount": 15,
+    "musicalKey": "Db"
+}

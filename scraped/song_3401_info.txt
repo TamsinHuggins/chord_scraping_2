@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elton-john/cold-heart-pnau-remix-chords-3839657",
+    "name": "Elton John - Cold Heart Pnau Remix (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Elton John"
+    },
+    "datePublished": "2021-08-19T11:34:21-04:00",
+    "dateModified": "2022-01-27T19:19:14-05:00",
+    "commentCount": 30,
+    "musicalKey": "Bbm"
+}

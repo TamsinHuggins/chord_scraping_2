@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/the-other-woman-chords-1500706",
+    "name": "Lana Del Rey - The Other Woman (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2014-07-11T05:13:01-04:00",
+    "dateModified": "2016-09-17T11:47:36-04:00",
+    "commentCount": 6
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alice-in-chains/heaven-beside-you-chords-1720666",
+    "name": "Alice In Chains - Heaven Beside You (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alice in Chains"
+    },
+    "datePublished": "2015-03-15T06:12:02-04:00",
+    "dateModified": "2021-09-11T21:00:27-04:00",
+    "commentCount": 6
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/catfish-and-the-bottlemen/7-chords-1777829",
+    "name": "Catfish And The Bottlemen - 7 (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Catfish and the Bottlemen"
+    },
+    "datePublished": "2015-10-31T01:18:28-04:00",
+    "dateModified": "2016-10-10T08:53:42-04:00",
+    "commentCount": 27,
+    "musicalKey": "Bb"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-smashing-pumpkins/disarm-chords-3165",
+    "name": "The Smashing Pumpkins - Disarm (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Smashing Pumpkins"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-11-25T12:21:52-05:00",
+    "commentCount": 52,
+    "musicalKey": "Em"
+}

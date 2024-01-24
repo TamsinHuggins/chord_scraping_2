@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/britney-spears/everytime-chords-118155",
+    "name": "Britney Spears - Everytime (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Britney Spears"
+    },
+    "datePublished": "2004-05-18T20:00:00-04:00",
+    "dateModified": "2023-12-30T00:42:28-05:00",
+    "commentCount": 6
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lewis-capaldi/bruises-chords-2258281",
+    "name": "Lewis Capaldi - Bruises (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Lewis Capaldi"
+    },
+    "datePublished": "2017-12-16T00:43:05-05:00",
+    "dateModified": "2021-01-21T23:57:00-05:00",
+    "commentCount": 17,
+    "musicalKey": "C#m"
+}

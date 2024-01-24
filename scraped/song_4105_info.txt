@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/aretha-franklin/respect-chords-68720",
+    "name": "Aretha Franklin - Respect (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Aretha Franklin"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2018-08-17T13:15:41-04:00",
+    "commentCount": 10,
+    "musicalKey": "C"
+}

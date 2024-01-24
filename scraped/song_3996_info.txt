@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/grace-chords-1179767",
+    "name": "Misc Traditional - Grace (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2012-09-02T20:00:01-04:00",
+    "dateModified": "2018-03-19T12:38:14-04:00",
+    "commentCount": 15,
+    "musicalKey": "G"
+}

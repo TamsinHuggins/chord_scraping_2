@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/miley-cyrus/jolene-chords-1405512",
+    "name": "Miley Cyrus - Jolene (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Cm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Miley Cyrus"
+    },
+    "datePublished": "2013-07-24T20:00:01-04:00",
+    "dateModified": "2020-03-26T12:16:52-04:00",
+    "commentCount": 16,
+    "musicalKey": "Cm"
+}

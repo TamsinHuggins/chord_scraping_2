@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/oliver-anthony-music/rich-men-north-of-richmond-chords-4909696",
+    "name": "Oliver Anthony Music - Rich Men North Of Richmond (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Oliver Anthony Music"
+    },
+    "datePublished": "2023-08-09T21:47:01-04:00",
+    "dateModified": "2023-08-23T20:36:06-04:00",
+    "commentCount": 66,
+    "musicalKey": "Gm"
+}

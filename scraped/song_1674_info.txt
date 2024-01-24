@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/maisie-peters/history-of-man-chords-4834691",
+    "name": "Maisie Peters - History Of Man (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Maisie Peters"
+    },
+    "datePublished": "2023-06-23T01:35:16-04:00",
+    "dateModified": "2023-06-23T05:35:16-04:00",
+    "commentCount": 0,
+    "musicalKey": "F"
+}

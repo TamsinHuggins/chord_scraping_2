@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-walters/i-love-you-so-chords-1751760",
+    "name": "The Walters - I Love You So (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Walters"
+    },
+    "datePublished": "2015-07-14T06:27:50-04:00",
+    "dateModified": "2021-10-14T16:19:20-04:00",
+    "commentCount": 20,
+    "musicalKey": "Bb"
+}

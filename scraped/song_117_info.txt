@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/fugees/killing-me-softly-chords-50470",
+    "name": "Fugees - Killing Me Softly (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Fugees"
+    },
+    "datePublished": "2003-04-24T20:00:00-04:00",
+    "dateModified": "2022-06-15T13:55:43-04:00",
+    "commentCount": 62,
+    "musicalKey": "Em"
+}

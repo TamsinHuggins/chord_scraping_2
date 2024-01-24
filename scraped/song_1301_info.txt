@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bon-jovi/you-give-love-a-bad-name-chords-1242523",
+    "name": "Bon Jovi - You Give Love A Bad Name (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Cm Capo: 8",
+    "composer": {
+        "@type": "Person",
+        "name": "Bon Jovi"
+    },
+    "datePublished": "2013-04-30T20:00:01-04:00",
+    "dateModified": "2020-09-30T10:56:41-04:00",
+    "commentCount": 18,
+    "musicalKey": "Cm"
+}

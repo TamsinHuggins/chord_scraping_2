@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-musicals/dear-evan-hansen-requiem-chords-1946911",
+    "name": "Misc Musicals - Dear Evan Hansen - Requiem (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F#m Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Musicals"
+    },
+    "datePublished": "2017-04-06T02:35:44-04:00",
+    "dateModified": "2023-12-30T10:12:29-05:00",
+    "commentCount": 43,
+    "musicalKey": "F#m"
+}

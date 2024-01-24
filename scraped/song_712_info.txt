@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dean-lewis/how-do-i-say-goodbye-chords-4329215",
+    "name": "Dean Lewis - How Do I Say Goodbye (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Dean Lewis"
+    },
+    "datePublished": "2022-08-29T06:46:31-04:00",
+    "dateModified": "2023-02-22T06:48:00-05:00",
+    "commentCount": 25,
+    "musicalKey": "Eb"
+}

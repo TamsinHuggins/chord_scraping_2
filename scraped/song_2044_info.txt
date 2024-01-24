@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-mayer/waiting-on-the-world-to-change-chords-386247",
+    "name": "John Mayer - Waiting On The World To Change (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Mayer"
+    },
+    "datePublished": "2009-06-26T00:26:24-04:00",
+    "dateModified": "2020-10-09T21:53:54-04:00",
+    "commentCount": 27
+}

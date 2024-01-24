@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/everybody-loves-an-outlaw/i-see-red-chords-3199916",
+    "name": "Everybody Loves An Outlaw - I See Red (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Everybody Loves an Outlaw"
+    },
+    "datePublished": "2020-06-14T10:07:55-04:00",
+    "dateModified": "2020-06-15T14:38:37-04:00",
+    "commentCount": 7
+}

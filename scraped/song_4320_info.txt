@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grateful-dead/brown-eyed-woman-chords-1853771",
+    "name": "Grateful Dead - Brown Eyed Woman (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Grateful Dead"
+    },
+    "datePublished": "2016-06-17T08:25:10-04:00",
+    "dateModified": "2019-02-01T22:04:30-05:00",
+    "commentCount": 9
+}

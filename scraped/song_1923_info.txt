@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lewis-capaldi/forget-me-chords-4341473",
+    "name": "Lewis Capaldi - Forget Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Lewis Capaldi"
+    },
+    "datePublished": "2022-09-08T12:14:52-04:00",
+    "dateModified": "2022-10-03T08:45:31-04:00",
+    "commentCount": 6,
+    "musicalKey": "B"
+}

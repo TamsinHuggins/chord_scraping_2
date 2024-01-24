@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alan-jackson/its-five-oclock-somewhere-chords-820234",
+    "name": "Alan Jackson - Its Five Oclock Somewhere (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alan Jackson"
+    },
+    "datePublished": "2009-05-03T20:00:01-04:00",
+    "dateModified": "2020-05-18T09:52:22-04:00",
+    "commentCount": 12
+}

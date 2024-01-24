@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-greatest-showman-this-is-me-chords-2248659",
+    "name": "Misc Soundtrack - The Greatest Showman - This Is Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2017-12-01T06:58:50-05:00",
+    "dateModified": "2020-03-18T15:04:34-04:00",
+    "commentCount": 78,
+    "musicalKey": "D"
+}

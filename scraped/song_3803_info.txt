@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/papa-roach/scars-chords-176390",
+    "name": "Papa Roach - Scars (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: B Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Papa Roach"
+    },
+    "datePublished": "2005-04-04T20:00:00-04:00",
+    "dateModified": "2020-10-15T12:22:41-04:00",
+    "commentCount": 40,
+    "musicalKey": "B"
+}

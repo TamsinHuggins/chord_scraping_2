@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1974-ad/hidda-hiddai-chords-1208496",
+    "name": "1974 Ad - Hidda Hiddai (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "1974 AD"
+    },
+    "datePublished": "2013-01-16T19:00:01-05:00",
+    "dateModified": "2018-10-22T12:24:10-04:00",
+    "commentCount": 2,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/raffi/wheels-on-the-bus-chords-607840",
+    "name": "Raffi - Wheels On The Bus (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Raffi"
+    },
+    "datePublished": "2007-11-30T19:00:01-05:00",
+    "dateModified": "2018-05-11T08:26:33-04:00",
+    "commentCount": 8
+}

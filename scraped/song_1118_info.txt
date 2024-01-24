@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/u2/stuck-in-a-moment-you-cant-get-out-of-chords-830",
+    "name": "U2 - Stuck In A Moment You Cant Get Out Of (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "U2"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-10-07T19:31:46-04:00",
+    "commentCount": 23
+}

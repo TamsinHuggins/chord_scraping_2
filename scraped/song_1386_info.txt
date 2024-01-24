@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/motion-sickness-chords-2111259",
+    "name": "Phoebe Bridgers - Motion Sickness (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phoebe Bridgers"
+    },
+    "datePublished": "2017-08-18T08:33:27-04:00",
+    "dateModified": "2020-01-06T16:02:59-05:00",
+    "commentCount": 15,
+    "musicalKey": "Db"
+}

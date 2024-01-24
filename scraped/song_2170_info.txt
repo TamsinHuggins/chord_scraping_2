@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/murder-2-phir-mohabbat-chords-1713658",
+    "name": "Misc Soundtrack - Murder 2 - Phir Mohabbat (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2015-02-20T19:25:22-05:00",
+    "dateModified": "2020-09-19T04:07:53-04:00",
+    "commentCount": 26
+}

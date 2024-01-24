@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/youve-got-to-hide-your-love-away-chords-17403",
+    "name": "The Beatles - Youve Got To Hide Your Love Away (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2017-09-02T18:41:08-04:00",
+    "commentCount": 77,
+    "musicalKey": "G"
+}

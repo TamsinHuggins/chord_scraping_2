@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tracy-chapman/fast-car-chords-828632",
+    "name": "Tracy Chapman - Fast Car (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Tracy Chapman"
+    },
+    "datePublished": "2009-05-26T20:00:01-04:00",
+    "dateModified": "2019-01-23T19:32:15-05:00",
+    "commentCount": 11,
+    "musicalKey": "C"
+}

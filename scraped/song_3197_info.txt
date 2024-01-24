@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/1077469",
+    "name": "Joe Dassin - Les Champs-Élysées (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Joe Dassin"
+    },
+    "datePublished": "2011-07-21T20:00:01-04:00",
+    "dateModified": "2020-10-05T12:56:31-04:00",
+    "commentCount": 17
+}

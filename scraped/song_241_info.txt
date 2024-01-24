@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-weeknd/blinding-lights-chords-2908700",
+    "name": "The Weeknd - Blinding Lights (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Eb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "The Weeknd"
+    },
+    "datePublished": "2019-11-29T01:36:05-05:00",
+    "dateModified": "2020-06-16T17:41:18-04:00",
+    "commentCount": 75,
+    "musicalKey": "Eb"
+}

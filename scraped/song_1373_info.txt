@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/phillip-phillips/home-chords-1156310",
+    "name": "Phillip Phillips - Home (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Phillip Phillips"
+    },
+    "datePublished": "2012-05-23T20:00:01-04:00",
+    "dateModified": "2019-11-20T09:12:42-05:00",
+    "commentCount": 42,
+    "musicalKey": "C"
+}

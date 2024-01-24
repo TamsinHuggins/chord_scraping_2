@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hall-oates/maneater-chords-353751",
+    "name": "Hall & Oates - Maneater (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Hall &amp; Oates"
+    },
+    "datePublished": "2006-04-13T20:00:01-04:00",
+    "dateModified": "2023-09-02T15:23:08-04:00",
+    "commentCount": 8,
+    "musicalKey": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/make-you-feel-my-love-chords-1189445",
+    "name": "Bob Dylan - Make You Feel My Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2012-10-18T20:00:01-04:00",
+    "dateModified": "2021-10-14T14:36:40-04:00",
+    "commentCount": 23,
+    "musicalKey": "Db"
+}

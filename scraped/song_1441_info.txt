@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/daniela-andrade/la-vie-en-rose-chords-1722038",
+    "name": "Daniela Andrade - La Vie En Rose (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Daniela Andrade"
+    },
+    "datePublished": "2015-03-19T08:36:10-04:00",
+    "dateModified": "2021-03-15T05:09:35-04:00",
+    "commentCount": 15,
+    "musicalKey": "D"
+}

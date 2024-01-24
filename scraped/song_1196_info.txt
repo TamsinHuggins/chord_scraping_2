@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/david-kushner/skin-and-bones-chords-5110630",
+    "name": "David Kushner - Skin And Bones (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "David Kushner"
+    },
+    "datePublished": "2024-01-19T00:26:06-05:00",
+    "dateModified": "2024-01-20T07:11:23-05:00",
+    "commentCount": 2
+}

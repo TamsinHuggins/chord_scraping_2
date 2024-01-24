@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frank-sinatra/ive-got-you-under-my-skin-chords-995737",
+    "name": "Frank Sinatra - Ive Got You Under My Skin (chords)",
+    "text": "Difficulty: intermediate Tuning: Eb Ab Db Gb Bb Eb Key: C# Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Frank Sinatra"
+    },
+    "datePublished": "2010-10-14T20:00:01-04:00",
+    "dateModified": "2019-12-06T09:18:16-05:00",
+    "commentCount": 4,
+    "musicalKey": "C#"
+}

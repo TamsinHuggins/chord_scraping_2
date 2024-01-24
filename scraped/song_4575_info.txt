@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grateful-dead/i-know-you-rider-chords-1848716",
+    "name": "Grateful Dead - I Know You Rider (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Grateful Dead"
+    },
+    "datePublished": "2016-05-25T03:38:04-04:00",
+    "dateModified": "2016-07-29T20:01:20-04:00",
+    "commentCount": 10
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/death-cab-for-cutie/i-will-follow-you-into-the-dark-chords-335735",
+    "name": "Death Cab For Cutie - I Will Follow You Into The Dark (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Death Cab for Cutie"
+    },
+    "datePublished": "2006-02-21T19:00:01-05:00",
+    "dateModified": "2017-08-17T13:29:18-04:00",
+    "commentCount": 175,
+    "musicalKey": "Am"
+}

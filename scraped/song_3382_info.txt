@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/poor-mans-poison/providence-chords-2407425",
+    "name": "Poor Man's Poison - Providence (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Poor Man&#039;s Poison"
+    },
+    "datePublished": "2018-06-20T18:42:40-04:00",
+    "dateModified": "2018-06-23T11:33:04-04:00",
+    "commentCount": 8
+}

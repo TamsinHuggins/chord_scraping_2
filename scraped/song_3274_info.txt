@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/deep-satin-chords-4271752",
+    "name": "Zach Bryan - Deep Satin (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2022-07-14T16:18:35-04:00",
+    "dateModified": "2022-09-29T19:25:54-04:00",
+    "commentCount": 6
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jeff-buckley/last-goodbye-chords-318940",
+    "name": "Jeff Buckley - Last Goodbye (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jeff Buckley"
+    },
+    "datePublished": "2006-01-05T19:00:01-05:00",
+    "dateModified": "2023-01-03T17:47:54-05:00",
+    "commentCount": 9
+}

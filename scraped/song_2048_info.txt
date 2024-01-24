@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/my-chemical-romance/disenchanted-chords-428090",
+    "name": "My Chemical Romance - Disenchanted (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "My Chemical Romance"
+    },
+    "datePublished": "2006-10-26T20:00:01-04:00",
+    "dateModified": "2019-11-15T11:57:28-05:00",
+    "commentCount": 37,
+    "musicalKey": "D"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lucio-battisti/il-mio-canto-libero-chords-731133",
+    "name": "Lucio Battisti - Il Mio Canto Libero (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lucio Battisti"
+    },
+    "datePublished": "2008-09-10T20:00:01-04:00",
+    "dateModified": "2016-11-10T13:40:00-05:00",
+    "commentCount": 2
+}

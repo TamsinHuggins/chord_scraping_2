@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/j-j-cale/after-midnight-chords-1240699",
+    "name": "J.j. Cale - After Midnight (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "J.J. Cale"
+    },
+    "datePublished": "2013-05-15T20:00:01-04:00",
+    "dateModified": "2018-12-12T08:45:02-05:00",
+    "commentCount": 8
+}

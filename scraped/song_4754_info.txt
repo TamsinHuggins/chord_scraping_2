@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/radiohead/bullet-proof-i-wish-i-was-chords-887747",
+    "name": "Radiohead - Bullet Proof I Wish I Was (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Radiohead"
+    },
+    "datePublished": "2009-10-29T20:00:01-04:00",
+    "dateModified": "2019-05-09T15:06:13-04:00",
+    "commentCount": 10
+}

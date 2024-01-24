@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/407419",
+    "name": "Juice Leskinen - Viidestoista Yö (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Juice Leskinen"
+    },
+    "datePublished": "2006-08-29T20:00:01-04:00",
+    "dateModified": "2016-06-23T16:37:08-04:00",
+    "commentCount": 2
+}

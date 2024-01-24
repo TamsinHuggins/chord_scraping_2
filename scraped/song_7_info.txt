@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/vance-joy/riptide-chords-1237247",
-    "name": "Vance Joy - Riptide (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bbm Capo: 1",
+    "url": "https://tabs.ultimate-guitar.com/tab/tracy-chapman/fast-car-chords-1044807",
+    "name": "Tracy Chapman - Fast Car (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: 2",
     "composer": {
         "@type": "Person",
-        "name": "Vance Joy"
+        "name": "Tracy Chapman"
     },
-    "datePublished": "2013-04-09T20:00:01-04:00",
-    "dateModified": "2020-05-21T02:28:26-04:00",
-    "commentCount": 359,
-    "musicalKey": "Bbm"
+    "datePublished": "2011-04-06T20:00:01-04:00",
+    "dateModified": "2023-12-28T16:13:36-05:00",
+    "commentCount": 93,
+    "musicalKey": "A"
 }

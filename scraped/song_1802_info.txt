@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ocean-alley/confidence-chords-2345323",
+    "name": "Ocean Alley - Confidence (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ocean Alley"
+    },
+    "datePublished": "2018-03-20T22:12:11-04:00",
+    "dateModified": "2018-03-22T10:21:16-04:00",
+    "commentCount": 7
+}

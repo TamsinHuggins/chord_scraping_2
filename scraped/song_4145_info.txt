@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/harry-styles/cherry-chords-2926985",
+    "name": "Harry Styles - Cherry (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: 7",
+    "composer": {
+        "@type": "Person",
+        "name": "Harry Styles"
+    },
+    "datePublished": "2019-12-13T03:19:25-05:00",
+    "dateModified": "2019-12-17T07:03:55-05:00",
+    "commentCount": 23,
+    "musicalKey": "G"
+}

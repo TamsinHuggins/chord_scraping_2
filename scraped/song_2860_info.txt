@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sza/good-days-chords-3338225",
+    "name": "Sza - Good Days (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "SZA"
+    },
+    "datePublished": "2020-09-16T05:32:59-04:00",
+    "dateModified": "2022-12-21T10:22:08-05:00",
+    "commentCount": 7,
+    "musicalKey": "E"
+}

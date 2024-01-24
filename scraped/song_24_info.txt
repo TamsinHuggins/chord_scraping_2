@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/tom-odell/another-love-chords-1198980",
-    "name": "Tom Odell - Another Love (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/jason-mraz/im-yours-chords-373896",
+    "name": "Jason Mraz - Im Yours (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: B Capo: 4",
     "composer": {
         "@type": "Person",
-        "name": "Tom Odell"
+        "name": "Jason Mraz"
     },
-    "datePublished": "2012-12-05T19:00:01-05:00",
-    "dateModified": "2022-11-16T23:08:30-05:00",
-    "commentCount": 55,
-    "musicalKey": "Em"
+    "datePublished": "2006-06-04T20:00:01-04:00",
+    "dateModified": "2018-11-21T11:56:32-05:00",
+    "commentCount": 496,
+    "musicalKey": "B"
 }

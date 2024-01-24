@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/seal/kiss-from-a-rose-chords-503398",
+    "name": "Seal - Kiss From A Rose (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Seal"
+    },
+    "datePublished": "2007-04-15T20:00:01-04:00",
+    "dateModified": "2022-07-05T03:01:43-04:00",
+    "commentCount": 49
+}

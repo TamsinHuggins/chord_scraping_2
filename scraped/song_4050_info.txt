@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elvis-presley/jailhouse-rock-chords-1199118",
+    "name": "Elvis Presley - Jailhouse Rock (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Elvis Presley"
+    },
+    "datePublished": "2012-12-05T19:00:01-05:00",
+    "dateModified": "2019-05-02T08:38:52-04:00",
+    "commentCount": 24,
+    "musicalKey": "F"
+}

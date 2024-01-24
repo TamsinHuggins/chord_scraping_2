@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/benson-boone/beautiful-things-chords-5110429",
+    "name": "Benson Boone - Beautiful Things (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Benson Boone"
+    },
+    "datePublished": "2024-01-18T19:30:26-05:00",
+    "dateModified": "2024-01-20T20:40:08-05:00",
+    "commentCount": 5,
+    "musicalKey": "Bb"
+}

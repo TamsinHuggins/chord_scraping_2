@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/carly-rae-jepsen/call-me-maybe-chords-1120096",
+    "name": "Carly Rae Jepsen - Call Me Maybe (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Carly Rae Jepsen"
+    },
+    "datePublished": "2012-01-10T19:00:01-05:00",
+    "dateModified": "2019-12-09T12:34:45-05:00",
+    "commentCount": 54,
+    "musicalKey": "G"
+}

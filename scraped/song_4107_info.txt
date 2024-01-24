@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/santana/evil-ways-chords-852821",
+    "name": "Santana - Evil Ways (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Santana"
+    },
+    "datePublished": "2009-07-28T20:00:01-04:00",
+    "dateModified": "2016-07-29T10:13:03-04:00",
+    "commentCount": 19
+}

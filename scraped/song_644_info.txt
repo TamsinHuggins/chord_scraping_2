@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-lennon/now-and-then-chords-680794",
+    "name": "John Lennon - Now And Then (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "John Lennon"
+    },
+    "datePublished": "2008-05-23T20:00:01-04:00",
+    "dateModified": "2023-11-03T17:02:14-04:00",
+    "commentCount": 13,
+    "musicalKey": "Am"
+}

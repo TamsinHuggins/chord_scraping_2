@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/karen-o/the-moon-song-chords-1416877",
+    "name": "Karen O - The Moon Song (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Karen O"
+    },
+    "datePublished": "2013-09-12T20:00:01-04:00",
+    "dateModified": "2016-04-14T11:59:31-04:00",
+    "commentCount": 24
+}

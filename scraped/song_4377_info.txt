@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wild-rivers/thinking-bout-love-chords-2937593",
+    "name": "Wild Rivers - Thinking Bout Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Wild Rivers"
+    },
+    "datePublished": "2019-12-22T18:22:01-05:00",
+    "dateModified": "2019-12-24T22:00:56-05:00",
+    "commentCount": 4,
+    "musicalKey": "F"
+}

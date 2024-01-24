@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jerry-lee-lewis/great-balls-of-fire-chords-104376",
+    "name": "Jerry Lee Lewis - Great Balls Of Fire (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jerry Lee Lewis"
+    },
+    "datePublished": "2004-02-09T19:00:00-05:00",
+    "dateModified": "2016-04-30T13:45:09-04:00",
+    "commentCount": 5
+}

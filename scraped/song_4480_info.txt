@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/roar/christmas-kids-chords-1179780",
+    "name": "Roar - Christmas Kids (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ROAR"
+    },
+    "datePublished": "2012-09-02T20:00:01-04:00",
+    "dateModified": "2023-07-25T02:02:15-04:00",
+    "commentCount": 15
+}

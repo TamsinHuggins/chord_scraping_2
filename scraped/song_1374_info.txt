@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/the-little-mermaid-under-the-sea-chords-1415795",
+    "name": "Misc Cartoons - The Little Mermaid - Under The Sea (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2013-10-15T20:00:01-04:00",
+    "dateModified": "2017-07-06T12:46:55-04:00",
+    "commentCount": 28,
+    "musicalKey": "C"
+}

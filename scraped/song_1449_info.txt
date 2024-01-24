@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elvis-presley/burning-love-chords-79685",
+    "name": "Elvis Presley - Burning Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elvis Presley"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2021-04-18T06:32:21-04:00",
+    "commentCount": 21,
+    "musicalKey": "D"
+}

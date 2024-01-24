@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/son-mieux/tonight-chords-4996705",
+    "name": "Son Mieux - Tonight (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Son Mieux"
+    },
+    "datePublished": "2023-10-20T07:35:43-04:00",
+    "dateModified": "2023-10-20T13:46:44-04:00",
+    "commentCount": 0
+}

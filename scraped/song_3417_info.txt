@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/jujutsu-kaisen-ao-no-sumika-chords-4932553",
+    "name": "Misc Cartoons - Jujutsu Kaisen - Ao No Sumika (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C# Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2023-08-27T14:33:34-04:00",
+    "dateModified": "2023-08-28T09:30:33-04:00",
+    "commentCount": 0,
+    "musicalKey": "C#"
+}

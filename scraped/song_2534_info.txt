@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/hanson/mmmbop-chords-440733",
+    "name": "Hanson - Mmmbop (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Hanson"
+    },
+    "datePublished": "2006-11-28T19:00:01-05:00",
+    "dateModified": "2019-12-09T13:14:47-05:00",
+    "commentCount": 17,
+    "musicalKey": "A"
+}

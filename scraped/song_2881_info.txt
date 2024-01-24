@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lifehouse/you-and-me-chords-162344",
+    "name": "Lifehouse - You And Me (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lifehouse"
+    },
+    "datePublished": "2005-02-04T19:00:00-05:00",
+    "dateModified": "2016-04-07T11:59:26-04:00",
+    "commentCount": 67
+}

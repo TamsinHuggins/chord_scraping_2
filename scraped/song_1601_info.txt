@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruce-springsteen/thunder-road-chords-1088889",
+    "name": "Bruce Springsteen - Thunder Road (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruce Springsteen"
+    },
+    "datePublished": "2011-08-30T20:00:01-04:00",
+    "dateModified": "2023-12-05T23:22:02-05:00",
+    "commentCount": 9,
+    "musicalKey": "F"
+}

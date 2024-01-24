@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lana-del-rey/hope-is-a-dangerous-thing-for-a-woman-like-me-to-have-but-i-have-it-chords-2569023",
+    "name": "Lana Del Rey - Hope Is A Dangerous Thing For A Woman Like Me To Have - But I Have It (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lana Del Rey"
+    },
+    "datePublished": "2019-01-09T14:27:43-05:00",
+    "dateModified": "2019-01-09T19:53:58-05:00",
+    "commentCount": 5
+}

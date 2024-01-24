@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/your-power-chords-3684230",
+    "name": "Billie Eilish - Your Power (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2021-04-29T12:11:43-04:00",
+    "dateModified": "2021-05-17T19:26:49-04:00",
+    "commentCount": 41,
+    "musicalKey": "Am"
+}

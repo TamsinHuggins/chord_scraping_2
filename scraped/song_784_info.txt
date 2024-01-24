@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/laufey/from-the-start-chords-4767905",
+    "name": "Laufey - From The Start (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Laufey"
+    },
+    "datePublished": "2023-05-11T04:31:15-04:00",
+    "dateModified": "2023-09-14T07:25:14-04:00",
+    "commentCount": 7,
+    "musicalKey": "Db"
+}

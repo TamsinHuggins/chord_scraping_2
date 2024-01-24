@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eraserheads/minsan-chords-155863",
+    "name": "Eraserheads - Minsan (chords)",
+    "text": "Difficulty:  Tuning: Eb Ab Db Gb Bb Eb Key: Eb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Eraserheads"
+    },
+    "datePublished": "2005-01-04T19:00:00-05:00",
+    "dateModified": "2020-05-11T16:48:01-04:00",
+    "commentCount": 17,
+    "musicalKey": "Eb"
+}

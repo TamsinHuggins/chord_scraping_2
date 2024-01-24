@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/sympathy-for-the-devil-chords-1088589",
+    "name": "The Rolling Stones - Sympathy For The Devil (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2011-08-29T20:00:01-04:00",
+    "dateModified": "2023-11-30T21:02:59-05:00",
+    "commentCount": 45,
+    "musicalKey": "E"
+}

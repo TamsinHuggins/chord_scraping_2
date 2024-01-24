@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-greatest-showman-rewrite-the-stars-chords-2289475",
+    "name": "Misc Soundtrack - The Greatest Showman - Rewrite The Stars (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2018-01-19T00:14:04-05:00",
+    "dateModified": "2018-08-31T06:59:20-04:00",
+    "commentCount": 46,
+    "musicalKey": "Bb"
+}

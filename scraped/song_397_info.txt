@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/syml/wheres-my-love-chords-1848233",
+    "name": "Syml - Wheres My Love (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "SYML"
+    },
+    "datePublished": "2016-05-24T05:36:22-04:00",
+    "dateModified": "2021-06-03T20:53:01-04:00",
+    "commentCount": 37
+}

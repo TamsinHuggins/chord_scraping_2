@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/israel-houghton/you-are-good-chords-483875",
+    "name": "Israel Houghton - You Are Good (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Israel Houghton"
+    },
+    "datePublished": "2007-03-09T19:00:01-05:00",
+    "dateModified": "2023-07-05T22:57:07-04:00",
+    "commentCount": 7,
+    "musicalKey": "E"
+}

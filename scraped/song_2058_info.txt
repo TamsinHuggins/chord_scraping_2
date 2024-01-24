@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elvis-presley/blue-suede-shoes-chords-811874",
+    "name": "Elvis Presley - Blue Suede Shoes (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elvis Presley"
+    },
+    "datePublished": "2009-04-10T20:00:01-04:00",
+    "dateModified": "2019-10-11T04:58:25-04:00",
+    "commentCount": 21
+}

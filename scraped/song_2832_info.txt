@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alice-in-chains/would-chords-888265",
+    "name": "Alice In Chains - Would (chords)",
+    "text": "Difficulty: beginner Tuning: Eb Ab Db Gb Bb Eb Key: Bbm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alice in Chains"
+    },
+    "datePublished": "2009-11-01T19:00:01-05:00",
+    "dateModified": "2020-12-03T03:05:50-05:00",
+    "commentCount": 14,
+    "musicalKey": "Bbm"
+}

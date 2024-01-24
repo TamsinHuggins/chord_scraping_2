@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/dont-blame-me-chords-2231285",
+    "name": "Taylor Swift - Dont Blame Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2017-11-10T03:48:13-05:00",
+    "dateModified": "2020-03-18T08:34:33-04:00",
+    "commentCount": 27,
+    "musicalKey": "Am"
+}

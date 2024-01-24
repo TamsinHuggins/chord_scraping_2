@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/george-strait/troubadour-chords-658948",
+    "name": "George Strait - Troubadour (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "George Strait"
+    },
+    "datePublished": "2008-03-30T20:00:01-04:00",
+    "dateModified": "2020-04-25T02:20:35-04:00",
+    "commentCount": 11
+}

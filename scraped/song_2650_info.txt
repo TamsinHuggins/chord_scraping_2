@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/conan-gray/the-cut-that-always-bleeds-chords-3035493",
+    "name": "Conan Gray - The Cut That Always Bleeds (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Conan Gray"
+    },
+    "datePublished": "2020-03-20T06:36:11-04:00",
+    "dateModified": "2020-03-26T01:52:38-04:00",
+    "commentCount": 16
+}

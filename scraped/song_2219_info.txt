@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/cam/burning-house-chords-1746584",
+    "name": "Cam - Burning House (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "Cam"
+    },
+    "datePublished": "2015-06-23T04:44:09-04:00",
+    "dateModified": "2019-05-16T22:42:32-04:00",
+    "commentCount": 15
+}

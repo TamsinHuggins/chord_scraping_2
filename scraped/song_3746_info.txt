@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/2829877",
+    "name": "Miki Núñez - Escriurem (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Miki Núñez"
+    },
+    "datePublished": "2019-09-18T11:38:40-04:00",
+    "dateModified": "2019-09-18T16:04:55-04:00",
+    "commentCount": 0
+}

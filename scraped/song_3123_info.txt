@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jvke/this-is-what-autumn-feels-like-chords-4952530",
+    "name": "Jvke - This Is What Autumn Feels Like (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Eb Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "JVKE"
+    },
+    "datePublished": "2023-09-13T02:44:21-04:00",
+    "dateModified": "2023-09-20T23:53:29-04:00",
+    "commentCount": 11,
+    "musicalKey": "Eb"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/carole-king/its-too-late-chords-1170337",
+    "name": "Carole King - Its Too Late (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Carole King"
+    },
+    "datePublished": "2012-07-23T20:00:01-04:00",
+    "dateModified": "2022-11-11T02:35:10-05:00",
+    "commentCount": 25
+}

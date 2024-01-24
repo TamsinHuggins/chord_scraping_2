@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/i-hung-my-head-chords-1755130",
+    "name": "Johnny Cash - I Hung My Head (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Johnny Cash"
+    },
+    "datePublished": "2015-07-26T13:31:32-04:00",
+    "dateModified": "2018-02-10T21:40:11-05:00",
+    "commentCount": 17
+}

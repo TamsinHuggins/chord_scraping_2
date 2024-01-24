@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/epiphany-chords-3261596",
+    "name": "Taylor Swift - Epiphany (chords)",
+    "text": "Difficulty: advanced Tuning: E A D G B E Key: C Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2020-07-24T06:27:06-04:00",
+    "dateModified": "2020-07-24T11:44:37-04:00",
+    "commentCount": 2,
+    "musicalKey": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sabrina-carpenter/emails-i-cant-send-chords-4271605",
+    "name": "Sabrina Carpenter - Emails I Cant Send (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sabrina Carpenter"
+    },
+    "datePublished": "2022-07-14T14:25:54-04:00",
+    "dateModified": "2022-07-14T23:14:47-04:00",
+    "commentCount": 2
+}

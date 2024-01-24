@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/race-pehli-nazar-mein-chords-713302",
+    "name": "Misc Soundtrack - Race - Pehli Nazar Mein (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2008-08-03T20:00:01-04:00",
+    "dateModified": "2021-03-19T22:59:21-04:00",
+    "commentCount": 5
+}

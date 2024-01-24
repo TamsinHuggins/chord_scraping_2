@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alessia-cara/scars-to-your-beautiful-chords-1789184",
+    "name": "Alessia Cara - Scars To Your Beautiful (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alessia Cara"
+    },
+    "datePublished": "2015-12-06T11:33:03-05:00",
+    "dateModified": "2021-09-04T23:01:02-04:00",
+    "commentCount": 28
+}

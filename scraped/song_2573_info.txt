@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/back-to-december-chords-995170",
+    "name": "Taylor Swift - Back To December (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2010-10-12T20:00:01-04:00",
+    "dateModified": "2018-10-09T11:07:00-04:00",
+    "commentCount": 86,
+    "musicalKey": "D"
+}

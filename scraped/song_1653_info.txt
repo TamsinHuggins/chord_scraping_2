@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/greensleeves-chords-173713",
+    "name": "Misc Traditional - Greensleeves (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2005-03-23T19:00:00-05:00",
+    "dateModified": "2021-10-23T21:45:53-04:00",
+    "commentCount": 17
+}

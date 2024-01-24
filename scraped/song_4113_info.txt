@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-seger/old-time-rock-and-roll-chords-331847",
+    "name": "Bob Seger - Old Time Rock And Roll (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F# Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Seger"
+    },
+    "datePublished": "2006-02-10T19:00:01-05:00",
+    "dateModified": "2021-11-22T22:50:54-05:00",
+    "commentCount": 10,
+    "musicalKey": "F#"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/tourniquet-chords-4687040",
+    "name": "Zach Bryan - Tourniquet (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Zach Bryan"
+    },
+    "datePublished": "2023-03-15T18:26:55-04:00",
+    "dateModified": "2023-03-17T10:01:51-04:00",
+    "commentCount": 7
+}

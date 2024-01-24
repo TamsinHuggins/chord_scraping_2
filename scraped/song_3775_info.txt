@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/boygenius/letter-to-an-old-poet-chords-4707668",
+    "name": "Boygenius - Letter To An Old Poet (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "boygenius"
+    },
+    "datePublished": "2023-03-30T20:35:03-04:00",
+    "dateModified": "2023-03-31T00:35:03-04:00",
+    "commentCount": 0
+}

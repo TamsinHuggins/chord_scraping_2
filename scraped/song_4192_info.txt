@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/tracy-lawrence/paint-me-a-birmingham-chords-810189",
+    "name": "Tracy Lawrence - Paint Me A Birmingham (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Tracy Lawrence"
+    },
+    "datePublished": "2009-04-07T20:00:01-04:00",
+    "dateModified": "2016-06-23T11:12:57-04:00",
+    "commentCount": 6
+}

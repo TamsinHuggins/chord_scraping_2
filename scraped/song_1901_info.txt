@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/frank-sinatra/new-york-new-york-chords-84884",
+    "name": "Frank Sinatra - New York New York (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Frank Sinatra"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2022-10-20T22:50:32-04:00",
+    "commentCount": 24,
+    "musicalKey": "D"
+}

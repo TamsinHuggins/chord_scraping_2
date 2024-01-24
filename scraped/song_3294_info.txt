@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ella-fitzgerald/dream-a-little-dream-of-me-chords-1091620",
+    "name": "Ella Fitzgerald - Dream A Little Dream Of Me (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ella Fitzgerald"
+    },
+    "datePublished": "2011-09-11T20:00:01-04:00",
+    "dateModified": "2016-11-18T11:34:28-05:00",
+    "commentCount": 6
+}

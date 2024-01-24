@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lp/lost-on-you-chords-1825835",
+    "name": "Lp - Lost On You (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A#m Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "LP"
+    },
+    "datePublished": "2016-03-18T05:45:55-04:00",
+    "dateModified": "2018-10-08T08:51:16-04:00",
+    "commentCount": 53,
+    "musicalKey": "A#m"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-black-eyed-peas/where-is-the-love-chords-829913",
+    "name": "The Black Eyed Peas - Where Is The Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 5",
+    "composer": {
+        "@type": "Person",
+        "name": "The Black Eyed Peas"
+    },
+    "datePublished": "2009-05-27T20:00:01-04:00",
+    "dateModified": "2020-06-04T07:24:56-04:00",
+    "commentCount": 19,
+    "musicalKey": "F"
+}

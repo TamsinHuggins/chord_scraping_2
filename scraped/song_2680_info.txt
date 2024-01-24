@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/savage-garden/truly-madly-deeply-chords-3337",
+    "name": "Savage Garden - Truly Madly Deeply (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Savage Garden"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-07-14T11:25:45-04:00",
+    "commentCount": 28,
+    "musicalKey": "C"
+}

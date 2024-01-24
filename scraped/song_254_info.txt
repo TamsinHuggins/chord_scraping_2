@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/post-malone/circles-chords-2794426",
+    "name": "Post Malone - Circles (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Post Malone"
+    },
+    "datePublished": "2019-08-14T00:01:31-04:00",
+    "dateModified": "2019-08-30T10:29:57-04:00",
+    "commentCount": 43,
+    "musicalKey": "C"
+}

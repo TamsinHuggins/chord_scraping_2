@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/dan-fogelberg/leader-of-the-band-chords-68567",
+    "name": "Dan Fogelberg - Leader Of The Band (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Ab Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Dan Fogelberg"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2022-02-23T00:55:58-05:00",
+    "commentCount": 43,
+    "musicalKey": "Ab"
+}

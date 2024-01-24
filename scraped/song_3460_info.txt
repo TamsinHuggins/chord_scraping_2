@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/catfish-and-the-bottlemen/cocoon-chords-1507401",
+    "name": "Catfish And The Bottlemen - Cocoon (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Catfish and the Bottlemen"
+    },
+    "datePublished": "2014-08-05T04:17:26-04:00",
+    "dateModified": "2016-04-19T09:42:52-04:00",
+    "commentCount": 11,
+    "musicalKey": "Gm"
+}

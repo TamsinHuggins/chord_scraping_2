@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/imagine-dragons/next-to-me-chords-2323629",
+    "name": "Imagine Dragons - Next To Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Imagine Dragons"
+    },
+    "datePublished": "2018-02-21T12:56:57-05:00",
+    "dateModified": "2018-02-21T18:09:41-05:00",
+    "commentCount": 20,
+    "musicalKey": "D"
+}

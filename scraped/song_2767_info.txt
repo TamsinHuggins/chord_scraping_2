@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elevation-worship/same-god-chords-4041202",
+    "name": "Elevation Worship - Same God (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Elevation Worship"
+    },
+    "datePublished": "2022-01-22T21:32:30-05:00",
+    "dateModified": "2023-07-27T14:26:44-04:00",
+    "commentCount": 4,
+    "musicalKey": "Db"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/inxs/never-tear-us-apart-chords-21372",
+    "name": "Inxs - Never Tear Us Apart (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "INXS"
+    },
+    "datePublished": "2001-12-26T19:00:00-05:00",
+    "dateModified": "2024-01-11T04:37:25-05:00",
+    "commentCount": 15
+}

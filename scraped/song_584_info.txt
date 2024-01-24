@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/aerosmith/dream-on-chords-905779",
+    "name": "Aerosmith - Dream On (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Fm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Aerosmith"
+    },
+    "datePublished": "2009-12-24T19:00:01-05:00",
+    "dateModified": "2019-04-06T07:27:13-04:00",
+    "commentCount": 50,
+    "musicalKey": "Fm"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/one-voice-worship/more-like-jesus-chords-4949758",
+    "name": "One Voice Worship - More Like Jesus (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "One voice worship"
+    },
+    "datePublished": "2023-09-10T18:44:47-04:00",
+    "dateModified": "2023-09-15T15:41:50-04:00",
+    "commentCount": 1
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jack-johnson/sitting-waiting-wishing-chords-502530",
+    "name": "Jack Johnson - Sitting Waiting Wishing (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jack Johnson"
+    },
+    "datePublished": "2007-04-13T20:00:01-04:00",
+    "dateModified": "2021-02-18T08:23:51-05:00",
+    "commentCount": 39
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/r-u-mine-chords-1152049",
+    "name": "Arctic Monkeys - R U Mine (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2012-05-06T20:00:01-04:00",
+    "dateModified": "2021-07-15T15:32:00-04:00",
+    "commentCount": 13,
+    "musicalKey": "F#m"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/queens-of-the-stone-age/make-it-wit-chu-chords-1097330",
+    "name": "Queens Of The Stone Age - Make It Wit Chu (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Queens of the Stone Age"
+    },
+    "datePublished": "2011-10-02T20:00:01-04:00",
+    "dateModified": "2020-03-17T07:05:14-04:00",
+    "commentCount": 4
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773",
+    "name": "The Rolling Stones - Miss You (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2009-04-20T20:00:01-04:00",
+    "dateModified": "2016-05-31T09:53:53-04:00",
+    "commentCount": 7
+}

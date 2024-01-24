@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zz-top/la-grange-chords-2307723",
+    "name": "Zz Top - La Grange (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ZZ Top"
+    },
+    "datePublished": "2018-02-03T12:14:31-05:00",
+    "dateModified": "2023-01-17T12:33:25-05:00",
+    "commentCount": 16,
+    "musicalKey": "A"
+}

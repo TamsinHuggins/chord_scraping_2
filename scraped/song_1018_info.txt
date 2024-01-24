@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jade-lemac/constellations-chords-3833942",
+    "name": "Jade Lemac - Constellations (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F# Capo: 6",
+    "composer": {
+        "@type": "Person",
+        "name": "Jade LeMac"
+    },
+    "datePublished": "2021-08-15T07:24:25-04:00",
+    "dateModified": "2021-10-10T19:57:57-04:00",
+    "commentCount": 5,
+    "musicalKey": "F#"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-traditional/the-star-spangled-banner-chords-1713206",
+    "name": "Misc Traditional - The Star-Spangled Banner (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Traditional"
+    },
+    "datePublished": "2015-02-18T04:17:21-05:00",
+    "dateModified": "2020-12-29T13:12:26-05:00",
+    "commentCount": 6,
+    "musicalKey": "C"
+}

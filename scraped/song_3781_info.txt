@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/5030266",
+    "name": "Chris Tomlin - Holy Forever - Español (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Tomlin"
+    },
+    "datePublished": "2023-11-14T19:31:56-05:00",
+    "dateModified": "2023-11-15T14:13:19-05:00",
+    "commentCount": 0,
+    "musicalKey": "C"
+}

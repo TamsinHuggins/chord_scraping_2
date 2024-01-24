@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/amy-macdonald/this-is-the-life-chords-588538",
+    "name": "Amy Macdonald - This Is The Life (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Amy Macdonald"
+    },
+    "datePublished": "2007-10-12T20:00:01-04:00",
+    "dateModified": "2020-12-19T05:03:49-05:00",
+    "commentCount": 16
+}

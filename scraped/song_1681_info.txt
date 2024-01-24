@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jeff-buckley/forget-her-chords-1828647",
+    "name": "Jeff Buckley - Forget Her (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jeff Buckley"
+    },
+    "datePublished": "2016-03-24T14:54:23-04:00",
+    "dateModified": "2016-03-24T18:54:23-04:00",
+    "commentCount": 6
+}

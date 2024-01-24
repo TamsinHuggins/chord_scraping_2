@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/willy-wonka-and-the-chocolate-factory-pure-imagination-chords-3275993",
+    "name": "Misc Soundtrack - Willy Wonka And The Chocolate Factory - Pure Imagination (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2020-08-03T01:50:56-04:00",
+    "dateModified": "2020-09-14T23:52:14-04:00",
+    "commentCount": 3
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lauren-daigle/thank-god-i-do-chords-4677524",
+    "name": "Lauren Daigle - Thank God I Do (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lauren Daigle"
+    },
+    "datePublished": "2023-03-08T19:58:56-05:00",
+    "dateModified": "2023-03-09T16:17:32-05:00",
+    "commentCount": 7,
+    "musicalKey": "G"
+}

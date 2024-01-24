@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gordon-lightfoot/sundown-chords-116342",
+    "name": "Gordon Lightfoot - Sundown (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F# Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Gordon Lightfoot"
+    },
+    "datePublished": "2004-05-04T20:00:00-04:00",
+    "dateModified": "2023-05-03T15:21:28-04:00",
+    "commentCount": 43,
+    "musicalKey": "F#"
+}

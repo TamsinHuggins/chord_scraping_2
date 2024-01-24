@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/crowded-house/better-be-home-soon-chords-1105653",
+    "name": "Crowded House - Better Be Home Soon (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Crowded House"
+    },
+    "datePublished": "2011-11-02T20:00:01-04:00",
+    "dateModified": "2021-02-27T01:32:17-05:00",
+    "commentCount": 14
+}

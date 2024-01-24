@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pat-benatar/heartbreaker-chords-1762694",
+    "name": "Pat Benatar - Heartbreaker (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Fm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Pat Benatar"
+    },
+    "datePublished": "2015-08-30T01:51:18-04:00",
+    "dateModified": "2021-10-18T22:53:46-04:00",
+    "commentCount": 8,
+    "musicalKey": "Fm"
+}

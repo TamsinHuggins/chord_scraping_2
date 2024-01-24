@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ernest/flower-shops-chords-3818138",
+    "name": "Ernest - Flower Shops (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "ERNEST"
+    },
+    "datePublished": "2021-08-03T09:10:51-04:00",
+    "dateModified": "2023-11-28T15:41:32-05:00",
+    "commentCount": 29
+}

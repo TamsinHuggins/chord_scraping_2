@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pnk/try-chords-1181779",
+    "name": "P!Nk - Try (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "P!nk"
+    },
+    "datePublished": "2012-09-12T20:00:01-04:00",
+    "dateModified": "2021-03-09T17:17:18-05:00",
+    "commentCount": 20,
+    "musicalKey": "D"
+}

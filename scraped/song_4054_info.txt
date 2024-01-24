@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/onerepublic/stop-and-stare-chords-668284",
+    "name": "Onerepublic - Stop And Stare (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "OneRepublic"
+    },
+    "datePublished": "2008-04-21T20:00:01-04:00",
+    "dateModified": "2016-04-18T12:22:13-04:00",
+    "commentCount": 39
+}

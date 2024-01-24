@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/mr-tambourine-man-chords-1092233",
+    "name": "Bob Dylan - Mr Tambourine Man (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2011-09-11T20:00:01-04:00",
+    "dateModified": "2022-03-06T21:14:02-05:00",
+    "commentCount": 38,
+    "musicalKey": "F"
+}

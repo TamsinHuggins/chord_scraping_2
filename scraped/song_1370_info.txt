@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/rascal-flatts/life-is-a-highway-chords-927050",
+    "name": "Rascal Flatts - Life Is A Highway (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Rascal Flatts"
+    },
+    "datePublished": "2010-03-02T19:00:01-05:00",
+    "dateModified": "2018-01-23T21:55:01-05:00",
+    "commentCount": 6
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/james-taylor/youve-got-a-friend-chords-56577",
+    "name": "James Taylor - Youve Got A Friend (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "James Taylor"
+    },
+    "datePublished": "2003-07-20T20:00:00-04:00",
+    "dateModified": "2020-04-08T13:13:49-04:00",
+    "commentCount": 69,
+    "musicalKey": "G"
+}

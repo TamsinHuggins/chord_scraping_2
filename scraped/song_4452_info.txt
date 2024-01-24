@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paolo-nutini/better-man-chords-1470774",
+    "name": "Paolo Nutini - Better Man (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Paolo Nutini"
+    },
+    "datePublished": "2014-03-18T20:00:01-04:00",
+    "dateModified": "2023-09-13T15:18:41-04:00",
+    "commentCount": 8
+}

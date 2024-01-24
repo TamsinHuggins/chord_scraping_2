@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/amazing-grace-chords-66733",
+    "name": "Misc Praise Songs - Amazing Grace (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Praise Songs"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2023-10-24T12:23:34-04:00",
+    "commentCount": 45,
+    "musicalKey": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wave-to-earth/bad-chords-4750844",
+    "name": "Wave To Earth - Bad (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "wave to earth"
+    },
+    "datePublished": "2023-05-01T23:52:07-04:00",
+    "dateModified": "2023-05-02T06:06:26-04:00",
+    "commentCount": 1,
+    "musicalKey": "A"
+}

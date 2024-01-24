@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sir-chloe/michelle-chords-2761387",
+    "name": "Sir Chloe - Michelle (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Sir Chloe"
+    },
+    "datePublished": "2019-07-11T19:33:18-04:00",
+    "dateModified": "2019-07-12T11:50:35-04:00",
+    "commentCount": 30,
+    "musicalKey": "E"
+}

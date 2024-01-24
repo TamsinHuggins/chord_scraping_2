@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589",
-    "name": "Ed Sheeran - Perfect (chords)",
-    "text": "Difficulty: beginner Tuning: E A D G B E Key: Ab Capo: 1",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-legend/all-of-me-chords-1432996",
+    "name": "John Legend - All Of Me (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Fm Capo: 1",
     "composer": {
         "@type": "Person",
-        "name": "Ed Sheeran"
+        "name": "John Legend"
     },
-    "datePublished": "2017-03-02T06:18:35-05:00",
-    "dateModified": "2023-03-26T13:57:27-04:00",
-    "commentCount": 890,
-    "musicalKey": "Ab"
+    "datePublished": "2013-11-18T19:00:01-05:00",
+    "dateModified": "2020-11-28T00:31:34-05:00",
+    "commentCount": 74,
+    "musicalKey": "Fm"
 }

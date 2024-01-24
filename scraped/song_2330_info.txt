@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/4930333",
+    "name": "Reneé Rapp - I Wish (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: B Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Reneé Rapp"
+    },
+    "datePublished": "2023-08-26T00:03:39-04:00",
+    "dateModified": "2023-08-27T20:37:02-04:00",
+    "commentCount": 0,
+    "musicalKey": "B"
+}

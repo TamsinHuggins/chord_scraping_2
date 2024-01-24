@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/waylon-jennings/waymores-blues-chords-72455",
+    "name": "Waylon Jennings - Waymores Blues (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Waylon Jennings"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2016-09-03T11:24:12-04:00",
+    "commentCount": 17
+}

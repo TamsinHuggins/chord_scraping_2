@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/daft-punk/get-lucky-chords-1239950",
+    "name": "Daft Punk - Get Lucky (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Daft Punk"
+    },
+    "datePublished": "2013-04-22T20:00:01-04:00",
+    "dateModified": "2021-02-23T11:05:27-05:00",
+    "commentCount": 66,
+    "musicalKey": "Bm"
+}

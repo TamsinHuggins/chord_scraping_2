@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/kabir-singh-kaise-hua-chords-2932292",
+    "name": "Misc Soundtrack - Kabir Singh - Kaise Hua (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2019-12-17T22:21:51-05:00",
+    "dateModified": "2023-05-12T14:06:05-04:00",
+    "commentCount": 4,
+    "musicalKey": "Bm"
+}

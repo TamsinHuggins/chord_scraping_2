@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/acdc/its-a-long-way-to-the-top-chords-59377",
+    "name": "Ac/Dc - Its A Long Way To The Top (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "AC/DC"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2020-08-21T18:47:37-04:00",
+    "commentCount": 48
+}

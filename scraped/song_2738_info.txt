@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/haddaway/what-is-love-chords-998915",
+    "name": "Haddaway - What Is Love (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Haddaway"
+    },
+    "datePublished": "2010-10-27T20:00:01-04:00",
+    "dateModified": "2021-05-25T14:56:50-04:00",
+    "commentCount": 19,
+    "musicalKey": "Am"
+}

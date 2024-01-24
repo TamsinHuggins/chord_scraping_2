@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/girl-in-red/we-fell-in-love-in-october-chords-2526246",
+    "name": "Girl In Red - We Fell In Love In October (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "girl in red"
+    },
+    "datePublished": "2018-11-24T19:31:55-05:00",
+    "dateModified": "2020-10-07T00:52:20-04:00",
+    "commentCount": 28,
+    "musicalKey": "C"
+}

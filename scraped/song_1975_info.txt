@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jeremias-germany/egoist-chords-4883423",
+    "name": "Jeremias (Germany) - Egoist (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "JEREMIAS (Germany)"
+    },
+    "datePublished": "2023-07-21T10:15:40-04:00",
+    "dateModified": "2023-07-21T14:17:24-04:00",
+    "commentCount": 0,
+    "musicalKey": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/zack-tabudlo/pano-chords-3980311",
+    "name": "Zack Tabudlo - Pano (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: C Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Zack Tabudlo"
+    },
+    "datePublished": "2021-12-08T11:26:39-05:00",
+    "dateModified": "2023-11-23T13:42:39-05:00",
+    "commentCount": 3,
+    "musicalKey": "C"
+}

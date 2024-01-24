@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/teardrops-on-my-guitar-chords-429289",
+    "name": "Taylor Swift - Teardrops On My Guitar (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bb Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Taylor Swift"
+    },
+    "datePublished": "2006-10-30T19:00:01-05:00",
+    "dateModified": "2019-01-09T13:01:28-05:00",
+    "commentCount": 122,
+    "musicalKey": "Bb"
+}

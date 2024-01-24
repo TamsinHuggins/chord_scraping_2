@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wings/maybe-im-amazed-chords-1731073",
+    "name": "Wings - Maybe Im Amazed (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Wings"
+    },
+    "datePublished": "2015-04-18T11:52:10-04:00",
+    "dateModified": "2023-02-20T14:44:12-05:00",
+    "commentCount": 3
+}

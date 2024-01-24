@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jack-johnson/flake-chords-857496",
+    "name": "Jack Johnson - Flake (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jack Johnson"
+    },
+    "datePublished": "2009-08-06T20:00:01-04:00",
+    "dateModified": "2021-03-16T02:01:48-04:00",
+    "commentCount": 22
+}

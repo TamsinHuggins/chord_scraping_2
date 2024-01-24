@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/louis-armstrong/what-a-wonderful-world-chords-7427",
+    "name": "Louis Armstrong - What A Wonderful World (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Louis Armstrong"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2021-02-19T03:13:53-05:00",
+    "commentCount": 8
+}

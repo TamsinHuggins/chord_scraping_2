@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/al-green/lets-stay-together-chords-69821",
+    "name": "Al Green - Lets Stay Together (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bb Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Al Green"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2018-12-26T08:09:34-05:00",
+    "commentCount": 32,
+    "musicalKey": "Bb"
+}

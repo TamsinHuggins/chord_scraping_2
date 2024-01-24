@@ -1,15 +1,15 @@
 {
     "@context": "http://schema.org",
     "@type": "MusicComposition",
-    "url": "https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-chords-11066",
-    "name": "Chris Isaak - Wicked Game (chords)",
-    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: no capo",
+    "url": "https://tabs.ultimate-guitar.com/tab/lizzy-mcalpine/ceilings-chords-3645968",
+    "name": "Lizzy Mcalpine - Ceilings (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
     "composer": {
         "@type": "Person",
-        "name": "Chris Isaak"
+        "name": "Lizzy McAlpine"
     },
-    "datePublished": "2001-10-30T19:00:00-05:00",
-    "dateModified": "2021-06-07T08:16:25-04:00",
-    "commentCount": 95,
-    "musicalKey": "Bm"
+    "datePublished": "2021-04-04T16:08:49-04:00",
+    "dateModified": "2023-09-22T05:16:14-04:00",
+    "commentCount": 24,
+    "musicalKey": "A"
 }

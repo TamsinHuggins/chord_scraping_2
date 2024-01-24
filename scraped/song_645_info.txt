@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/breathe-chords-812636",
+    "name": "Pink Floyd - Breathe (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2009-04-12T20:00:01-04:00",
+    "dateModified": "2022-02-20T11:09:33-05:00",
+    "commentCount": 74,
+    "musicalKey": "Em"
+}

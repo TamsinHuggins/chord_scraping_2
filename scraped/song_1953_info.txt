@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/third-eye-blind/hows-it-going-to-be-chords-1395",
+    "name": "Third Eye Blind - Hows It Going To Be (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Third Eye Blind"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2020-01-14T02:18:50-05:00",
+    "commentCount": 66
+}

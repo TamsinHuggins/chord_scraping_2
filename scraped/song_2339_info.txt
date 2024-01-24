@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/raffi/down-by-the-bay-chords-1099872",
+    "name": "Raffi - Down By The Bay (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Raffi"
+    },
+    "datePublished": "2011-10-12T20:00:01-04:00",
+    "dateModified": "2019-07-10T14:26:50-04:00",
+    "commentCount": 8
+}

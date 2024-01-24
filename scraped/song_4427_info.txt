@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paramore/interlude-im-not-angry-anymore-chords-1234692",
+    "name": "Paramore - Interlude Im Not Angry Anymore (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Paramore"
+    },
+    "datePublished": "2013-04-10T20:00:01-04:00",
+    "dateModified": "2021-01-10T15:17:48-05:00",
+    "commentCount": 10
+}

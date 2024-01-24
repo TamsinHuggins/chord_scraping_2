@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/loreen/tattoo-chords-4663070",
+    "name": "Loreen - Tattoo (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G#m Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Loreen"
+    },
+    "datePublished": "2023-02-26T06:27:17-05:00",
+    "dateModified": "2023-05-15T17:24:02-04:00",
+    "commentCount": 2,
+    "musicalKey": "G#m"
+}

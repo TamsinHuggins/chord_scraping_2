@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paul-simon/me-and-julio-down-by-the-schoolyard-chords-357470",
+    "name": "Paul Simon - Me And Julio Down By The Schoolyard (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Paul Simon"
+    },
+    "datePublished": "2006-04-23T20:00:01-04:00",
+    "dateModified": "2021-10-03T07:18:43-04:00",
+    "commentCount": 24
+}

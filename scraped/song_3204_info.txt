@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/39392",
+    "name": "Die Ärzte - Westerland (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Die Ärzte"
+    },
+    "datePublished": "2002-11-18T19:00:00-05:00",
+    "dateModified": "2021-11-22T23:51:56-05:00",
+    "commentCount": 3
+}

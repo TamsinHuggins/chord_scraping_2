@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-troggs/wild-thing-chords-1056155",
+    "name": "The Troggs - Wild Thing (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Troggs"
+    },
+    "datePublished": "2011-05-18T20:00:01-04:00",
+    "dateModified": "2023-08-11T18:33:37-04:00",
+    "commentCount": 19,
+    "musicalKey": "A"
+}

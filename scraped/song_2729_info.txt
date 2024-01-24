@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/townes-van-zandt/pancho-and-lefty-chords-2425771",
+    "name": "Townes Van Zandt - Pancho And Lefty (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Townes Van Zandt"
+    },
+    "datePublished": "2018-07-14T16:40:56-04:00",
+    "dateModified": "2018-07-17T11:46:53-04:00",
+    "commentCount": 16
+}

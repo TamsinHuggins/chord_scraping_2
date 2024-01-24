@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/comfortably-numb-chords-44547",
+    "name": "Pink Floyd - Comfortably Numb (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bm Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Pink Floyd"
+    },
+    "datePublished": "2003-01-28T19:00:00-05:00",
+    "dateModified": "2022-07-19T16:57:06-04:00",
+    "commentCount": 91,
+    "musicalKey": "Bm"
+}

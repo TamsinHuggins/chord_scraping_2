@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/elliott-smith/twilight-chords-452161",
+    "name": "Elliott Smith - Twilight (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Elliott Smith"
+    },
+    "datePublished": "2006-12-26T19:00:01-05:00",
+    "dateModified": "2019-10-12T22:13:08-04:00",
+    "commentCount": 19
+}

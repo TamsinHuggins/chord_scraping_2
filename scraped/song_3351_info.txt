@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-allman-brothers-band/midnight-rider-chords-59583",
+    "name": "The Allman Brothers Band - Midnight Rider (chords)",
+    "text": "Difficulty:  Tuning: D A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Allman Brothers Band"
+    },
+    "datePublished": "2003-08-27T20:00:00-04:00",
+    "dateModified": "2019-07-27T00:02:46-04:00",
+    "commentCount": 13
+}

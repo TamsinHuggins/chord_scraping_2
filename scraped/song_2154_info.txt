@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/midland/drinkin-problem-chords-1908704",
+    "name": "Midland - Drinkin Problem (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Am Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Midland"
+    },
+    "datePublished": "2016-12-09T07:40:17-05:00",
+    "dateModified": "2020-03-18T08:46:37-04:00",
+    "commentCount": 45,
+    "musicalKey": "Am"
+}

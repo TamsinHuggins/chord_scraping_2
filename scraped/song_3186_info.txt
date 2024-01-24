@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/stevie-nicks/stop-draggin-my-heart-around-chords-1516568",
+    "name": "Stevie Nicks - Stop Draggin My Heart Around (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Stevie Nicks"
+    },
+    "datePublished": "2014-09-01T11:45:04-04:00",
+    "dateModified": "2020-02-22T20:19:43-05:00",
+    "commentCount": 13
+}

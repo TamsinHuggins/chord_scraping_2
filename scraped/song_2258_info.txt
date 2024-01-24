@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-television/friends-theme-chords-1108069",
+    "name": "Misc Television - Friends Theme (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Television"
+    },
+    "datePublished": "2011-11-15T19:00:01-05:00",
+    "dateModified": "2023-10-31T17:40:14-04:00",
+    "commentCount": 7,
+    "musicalKey": "A"
+}
