@@ -8,7 +8,6 @@ JAN24_CHORD_PAGE_LINK_CLASSNAME= "aPPf7 HT3w5 lBssT" # this may change, use the 
 test_chord_page= "https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589"
 counter = 0 # this number will label the song files
 
-
 for num in range(1, 4900): # num refers to the index page number
     #try to generate a list of page URLs, if failed continue to the next page
     try:

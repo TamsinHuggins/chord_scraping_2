@@ -25,5 +25,5 @@ def get_song_info(URL, num):
         # If not, change to the 'scraped' directory
         os.chdir('scraped')
 
-    with open( f"song_{num}_info.txt", "w") as f:
+    with open( f"song_{num}_info.txt", "w", encoding='utf-8') as f:
         f.write(str(tag))
