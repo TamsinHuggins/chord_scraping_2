@@ -10,6 +10,3 @@ page_URLs = generate_list_of_chord_page_links(JAN24_CHORD_INDEX_PAGE, JAN24_COOK
 
 song_1_info = get_song_info(page_URLs[1])
 print(song_1_info)
-
-song_1_chords = get_song_chords(page_URLs[1], "fciXY _Oy28::after")
-print(song_1_chords)

@@ -10,11 +10,9 @@ pagesoup = BeautifulSoup(page, "html.parser")
 
 script_tag = pagesoup.find_all('script', type='application/ld+json')
 
-print(script_tag)
+script_tag =list(script_tag)
 
-# script_tag =list(script_tag)
-
-# print(script_tag[1])
+print(script_tag[1])
 
 # # Access the JSON data inside the script tag
 # if script_tag:
