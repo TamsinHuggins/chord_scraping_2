@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mac-miller/congratulations-chords-2544336",
+    "name": "Mac Miller - Congratulations (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Mac Miller"
+    },
+    "datePublished": "2018-12-14T03:08:26-05:00",
+    "dateModified": "2020-03-16T08:54:18-04:00",
+    "commentCount": 3
+}

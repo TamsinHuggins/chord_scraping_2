@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/eva-cassidy/my-love-is-like-a-red-red-rose-chords-1033010",
+    "name": "Eva Cassidy - My Love Is Like A Red Red Rose (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Eva Cassidy"
+    },
+    "datePublished": "2011-02-27T19:00:01-05:00",
+    "dateModified": "2017-01-27T09:38:10-05:00",
+    "commentCount": 2
+}

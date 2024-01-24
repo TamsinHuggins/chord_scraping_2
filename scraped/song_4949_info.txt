@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/vampire-chords-4843571",
+    "name": "Olivia Rodrigo - Vampire (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: F Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Olivia Rodrigo"
+    },
+    "datePublished": "2023-06-30T00:18:25-04:00",
+    "dateModified": "2023-07-03T11:36:28-04:00",
+    "commentCount": 36,
+    "musicalKey": "F"
+}

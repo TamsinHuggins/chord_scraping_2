@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/hazbin-hotel-loser-baby-chords-5113879",
+    "name": "Misc Cartoons - Hazbin Hotel - Loser Baby (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Cartoons"
+    },
+    "datePublished": "2024-01-21T09:07:33-05:00",
+    "dateModified": "2024-01-21T14:53:42-05:00",
+    "commentCount": 3,
+    "musicalKey": "E"
+}

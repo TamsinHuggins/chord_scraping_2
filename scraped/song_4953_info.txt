@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/grover-washington-jr-/just-the-two-of-us-chords-663141",
+    "name": "Grover Washington Jr. - Just The Two Of Us (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Grover Washington Jr."
+    },
+    "datePublished": "2008-04-09T20:00:01-04:00",
+    "dateModified": "2021-05-31T17:44:33-04:00",
+    "commentCount": 57,
+    "musicalKey": "G"
+}

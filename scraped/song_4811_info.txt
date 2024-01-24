@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/swedish-house-mafia/dont-you-worry-child-chords-1185450",
+    "name": "Swedish House Mafia - Dont You Worry Child (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Swedish House Mafia"
+    },
+    "datePublished": "2012-09-30T20:00:01-04:00",
+    "dateModified": "2021-04-10T06:12:36-04:00",
+    "commentCount": 21
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/ronan-keating/when-you-say-nothing-at-all-chords-882693",
+    "name": "Ronan Keating - When You Say Nothing At All (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Ronan Keating"
+    },
+    "datePublished": "2009-10-15T20:00:01-04:00",
+    "dateModified": "2022-10-03T17:57:31-04:00",
+    "commentCount": 35,
+    "musicalKey": "G"
+}

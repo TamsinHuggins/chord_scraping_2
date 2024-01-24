@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/alex-g-sandy-alex-g/mary-chords-4102648",
+    "name": "Alex G ((Sandy) Alex G) - Mary (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Alex G ((Sandy) Alex G)"
+    },
+    "datePublished": "2022-03-09T00:59:58-05:00",
+    "dateModified": "2022-03-09T17:30:16-05:00",
+    "commentCount": 6
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/gasolin/this-is-my-life-chords-51672",
+    "name": "Gasolin' - This Is My Life (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Gasolin&#039;"
+    },
+    "datePublished": "2003-05-13T20:00:00-04:00",
+    "dateModified": "2016-06-18T11:58:05-04:00",
+    "commentCount": 12
+}

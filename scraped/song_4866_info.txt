@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/juan-karlos/ere-chords-4900969",
+    "name": "Juan Karlos - Ere (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "juan karlos"
+    },
+    "datePublished": "2023-08-03T13:03:25-04:00",
+    "dateModified": "2023-10-09T08:18:18-04:00",
+    "commentCount": 4,
+    "musicalKey": "G"
+}

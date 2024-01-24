@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/arctic-monkeys/whyd-you-only-call-me-when-youre-high-chords-1419146",
+    "name": "Arctic Monkeys - Whyd You Only Call Me When Youre High (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Em Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Arctic Monkeys"
+    },
+    "datePublished": "2013-09-16T20:00:01-04:00",
+    "dateModified": "2023-07-30T01:19:01-04:00",
+    "commentCount": 16,
+    "musicalKey": "Em"
+}

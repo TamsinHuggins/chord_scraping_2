@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bryan-adams/everything-i-do-i-do-it-for-you-chords-18587",
+    "name": "Bryan Adams - Everything I Do I Do It For You (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: Ebm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Bryan Adams"
+    },
+    "datePublished": "2001-10-30T19:00:00-05:00",
+    "dateModified": "2022-06-26T21:21:03-04:00",
+    "commentCount": 40,
+    "musicalKey": "Ebm"
+}

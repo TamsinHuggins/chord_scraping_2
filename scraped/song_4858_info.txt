@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bruno-mars/it-will-rain-chords-1096050",
+    "name": "Bruno Mars - It Will Rain (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Bruno Mars"
+    },
+    "datePublished": "2011-09-27T20:00:01-04:00",
+    "dateModified": "2023-03-10T12:41:09-05:00",
+    "commentCount": 85,
+    "musicalKey": "C"
+}

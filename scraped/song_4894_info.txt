@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/i-want-to-hold-your-hand-chords-457088",
+    "name": "The Beatles - I Want To Hold Your Hand (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: G Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "The Beatles"
+    },
+    "datePublished": "2007-01-07T19:00:01-05:00",
+    "dateModified": "2019-12-09T12:35:51-05:00",
+    "commentCount": 82,
+    "musicalKey": "G"
+}

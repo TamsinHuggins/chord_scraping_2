@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/positively-4th-street-chords-1051374",
+    "name": "Bob Dylan - Positively 4Th Street (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Key: D Capo: 4",
+    "composer": {
+        "@type": "Person",
+        "name": "Bob Dylan"
+    },
+    "datePublished": "2011-05-09T20:00:01-04:00",
+    "dateModified": "2023-08-26T21:03:45-04:00",
+    "commentCount": 15,
+    "musicalKey": "D"
+}

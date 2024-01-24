@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/john-prine/thats-the-way-that-the-world-goes-round-chords-773452",
+    "name": "John Prine - Thats The Way That The World Goes Round (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "John Prine"
+    },
+    "datePublished": "2009-01-12T19:00:01-05:00",
+    "dateModified": "2022-07-11T09:35:21-04:00",
+    "commentCount": 21,
+    "musicalKey": "D"
+}

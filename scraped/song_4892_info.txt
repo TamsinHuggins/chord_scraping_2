@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/feid/luna-chords-5071186",
+    "name": "Feid - Luna (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Feid"
+    },
+    "datePublished": "2023-12-17T10:11:16-05:00",
+    "dateModified": "2023-12-19T15:21:02-05:00",
+    "commentCount": 0
+}

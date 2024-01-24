@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/garth-brooks/friends-in-low-places-chords-1087784",
+    "name": "Garth Brooks - Friends In Low Places (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Garth Brooks"
+    },
+    "datePublished": "2011-08-30T20:00:01-04:00",
+    "dateModified": "2017-06-28T14:50:12-04:00",
+    "commentCount": 33
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/jimi-hendrix/voodoo-child-slight-return-chords-1713229",
+    "name": "Jimi Hendrix - Voodoo Child Slight Return (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Jimi Hendrix"
+    },
+    "datePublished": "2015-02-18T02:59:48-05:00",
+    "dateModified": "2016-06-15T12:07:01-04:00",
+    "commentCount": 4
+}

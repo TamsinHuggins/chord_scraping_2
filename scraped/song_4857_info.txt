@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/chris-tomlin/how-great-is-our-god-chords-166109",
+    "name": "Chris Tomlin - How Great Is Our God (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: A Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Chris Tomlin"
+    },
+    "datePublished": "2005-02-18T19:00:00-05:00",
+    "dateModified": "2018-09-13T12:00:01-04:00",
+    "commentCount": 74,
+    "musicalKey": "A"
+}

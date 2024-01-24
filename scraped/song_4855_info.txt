@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-corrs/breathless-chords-784573",
+    "name": "The Corrs - Breathless (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Corrs"
+    },
+    "datePublished": "2009-01-28T19:00:01-05:00",
+    "dateModified": "2022-08-06T20:02:48-04:00",
+    "commentCount": 1
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/little-river-band/cool-change-chords-49445",
+    "name": "Little River Band - Cool Change (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Little River Band"
+    },
+    "datePublished": "2003-04-10T20:00:00-04:00",
+    "dateModified": "2019-01-12T12:34:50-05:00",
+    "commentCount": 15
+}

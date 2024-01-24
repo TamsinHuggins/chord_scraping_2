@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/breaking-benjamin/the-diary-of-jane-chords-730091",
+    "name": "Breaking Benjamin - The Diary Of Jane (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Breaking Benjamin"
+    },
+    "datePublished": "2008-09-07T20:00:01-04:00",
+    "dateModified": "2020-01-20T09:27:58-05:00",
+    "commentCount": 23,
+    "musicalKey": "Bbm"
+}

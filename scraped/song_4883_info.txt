@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sting/shape-of-my-heart-chords-1046393",
+    "name": "Sting - Shape Of My Heart (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Sting"
+    },
+    "datePublished": "2011-04-12T20:00:01-04:00",
+    "dateModified": "2021-09-27T22:43:25-04:00",
+    "commentCount": 19
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lucio-battisti/la-canzone-del-sole-chords-1699449",
+    "name": "Lucio Battisti - La Canzone Del Sole (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Lucio Battisti"
+    },
+    "datePublished": "2015-01-14T14:22:17-05:00",
+    "dateModified": "2022-06-09T13:46:34-04:00",
+    "commentCount": 1
+}

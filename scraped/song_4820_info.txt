@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-rolling-stones/tumbling-dice-chords-1099247",
+    "name": "The Rolling Stones - Tumbling Dice (chords)",
+    "text": "Difficulty: intermediate Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Rolling Stones"
+    },
+    "datePublished": "2011-10-10T20:00:01-04:00",
+    "dateModified": "2023-10-11T20:59:09-04:00",
+    "commentCount": 11
+}

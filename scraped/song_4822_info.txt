@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/onerepublic/secrets-chords-937028",
+    "name": "Onerepublic - Secrets (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "OneRepublic"
+    },
+    "datePublished": "2010-04-06T20:00:01-04:00",
+    "dateModified": "2016-04-12T12:20:07-04:00",
+    "commentCount": 24
+}

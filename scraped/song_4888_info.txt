@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/maroon-5/this-love-chords-786697",
+    "name": "Maroon 5 - This Love (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Maroon 5"
+    },
+    "datePublished": "2009-02-02T19:00:01-05:00",
+    "dateModified": "2021-02-04T08:27:07-05:00",
+    "commentCount": 45
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/abba/slipping-through-my-fingers-chords-879696",
+    "name": "Abba - Slipping Through My Fingers (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: F# Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "ABBA"
+    },
+    "datePublished": "2009-10-04T20:00:01-04:00",
+    "dateModified": "2021-04-28T15:19:49-04:00",
+    "commentCount": 19,
+    "musicalKey": "F#"
+}

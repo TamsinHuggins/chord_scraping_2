@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/the-calling/wherever-you-will-go-chords-37465",
+    "name": "The Calling - Wherever You Will Go (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: D Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "The Calling"
+    },
+    "datePublished": "2002-10-16T20:00:00-04:00",
+    "dateModified": "2023-04-01T00:02:19-04:00",
+    "commentCount": 49,
+    "musicalKey": "D"
+}

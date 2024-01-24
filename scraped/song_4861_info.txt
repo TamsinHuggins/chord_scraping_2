@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/paolo-nutini/candy-chords-813826",
+    "name": "Paolo Nutini - Candy (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Am Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Paolo Nutini"
+    },
+    "datePublished": "2009-04-16T20:00:01-04:00",
+    "dateModified": "2023-04-25T20:21:06-04:00",
+    "commentCount": 52,
+    "musicalKey": "Am"
+}

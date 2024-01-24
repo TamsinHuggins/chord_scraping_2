@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/mariah-carey/my-all-chords-204653",
+    "name": "Mariah Carey - My All (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Mariah Carey"
+    },
+    "datePublished": "2005-08-09T20:00:00-04:00",
+    "dateModified": "2018-04-21T08:00:30-04:00",
+    "commentCount": 11
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/wiz-khalifa/see-you-again-chords-1720298",
+    "name": "Wiz Khalifa - See You Again (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Gm Capo: 3",
+    "composer": {
+        "@type": "Person",
+        "name": "Wiz Khalifa"
+    },
+    "datePublished": "2015-03-14T09:54:47-04:00",
+    "dateModified": "2018-11-09T20:31:50-05:00",
+    "commentCount": 65,
+    "musicalKey": "Gm"
+}

@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/foo-fighters/everlong-chords-871948",
+    "name": "Foo Fighters - Everlong (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: D Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Foo Fighters"
+    },
+    "datePublished": "2009-09-13T20:00:01-04:00",
+    "dateModified": "2021-02-02T13:43:18-05:00",
+    "commentCount": 33,
+    "musicalKey": "D"
+}

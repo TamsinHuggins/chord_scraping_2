@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/angus-julia-stone/big-jet-plane-chords-957714",
+    "name": "Angus & Julia Stone - Big Jet Plane (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Db Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Angus &amp; Julia Stone"
+    },
+    "datePublished": "2010-06-09T20:00:01-04:00",
+    "dateModified": "2020-03-19T12:16:10-04:00",
+    "commentCount": 15,
+    "musicalKey": "Db"
+}

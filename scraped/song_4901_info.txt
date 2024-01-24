@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/everything-i-wanted-chords-2892650",
+    "name": "Billie Eilish - Everything I Wanted (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: A Capo: no capo",
+    "composer": {
+        "@type": "Person",
+        "name": "Billie Eilish"
+    },
+    "datePublished": "2019-11-13T19:32:43-05:00",
+    "dateModified": "2020-12-27T00:31:32-05:00",
+    "commentCount": 50,
+    "musicalKey": "A"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/sunrise-avenue/fairytale-gone-bad-chords-890141",
+    "name": "Sunrise Avenue - Fairytale Gone Bad (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Sunrise Avenue"
+    },
+    "datePublished": "2009-11-05T19:00:01-05:00",
+    "dateModified": "2016-06-25T10:39:38-04:00",
+    "commentCount": 5
+}
