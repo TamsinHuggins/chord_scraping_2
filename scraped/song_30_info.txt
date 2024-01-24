@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/lewis-capaldi/someone-you-loved-chords-2512737",
+    "name": "Lewis Capaldi - Someone You Loved (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: C# Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Lewis Capaldi"
+    },
+    "datePublished": "2018-11-08T12:56:45-05:00",
+    "dateModified": "2021-07-19T14:18:10-04:00",
+    "commentCount": 205,
+    "musicalKey": "C#"
+}

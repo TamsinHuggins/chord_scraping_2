@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/vance-joy/riptide-chords-1237247",
+    "name": "Vance Joy - Riptide (chords)",
+    "text": "Difficulty: beginner Tuning: E A D G B E Key: Bbm Capo: 1",
+    "composer": {
+        "@type": "Person",
+        "name": "Vance Joy"
+    },
+    "datePublished": "2013-04-09T20:00:01-04:00",
+    "dateModified": "2020-05-21T02:28:26-04:00",
+    "commentCount": 359,
+    "musicalKey": "Bbm"
+}

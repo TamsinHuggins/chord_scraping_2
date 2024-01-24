@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicComposition",
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-hunger-games-the-ballad-of-songbirds-and-snakes-cant-catch-me-now-chords-5014411",
+    "name": "Misc Soundtrack - The Hunger Games The Ballad Of Songbirds And Snakes - Cant Catch Me Now (chords)",
+    "text": "Difficulty:  Tuning: E A D G B E Key: Bm Capo: 2",
+    "composer": {
+        "@type": "Person",
+        "name": "Misc Soundtrack"
+    },
+    "datePublished": "2023-11-03T00:12:09-04:00",
+    "dateModified": "2023-11-06T19:12:53-05:00",
+    "commentCount": 14,
+    "musicalKey": "Bm"
+}
