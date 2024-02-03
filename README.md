@@ -13,7 +13,7 @@ The scraper uses Python's Requests, Selenium and BeautifulSoup libraries to send
 ### Usage
 To run the scraper, simply execute the cleaning1.py script. This will start the scraping process. The script will print progress updates to the console as it completes each batch of 1000 songs.
 
-The scraped data is stored in a pickle file in the scraped directory. Each batch of 1000 songs is stored in a separate file. The files are named chords_songs_0-999.pkl, chords_songs_1000-2000.pkl, etc.
+The scraped data is stored in a pickle file in the scraped directory. Each batch of 1000 songs is stored in a separate file. The files are named chords_songs_0-999.pkl, chords_songs_1000-2999.pkl, etc.
 
 ### Requirements
 * Python 3
