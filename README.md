@@ -1,6 +1,6 @@
 # "Pop-Science": Analysing the Most Popular Songs on UltimateGuitar.com
 
-This is a collaborative project is in progress. So far, chord data, lyric data, and song metadata for the most popular 4600 songs on UltimateGuitar.com have been scraped, ready for analysis.
+This is a collaborative project is in progress. So far, chord data, lyric data, and song metadata for the most popular 4955 songs on UltimateGuitar.com have been scraped, ready for analysis.
 
 ### Features
 * Scrapes song lyrics, chords, and additional song information.
