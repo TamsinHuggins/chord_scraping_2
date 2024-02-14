@@ -2,18 +2,30 @@
 
 This is a collaborative project is in progress. So far, chord data, lyric data, and song metadata for the most popular 4955 songs on UltimateGuitar.com have been scraped, ready for analysis.
 
-### Features
-* Scrapes song lyrics, chords, and additional song information.
+## Components of this project
+### The webscraper
+* Scrapes song lyrics, chords, and additional song information from over 4000 songs on UltimateGuitar.com.
 * Batches the scraping process into groups of ~1000 songs.
-*Stores the scraped data in pickle files for easy retrieval and analysis.
+* Stores the scraped data in pickle files for easy retrieval and analysis.
 
-### How it Works
-The scraper uses Python's Requests, Selenium and BeautifulSoup libraries to send HTTP requests to UltimateGuitar.com and parse the HTML of the song pages. It uses regular expressions to extract the lyrics and chords from the page content.
+### The analysis
+#### Chord-only analysis
+* Regexes are used to extract just the chord information from chord + lyric files.
+* [Word2Vec] (https://www.tensorflow.org/text/tutorials/word2vec) is used to characterise chords based on their context. (in progress)
 
-### Usage
-To run the scraper, simply execute the cleaning1.py script. This will start the scraping process. The script will print progress updates to the console as it completes each batch of 1000 songs.
 
-The scraped data is stored in a pickle file in the scraped directory. Each batch of 1000 songs is stored in a separate file. The files are named chords_songs_0-999.pkl, chords_songs_1000-1999.pkl, etc.
+
+#### Lyric-chord association
+* Chords are mapped to the lyrics which are sung while that chord is played (in progress)
+
+## Technologies and skills used
+* Webscraping using Requests, Selenium and BeautifulSoup Python libraries.
+* Textual data wrangling and cleaning with use of regexes, Python re library.
+* Natural language processing (NLP) techniques to preprocess and analyse chords and lyrics.
+* Deep learning using TensorFlow's Word2Vec method.
+* Project management using Asana to delegate and track tasks.
+* Collaboration and teamwork: Tamsin and Roshani held regular in-person meetings to plan and execute the project.
+
 
 ### Requirements
 * Python 3
@@ -22,10 +34,6 @@ The scraped data is stored in a pickle file in the scraped directory. Each batch
 * Selenium library
 * Pickle library
 * Re library
-
-### Future plans
-
-NLP techniques will be used to analyse the chords to create a chord substitution tool for data-driven songwriting and musical experimentation.
 
 
 ### Disclaimer
