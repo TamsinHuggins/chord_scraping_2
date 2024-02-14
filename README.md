@@ -5,8 +5,7 @@ This collaborative project is in progress. So far, chord data, lyric data, and s
 ## Components of this project
 ### The webscraper
 * Scrapes song lyrics, chords, and additional song information from over 4000 songs on UltimateGuitar.com.
-* Batches the scraping process into groups of ~1000 songs.
-* Stores the scraped data in pickle files for easy retrieval and analysis.
+* Stores the scraped songs, batched into thousands, in pickle files for easy retrieval and analysis.
 
 ### The analysis
 #### Chord-only analysis
