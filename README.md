@@ -1,6 +1,6 @@
 # "Pop-Science": Analysing the Most Popular Songs on UltimateGuitar.com
 
-This is a collaborative project is in progress. So far, chord data, lyric data, and song metadata for the most popular 4955 songs on UltimateGuitar.com have been scraped, ready for analysis.
+This collaborative project is in progress. So far, chord data, lyric data, and song metadata for the most popular 4955 songs on UltimateGuitar.com have been scraped. We are currently in the analysis phase, using NLP techniques to uncover insights about chord progressions and chord-lyric relationships in popular music.
 
 ## Components of this project
 ### The webscraper
@@ -21,7 +21,7 @@ This is a collaborative project is in progress. So far, chord data, lyric data, 
 ## Technologies and skills used
 * Webscraping using Requests, Selenium and BeautifulSoup Python libraries.
 * Textual data wrangling and cleaning with use of regexes, Python re library.
-* Natural language processing (NLP) techniques to preprocess and analyse chords and lyrics.
+* NLP techniques to preprocess and analyse chords and lyrics.
 * Deep learning using TensorFlow's Word2Vec method.
 * Project management using Asana to delegate and track tasks.
 * Collaboration and teamwork: Tamsin and Roshani held regular in-person meetings to plan and execute the project.
