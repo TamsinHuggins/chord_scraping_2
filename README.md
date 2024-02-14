@@ -11,7 +11,8 @@ This collaborative project is in progress. So far, chord data, lyric data, and s
 ### The analysis
 #### Chord-only analysis
 * Regexes are used to extract just the chord information from chord + lyric files.
-* [Word2Vec] (https://www.tensorflow.org/text/tutorials/word2vec) is used to characterise chords based on their context. (in progress)
+* [Word2Vec] (https://www.tensorflow.org/text/tutorials/word2vec) is used to characterise chords based on their context. (in progress).
+* Dimensionality reduction on the Word2Vec vectors in order to visualise chord similarity.
 
 
 
