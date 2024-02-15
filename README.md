@@ -16,7 +16,7 @@ This collaborative project is in progress. So far, chord data, lyric data, and s
 ### 3D representation of chord embeddings
 
 The tensorflow model created a 128-dimension vector to describe each chord based on context (which chords are common neighbors to the chord). This was dimenstionality-reduced to 3 dimensions such that it could be visualised (below).
-In theory, distance in the 3D space relates to chord similarity. Chords that are closer in the 3D space are more similar than those further away. 
+In theory, distance in the 3D space relates to chord similarity: chords that are closer in the 3D space are more similar than those further away. Over 1000 chords are characterized, a handful of which are visualised below.
 
 ![image](https://github.com/TamsinHuggins/pop-chord-analysis-ultimateguitar/assets/32196191/f126a7ca-5e09-49dc-ad84-37c6b272e832)
 
