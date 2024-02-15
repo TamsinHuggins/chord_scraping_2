@@ -10,12 +10,10 @@ This collaborative project is in progress. So far, chord data, lyric data, and s
 ### The analysis
 #### Chord-only analysis
 * Regexes are used to extract just the chord information from chord + lyric files.
-* [Word2Vec](https://www.tensorflow.org/text/tutorials/word2vec) is used to characterise chords based on their context. (in progress).
-* Dimensionality reduction on the Word2Vec vectors in order to visualise chord similarity.
+* [Word2Vec](https://www.tensorflow.org/text/tutorials/word2vec) is used to characterise chords based on their context, such that each chord is represented as a 128-dimension vector.
+* Word2Vec vectors are dimensionality reduced from 128 to 3 dimensions, to support visualisation.
 
 ### 3D representation of chord embeddings
-
-The tensorflow model created a 128-dimension vector to describe each chord based on context (which chords are common neighbors to the chord). This was dimenstionality-reduced to 3 dimensions such that it could be visualised (below).
 In theory, distance in the 3D space relates to chord similarity: chords that are closer in the 3D space are more similar than those further away. Over 1000 chords are characterized, a handful of which are visualised below.
 
 ![image](https://github.com/TamsinHuggins/pop-chord-analysis-ultimateguitar/assets/32196191/f126a7ca-5e09-49dc-ad84-37c6b272e832)
