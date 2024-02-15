@@ -13,6 +13,8 @@ This collaborative project is in progress. So far, chord data, lyric data, and s
 * [Word2Vec] (https://www.tensorflow.org/text/tutorials/word2vec) is used to characterise chords based on their context. (in progress).
 * Dimensionality reduction on the Word2Vec vectors in order to visualise chord similarity.
 
+![image](https://github.com/TamsinHuggins/pop-chord-analysis-ultimateguitar/assets/32196191/f126a7ca-5e09-49dc-ad84-37c6b272e832)
+
 
 
 #### Lyric-chord association
