@@ -23,7 +23,7 @@ targets = np.load('./word2vec/targets.npy')
 contexts = np.load('./word2vec/contexts.npy')
 
 #set the vocab size
-vocab_size = len(vocab) + 1  # Adding 1 because of 0 indexing
+vocab_size = len(vocab) + 1  # Adding 1 because vocab does not contain 0 which is used as a padding value. this is accounted for later.
 
 print(vocab_size)
 
@@ -79,3 +79,4 @@ weights = word2vec.get_layer('w2v_embedding').get_weights()[0]
 
 # save the weights to a file
 np.save('./word2vec/chord_embeddings.npy', weights)
+
