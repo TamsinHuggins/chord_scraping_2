@@ -26,8 +26,11 @@ all_songs = list(chain(*allsongs))
 print(len(all_songs))
  
 
-###############    CHECK THE KEYS MATCH THE LIST POSITION OF THE RIGHT SONGS   ####################
+#load in the adjusted keys
 
-# print th key for song 0 and the chords
-print(keys[0])
+with open('adjusted_keys.pkl', 'rb') as f:
+    adjusted_keys = pickle.load(f)
+
+print(adjusted_keys[0])
 print(all_songs[0])
+

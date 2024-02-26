@@ -2,13 +2,8 @@ import pickle
 import os
 import numpy as np
 from itertools import chain
-import io
-import re
-import string
-import tqdm
 import numpy as np
-import tensorflow as tf
-from tensorflow.keras import layers
+
 
 # navigate down into the scraped folder
 os.chdir('scraped')
