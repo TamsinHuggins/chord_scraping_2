@@ -1,4 +1,6 @@
-# this script looks over all the chords and translates them into their roman numeral chord encodings according to the key.
+#this file deals with problems in the chords
+# it is common for one chord to be encoded in multiple ways. e.g. EM9 means Emaj9
+
 import pickle
 import os
 import numpy as np
@@ -23,11 +25,4 @@ with open('keys.pkl', 'rb') as f:
 
 # concatenate the 4 lists in allsongs into one list
 all_songs = list(chain(*allsongs))
-print(len(all_songs))
- 
 
-###############    CHECK THE KEYS MATCH THE LIST POSITION OF THE RIGHT SONGS   ####################
-
-# print th key for song 0 and the chords
-print(keys[0])
-print(all_songs[0])
