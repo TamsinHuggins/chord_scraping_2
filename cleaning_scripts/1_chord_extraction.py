@@ -1,3 +1,12 @@
+#  this file contains 2 functions: get_chords and get_lyrics
+# these functions are able to work through all the song_x_chords_lyrics.txt files from Ultimate Guitar, 
+# which are located in the scraped folder.
+# get_chords will take in the song number and return just a list of chords for that song.
+# this funciton is called on batches of 1000 songs, generating 1000 lists for each batch.
+# the resulting lists of lists are saved as pkl files such as chords_songs_0-999.pkl.
+
+
+
 import os
 import re
 import pickle
