@@ -38,6 +38,19 @@ for song_num in range(0, 4956):
             print(f"Error with file {file_name}")
             continue
 
+
+        # access the text key and save its value to a variable
+        # use re to find all text after the word "Capo:" and save to a variable
+        
+        capo_info = re.findall(r'Capo: (.*)', song_info['text'])
+        # if capo_info contains any of the numbers 1,2,3,4,5,6,7,8,9,10,11,12, then save the first number to the capo_info variable
+        if capo_info:
+            capo_info = int(re.findall(r'\d+', capo_info[0])[0])
+        else:
+            capo_info = None
+
+        # if capo_info is not none, move the key down by the number held in capo_info
+
 # use pickle to save the list of keys to a file
 with open('keys.pkl', 'wb') as f:
     pickle.dump(keys, f)
